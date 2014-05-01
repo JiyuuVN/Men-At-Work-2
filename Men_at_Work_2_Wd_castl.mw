@@ -1,0 +1,27 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="5">
+  <Line StartPos="349" Length="5" Skip="false">
+    <Translated>start</Translated>
+  </Line>
+  <Line StartPos="383" Length="5" Skip="false">
+    <Translated>start</Translated>
+  </Line>
+  <Line StartPos="433" Length="5" Skip="false">
+    <Translated>start</Translated>
+  </Line>
+  <Line StartPos="508" Length="33" Skip="false">
+    <Translated>Мы вошли в лес.</Translated>
+  </Line>
+  <Line StartPos="550" Length="15" Skip="false">
+    <Translated>Draw\0CastleWood</Translated>
+  </Line>
+</Lines>
+
+</pre>
+
+
+[[Men_at_Work 2|[Назад]]]

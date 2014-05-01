@@ -1,0 +1,312 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Lines Count="100">
+<Line StartPos="338" Length="5" Skip="false">
+ <Translated>Start</Translated>
+ </Line>
+<Line StartPos="373" Length="5" Skip="false">
+ <Translated>Start</Translated>
+ </Line>
+<Line StartPos="381" Length="13" Skip="false">
+ <Translated>Ed_Sheryl\0Top</Translated>
+ </Line>
+<Line StartPos="420" Length="5" Skip="false">
+ <Translated>Start</Translated>
+ </Line>
+<Line StartPos="534" Length="20" Skip="false">
+ <Translated>Зачем я пришёл сюда? </Translated>
+ </Line>
+<Line StartPos="557" Length="46" Skip="false">
+ <Translated>Такое ощущение, будто меня здесь кто-то ждёт...</Translated>
+ </Line>
+<Line StartPos="633" Length="22" Skip="false">
+ <Translated>Шерил тоже здесь...</Translated>
+ </Line>
+<Line StartPos="658" Length="68" Skip="false">
+ <Translated>Но какая-то отстранённая, словно сейчас она в другом месте...</Translated>
+ </Line>
+<Line StartPos="731" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="758" Length="31" Skip="false">
+ <Translated>Шерил... Что ты делаешь?</Translated>
+ </Line>
+<Line StartPos="829" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="848" Length="34" Skip="false">
+ <Translated>Ох, Клиф-сан? Почему ты здесь?</Translated>
+ </Line>
+<Line StartPos="887" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="914" Length="53" Skip="false">
+ <Translated>Не знаю... Я просто почувствовал, что ты можешь быть тут.</Translated>
+ </Line>
+<Line StartPos="981" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="1000" Length="11" Skip="false">
+ <Translated>...</Translated>
+ </Line>
+<Line StartPos="1016" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1043" Length="41" Skip="false">
+ <Translated>Что ты делаешь в таком месте?..</Translated>
+ </Line>
+<Line StartPos="1098" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="1117" Length="25" Skip="false">
+ <Translated>Я почувствовала его...</Translated>
+ </Line>
+<Line StartPos="1156" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="1175" Length="48" Skip="false">
+ <Translated>Я узнаю это место. Оно так... Знакомо...</Translated>
+ </Line>
+<Line StartPos="1228" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1255" Length="42" Skip="false">
+ <Translated>Может это был твой дом?</Translated>
+ </Line>
+<Line StartPos="1311" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="1330" Length="12" Skip="false">
+ <Translated>!!!</Translated>
+ </Line>
+<Line StartPos="1347" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1374" Length="39" Skip="false">
+ <Translated>Думаешь, сможешь что-нибудь вспомнить?</Translated>
+ </Line>
+<Line StartPos="1427" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="1446" Length="36" Skip="false">
+ <Translated>Нет... Я ничего не помню...</Translated>
+ </Line>
+<Line StartPos="1487" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1514" Length="10" Skip="false">
+ <Translated>Понятно...</Translated>
+ </Line>
+<Line StartPos="1539" Length="11" Skip="false">
+ <Translated>draw\0Forest</Translated>
+ </Line>
+<Line StartPos="1565" Length="43" Skip="false">
+ <Translated>Мы вышли из замка. Солнце уже садилось.</Translated>
+ </Line>
+<Line StartPos="1622" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="1641" Length="14" Skip="false">
+ <Translated>Клиф-сан...</Translated>
+ </Line>
+<Line StartPos="1662" Length="32" Skip="false">
+ <Translated>Шерил говорит голосом, полным одиночества.</Translated>
+ </Line>
+<Line StartPos="1699" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1726" Length="10" Skip="false">
+ <Translated>Да?</Translated>
+ </Line>
+<Line StartPos="1750" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="1769" Length="14" Skip="false">
+ <Translated>Кто я?..</Translated>
+ </Line>
+<Line StartPos="1797" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="1816" Length="33" Skip="false">
+ <Translated>Какова... моя истинная личность?..</Translated>
+ </Line>
+<Line StartPos="1856" Length="42" Skip="false">
+ <Translated>Она выглядит такой грустной и, похоже, вот-вот исчезнет...</Translated>
+ </Line>
+<Line StartPos="1903" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1930" Length="22" Skip="false">
+ <Translated>Шерил... Это Шерил.</Translated>
+ </Line>
+<Line StartPos="1966" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="1985" Length="8" Skip="false">
+ <Translated>А?..</Translated>
+ </Line>
+<Line StartPos="1998" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2025" Length="32" Skip="false">
+ <Translated>Неважно кто ты.</Translated>
+ </Line>
+<Line StartPos="2062" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2089" Length="33" Skip="false">
+ <Translated>Я ведь знаю настоящую тебя.</Translated>
+ </Line>
+<Line StartPos="2127" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2154" Length="50" Skip="false">
+ <Translated>Для меня, симпатичный призрак передо мной - просто Шерил.</Translated>
+ </Line>
+<Line StartPos="2218" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="2237" Length="14" Skip="false">
+ <Translated>Клиф-сан...</Translated>
+ </Line>
+<Line StartPos="2256" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2283" Length="37" Skip="false">
+ <Translated>Извини... Я не могу объяснить это... </Translated>
+ </Line>
+<Line StartPos="2325" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2352" Length="21" Skip="false">
+ <Translated>Не расстраивайся, хорошо?</Translated>
+ </Line>
+<Line StartPos="2387" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="2406" Length="8" Skip="false">
+ <Translated>...</Translated>
+ </Line>
+<Line StartPos="2442" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2460" Length="9" Skip="false">
+ <Translated>!!!</Translated>
+ </Line>
+<Line StartPos="2476" Length="36" Skip="false">
+ <Translated>Лёгкий ветерок коснулся моих губ.</Translated>
+ </Line>
+<Line StartPos="2525" Length="11" Skip="false">
+ <Translated>draw\0Forest</Translated>
+ </Line>
+<Line StartPos="2552" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="2571" Length="54" Skip="false">
+ <Translated>В таком виде, я даже не могу дотронуться до человека, который мне нравится...</Translated>
+ </Line>
+<Line StartPos="2639" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="2658" Length="60" Skip="false">
+ <Translated>Если бы у меня было тело, я бы смогла прикоснуться к тебе... Почувствовать тебя.</Translated>
+ </Line>
+<Line StartPos="2723" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2750" Length="11" Skip="false">
+ <Translated>Шерил...</Translated>
+ </Line>
+<Line StartPos="2775" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="2794" Length="53" Skip="false">
+ <Translated>Извини, я причиняю тебе одни неприятности, да?</Translated>
+ </Line>
+<Line StartPos="2852" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2879" Length="18" Skip="false">
+ <Translated>Неправда!</Translated>
+ </Line>
+<Line StartPos="2902" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2933" Length="39" Skip="false">
+ <Translated>Я очень рад, что услышал о твоих чувствах.</Translated>
+ </Line>
+<Line StartPos="2977" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3004" Length="26" Skip="false">
+ <Translated>Ты мне небезразлична.</Translated>
+ </Line>
+<Line StartPos="3044" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="3063" Length="22" Skip="false">
+ <Translated>Я же призрак.</Translated>
+ </Line>
+<Line StartPos="3090" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3117" Length="54" Skip="false">
+ <Translated>Да... Но я думаю, что люблю тебя...</Translated>
+ </Line>
+<Line StartPos="3185" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="3204" Length="14" Skip="false">
+ <Translated>Клиф-сан..</Translated>
+ </Line>
+<Line StartPos="3232" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="3251" Length="35" Skip="false">
+ <Translated>Спасибо. Мне стало легче.</Translated>
+ </Line>
+<Line StartPos="3291" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3318" Length="9" Skip="false">
+ <Translated>Да...</Translated>
+ </Line>
+<Line StartPos="3341" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="3360" Length="48" Skip="false">
+ <Translated>Пойдём домой. Мина-сан ждёт нас к ужину.</Translated>
+ </Line>
+<Line StartPos="3413" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3440" Length="25" Skip="false">
+ <Translated>Да... Ты права...</Translated>
+ </Line>
+<Line StartPos="3472" Length="38" Skip="false">
+ <Translated>Мы покинули лес у Старого замка.</Translated>
+ </Line>
+<Line StartPos="3513" Length="41" Skip="false">
+ <Translated>Мысленно... мы взялись за руки...</Translated>
+ </Line>
+<Line StartPos="3569" Length="54" Skip="false">
+ <Translated>С каких пор, Шерил стала столько значить для меня?</Translated>
+ </Line>
+<Line StartPos="3626" Length="28" Skip="false">
+ <Translated>Я даже не могу её почувствовать...</Translated>
+ </Line>
+<Line StartPos="3744" Length="37" Skip="false">
+ <Translated>Я в замке. Он очень старый.</Translated>
+ </Line>
+<Line StartPos="3784" Length="42" Skip="false">
+ <Translated>Похоже, что здесь никто не живёт.</Translated>
+ </Line>
+ </Lines>
+
+</pre>
+
+
+[[Men_at_Work 2|[Назад]]]

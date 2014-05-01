@@ -1,0 +1,203 @@
+[[Men_at_Work 2|[Назад]]]
+
+'''XML-скрипт находится в «обсуждении»'''
+
+<pre>
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Lines Count="63">
+<Line StartPos="247" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="274" Length="8" Skip="false">
+ <Translated>Здравствуйте.</Translated>
+ </Line>
+<Line StartPos="296" Length="8" Skip="false">
+ <Translated>Бенжамин</Translated>
+ </Line>
+<Line StartPos="317" Length="57" Skip="false">
+ <Translated>О, парень из Школы. Что тебе надо?</Translated>
+ </Line>
+<Line StartPos="379" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="406" Length="36" Skip="false">
+ <Translated>М-м... Я пришел поговорить с господином Вайзор.</Translated>
+ </Line>
+<Line StartPos="447" Length="8" Skip="false">
+ <Translated>Бенжамин</Translated>
+ </Line>
+<Line StartPos="469" Length="59" Skip="false">
+ <Translated>С господином Вайзором? Что тебе от него надо?</Translated>
+ </Line>
+<Line StartPos="533" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="560" Length="28" Skip="false">
+ <Translated>Хочу узнать про старый замок.</Translated>
+ </Line>
+<Line StartPos="593" Length="8" Skip="false">
+ <Translated>Бенжамин</Translated>
+ </Line>
+<Line StartPos="615" Length="10" Skip="false">
+ <Translated>...</Translated>
+ </Line>
+<Line StartPos="630" Length="8" Skip="false">
+ <Translated>Бенжамин</Translated>
+ </Line>
+<Line StartPos="651" Length="62" Skip="false">
+ <Translated>Слушай. Как только с ним поговоришь, сразу уходи.</Translated>
+ </Line>
+<Line StartPos="726" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="753" Length="35" Skip="false">
+ <Translated>Похоже, он меня всё еще недолюбливает...</Translated>
+ </Line>
+<Line StartPos="802" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="820" Length="58" Skip="false">
+ <Translated>Здравствуй. Так ты разузнал что-нибудь о старом замке?</Translated>
+ </Line>
+<Line StartPos="883" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="910" Length="12" Skip="false">
+ <Translated>Здравствуйте.</Translated>
+ </Line>
+<Line StartPos="936" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="954" Length="89" Skip="false">
+ <Translated>Итак, вы действительно ходили в этот замок? Я уверен, там было довольно много сильных монстров.</Translated>
+ </Line>
+<Line StartPos="1048" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1075" Length="53" Skip="false">
+ <Translated>Ну, мы поняли это, когда уже были внутри.</Translated>
+ </Line>
+<Line StartPos="1142" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="1160" Length="3" Skip="false">
+ <Translated>М?</Translated>
+ </Line>
+<Line StartPos="1168" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1195" Length="50" Skip="false">
+ <Translated>Мы выполняли задание в канализации, и... </Translated>
+ </Line>
+<Line StartPos="1250" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1277" Length="69" Skip="false">
+ <Translated>Оказалось, что она связана с подвалом замка.</Translated>
+ </Line>
+<Line StartPos="1360" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="1378" Length="52" Skip="false">
+ <Translated>О-о, так вы попали в замок через канализацию?</Translated>
+ </Line>
+<Line StartPos="1435" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="1453" Length="87" Skip="false">
+ <Translated>Я знал, что у замка есть подвалы, но не мог выяснить как в них пробраться.</Translated>
+ </Line>
+<Line StartPos="1554" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="1572" Length="42" Skip="false">
+ <Translated>Спасибо. Это очень полезная информация.</Translated>
+ </Line>
+<Line StartPos="1619" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1646" Length="25" Skip="false">
+ <Translated>Рад был помочь.</Translated>
+ </Line>
+<Line StartPos="1676" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1703" Length="81" Skip="false">
+ <Translated>Но пожалуйста, будьте осторожны, если соберётесь идти в замок. Мы встретили там очень странного монстра.</Translated>
+ </Line>
+<Line StartPos="1798" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="1816" Length="23" Skip="false">
+ <Translated>Странного монстра?..</Translated>
+ </Line>
+<Line StartPos="1844" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1871" Length="59" Skip="false">
+ <Translated>Он назвался Дракулом. А ещё он сказал, что он вампир.</Translated>
+ </Line>
+<Line StartPos="1944" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="1962" Length="69" Skip="false">
+ <Translated>Ох. Если это правда, я хотел бы услышать от него какие-нибудь истории.</Translated>
+ </Line>
+<Line StartPos="2036" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2063" Length="39" Skip="false">
+ <Translated>П-пожалуйста, не говорите такие пугающие вещи!</Translated>
+ </Line>
+<Line StartPos="2116" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="2134" Length="38" Skip="false">
+ <Translated>Шучу. Я буду осторожен.</Translated>
+ </Line>
+<Line StartPos="2186" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="2204" Length="84" Skip="false">
+ <Translated>Спасибо за ценную информацию. Приходи ещё, если узнаешь что-то полезное.</Translated>
+ </Line>
+<Line StartPos="2293" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2320" Length="31" Skip="false">
+ <Translated>Хорошо. Тогда я пойду?</Translated>
+ </Line>
+<Line StartPos="2365" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="2383" Length="17" Skip="false">
+ <Translated>Да. До встречи.</Translated>
+ </Line>
+<Line StartPos="2446" Length="8" Skip="false">
+ <Translated>Бенжамин</Translated>
+ </Line>
+<Line StartPos="2467" Length="27" Skip="false">
+ <Translated>Хех. Они пошли домой?</Translated>
+ </Line>
+<Line StartPos="2509" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="2527" Length="29" Skip="false">
+ <Translated>Думаю, время пришло...</Translated>
+ </Line>
+<Line StartPos="2561" Length="8" Skip="false">
+ <Translated>Бенжамин</Translated>
+ </Line>
+<Line StartPos="2582" Length="3" Skip="false">
+ <Translated>А?</Translated>
+ </Line>
+<Line StartPos="2609" Length="57" Skip="false">
+ <Translated>Это - большой особняк. Я хочу, чтобы это место было нашей Школой.</Translated>
+ </Line>
+ </Lines>
+
+</pre>
+
+
+[[Men_at_Work 2|[Назад]]]

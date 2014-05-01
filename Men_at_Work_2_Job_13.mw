@@ -1,0 +1,635 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="208">
+  <Line StartPos="710" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="726" Length="30" Skip="false">
+    <Translated>Мм... Можно мне сказать?</Translated>
+  </Line>
+  <Line StartPos="761" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="788" Length="25" Skip="false">
+    <Translated>Что такое, Аой-сан?</Translated>
+  </Line>
+  <Line StartPos="827" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="843" Length="36" Skip="false">
+    <Translated>Эм... К нам последнее время поступает много жалоб...</Translated>
+  </Line>
+  <Line StartPos="884" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="911" Length="22" Skip="false">
+    <Translated>М? В Школу?</Translated>
+  </Line>
+  <Line StartPos="947" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="963" Length="28" Skip="false">
+    <Translated>Нет... В церковь.</Translated>
+  </Line>
+  <Line StartPos="996" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1023" Length="50" Skip="false">
+    <Translated>О, ты удивила меня... И что за жалобы?</Translated>
+  </Line>
+  <Line StartPos="1087" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="1103" Length="77" Skip="false">
+    <Translated>Я слышала, что призраки устраивают собрания на кладбище за церковью.</Translated>
+  </Line>
+  <Line StartPos="1185" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1212" Length="12" Skip="false">
+    <Translated>С-собрания?</Translated>
+  </Line>
+  <Line StartPos="1238" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="1254" Length="113" Skip="false">
+    <Translated>Они начинаются поздно ночью. Это шумно и довольно жутко... Интересно, можно ли что-нибудь с этим сделать...</Translated>
+  </Line>
+  <Line StartPos="1381" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="1397" Length="48" Skip="false">
+    <Translated>И я бы хотела, чтобы всё было улажено.</Translated>
+  </Line>
+  <Line StartPos="1450" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1478" Length="39" Skip="false">
+    <Translated>Да... Думаю, мы можем принять эту работу.</Translated>
+  </Line>
+  <Line StartPos="1522" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1550" Length="36" Skip="false">
+    <Translated>К тому же, призраки - часть твоей специализации.</Translated>
+  </Line>
+  <Line StartPos="1600" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="1616" Length="92" Skip="false">
+    <Translated>Спасибо. Я уже начала терять уверенность в своих силах, из-за случая с Шерил-сан...</Translated>
+  </Line>
+  <Line StartPos="1722" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="1738" Length="51" Skip="false">
+    <Translated>Этой работой, я бы хотела восстановить свою прежнюю уверенность в себе.</Translated>
+  </Line>
+  <Line StartPos="1819" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="1835" Length="86" Skip="false">
+    <Translated>Живущие здесь жалуются, поэтому, мы должны решить проблему как можно быстрее.</Translated>
+  </Line>
+  <Line StartPos="1935" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="1951" Length="48" Skip="false">
+    <Translated>Призраки проводят собрания ежедневно, поздно ночью.</Translated>
+  </Line>
+  <Line StartPos="2004" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2031" Length="15" Skip="false">
+    <Translated>Хорошо.</Translated>
+  </Line>
+  <Line StartPos="2055" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2082" Length="54" Skip="false">
+    <Translated>Думаю, ещё рано для появления призраков...</Translated>
+  </Line>
+  <Line StartPos="2150" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2168" Length="41" Skip="false">
+    <Translated>...правда, Шерил - это исключение.</Translated>
+  </Line>
+  <Line StartPos="2218" Length="13" Skip="false">
+    <Translated>main\0MidNight</Translated>
+  </Line>
+  <Line StartPos="2317" Length="14" Skip="false">
+    <Translated>draw\0graveyard</Translated>
+  </Line>
+  <Line StartPos="2353" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="2372" Length="24" Skip="false">
+    <Translated>Жуткое место...</Translated>
+  </Line>
+  <Line StartPos="2411" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2428" Length="17" Skip="false">
+    <Translated>И об этом говоришь ты?</Translated>
+  </Line>
+  <Line StartPos="2450" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2477" Length="28" Skip="false">
+    <Translated>Но оно действительно жуткое...</Translated>
+  </Line>
+  <Line StartPos="2530" Length="38" Skip="false">
+    <Translated>На кладбище подозрительно тихо...</Translated>
+  </Line>
+  <Line StartPos="2596" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2613" Length="7" Skip="false">
+    <Translated>Кья!</Translated>
+  </Line>
+  <Line StartPos="2625" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2652" Length="16" Skip="false">
+    <Translated>Ч-что такое?!</Translated>
+  </Line>
+  <Line StartPos="2675" Length="69" Skip="false">
+    <Translated>Громкий, пронзительный звук начинает эхом распространяться по кладбищу.</Translated>
+  </Line>
+  <Line StartPos="2759" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2776" Length="64" Skip="false">
+    <Translated>Это и есть собрание? Звучит слишком хорошо, для простого собрания призраков.</Translated>
+  </Line>
+  <Line StartPos="2854" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2870" Length="31" Skip="false">
+    <Translated>Давайте уничтожим их всех!</Translated>
+  </Line>
+  <Line StartPos="2962" Length="14" Skip="false">
+    <Translated>draw\0graveyard</Translated>
+  </Line>
+  <Line StartPos="2995" Length="63" Skip="false">
+    <Translated>Действительно, громкая музыка начинает доноситься из центра кладбища.</Translated>
+  </Line>
+  <Line StartPos="3072" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3088" Length="34" Skip="false">
+    <Translated>Я не проиграю на этот раз!</Translated>
+  </Line>
+  <Line StartPos="3141" Length="14" Skip="false">
+    <Translated>draw\0graveyard</Translated>
+  </Line>
+  <Line StartPos="3181" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3197" Length="35" Skip="false">
+    <Translated>Давайте расставим амулеты.</Translated>
+  </Line>
+  <Line StartPos="3518" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3534" Length="24" Skip="false">
+    <Translated>На сегодня всё?</Translated>
+  </Line>
+  <Line StartPos="3573" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3590" Length="39" Skip="false">
+    <Translated>Так мы уходим до завтра?</Translated>
+  </Line>
+  <Line StartPos="3636" Length="24" Skip="false">
+    <Translated>На сегодня достаточно?</Translated>
+  </Line>
+  <Line StartPos="3665" Length="6" Skip="false">
+    <Translated>Да\0Нет</Translated>
+  </Line>
+  <Line StartPos="4662" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4678" Length="46" Skip="false">
+    <Translated>Удивительно, как много тут собралось призраков.</Translated>
+  </Line>
+  <Line StartPos="4738" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="4755" Length="89" Skip="false">
+    <Translated>Эй, золотой скелет! Не шуми по ночам! Мешаешь ведь окружающим!</Translated>
+  </Line>
+  <Line StartPos="4853" Length="15" Skip="false">
+    <Translated>Золотой скелет</Translated>
+  </Line>
+  <Line StartPos="4882" Length="51" Skip="false">
+    <Translated>Ох! Вы просто не понимаете моей музыки!</Translated>
+  </Line>
+  <Line StartPos="4938" Length="15" Skip="false">
+    <Translated>Золотой скелет</Translated>
+  </Line>
+  <Line StartPos="4967" Length="55" Skip="false">
+    <Translated>За ваше грубое вмешательство в мой концерт, вы заслуживаете смерти!</Translated>
+  </Line>
+  <Line StartPos="5027" Length="15" Skip="false">
+    <Translated>Золотой скелет</Translated>
+  </Line>
+  <Line StartPos="5056" Length="32" Skip="false">
+    <Translated>Аудитория, взять их! Хохохохо!</Translated>
+  </Line>
+  <Line StartPos="5093" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5120" Length="37" Skip="false">
+    <Translated>Ч-чего? Какой странный скелет...</Translated>
+  </Line>
+  <Line StartPos="5162" Length="15" Skip="false">
+    <Translated>Золотой скелет</Translated>
+  </Line>
+  <Line StartPos="5191" Length="64" Skip="false">
+    <Translated>Я не скелет! Я великий артист, Гильотин-сама!</Translated>
+  </Line>
+  <Line StartPos="5260" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5287" Length="15" Skip="false">
+    <Translated>Гильотин...</Translated>
+  </Line>
+  <Line StartPos="5307" Length="15" Skip="false">
+    <Translated>Золотой скелет</Translated>
+  </Line>
+  <Line StartPos="5336" Length="54" Skip="false">
+    <Translated>Не забывай добавлять -сама! Я Гильотин-сама!</Translated>
+  </Line>
+  <Line StartPos="5404" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="5420" Length="53" Skip="false">
+    <Translated>У меня уже голова разболелась... Давайте заставим его замолчать.</Translated>
+  </Line>
+  <Line StartPos="5502" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5529" Length="26" Skip="false">
+    <Translated>Сейчас мы тебя достанем!</Translated>
+  </Line>
+  <Line StartPos="5560" Length="10" Skip="false">
+    <Translated>Гильотин</Translated>
+  </Line>
+  <Line StartPos="5584" Length="44" Skip="false">
+    <Translated>Подходите ко мне все, если хотите! Я принесу вам вашу СМЕРТЬ!</Translated>
+  </Line>
+  <Line StartPos="5672" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="5691" Length="8" Skip="false">
+    <Translated>Кьяаа!</Translated>
+  </Line>
+  <Line StartPos="5704" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5731" Length="24" Skip="false">
+    <Translated>Отступаем!</Translated>
+  </Line>
+  <Line StartPos="5780" Length="10" Skip="false">
+    <Translated>Гильотин</Translated>
+  </Line>
+  <Line StartPos="5804" Length="35" Skip="false">
+    <Translated>Хиии! Как?! Почему?! Невозможно!!!</Translated>
+  </Line>
+  <Line StartPos="5844" Length="10" Skip="false">
+    <Translated>Гильотин</Translated>
+  </Line>
+  <Line StartPos="5868" Length="98" Skip="false">
+    <Translated>Я же главный персонаж, я Гильотин-сама, так почему же я должен терпеть такое жестокое обращение?!</Translated>
+  </Line>
+  <Line StartPos="5971" Length="10" Skip="false">
+    <Translated>Гильотин</Translated>
+  </Line>
+  <Line StartPos="5995" Length="79" Skip="false">
+    <Translated>Я требую, чтобы из меня сделали брелок и прицепили на ремешок сотового телефона!</Translated>
+  </Line>
+  <Line StartPos="6097" Length="14" Skip="false">
+    <Translated>draw\0graveyard</Translated>
+  </Line>
+  <Line StartPos="6128" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6155" Length="31" Skip="false">
+    <Translated>Чего он там говорил?..</Translated>
+  </Line>
+  <Line StartPos="6200" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6216" Length="31" Skip="false">
+    <Translated>Обычная истерия призрака.</Translated>
+  </Line>
+  <Line StartPos="6262" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6279" Length="83" Skip="false">
+    <Translated>Но... Он собрал столько призраков вместе. Было бы сложно просто ловить их одного за другим.</Translated>
+  </Line>
+  <Line StartPos="6376" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6392" Length="60" Skip="false">
+    <Translated>Доверьтесь мне. Тут поможет магическая печать против зла.</Translated>
+  </Line>
+  <Line StartPos="6457" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6484" Length="15" Skip="false">
+    <Translated>Это что такое?</Translated>
+  </Line>
+  <Line StartPos="6504" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6520" Length="86" Skip="false">
+    <Translated>Это древняя техника, которая позволяет уничтожить всех призраков одним духовным ударом.</Translated>
+  </Line>
+  <Line StartPos="6620" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6636" Length="89" Skip="false">
+    <Translated>Чтобы установить её... я должна расставить талисманы в пяти различных местах. Вы мне поможете?</Translated>
+  </Line>
+  <Line StartPos="6740" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="6757" Length="40" Skip="false">
+    <Translated>Конечно. Тебе даже спрашивать не нужно было.</Translated>
+  </Line>
+  <Line StartPos="6802" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6829" Length="28" Skip="false">
+    <Translated>Что именно нужно сделать?</Translated>
+  </Line>
+  <Line StartPos="6871" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6887" Length="105" Skip="false">
+    <Translated>Нам нужно расставить пять талисманов вокруг этого места.</Translated>
+  </Line>
+  <Line StartPos="7007" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7024" Length="12" Skip="false">
+    <Translated>Хорошо!</Translated>
+  </Line>
+  <Line StartPos="8052" Length="14" Skip="false">
+    <Translated>draw\0graveyard</Translated>
+  </Line>
+  <Line StartPos="8113" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8129" Length="21" Skip="false">
+    <Translated>Первый установлен.</Translated>
+  </Line>
+  <Line StartPos="8165" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="8182" Length="30" Skip="false">
+    <Translated>Так, давайте продолжим!</Translated>
+  </Line>
+  <Line StartPos="8238" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8254" Length="22" Skip="false">
+    <Translated>Второй готов.</Translated>
+  </Line>
+  <Line StartPos="8291" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="8351" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8367" Length="30" Skip="false">
+    <Translated>Уже третий... Ещё два.</Translated>
+  </Line>
+  <Line StartPos="8412" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="8429" Length="19" Skip="false">
+    <Translated>Так держать!</Translated>
+  </Line>
+  <Line StartPos="8474" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8490" Length="29" Skip="false">
+    <Translated>Четвёртый! Ещё один!</Translated>
+  </Line>
+  <Line StartPos="8524" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8551" Length="31" Skip="false">
+    <Translated>Хорошо... Ещё немного!</Translated>
+  </Line>
+  <Line StartPos="8608" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8624" Length="37" Skip="false">
+    <Translated>Пятый! Барьер завершён!</Translated>
+  </Line>
+  <Line StartPos="8676" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="8693" Length="29" Skip="false">
+    <Translated>Хорошо! Аой действуй!</Translated>
+  </Line>
+  <Line StartPos="8781" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8797" Length="27" Skip="false">
+    <Translated>О, великий и милосердный Бог...</Translated>
+  </Line>
+  <Line StartPos="8838" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8854" Length="52" Skip="false">
+    <Translated>...очисть все эти потерянные души своей силой!</Translated>
+  </Line>
+  <Line StartPos="8983" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9010" Length="10" Skip="false">
+    <Translated>В-вот это да...</Translated>
+  </Line>
+  <Line StartPos="9035" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="9052" Length="31" Skip="false">
+    <Translated>Все призраки исчезли...</Translated>
+  </Line>
+  <Line StartPos="9090" Length="82" Skip="false">
+    <Translated>Заклинание Аой-сан активировалось, и дебош на кладбище затих в один момент...</Translated>
+  </Line>
+  <Line StartPos="9187" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="9204" Length="17" Skip="false">
+    <Translated>Так держать, Аой.</Translated>
+  </Line>
+  <Line StartPos="9236" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="9255" Length="28" Skip="false">
+    <Translated>Удивительно, Аой-сан.</Translated>
+  </Line>
+  <Line StartPos="9297" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="9313" Length="8" Skip="false">
+    <Translated>Но...</Translated>
+  </Line>
+  <Line StartPos="9328" Length="39" Skip="false">
+    <Translated>Почему-то, Аой-сан не выглядит счастливой.</Translated>
+  </Line>
+  <Line StartPos="9372" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="9388" Length="72" Skip="false">
+    <Translated>Это заклинание, которое позволяет устранить всех призраков внутри печати.</Translated>
+  </Line>
+  <Line StartPos="9475" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="9494" Length="6" Skip="false">
+    <Translated>Да.</Translated>
+  </Line>
+  <Line StartPos="9505" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="9521" Length="79" Skip="false">
+    <Translated>Это моё самое мощное заклинание... Его силу вы уже увидели.</Translated>
+  </Line>
+  <Line StartPos="9605" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9632" Length="35" Skip="false">
+    <Translated>Верно. Все призраки исчезли.</Translated>
+  </Line>
+  <Line StartPos="9676" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9703" Length="9" Skip="false">
+    <Translated>Эм?</Translated>
+  </Line>
+  <Line StartPos="9726" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="9742" Length="71" Skip="false">
+    <Translated>Но!.. Почему ты ещё здесь, ты же была внутри барьера?!</Translated>
+  </Line>
+  <Line StartPos="9828" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="9847" Length="17" Skip="false">
+    <Translated>Я не знаю...</Translated>
+  </Line>
+  <Line StartPos="9878" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="9894" Length="38" Skip="false">
+    <Translated>Кто ты? Разве ты не призрак?..</Translated>
+  </Line>
+  <Line StartPos="9937" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9964" Length="38" Skip="false">
+    <Translated>Если не призрак...То кто же она тогда?</Translated>
+  </Line>
+  <Line StartPos="10017" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="10034" Length="55" Skip="false">
+    <Translated>Как не смотри, выглядит она как призрак.</Translated>
+  </Line>
+  <Line StartPos="10104" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="10123" Length="17" Skip="false">
+    <Translated>Я не знаю...</Translated>
+  </Line>
+  <Line StartPos="10161" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="10178" Length="22" Skip="false">
+    <Translated>Как живой призрак?</Translated>
+  </Line>
+  <Line StartPos="10236" Length="23" Skip="false">
+    <Translated>Все перевели взгляд на Мину.</Translated>
+  </Line>
+  <Line StartPos="10274" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="10291" Length="9" Skip="false">
+    <Translated>Ч-что?</Translated>
+  </Line>
+  <Line StartPos="10320" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="10336" Length="89" Skip="false">
+    <Translated>Именно! Это могло бы объяснить, почему моё заклинание не сработало!</Translated>
+  </Line>
+  <Line StartPos="10440" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="10457" Length="16" Skip="false">
+    <Translated>Аа? Аа? Аа?</Translated>
+  </Line>
+  <Line StartPos="10488" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="10505" Length="89" Skip="false">
+    <Translated>Другими словами, Шерил на самом деле жива, и её душа вне своего тела?!</Translated>
+  </Line>
+  <Line StartPos="10609" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="10628" Length="49" Skip="false">
+    <Translated>Тогда... Я всё ещё жива?!</Translated>
+  </Line>
+  <Line StartPos="10691" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="10707" Length="82" Skip="false">
+    <Translated>Скорее всего. И то, что мои заклинания не работают на тебя, тому самое прямое доказательство.</Translated>
+  </Line>
+  <Line StartPos="10796" Length="24" Skip="false">
+    <Translated>Шерил может быть жива...</Translated>
+  </Line>
+  <Line StartPos="10823" Length="33" Skip="false">
+    <Translated>Пусть это просто предположение, но это уже делает меня счастливым.</Translated>
+  </Line>
+  <Line StartPos="10884" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="10901" Length="75" Skip="false">
+    <Translated>Отлично! Когда-нибудь, мы найдём твоё настоящее тело! Будь уверенна в этом!</Translated>
+  </Line>
+  <Line StartPos="10990" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="11009" Length="16" Skip="false">
+    <Translated>Да... Пожалуйста!</Translated>
+  </Line>
+  <Line StartPos="11032" Length="39" Skip="false">
+    <Translated>Может быть, мы сможем вернуть Шерил к жизни.</Translated>
+  </Line>
+  <Line StartPos="11074" Length="53" Skip="false">
+    <Translated>Эта работа оказалась очень важной, хотя бы потому, что мы смогли понять это.</Translated>
+  </Line>
+  <Line StartPos="11134" Length="31" Skip="false">
+    <Translated>Домой мы направились в приподнятом настроении.</Translated>
+  </Line>
+</Lines>
+
+</pre>
+
+[[Men_at_Work 2|[Назад]]]

@@ -1,0 +1,211 @@
+[[Men at Work 2:Прогресс_перевода|[Назад]]]
+<pre>
+<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="68">
+  <Line StartPos="103" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="124" Length="17" Skip="false">
+    <Translated>Эй, парень.</Translated>
+  </Line>
+  <Line StartPos="146" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="173" Length="17" Skip="false">
+    <Translated>О, как идёт работа?</Translated>
+  </Line>
+  <Line StartPos="221" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="242" Length="22" Skip="false">
+    <Translated>Я всё починил, но...</Translated>
+  </Line>
+  <Line StartPos="278" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="298" Length="71" Skip="false">
+    <Translated>Перекрытия уже сгнили, так что я сделал только поверхностный ремонт.</Translated>
+  </Line>
+  <Line StartPos="383" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="403" Length="68" Skip="false">
+    <Translated>Пол снова провалится, если часто там ходить, будьте осторожны.</Translated>
+  </Line>
+  <Line StartPos="476" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="503" Length="11" Skip="false">
+    <Translated>Хорошо...</Translated>
+  </Line>
+  <Line StartPos="538" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="558" Length="22" Skip="false">
+    <Translated>Я всё починил, но...</Translated>
+  </Line>
+  <Line StartPos="594" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="614" Length="58" Skip="false">
+    <Translated>Это только поверхностный ремонт, так что не ходите там часто.</Translated>
+  </Line>
+  <Line StartPos="677" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="704" Length="14" Skip="false">
+    <Translated>Извините...</Translated>
+  </Line>
+  <Line StartPos="761" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="781" Length="31" Skip="false">
+    <Translated>Эй, кухня уже готова.</Translated>
+  </Line>
+  <Line StartPos="817" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="844" Length="14" Skip="false">
+    <Translated>Спасибо вам.</Translated>
+  </Line>
+  <Line StartPos="872" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="892" Length="45" Skip="false">
+    <Translated>Теперь Мина-чан сможет приготовить вам отличную еду.</Translated>
+  </Line>
+  <Line StartPos="980" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1000" Length="17" Skip="false">
+    <Translated>Эй, парень.</Translated>
+  </Line>
+  <Line StartPos="1022" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1049" Length="39" Skip="false">
+    <Translated>А. Ген-сан, спасибо за работу.</Translated>
+  </Line>
+  <Line StartPos="1102" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1122" Length="36" Skip="false">
+    <Translated>Извини, я заставил вас ждать.</Translated>
+  </Line>
+  <Line StartPos="1163" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1190" Length="13" Skip="false">
+    <Translated>То есть...</Translated>
+  </Line>
+  <Line StartPos="1208" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1235" Length="15" Skip="false">
+    <Translated>Не может быть!</Translated>
+  </Line>
+  <Line StartPos="1264" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1284" Length="63" Skip="false">
+    <Translated>Ага! Это лучшая работа, которую я когда-либо делал.</Translated>
+  </Line>
+  <Line StartPos="1352" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1379" Length="49" Skip="false">
+    <Translated>Значит... долгожданная ванная наконец готова!</Translated>
+  </Line>
+  <Line StartPos="1442" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1462" Length="37" Skip="false">
+    <Translated>Теперь вы сможете отдохнуть по-полной!</Translated>
+  </Line>
+  <Line StartPos="1504" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1531" Length="45" Skip="false">
+    <Translated>Спасибо вам! Я уверен, Люси будет в восторге!</Translated>
+  </Line>
+  <Line StartPos="1590" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1610" Length="47" Skip="false">
+    <Translated>Только не вздумай подглядывать когда там девочки!</Translated>
+  </Line>
+  <Line StartPos="1662" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1689" Length="30" Skip="false">
+    <Translated>Что вы... Я бы никогда...</Translated>
+  </Line>
+  <Line StartPos="1762" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1782" Length="45" Skip="false">
+    <Translated>Эй, парень. Я закончил работу.</Translated>
+  </Line>
+  <Line StartPos="1832" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1859" Length="12" Skip="false">
+    <Translated>Спасибо.</Translated>
+  </Line>
+  <Line StartPos="1876" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1903" Length="25" Skip="false">
+    <Translated>А что это?</Translated>
+  </Line>
+  <Line StartPos="1942" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1962" Length="36" Skip="false">
+    <Translated>Ты... не знаешь что заказал?</Translated>
+  </Line>
+  <Line StartPos="2003" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2030" Length="14" Skip="false">
+    <Translated>Ээ... Простите...</Translated>
+  </Line>
+  <Line StartPos="2058" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="2078" Length="114" Skip="false">
+    <Translated>Духовный насос - полезная штука. Использует духов воды, что бы качать воду, стоит только включить и всё окей!</Translated>
+  </Line>
+  <Line StartPos="2206" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="2226" Length="109" Skip="false">
+    <Translated>Нажми кнопку и он начнёт качать воду. Теперь поливка не доставит никаких проблем.</Translated>
+  </Line>
+  <Line StartPos="2340" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2367" Length="38" Skip="false">
+    <Translated>Понятно... Значит просто включить?</Translated>
+  </Line>
+  <Line StartPos="2419" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="2439" Length="15" Skip="false">
+    <Translated>Ага, так точно!</Translated>
+  </Line>
+  <Line StartPos="2459" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2486" Length="39" Skip="false">
+    <Translated>Понятно. Спасибо за работу!</Translated>
+  </Line>
+  <Line StartPos="2539" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="2559" Length="65" Skip="false">
+    <Translated>Без проблем. Зови, если надо будет что-нибудь починить.</Translated>
+  </Line>
+</Lines>
+</pre>
+[[Men at Work 2:Прогресс_перевода|[Назад]]]

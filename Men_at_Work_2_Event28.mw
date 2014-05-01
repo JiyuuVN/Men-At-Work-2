@@ -1,0 +1,154 @@
+[[Men_at_Work 2|[Назад]]]
+
+!Тут бага с именами. Все почему-то вписаны в диалог!
+
+<pre>
+<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="47">
+  <Line StartPos="320" Length="13" Skip="false">
+    <Translated>battle\0kahlua</Translated>
+  </Line>
+  <Line StartPos="350" Length="15" Skip="false">
+    <Translated>battle\0LastBoss</Translated>
+  </Line>
+  <Line StartPos="376" Length="12" Skip="false">
+    <Translated>DayBack\0disp</Translated>
+  </Line>
+  <Line StartPos="407" Length="12" Skip="false">
+    <Translated>Вилл\0"Анна."</Translated>
+  </Line>
+  <Line StartPos="435" Length="12" Skip="false">
+    <Translated>Анна\0"Вилл!"</Translated>
+  </Line>
+  <Line StartPos="463" Length="21" Skip="false">
+    <Translated>Анна\0"Ты пришёл..."</Translated>
+  </Line>
+  <Line StartPos="489" Length="13" Skip="false">
+    <Translated>DayAsk\0Vianna</Translated>
+  </Line>
+  <Line StartPos="516" Length="29" Skip="false">
+    <Translated>Анна\0"Уже уходишь?"</Translated>
+  </Line>
+  <Line StartPos="550" Length="23" Skip="false">
+    <Translated>Вилл\0"Я зайду снова."</Translated>
+  </Line>
+  <Line StartPos="589" Length="29" Skip="false">
+    <Translated>Анна\0"Хорошо, я буду ждать."</Translated>
+  </Line>
+  <Line StartPos="648" Length="12" Skip="false">
+    <Translated>Я встретил Анну.</Translated>
+  </Line>
+  <Line StartPos="665" Length="13" Skip="false">
+    <Translated>DayAsk\0Vianna</Translated>
+  </Line>
+  <Line StartPos="683" Length="43" Skip="false">
+    <Translated>У меня к ней нет больше дел.</Translated>
+  </Line>
+  <Line StartPos="743" Length="12" Skip="false">
+    <Translated>DayBack\0disp</Translated>
+  </Line>
+  <Line StartPos="771" Length="11" Skip="false">
+    <Translated>Вилл\0"Айри."</Translated>
+  </Line>
+  <Line StartPos="798" Length="13" Skip="false">
+    <Translated>Айри\0"Сенсей!"</Translated>
+  </Line>
+  <Line StartPos="827" Length="20" Skip="false">
+    <Translated>Айри\0"Ты пришёл..."</Translated>
+  </Line>
+  <Line StartPos="852" Length="10" Skip="false">
+    <Translated>DayAsk\0Iry</Translated>
+  </Line>
+  <Line StartPos="876" Length="33" Skip="false">
+    <Translated>Айри\0"Как? Уже уходишь?"</Translated>
+  </Line>
+  <Line StartPos="914" Length="23" Skip="false">
+    <Translated>Вилл\0"Я зайду снова."</Translated>
+  </Line>
+  <Line StartPos="953" Length="28" Skip="false">
+    <Translated>Айри\0"Хорошо! Я буду ждать."</Translated>
+  </Line>
+  <Line StartPos="1011" Length="11" Skip="false">
+    <Translated>Я встретил Айри.</Translated>
+  </Line>
+  <Line StartPos="1027" Length="10" Skip="false">
+    <Translated>DayAsk\0Iry</Translated>
+  </Line>
+  <Line StartPos="1042" Length="43" Skip="false">
+    <Translated>У меня нет к ней больше дел.</Translated>
+  </Line>
+  <Line StartPos="1102" Length="12" Skip="false">
+    <Translated>DayBack\0disp</Translated>
+  </Line>
+  <Line StartPos="1133" Length="14" Skip="false">
+    <Translated>Вилл\0"Ленсия."</Translated>
+  </Line>
+  <Line StartPos="1163" Length="19" Skip="false">
+    <Translated>Ленсия\0"Братишка!"</Translated>
+  </Line>
+  <Line StartPos="1198" Length="23" Skip="false">
+    <Translated>Ленсия\0"Так ты пришёл..."</Translated>
+  </Line>
+  <Line StartPos="1226" Length="13" Skip="false">
+    <Translated>DayAsk\0Lencia</Translated>
+  </Line>
+  <Line StartPos="1253" Length="38" Skip="false">
+    <Translated>Ленсия\0"Чтооо? Уже уходишь?"</Translated>
+  </Line>
+  <Line StartPos="1296" Length="23" Skip="false">
+    <Translated>Вилл\0"Я зайду снова."</Translated>
+  </Line>
+  <Line StartPos="1335" Length="31" Skip="false">
+    <Translated>Ленсия\0"Ладно. Я буду ждать."</Translated>
+  </Line>
+  <Line StartPos="1396" Length="14" Skip="false">
+    <Translated>Я встретил Ленсию.</Translated>
+  </Line>
+  <Line StartPos="1415" Length="13" Skip="false">
+    <Translated>DayAsk\0Lencia</Translated>
+  </Line>
+  <Line StartPos="1433" Length="43" Skip="false">
+    <Translated>У меня к ней нет больше дел.</Translated>
+  </Line>
+  <Line StartPos="1493" Length="12" Skip="false">
+    <Translated>DayBack\0disp</Translated>
+  </Line>
+  <Line StartPos="1524" Length="13" Skip="false">
+    <Translated>Вилл\0"Мисти."</Translated>
+  </Line>
+  <Line StartPos="1553" Length="18" Skip="false">
+    <Translated>Мисти\0"Вилл-сама!"</Translated>
+  </Line>
+  <Line StartPos="1587" Length="22" Skip="false">
+    <Translated>Мисти\0"Ты пришёл..."</Translated>
+  </Line>
+  <Line StartPos="1614" Length="13" Skip="false">
+    <Translated>DayAsk\0Mistie</Translated>
+  </Line>
+  <Line StartPos="1641" Length="30" Skip="false">
+    <Translated>Мисти\0"Уже уходишь?"</Translated>
+  </Line>
+  <Line StartPos="1676" Length="23" Skip="false">
+    <Translated>Вилл\0"Я зайду снова."</Translated>
+  </Line>
+  <Line StartPos="1715" Length="35" Skip="false">
+    <Translated>Мисти\0"Хорошо... я буду ждать."</Translated>
+  </Line>
+  <Line StartPos="1780" Length="13" Skip="false">
+    <Translated>Я встретил Мисти.</Translated>
+  </Line>
+  <Line StartPos="1798" Length="13" Skip="false">
+    <Translated>DayAsk\0Mistie</Translated>
+  </Line>
+  <Line StartPos="1816" Length="43" Skip="false">
+    <Translated>У меня к ней нет больше дел.</Translated>
+  </Line>
+  <Line StartPos="1876" Length="12" Skip="false">
+    <Translated>Tira\0teacher</Translated>
+  </Line>
+</Lines>
+
+
+</pre>
+
+[[Men_at_Work 2|[Назад]]]

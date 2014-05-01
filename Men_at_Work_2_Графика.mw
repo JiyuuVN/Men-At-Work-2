@@ -1,0 +1,182 @@
+[[Men_at_Work 2|[Назад]]]
+== Прогресс перевода ==
+Графика
+<br>{{Progress|2=#007|7=32|8=37}}
+<br>Загрузка в игру
+<br>{{Progress|2=#070|7=30|8=37}}
+
+== {{Work}} ...\game00.dat\Bmp\ ==
+
+<br>{{Work}} mu_a.bmp
+<br>The only tale (short) - Едиснтвенная история (кор.)
+<br>Wing Blowing Town - Город (каких-то-там/пархающих о_О) крыльев
+<br>Nightfalls - Сумерки
+<br>It's here! - ''Оно здесь!''
+<br>Welcome - Добро пожаловать (Здравствуйте/Приветствие)
+<br>Let's play - Поиграем
+<br>Dangeruos Hunt - Опасная охота
+<br>Storming through the darkness - Прорываясь сквозь тьму
+<br>Chase the Forest - ''В погоне за лесом'' (Преследуй лес?)
+<br>Maze of Dawn -  Лабиринт рассвета (о_О)
+
+<br>Under the Moon - Под луной
+<br>Sweet Times - Сладкое(Милое) время (о_О)
+<br>On Fire - На огне/Под огнём
+<br>Tough enemy? - Жестокий(?) враг - хз как перевести (Сильный, крутой)
+<br>Battle beyond Time - ''Битва за пределами времени''
+<br>Knight of Vampire - Рыцарь вампиров, Рыцарь-вампир, Рыцарь вампира
+<br>Far Memories - Давние воспоминания
+<br>The Tie... - Ничья
+<br>Door to the Future - Дверь в будущее
+<br>The only tale (full) - Едиснтвенная история (полн.)
+
+<br>{{Work}} musam.bmp
+<br>тоже что и mu_a.bmp
+
+<br>{{OK}} tl01.BMP
+<br>Defeat the Slimes in the Sewer - Очистить канализацию от слизней
+
+<br>{{OK}} tl03.BMP
+<br>The host at the Forest of the Old Castle - Призрак в лесу у старого замка
+
+<br>{{OK}} tl04.BMP
+<br>Pumpkin's Forest - Тыквенный лес
+
+<br>{{OK}} tl05.BMP
+<br>Find the Stray Monster - В поисках бродячего монстра
+
+<br>{{OK}} tl06.BMP
+<br>Hanna-san Search - Поиски Ханны
+
+<br>{{OK}} tl09.BMP
+<br>Poltergeist Incident - Полтергейст
+
+<br>{{OK}} tl11.BMP
+<br>The Crying Voice in the Cave - Плачь из пещеры
+
+<br>{{OK}} tl13.BMP
+<br>Party at the Graveyard - Вечеринка на кладбище
+
+<br>{{OK}} tl14.BMP
+<br>Defeat the Fat Sparrows - Победить воробушка
+
+<br>{{OK}} tl15.BMP
+<br>Save Benjamin - Спасение Бенжамина
+
+<br>{{OK}} tl24.BMP
+<br>The Revenge of the Monster Kingdom - Месть королевства монстров
+
+=={{OK}} ...\game00.dat\Sprite\ ==
+
+<br>{{OK}} char59a.bmp
+<br>-ЧМОК (Chu)
+
+<br>{{OK}} char59f.bmp
+<br>-ПРОМАХ (MISS)
+
+<br>{{OK}} grow.bmp
+<br>Ур. (Lv), Жизнь/ОЗ (HP) 
+<br>Очки (Units), Сила(?)/Мана(?)/MP(?) (Force)
+<br>Атака (Attack), Защита (Defence), Ловкость (Agility), Здоровье(?)/Жизнь (Life), Воля (Will)
+
+<br>{{OK}} grow2.bmp
+<br>Хз как удобнее. Сокращённо или мелкими но полностью.
+<br>АТК./Атака (Attack), ЗАЩ./Защита (Defence), ЛОВК./Ловкость(Agility), ЗДОР. (Life), ВОЛЯ/Воля (Will)
+
+<br>{{OK}} grow5.bmp
+<br>Lv и HP переводить не надо, 
+<br>Очки (Units), Сила(?)/Мана(?)/MP(?) (Force)
+<br>Руки (Hands), Тело (Body), Ноги (Legs)
+
+<br>{{OK}} st_01.bmp
+<br>Клиф (Cliff)
+
+<br>{{OK}} st_02.bmp
+<br>Мина (Mena)
+
+<br>{{OK}} st_03.bmp
+<br>Шерил (Sheryl)
+
+<br>{{OK}} st_04.bmp
+<br>Аой (Aoi)
+
+<br>{{OK}} st_05.bmp
+<br>Люси (Lucy)
+
+<br>{{OK}} st_06.bmp
+<br>Китти (Kitty)
+
+<br>{{OK}} st_07.bmp
+<br>Вилл (Will)
+
+<br>{{OK}} st_08.bmp
+<br>Айри (Iry)
+
+<br>{{OK}} system.bmp
+<br>Клиф Мина Шерил Аой
+<br>Люси Китти Вилл Айри
+<br>Промах/ПРОМАХ (Miss)
+
+<br>{{OK}} system2.bmp
+<br>Клифф/Клиф Мина Шерил Аой/Аои
+<br>Люси Китти/Кити Вилл Айри
+<br>Промах/ПРОМАХ (Miss)
+
+<br>{{OK}} time.bmp
+<br>Ч (H), Час. (O'Clock)
+<br>День (Noon), Вечер (After noon), Ночь (Evening)
+
+=={{Work}} ...\game01.dat\Bmp\ ==
+
+<br>{{OK}} cg_a.bmp
+<br>НАЗАД (BACK), ВЫХОД (EXIT), ВПЕРЁД (NEXT)
+
+<br>{{OK}} cg_b.bmp
+<br>НАЗАД (BACK), ВЫХОД (EXIT), ВПЕРЁД (NEXT)
+
+<br>{{OK}} fight.BMP
+<br>В БОЙ! (FIGHT!)
+
+<br>{{No}} <s>grow.bmp (яп. менюшка, у ММ было не переведено)</s>
+
+<br>{{OK}} hit.bmp
+<br>КОМБО! (HIT!)
+
+<br>{{No}} <s>mu_a.bmp (яп. менюшка, у ММ было не переведено)</s>
+
+<br>{{Work}} mu_b.bmp
+<br>ВЫХОД (EXIT)
+
+<br>{{No}} <s>musam.bmp (яп. менюшка, у ММ было не переведено)</s>
+
+<br>{{Work}} re_a.bmp
+<br>НАЗАД (BACK), ВЫХОД (EXIT), ВПЕРЁД (NEXT)
+
+<br>{{Work}} re_b.bmp
+<br>НАЗАД (BACK), ВЫХОД (EXIT), ВПЕРЁД (NEXT)
+
+<br>{{OK}} title.bmp
+<br>НОВАЯ ИГРА (MEW GAME)
+<br>ЗАГРУЗИТЬ (LOAD GAME)
+<br>ГАЛЕРЕЯ (GALLERY)
+<br>ВОСПОМИНАНИЯ(MEMORY)
+<br>МУЗЫКА (MUSIC)
+<br>ВЫХОД (EXIT)
+
+== Галерея ==
+<gallery>
+Файл:Char59a_ru8.bmp|Сhuu~
+Файл:St_01ru8.bmp|Cliff 
+Файл:St_02ru8.bmp|Mena
+Файл:St_03ru8.bmp|Sheryl
+Файл:St_04ru8.bmp|Aoi
+Файл:St_05ru8.bmp|Lucy
+Файл:St_06ru8.bmp|Kitty
+Файл:St 07.bmp|Will
+Файл:St 08.bmp|Iry
+Файл:System.bmp|System
+Файл:Title2.bmp|Menu
+</gallery>
+<br>
+<br>
+<br>[[Men_at_Work 2|[Назад]]]

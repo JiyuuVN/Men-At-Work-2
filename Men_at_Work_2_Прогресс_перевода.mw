@@ -1,0 +1,379 @@
+[[Men_at_Work 2|[Назад]]]
+
+== Общая статистика ==
+Перевод
+<br>{{Progress|2=#700|7=95|8=95}}
+<br>Правка 
+<br>{{Progress|2=#070|7=93|8=95}}
+<br>Вычитка (финальная правка)
+<br>{{Progress|2=#050|7=84|8=95}}  
+<br>Графика
+<br>{{Progress|2=#007|7=28|8=35}}
+
+== Пояснения ==
+{|style="text-align:center"
+ |- valign="top"
+ |
+	{|class="wikitable" style="background: #ffffff;"
+	!Готово !!Ведётся работа!! Не начато
+	|-
+	| {{OK}} || {{Work}} || {{No}}
+	|}
+|}
+
+----
+
+== {{OK}} Шаблон таблицы ==
+
+{|style="text-align:center"
+ |- valign="top"
+ |
+	{|class="wikitable" style="background: #ffffff;"
+	! !! Перевод !! Правка !!  Загрузка в игру
+	|-
+	| [[Men_at_Work 2:_Test_]] || {{X}} || {{X}} || {{X}}
+	|}
+|}
+
+----
+== {{OK}} OP - Пролог ==
+''(8)''
+{|style="text-align:center"
+ |- valign="top"
+ |
+	{|class="wikitable" style="background: #ffffff;"
+	! !! Перевод !! Правка !!  Загрузка в игру
+	|-
+	| [[Men_at_Work 2:OP_00]] || {{OK}} || {{OK}} || {{OK}}
+	|-
+	| [[Men_at_Work 2:OP_01]] || {{OK}} || {{OK}} || {{OK}}
+	|-
+	| [[Men_at_Work 2:OP_02]] || {{OK}} || {{OK}} || {{OK}}
+	|-
+	| [[Men_at_Work 2:OP_03]] || {{OK}} || {{OK}} || {{OK}}
+	|-
+	| [[Men_at_Work 2:OP_04]] || {{OK}} || {{OK}} || {{OK}}
+	|-
+	| [[Men_at_Work 2:OP_05]] || {{OK}} || {{OK}} || {{OK}}
+	|-
+	| [[Men_at_Work 2:OP_A1]] || {{OK}} || {{OK}} || {{OK}}
+	|-
+	| [[Men_at_Work 2:OP_BT]] || {{OK}} || {{OK}} || {{OK}}
+	|}
+|} 
+
+----
+
+== {{OK}} Job - Работа ==
+''(22)''
+{|style="text-align:center"
+ |- valign="top"
+ |
+	{|class="wikitable" style="background: #ffffff;"
+	! !! Перевод !! Правка !!  Загрузка в игру
+	|-
+	| [[Men_at_Work 2:Job_01]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_02]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_03]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_04]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_05]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_06]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_08]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_09]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_11]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_13]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_14]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_15]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_20]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_21]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_24]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_28]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_28a]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_28b]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_28c]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_28d]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_30]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Job_FW]] || {{OK}} || {{OK}} || {{No}}
+	|}
+|} 
+
+----
+
+== {{OK}} Локации ==
+''(19)''
+{|style="text-align:center"
+ |- valign="top"
+ |
+	{|class="wikitable" style="background: #ffffff;"
+	! !! Перевод !! Правка !!  Загрузка в игру
+	|-
+	| [[Men_at_Work 2:Academy]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:ItemShop]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Cafe]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Castle]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| Men_at_Work 2:cave || {{X}} || {{X}} || {{X}}
+	|-
+	| [[Men_at_Work 2:Church]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Chu-chu]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Forest]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Gen_sBLD]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Grave]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:KittyMap]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Library]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Pub]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Pub_Bath]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Residens]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Sewer]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Wd_castl]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:WP_Shop]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:R_Bath]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:R_dining]] || {{OK}} || {{OK}} || {{No}}
+	|}
+|} 
+
+----
+
+== Персонажи ==
+''(26)''
+=== {{Work}}  Mena - Мина ===
+[[Файл:Mena.jpg]]
+{|style="text-align:center"
+ |- valign="top"
+ |
+	{|class="wikitable" style="background: #ffffff;"
+	! !! Перевод !! Правка !!  Загрузка в игру
+	|-
+	| [[Men_at_Work 2:Day_Mena]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:R_Mena]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Last_Me]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:ED_Mena]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:H_Mena]] || {{OK}} || {{Work}} || {{No}}
+	|}
+|} 
+
+----
+
+=== {{Work}}  Lucy - Люси ===
+[[Файл:Lucy.jpg]]
+{|style="text-align:center"
+ |- valign="top"
+ |
+	{|class="wikitable" style="background: #ffffff;"
+	! !! Перевод !! Правка !!  Загрузка в игру
+	|-
+	| [[Men_at_Work 2:Day_Lucy]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:R_Lucy]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Last_Lu]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:ED_Lucy]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:H_ Lucy]] || {{OK}} || {{V}} || {{No}}
+	|}
+|} 
+
+----
+
+=== {{Work}} Aoi - Аой ===
+[[Файл:Aoi.jpg]]
+{|style="text-align:center"
+ |- valign="top"
+ |
+	{|class="wikitable" style="background: #ffffff;"
+	! !! Перевод !! Правка !!  Загрузка в игру
+	|-
+	| [[Men_at_Work 2:Day_Aoi]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:R_Aoi]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Last_aoi]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:ED_Aoi]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:H_Aoi]] || {{OK}} || {{Work}} || {{No}}
+	|}
+|} 
+
+----
+
+=== {{Work}}  Sheryl - Шерил ===
+[[Файл:Sheryl.jpg]]
+{|style="text-align:center"
+ |- valign="top"
+ |
+	{|class="wikitable" style="background: #ffffff;"
+	! !! Перевод !! Правка !!  Загрузка в игру
+	|-
+	| Men_at_Work 2: :Day_??? || {{X}} || {{X}} || {{X}}
+	|-
+	| [[Men_at_Work 2:R_Sheryl]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Last_Sh]] || {{OK}} || {{V}} || {{No}}
+	|-
+	| [[Men_at_Work 2:ED_Sherl]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:H_Sheryl]] || {{OK}} || {{V}} || {{No}}
+	|}
+|} 
+
+----
+
+=== {{V}}  Kitty - Китти ===
+[[Файл:Kitty.jpg]]
+{|style="text-align:center"
+ |- valign="top"
+ |
+	{|class="wikitable" style="background: #ffffff;"
+	! !! Перевод !! Правка !!  Загрузка в игру
+	|-
+	| [[Men_at_Work 2:Day_Kit]] || {{OK}} || {{V}} || {{No}}
+	|-
+	| [[Men_at_Work 2:R_Kitty]] || {{OK}} || {{V}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Last_Ki]] || {{OK}} || {{V}} || {{No}}
+	|-
+	| [[Men_at_Work 2:ED_Kitty]] || {{OK}} || {{V}} || {{No}}
+	|-
+	| [[Men_at_Work 2:H_Kitty]] || {{OK}} || {{V}} || {{No}}
+	|}
+|} 
+
+----
+
+=== {{V}}  Cliff - Клиф, Will - Вилл ===
+[[Файл:Cliff.jpg]] [[Файл:Will.jpg]]
+{|style="text-align:center"
+ |- valign="top"
+ |
+	{|class="wikitable" style="background: #ffffff;"
+	! !! Перевод !! Правка !!  Загрузка в игру
+	|-
+	| [[Men_at_Work 2:R_Cliff]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:R_Will]] || {{OK}} || {{V}} || {{No}}
+	|}
+|} 
+
+----
+
+== {{OK}} Прочие блоки ==
+''(20)''
+{|style="text-align:center"
+ |- valign="top"
+ |
+	{|class="wikitable" style="background: #ffffff;"
+	! !! Перевод !! Правка !!  Загрузка в игру
+	|-
+	| [[Men_at_Work 2:Battle]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Contract]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Chap_ini]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:DayMain0]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:DayMain1]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:DayMain2]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:DayMain3]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:DayMain4]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Dining]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| Men_at_Work 2:draw || {{X}} || {{X}} || {{X}}
+	|-
+	| [[Men_at_Work 2:Event24]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Event25]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Event26]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Event27]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:Event28]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:L_count.scr]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| Men_at_Work 2:main || {{X}} || {{X}} || {{X}}
+	|-
+	| [[Men_at_Work 2:NigMain0]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:NigMain1]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:NigMain2]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:NigMain3]] || {{OK}} || {{OK}} || {{No}}
+	|-
+	| [[Men_at_Work 2:NigMain4]] || {{OK}} || {{OK}} || {{No}}
+	|-
+        | Men_at_Work 2:start || {{X}} || {{X}} || {{X}}
+	|-
+	| Men_at_Work 2:title || {{X}} || {{X}} || {{X}}
+	|}
+|}
+
+== {{Work}} Мобы, скилы, предметы ==
+
+{|style="text-align:center"
+ |- valign="top"
+ |
+	{|class="wikitable" style="background: #ffffff;"
+	! !! Перевод !! Правка !!  Загрузка в игру
+	|-
+        | [[Men_at_Work 2:gen]] || {{OK}} || {{OK}} || {{Work}}
+	|-
+        | [[Men_at_Work 2:Item]] || {{OK}} || {{OK}} || {{Work}}
+	|-
+        | [[Men_at_Work 2:Race]] || {{OK}} || {{OK}} || {{Work}}
+	|-
+	| [[Men_at_Work 2:Ability]] || {{Work}} || {{No}} || {{No}}
+	|}
+|}
+
+[[Men_at_Work 2|[Назад]]]

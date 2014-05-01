@@ -1,0 +1,721 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="175">
+  <Line StartPos="389" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="406" Length="14" Skip="false">
+    <Origin>"Oh... Cliff."</Origin>
+    <Translated>Ох... Клиф.</Translated>
+  </Line>
+  <Line StartPos="425" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="452" Length="21" Skip="false">
+    <Origin>"What&apos;s wrong, Mena?"</Origin>
+    <Translated>Мина, что-то случилось?</Translated>
+  </Line>
+  <Line StartPos="487" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="504" Length="41" Skip="false">
+    <Origin>"Sorry... can you help me clean this\0up?"</Origin>
+    <Translated>Прости... Не мог бы ты мне помочь с уборкой?</Translated>
+  </Line>
+  <Line StartPos="552" Length="53" Skip="false">
+    <Origin>...Mena&apos;s looking at a trash can that&apos;s\0flipped over.</Origin>
+    <Translated>Мина смотрит на перевёрнутую урну и разбросанный мусор.</Translated>
+  </Line>
+  <Line StartPos="610" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="637" Length="16" Skip="false">
+    <Origin>"What happened?"</Origin>
+    <Translated>Что тут произошло?</Translated>
+  </Line>
+  <Line StartPos="667" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="684" Length="38" Skip="false">
+    <Origin>"I think someone spilled it at night."</Origin>
+    <Translated>Думаю, кто-то перевернул её ночью.</Translated>
+  </Line>
+  <Line StartPos="729" Length="58" Skip="false">
+    <Origin>Who?.. But only Hunters and monsters\0walk about at night.</Origin>
+    <Translated>Кто?.. Только Охотники и монстры ошиваются тут по ночам.</Translated>
+  </Line>
+  <Line StartPos="794" Length="68" Skip="false">
+    <Origin>But I don&apos;t think a Hunter would go\0around and flip over trash cans.</Origin>
+    <Translated>Но не думаю что Охотник будет ходить по округе и переворачивать мусорные баки.</Translated>
+  </Line>
+  <Line StartPos="876" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="893" Length="67" Skip="false">
+    <Origin>"It&apos;s been like this every day. I think\0there&apos;s a stray monster..."</Origin>
+    <Translated>Это повторяется ежедневно. Наверное, это какой-то бродячий монстр...</Translated>
+  </Line>
+  <Line StartPos="974" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="991" Length="36" Skip="false">
+    <Origin>"Master&apos;s complaining about it too."</Origin>
+    <Translated>Мастер тоже жалуется на это.</Translated>
+  </Line>
+  <Line StartPos="1032" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1059" Length="51" Skip="false">
+    <Origin>"We should do something\0about it. This is our job."</Origin>
+    <Translated>Мы должны что-то сделать. Это наша работа.</Translated>
+  </Line>
+  <Line StartPos="1124" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1141" Length="60" Skip="false">
+    <Origin>"Oh... you&apos;re right. I totally forgot\0that we were Hunters."</Origin>
+    <Translated>Ох... Ты прав. Я совсем забыла, что мы Охотники.</Translated>
+  </Line>
+  <Line StartPos="1206" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1233" Length="9" Skip="false">
+    <Origin>"Haha..."</Origin>
+    <Translated>Хаха...</Translated>
+  </Line>
+  <Line StartPos="1256" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1273" Length="60" Skip="false">
+    <Origin>"Then I&apos;ll go tell Master that we&apos;re\0accepting his request."</Origin>
+    <Translated>Тогда, я пойду скажу Мастеру, что мы приняли его запрос.</Translated>
+  </Line>
+  <Line StartPos="1338" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1365" Length="9" Skip="false">
+    <Origin>"Please."</Origin>
+    <Translated>Будь так добра.</Translated>
+  </Line>
+  <Line StartPos="1381" Length="54" Skip="false">
+    <Origin>You have accepted the job to defeat the\0stray monster.</Origin>
+    <Translated>Принят запрос на изгнание бродячего монстра.</Translated>
+  </Line>
+  <Line StartPos="1465" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1482" Length="89" Skip="false">
+    <Origin>"Oh, Cliff. The Master wanted to give\0you his best regards about the stray\0monster case."</Origin>
+    <Translated>О, Клиф. Мастер передавал, что желает тебе удачи в изгнании этого монстра.</Translated>
+  </Line>
+  <Line StartPos="1576" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1603" Length="12" Skip="false">
+    <Origin>"All right."</Origin>
+    <Translated>Принято.</Translated>
+  </Line>
+  <Line StartPos="1921" Length="13" Skip="false">
+    <Origin>main\0MidNight</Origin>
+    <Translated>main\0MidNight</Translated>
+  </Line>
+  <Line StartPos="2121" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2138" Length="52" Skip="false">
+    <Origin>"That&apos;s some lame job... defeating a\0stray monster?"</Origin>
+    <Translated>Довольно странная работа... Надо прогнать бродячего монстра?</Translated>
+  </Line>
+  <Line StartPos="2224" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2240" Length="79" Skip="false">
+    <Origin>"...We cannot be particular about our\0jobs. This is important training for\0us."</Origin>
+    <Translated>Нельзя быть такими придирчивыми к работе. Это важная часть нашего обучения.</Translated>
+  </Line>
+  <Line StartPos="2334" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2351" Length="43" Skip="false">
+    <Origin>"This is for the sake of my workplace\0too."</Origin>
+    <Translated>Для моей работы в кафе это тоже очень важно.</Translated>
+  </Line>
+  <Line StartPos="2442" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2459" Length="69" Skip="false">
+    <Origin>"A monster with such a weird face is\0opposing us? It got some nerve!"</Origin>
+    <Translated>Против нас выступил монстр с такой странной мордой? Очень нагло с его стороны!</Translated>
+  </Line>
+  <Line StartPos="2562" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2578" Length="29" Skip="false">
+    <Origin>"Its voice is weird as well."</Origin>
+    <Translated>Его голос тоже достаточно странный.</Translated>
+  </Line>
+  <Line StartPos="2622" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2639" Length="15" Skip="false">
+    <Origin>"My workplace!"</Origin>
+    <Translated>Моя работа!</Translated>                  
+  </Line>
+  <Line StartPos="2659" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2686" Length="26" Skip="false">
+    <Origin>"They sure are excited..."</Origin>
+    <Translated>Какие-то они возбуждённые...</Translated>
+  </Line>
+  <Line StartPos="2866" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2883" Length="29" Skip="false">
+    <Origin>"T-That&apos;s a weird monster..."</Origin>
+    <Translated>Э-это очень странный монстр...</Translated>
+  </Line>
+  <Line StartPos="2927" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2944" Length="24" Skip="false">
+    <Origin>"It has a weird face..."</Origin>
+    <Translated>И морда у него тоже странная...</Translated>
+  </Line>
+  <Line StartPos="2994" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3010" Length="34" Skip="false">
+    <Origin>"...Its voice is strange as well."</Origin>
+    <Translated>И голос...</Translated>
+  </Line>
+  <Line StartPos="3049" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3076" Length="14" Skip="false">
+    <Origin>"It&apos;s coming!"</Origin>
+    <Translated>Он приближается!</Translated>
+  </Line>
+  <Line StartPos="3156" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3172" Length="49" Skip="false">
+    <Origin>"I-I lost to a monster with such a\0strange face?"</Origin>
+    <Translated>Я проиграла монстру с такой странной мордой?</Translated>
+  </Line>
+  <Line StartPos="3236" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3253" Length="24" Skip="false">
+    <Origin>"Its voice&apos;s weird too!"</Origin>
+    <Translated>Его голос тоже странный!</Translated>
+  </Line>
+  <Line StartPos="3282" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3309" Length="43" Skip="false">
+    <Origin>"Don&apos;t say stupid things and\0just retreat!"</Origin>
+    <Translated>Не болтайте глупостей, отступаем!</Translated>
+  </Line>
+  <Line StartPos="3366" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3383" Length="11" Skip="false">
+    <Origin>"Oh, geez!"</Origin>
+    <Translated>О боже!</Translated>
+  </Line>
+  <Line StartPos="3414" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3430" Length="24" Skip="false">
+    <Origin>"Are we done for today?"</Origin>
+    <Translated>Это всё на сегодня?</Translated>
+  </Line>
+  <Line StartPos="3469" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3486" Length="15" Skip="false">
+    <Origin>"I&apos;m sleepy..."</Origin>
+    <Translated>Я спать хочу...</Translated>
+  </Line>
+  <Line StartPos="3508" Length="41" Skip="false">
+    <Origin>Will you end for tonight and go to\0sleep?</Origin>
+    <Translated>Закончить на сегодня и отправиться спать?</Translated>
+  </Line>
+  <Line StartPos="3554" Length="6" Skip="false">
+    <Origin>Yes\0No</Origin>
+    <Translated>Да\0Нет</Translated>
+  </Line>
+  <Line StartPos="3584" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3601" Length="25" Skip="false">
+    <Origin>"Yeah, let&apos;s keep going."</Origin>
+    <Translated>Давайте продолжим.</Translated>
+  </Line>
+  <Line StartPos="3729" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3756" Length="11" Skip="false">
+    <Origin>"Found it!"</Origin>
+    <Translated>Найдём его!</Translated>
+  </Line>
+  <Line StartPos="3784" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3811" Length="52" Skip="false">
+    <Origin>"There! That monster&apos;s\0rummaging through the\0trash!"</Origin>
+    <Translated>Там! Тот монстр роется в мусоре!</Translated>
+  </Line>
+  <Line StartPos="3877" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3893" Length="17" Skip="false">
+    <Origin>"W-What is that?"</Origin>
+    <Translated>Ч-что это?</Translated>
+  </Line>
+  <Line StartPos="3925" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3942" Length="23" Skip="false">
+    <Origin>"We&apos;re gonna catch it!"</Origin>
+    <Translated>Поймаем его!</Translated>
+  </Line>
+  <Line StartPos="3981" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4008" Length="24" Skip="false">
+    <Origin>"Oh, it&apos;s getting away!"</Origin>
+    <Translated>Аа, он убегает!</Translated>
+  </Line>
+  <Line StartPos="4046" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="4063" Length="27" Skip="false">
+    <Origin>"Hey! Wait! Clean this up!"</Origin>
+    <Translated>Эй! Стой! Убери за собой!</Translated>         
+  </Line>
+  <Line StartPos="4120" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4147" Length="15" Skip="false">
+    <Origin>"Oh, found it!"</Origin>
+    <Translated>Ух, попался!</Translated>
+  </Line>
+  <Line StartPos="4176" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="4193" Length="49" Skip="false">
+    <Origin>"Let&apos;s go! We can&apos;t let its stupid face\0fool us!"</Origin>
+    <Translated>Вперёд! Мы не позволим этой глупой морде одурачить нас!</Translated>
+  </Line>
+  <Line StartPos="4258" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4285" Length="30" Skip="false">
+    <Origin>"Oh, it&apos;s running away\0again!"</Origin>
+    <Translated>Ох, он снова убегает!</Translated>
+  </Line>
+  <Line StartPos="4329" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="4346" Length="21" Skip="false">
+    <Origin>"Let&apos;s go after it!!"</Origin>
+    <Translated>За ним!</Translated>
+  </Line>
+  <Line StartPos="4397" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4424" Length="41" Skip="false">
+    <Origin>"It&apos;s rummaging through the\0trash again!"</Origin>
+    <Translated>Он снова роется в мусоре!</Translated>
+  </Line>
+  <Line StartPos="4479" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4495" Length="34" Skip="false">
+    <Origin>"It sure is a persistant monster."</Origin>
+    <Translated>Какой упрямый монстр.</Translated>
+  </Line>
+  <Line StartPos="4544" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="4561" Length="44" Skip="false">
+    <Origin>"It&apos;s rather honorable if it goes this\0far."</Origin>
+    <Translated>А он не плох, раз зашёл так далеко.</Translated>
+  </Line>
+  <Line StartPos="4619" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="4636" Length="31" Skip="false">
+    <Origin>"I won&apos;t forgive such a thing!"</Origin>
+    <Translated>Я не прощу тебя за то, что ты совершил!</Translated>
+  </Line>
+  <Line StartPos="4692" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4708" Length="28" Skip="false">
+    <Origin>"Is it still running away!?"</Origin>
+    <Translated>Он снова убегает?!</Translated>
+  </Line>
+  <Line StartPos="4751" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="4768" Length="55" Skip="false">
+    <Origin>"Stop! My uniform was covered in trash\0because of you!"</Origin>
+    <Translated>Стоять! Из-за тебя моя форма запачкалась!</Translated>
+  </Line>
+  <Line StartPos="4828" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4855" Length="28" Skip="false">
+    <Origin>"Did that really happen?.."</Origin>
+    <Translated>Это и правда случилось?..</Translated>
+  </Line>
+  <Line StartPos="4928" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4955" Length="20" Skip="false">
+    <Origin>"We&apos;ve cornered it!"</Origin>
+    <Translated>Мы загнали его в угол!</Translated>
+  </Line>
+  <Line StartPos="4989" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="5005" Length="53" Skip="false">
+    <Origin>"How foolish of you to corner yourself\0in confusion."</Origin>
+    <Translated>Как глупо было с твоей стороны забежать в тупик.</Translated>
+  </Line>
+  <Line StartPos="5073" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="5090" Length="47" Skip="false">
+    <Origin>"There&apos;s nowhere to run now! Prepare\0yourself!"</Origin>
+    <Translated>Теперь тебе некуда деваться! Приготовься!</Translated>
+  </Line>
+  <Line StartPos="5151" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="5168" Length="41" Skip="false">
+    <Origin>"Watch out! It&apos;s cornered and\0desperate!"</Origin>
+    <Translated>Берегись! Он загнан в тупик и доведён до отчаяния!</Translated>
+  </Line>
+  <Line StartPos="5214" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5241" Length="29" Skip="false">
+    <Origin>"Whoa, it&apos;s coming this\0way!"</Origin>
+    <Translated>Он приближается!</Translated>
+  </Line>
+  <Line StartPos="5396" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5423" Length="28" Skip="false">
+    <Origin>"Phew... finally caught it."</Origin>
+    <Translated>Фух... Наконец-то поймали.</Translated>
+  </Line>
+  <Line StartPos="5458" Length="75" Skip="false">
+    <Origin>We finally capture the strange animal\0that was rummaging through the trash.</Origin>
+    <Translated>Мы наконец-то поймали странное животное, которое рылось в мусоре.</Translated>
+  </Line>
+  <Line StartPos="5536" Length="112" Skip="false">
+    <Origin>We head to the Academy so it wouldn?t bother anyone. But it was still annoying\0since it cried all the way home.</Origin>
+    <Translated>Больше оно не будет никому достовлять неприятностей. Мы направились в Школу. Но оно всё ещё раздражало, потому что ревело всю дорогу к дому.</Translated>
+  </Line>
+  <Line StartPos="5662" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="5678" Length="26" Skip="false">
+    <Origin>"Well, what should we do?"</Origin>
+    <Translated>Ну, и как нам стоить поступить?</Translated>
+  </Line>
+  <Line StartPos="5719" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="5736" Length="11" Skip="false">
+    <Origin>"........."</Origin>
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="5761" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="5777" Length="57" Skip="false">
+    <Origin>"I think we should make sure it will\0never happen again."</Origin>
+    <Translated>Думаю, нам стоит убедиться, что этого никогда больше не повториться.</Translated>
+  </Line>
+  <Line StartPos="5848" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="5864" Length="49" Skip="false">
+    <Origin>"Let us be merciful and make it a quick\0death..."</Origin>
+    <Translated>Давайте будем милосердны и устроим ему быструю смерть...</Translated>
+  </Line>
+  <Line StartPos="5928" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="5945" Length="35" Skip="false">
+    <Origin>"W-We can&apos;t do anything like that!"</Origin>
+    <Translated>М-мы не можем так поступить!</Translated>
+  </Line>
+  <Line StartPos="5994" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6010" Length="48" Skip="false">
+    <Origin>"...But this is a monster we are talking\0about!"</Origin>
+    <Translated>Но... Мы ведь говорим о монстре!</Translated>
+  </Line>
+  <Line StartPos="6073" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="6090" Length="43" Skip="false">
+    <Origin>"You can&apos;t do that even if it&apos;s a\0monster!"</Origin>
+    <Translated>Даже если это и монстр, нельзя так поступать!</Translated>
+  </Line>
+  <Line StartPos="6148" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6165" Length="27" Skip="false">
+    <Origin>"Hey now, give it up, Aoi."</Origin>
+    <Translated>Ну же, Аой.</Translated>
+  </Line>
+  <Line StartPos="6206" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6222" Length="23" Skip="false">
+    <Origin>"You too, Lucy-san?.."</Origin>
+    <Translated>И ты туда же, Люси-сан?..</Translated>
+  </Line>
+  <Line StartPos="6260" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6277" Length="59" Skip="false">
+    <Origin>"This is coming from the one that was\0pissed off the most."</Origin>
+    <Translated>Уж если это говорит наиболее пострадавшая сторона.</Translated>
+  </Line>
+  <Line StartPos="6351" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6368" Length="86" Skip="false">
+    <Origin>"And don&apos;t you think this kind part of\0her is the source of her ability as the\0tamer?"</Origin>
+    <Translated>К тому же, разве тебе не кажется, что это может быть свзяно с её способностью укротителя?</Translated>
+  </Line>
+  <Line StartPos="6468" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6484" Length="29" Skip="false">
+    <Origin>"T-That is certainly true..."</Origin>
+    <Translated>Д-должно быть так...</Translated>
+  </Line>
+  <Line StartPos="6528" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6545" Length="94" Skip="false">
+    <Origin>"Well... I think it's appropriate that we spank it 100 times and take it back to the forest."</Origin>
+    <Translated>Думаю, справедливо, что мы его отшлёпали 100 раз и выпустили обратно в лес.</Translated>
+  </Line>
+  <Line StartPos="6643" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6670" Length="15" Skip="false">
+    <Origin>"Is that kind?"</Origin>
+    <Translated>Это нормально?</Translated>
+  </Line>
+  <Line StartPos="6700" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6717" Length="72" Skip="false">
+    <Origin>"Me-chan. You should scold it so that it\0won&apos;t rummage the trash again."</Origin>
+    <Translated>Ми-чан. Ты должна отругать его, чтобы он больше не рылся в мусоре.</Translated>
+  </Line>
+  <Line StartPos="6803" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="6820" Length="13" Skip="false">
+    <Origin>"Yeah, okay."</Origin>
+    <Translated>Да, хорошо.</Translated>
+  </Line>
+  <Line StartPos="6847" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="6864" Length="22" Skip="false">
+    <Origin>"Thank you, Lucy-san."</Origin>
+    <Translated>Люси-сан, спасибо тебе.</Translated>
+  </Line>
+  <Line StartPos="6901" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6918" Length="55" Skip="false">
+    <Origin>"Don&apos;t worry &apos;bout it. We&apos;re all feeling\0the same way."</Origin>
+    <Translated>Не парься. Мы все чувствуем тоже самое.</Translated>
+  </Line>
+  <Line StartPos="7026" Length="98" Skip="false">
+    <Origin>The strange monster ran into the forest\0screaming in its weird voice and holding\0its swelled butt.</Origin>
+    <Translated>Крича странным голосом и сверкая красным задом, странный монстр побежал в сторону леса.</Translated>
+  </Line>
+  <Line StartPos="7142" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7159" Length="34" Skip="false">
+    <Origin>"But it sure was a weird monster."</Origin>
+    <Translated>Но всё же, это был очень странный монстр.</Translated>
+  </Line>
+  <Line StartPos="7198" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7225" Length="27" Skip="false">
+    <Origin>"It sure had a weird face."</Origin>
+    <Translated>С очень странной мордой.</Translated>
+  </Line>
+  <Line StartPos="7286" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="7302" Length="33" Skip="false">
+    <Origin>"It had a strange voice as well."</Origin>
+    <Translated>А так же странным голосом.</Translated>
+  </Line>
+  <Line StartPos="7349" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="7366" Length="27" Skip="false">
+    <Origin>"But it was cute in a way."</Origin>
+    <Translated>Но по-своему, он был довольно милым.</Translated>
+  </Line>
+  <Line StartPos="7408" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7425" Length="33" Skip="false">
+    <Origin>"Any monster&apos;s cute for Me-chan."</Origin>
+    <Translated>Для Ми-чан любой монстр выглядит милым.</Translated>
+  </Line>
+  <Line StartPos="7463" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7490" Length="57" Skip="false">
+    <Origin>"Anyway, this case is\0settled now. Let&apos;s go back\0inside."</Origin>
+    <Translated>Так или иначе, дело решено. Давайте пойдём внутрь.</Translated>
+  </Line>
+  <Line StartPos="7561" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="7577" Length="18" Skip="false">
+    <Origin>"It sure is late."</Origin>
+    <Translated>Уже довольно поздно.</Translated>
+  </Line>
+  <Line StartPos="7610" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+     <Line StartPos="7627" Length="33" Skip="false">
+    <Origin>"*Yawn* No wonder I'm so sleepy."</Origin>
+    <Translated>*Зевает* Не удивительно, что я спать хочу.</Translated>
+  </Line>
+  <Line StartPos="7674" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="7691" Length="28" Skip="false">
+    <Origin>"Haha, that was a big yawn."</Origin>
+    <Translated>Хаха, какой большой зевок.</Translated>
+  </Line>
+  <Line StartPos="7748" Length="68" Skip="false">
+    <Origin>The commotion finally ends. We walk\0inside laughing and go to sleep.</Origin>
+    <Translated>Суматоха наконец-то закончилась. Смеясь, мы идём внутрь, чтобы лечь спать.</Translated>
+  </Line>
+  <Line StartPos="7867" Length="3" Skip="false">
+    <Origin>Top</Origin>
+    <Translated>Top</Translated>
+  </Line>
+</Lines>
+
+
+
+
+
+
+</pre>
+
+
+[[Men_at_Work 2|[Назад]]]

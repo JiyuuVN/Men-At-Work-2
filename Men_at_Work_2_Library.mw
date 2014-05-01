@@ -1,0 +1,1483 @@
+[[Men_at_Work 2|[Назад]]]
+
+'''Не хватает строки одной, смотреть в Hex.'''
+<pre>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Lines Count="487">
+<Line StartPos="762" Length="50" Skip="false">
+ <Translated>Выберите интересующего монстра.</Translated>
+ </Line>
+<Line StartPos="1029" Length="11" Skip="false">
+ <Translated>Baby_Sheryl</Translated>
+ </Line>
+<Line StartPos="1210" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="1227" Length="12" Skip="false">
+ <Translated>О, Клиф.</Translated>
+ </Line>
+<Line StartPos="1244" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1271" Length="28" Skip="false">
+ <Translated>Ты здесь читаешь?</Translated>
+ </Line>
+<Line StartPos="1313" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="1330" Length="76" Skip="false">
+ <Translated>Да. Ведь все книги из нашего дома забрали.</Translated>
+ </Line>
+<Line StartPos="1411" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1438" Length="73" Skip="false">
+ <Translated>Постарайся собрать информацию. Аой-сан и Люси-сан тоже стараются.</Translated>
+ </Line>
+<Line StartPos="1525" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="1542" Length="17" Skip="false">
+ <Translated>Да... Знаю.</Translated>
+ </Line>
+<Line StartPos="1589" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1616" Length="30" Skip="false">
+ <Translated>Сегодня снова читаешь?</Translated>
+ </Line>
+<Line StartPos="1660" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="1677" Length="62" Skip="false">
+ <Translated>Да. Я очень рада, что здесь собрано много книг.</Translated>
+ </Line>
+<Line StartPos="1744" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1771" Length="41" Skip="false">
+ <Translated>Не слышала ни каких слухов или чего-нибудь полезного?</Translated>
+ </Line>
+<Line StartPos="1826" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="1843" Length="13" Skip="false">
+ <Translated>Ой... Эм...</Translated>
+ </Line>
+<Line StartPos="1861" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1888" Length="27" Skip="false">
+ <Translated>Пожалуйста, постарайся тоже.</Translated>
+ </Line>
+<Line StartPos="1920" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="1937" Length="15" Skip="false">
+ <Translated>Хорошо.</Translated>
+ </Line>
+<Line StartPos="1973" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2000" Length="29" Skip="false">
+ <Translated>Что сегодня читаешь?</Translated>
+ </Line>
+<Line StartPos="2043" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="2060" Length="99" Skip="false">
+ <Translated>Я нашла рецепт приготовления цыплёнка. Думаю сделать его, должно получиться вкусно.</Translated>
+ </Line>
+<Line StartPos="2164" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="2181" Length="62" Skip="false">
+ <Translated>Это всё, что я могу сделать для вас сейчас.</Translated>
+ </Line>
+<Line StartPos="2257" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="2274" Length="40" Skip="false">
+ <Translated>Надейся, чтобы сегодня была моя очередь готовить, хорошо?</Translated>
+ </Line>
+<Line StartPos="2319" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2346" Length="38" Skip="false">
+ <Translated>Да. Я надеюсь.</Translated>
+ </Line>
+<Line StartPos="2414" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="2431" Length="34" Skip="false">
+ <Translated>Эй... Со Школой всё нормально?</Translated>
+ </Line>
+<Line StartPos="2470" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2497" Length="6" Skip="false">
+ <Translated>Что?</Translated>
+ </Line>
+<Line StartPos="2517" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="2534" Length="65" Skip="false">
+ <Translated>Ну, ты ведь знаешь, что на Школу положил глаз агент по продаже недвижимости.</Translated>
+ </Line>
+<Line StartPos="2604" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2631" Length="8" Skip="false">
+ <Translated>Хм...</Translated>
+ </Line>
+<Line StartPos="2644" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2662" Length="70" Skip="false">
+ <Translated>Думаю всё хорошо, у нас ведь есть Вилл-сенсей и Айри-сенсей...</Translated>
+ </Line>
+<Line StartPos="2737" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2764" Length="59" Skip="false">
+ <Translated>Но я позже схожу в Школу, проверю всё ли в порядке.</Translated>
+ </Line>
+<Line StartPos="2837" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="2854" Length="15" Skip="false">
+ <Translated>Да, пожалуйста.</Translated>
+ </Line>
+<Line StartPos="2892" Length="24" Skip="false">
+ <Translated>Мина внимательно читает.</Translated>
+ </Line>
+<Line StartPos="2919" Length="36" Skip="false">
+ <Translated>Не буду её отвлекать. Я ухожу.</Translated>
+ </Line>
+<Line StartPos="3061" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="3080" Length="18" Skip="false">
+ <Translated>О, Клиф-сан...</Translated>
+ </Line>
+<Line StartPos="3103" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3130" Length="13" Skip="false">
+ <Translated>Шерил?</Translated>
+ </Line>
+<Line StartPos="3150" Length="83" Skip="false">
+ <Translated>На мгновение я заволновался, вдруг её кто-нибудь увидит, но, похоже, здесь никого нет.</Translated>
+ </Line>
+<Line StartPos="3238" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3265" Length="26" Skip="false">
+ <Translated>Что ты тут делаешь?</Translated>
+ </Line>
+<Line StartPos="3305" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="3324" Length="64" Skip="false">
+ <Translated>Я хочу кое-что прочитать, но не могу взять книгу.</Translated>
+ </Line>
+<Line StartPos="3395" Length="50" Skip="false">
+ <Translated>Ничего не поделаешь, она ведь призрак.</Translated>
+ </Line>
+<Line StartPos="3450" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3477" Length="40" Skip="false">
+ <Translated>Я возьму. Какую брать?</Translated>
+ </Line>
+<Line StartPos="3531" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+ <Line StartPos="3550" Length="87" Skip="false">
+ <Translated>Спасибо. Мне нужна книга «История Филандии, Том 1», она на верхней полке.</Translated>
+ </Line>
+<Line StartPos="3642" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3669" Length="15" Skip="false">
+ <Translated>Хорошо.</Translated>
+ </Line>
+<Line StartPos="3691" Length="46" Skip="false">
+ <Translated>Шерил указала на толстую книгу, стоящую на верхней полке.</Translated>
+ </Line>
+<Line StartPos="3742" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3769" Length="42" Skip="false">
+ <Translated>Если попытаюсь достать её, наверное, потяну спину...</Translated>
+ </Line>
+<Line StartPos="3818" Length="25" Skip="false">
+ <Translated>Мне удалось достать книгу.</Translated>
+ </Line>
+<Line StartPos="3857" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="3876" Length="12" Skip="false">
+ <Translated>Спасибо.</Translated>
+ </Line>
+<Line StartPos="3893" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3920" Length="17" Skip="false">
+ <Translated>Не за что.</Translated>
+ </Line>
+<Line StartPos="3944" Length="49" Skip="false">
+ <Translated>Думаю, таким же образом придётся, класть книгу на место.</Translated>
+ </Line>
+<Line StartPos="4016" Length="31" Skip="false">
+ <Translated>Шерил читает толстую книгу.</Translated>
+ </Line>
+<Line StartPos="4054" Length="58" Skip="false">
+ <Translated>Кажется, она уже долго читает одну и туже страницу...</Translated>
+ </Line>
+<Line StartPos="4126" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="4145" Length="18" Skip="false">
+ <Translated>О, Клиф-сан.</Translated>
+ </Line>
+<Line StartPos="4168" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="4195" Length="29" Skip="false">
+ <Translated>Шерил, что ты делаешь?</Translated>
+ </Line>
+<Line StartPos="4238" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="4257" Length="38" Skip="false">
+ <Translated>Жду, пока подует ветерок.</Translated>
+ </Line>
+<Line StartPos="4300" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="4327" Length="7" Skip="false">
+ <Translated>Ветерок?</Translated>
+ </Line>
+<Line StartPos="4348" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="4367" Length="31" Skip="false">
+ <Translated>Я не могу переворачивать страницы, поэтому...</Translated>
+ </Line>
+<Line StartPos="4403" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="4430" Length="11" Skip="false">
+ <Translated>...</Translated>
+ </Line>
+<Line StartPos="4448" Length="40" Skip="false">
+ <Translated>Я перелистнул страницу для Шерил.</Translated>
+ </Line>
+<Line StartPos="4530" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="4557" Length="27" Skip="false">
+ <Translated>Что ты ищешь?</Translated>
+ </Line>
+<Line StartPos="4598" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="4617" Length="46" Skip="false">
+ <Translated>Ну... Я о себе ничего не знаю, поэтому...</Translated>
+ </Line>
+<Line StartPos="4668" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="4695" Length="12" Skip="false">
+ <Translated>Правда?</Translated>
+ </Line>
+<Line StartPos="4721" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="4740" Length="65" Skip="false">
+ <Translated>Да. Поэтому я читаю книги, может они помогут мне что-нибудь вспомнить.</Translated>
+ </Line>
+<Line StartPos="4810" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="4837" Length="39" Skip="false">
+ <Translated>Не торопись. Я помогу тебе.</Translated>
+ </Line>
+<Line StartPos="4890" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="4909" Length="12" Skip="false">
+ <Translated>Спасибо.</Translated>
+ </Line>
+<Line StartPos="4944" Length="38" Skip="false">
+ <Translated>Сегодня мы снова изучаем историю.</Translated>
+ </Line>
+<Line StartPos="4996" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="5015" Length="35" Skip="false">
+ <Translated>Так значит, здесь раньше была война...</Translated>
+ </Line>
+<Line StartPos="5055" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5082" Length="69" Skip="false">
+ <Translated>Да... Последние упоминания датированы столетием назад...</Translated>
+ </Line>
+<Line StartPos="5158" Length="53" Skip="false">
+ <Translated>Похоже, всё вокруг было охвачено пламенем.</Translated>
+ </Line>
+<Line StartPos="5225" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="5244" Length="7" Skip="false">
+ <Translated>Ой...</Translated>
+ </Line>
+<Line StartPos="5256" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5283" Length="15" Skip="false">
+ <Translated>Что такое?</Translated>
+ </Line>
+<Line StartPos="5312" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="5331" Length="47" Skip="false">
+ <Translated>Кажется, будто сцена битвы, промелькнула у меня перед глазами...</Translated>
+ </Line>
+<Line StartPos="5383" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5410" Length="13" Skip="false">
+ <Translated>Сцена битвы?..</Translated>
+ </Line>
+<Line StartPos="5437" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="5456" Length="34" Skip="false">
+ <Translated>Не знаю. Образы уже пропали.</Translated>
+ </Line>
+<Line StartPos="5495" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5522" Length="7" Skip="false">
+ <Translated>Ох...</Translated>
+ </Line>
+<Line StartPos="5536" Length="32" Skip="false">
+ <Translated>В изумлении, Шерил наклонила голову.</Translated>
+ </Line>
+<Line StartPos="5598" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="5617" Length="39" Skip="false">
+ <Translated>О, Клиф-сан. Можно тебя попросить?</Translated>
+ </Line>
+<Line StartPos="5661" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5688" Length="13" Skip="false">
+ <Translated>Что такое?</Translated>
+ </Line>
+<Line StartPos="5708" Length="39" Skip="false">
+ <Translated>Я уже знаю, что она попросит.</Translated>
+ </Line>
+<Line StartPos="5761" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="5780" Length="29" Skip="false">
+ <Translated>Можешь положить книгу на место?</Translated>
+ </Line>
+<Line StartPos="5814" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5841" Length="12" Skip="false">
+ <Translated>Хорошо.</Translated>
+ </Line>
+<Line StartPos="5860" Length="14" Skip="false">
+ <Translated>Как я и думал.</Translated>
+ </Line>
+<Line StartPos="5877" Length="81" Skip="false">
+ <Translated>Я кладу книгу «История Филандии, Том 1» обратно на полку.</Translated>
+ </Line>
+<Line StartPos="5972" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+ <Line StartPos="5991" Length="33" Skip="false">
+ <Translated>Спасибо. А теперь можно Том 2?...</Translated>
+ </Line>
+<Line StartPos="6029" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="6056" Length="12" Skip="false">
+ <Translated>Хорошо.</Translated>
+ </Line>
+<Line StartPos="6075" Length="23" Skip="false">
+ <Translated>Это было неожиданно.</Translated>
+ </Line>
+<Line StartPos="6203" Length="79" Skip="false">
+ <Translated>Шерил читает толстую книгу, под названием «История Филандии».</Translated>
+ </Line>
+<Line StartPos="6296" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="6315" Length="18" Skip="false">
+ <Translated>О, Клиф-сан...</Translated>
+ </Line>
+<Line StartPos="6338" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="6365" Length="68" Skip="false">
+ <Translated>Ты снова читаешь историю? Выяснила что-нибудь?</Translated>
+ </Line>
+<Line StartPos="6447" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="6466" Length="24" Skip="false">
+ <Translated>Хм... Не знаю...</Translated>
+ </Line>
+<Line StartPos="6504" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="6523" Length="55" Skip="false">
+ <Translated>Иногда я почти вспомню что-то, но...</Translated>
+ </Line>
+<Line StartPos="6583" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="6610" Length="43" Skip="false">
+ <Translated>Надеюсь, к тебе скоро вернётся память.</Translated>
+ </Line>
+<Line StartPos="6667" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="6686" Length="12" Skip="false">
+ <Translated>Я тоже.</Translated>
+ </Line>
+<Line StartPos="6705" Length="31" Skip="false">
+ <Translated>Шерил как всегда настроена оптимистично.</Translated>
+ </Line>
+<Line StartPos="6782" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="6801" Length="36" Skip="false">
+ <Translated>Эм... Не мог бы ты подать другую книгу?</Translated>
+ </Line>
+<Line StartPos="6842" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="6869" Length="24" Skip="false">
+ <Translated>Конечно. Какую?</Translated>
+ </Line>
+<Line StartPos="6907" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="6926" Length="61" Skip="false">
+ <Translated>Она называется, "Легенды о Ведьмах".</Translated>
+ </Line>
+<Line StartPos="6992" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="7019" Length="26" Skip="false">
+ <Translated>Странная книга...</Translated>
+ </Line>
+<Line StartPos="7059" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="7078" Length="52" Skip="false">
+ <Translated>Да... Но она будто притягивает меня.</Translated>
+ </Line>
+<Line StartPos="7137" Length="35" Skip="false">
+ <Translated>Наверное, Шерил любит странные книги.</Translated>
+ </Line>
+<Line StartPos="7232" Length="30" Skip="false">
+ <Translated>Сегодня я помогаю Шерил читать.</Translated>
+ </Line>
+<Line StartPos="7267" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="7294" Length="28" Skip="false">
+ <Translated>Надо же... Я этого не знал.</Translated>
+ </Line>
+<Line StartPos="7329" Length="62" Skip="false">
+ <Translated>Я листаю книгу «Легенды о ведьмах».</Translated>
+ </Line>
+<Line StartPos="7402" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="7429" Length="21" Skip="false">
+ <Translated>Ирина... Михайлова?</Translated>
+ </Line>
+<Line StartPos="7472" Length="83" Skip="false">
+ <Translated>Ведьма по имени Ирина, забирала жизни у людей, чтобы получить бессмертие.</Translated>
+ </Line>
+<Line StartPos="7558" Length="59" Skip="false">
+ <Translated>Похоже, её победили Охотники, но...</Translated>
+ </Line>
+<Line StartPos="7631" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="7650" Length="7" Skip="false">
+ <Translated>Ой...</Translated>
+ </Line>
+<Line StartPos="7662" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="7689" Length="23" Skip="false">
+ <Translated>Шерил? Что такое?</Translated>
+ </Line>
+<Line StartPos="7726" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="7745" Length="29" Skip="false">
+ <Translated>Похоже, я её знала...</Translated>
+ </Line>
+<Line StartPos="7779" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="7806" Length="20" Skip="false">
+ <Translated>Шерил? Правда?..</Translated>
+ </Line>
+<Line StartPos="7840" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="7859" Length="50" Skip="false">
+ <Translated>Да... Кажется, я слышала её имя раньше.</Translated>
+ </Line>
+<Line StartPos="7923" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="7942" Length="31" Skip="false">
+ <Translated>Оно звучит... так знакомо...</Translated>
+ </Line>
+<Line StartPos="7978" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="8005" Length="7" Skip="false">
+ <Translated>Ох...</Translated>
+ </Line>
+<Line StartPos="8026" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="8045" Length="45" Skip="false">
+ <Translated>Почему я испытываю тёплые чувства к такой беспощадной ведьме?..</Translated>
+ </Line>
+<Line StartPos="8104" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="8123" Length="56" Skip="false">
+ <Translated>Может, на самом деле, моя истинная личность – ужасна...</Translated>
+ </Line>
+<Line StartPos="8184" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="8211" Length="46" Skip="false">
+ <Translated>Шерил, не стоит об этом волноваться...</Translated>
+ </Line>
+<Line StartPos="8264" Length="54" Skip="false">
+ <Translated>Возможно, это ключ к возвращению памяти Шерил.</Translated>
+ </Line>
+<Line StartPos="8377" Length="63" Skip="false">
+ <Translated>Мы искали книги, связанные с Ириной, но...</Translated>
+ </Line>
+<Line StartPos="8445" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="8472" Length="57" Skip="false">
+ <Translated>Мы находим всё более ужасные истории о ней...</Translated>
+ </Line>
+<Line StartPos="8536" Length="81" Skip="false">
+ <Translated>Ведьма разрушения и жестокости, символ уничтожения... Ужаснейшая ведьма всех времён.</Translated>
+ </Line>
+<Line StartPos="8624" Length="52" Skip="false">
+ <Translated>Все эти прозвища даны Ирине.</Translated>
+ </Line>
+<Line StartPos="8690" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="8709" Length="9" Skip="false">
+ <Translated>Почему?</Translated>
+ </Line>
+<Line StartPos="8732" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="8751" Length="55" Skip="false">
+ <Translated>Почему она кажется мне такой знакомой и близкой?..</Translated>
+ </Line>
+<Line StartPos="8813" Length="30" Skip="false">
+ <Translated>Похоже, Шерил в замешательстве...</Translated>
+ </Line>
+<Line StartPos="8891" Length="59" Skip="false">
+ <Translated>Шерил ждёт, когда ветерок перелистнёт страницу.</Translated>
+ </Line>
+<Line StartPos="8955" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="8982" Length="26" Skip="false">
+ <Translated>Я переверну её.</Translated>
+ </Line>
+<Line StartPos="9022" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="9041" Length="18" Skip="false">
+ <Translated>О, спасибо.</Translated>
+ </Line>
+<Line StartPos="9135" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="9154" Length="16" Skip="false">
+ <Translated>О, Клиф-сан.</Translated>
+ </Line>
+<Line StartPos="9175" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="9202" Length="36" Skip="false">
+ <Translated>Снова читаешь об Ирине?</Translated>
+ </Line>
+<Line StartPos="9252" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="9271" Length="60" Skip="false">
+ <Translated>Да, хочу изучить не спеша, главное не пугаться.</Translated>
+ </Line>
+<Line StartPos="9345" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="9364" Length="70" Skip="false">
+ <Translated>Мне нечего бояться, неважно, кем я могу быть... Правда?</Translated>
+ </Line>
+<Line StartPos="9439" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="9466" Length="26" Skip="false">
+ <Translated>Да, правильно. Удачи.</Translated>
+ </Line>
+<Line StartPos="9506" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="9525" Length="30" Skip="false">
+ <Translated>Да... Спасибо, Клиф-сан.</Translated>
+ </Line>
+<Line StartPos="9569" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="9588" Length="44" Skip="false">
+ <Translated>Эм... Не мог бы ты снова перевернуть страницу?..</Translated>
+ </Line>
+<Line StartPos="9637" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="9664" Length="21" Skip="false">
+ <Translated>Ха-ха... Хорошо.</Translated>
+ </Line>
+<Line StartPos="9717" Length="45" Skip="false">
+ <Translated>Сегодня, мы снова занялись исследованиями в библиотеке.</Translated>
+ </Line>
+<Line StartPos="9765" Length="31" Skip="false">
+ <Translated>Мы ничего не нашли.</Translated>
+ </Line>
+<Line StartPos="9911" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="9930" Length="33" Skip="false">
+ <Translated>О, Клиф-сан. Я нашла работу.</Translated>
+ </Line>
+<Line StartPos="9968" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="9995" Length="28" Skip="false">
+ <Translated>Работу? Какую?</Translated>
+ </Line>
+<Line StartPos="10037" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="10056" Length="84" Skip="false">
+ <Translated>Библиотекаря. Я ведь знаю всю коллекцию книг здесь.</Translated>
+ </Line>
+<Line StartPos="10145" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="10172" Length="68" Skip="false">
+ <Translated>Ну, ещё бы не знать, ты ходишь сюда каждый день.</Translated>
+ </Line>
+<Line StartPos="10254" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="10273" Length="24" Skip="false">
+ <Translated>Ха-ха-ха... Ты прав.</Translated>
+ </Line>
+<Line StartPos="10302" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="10329" Length="45" Skip="false">
+ <Translated>Замечательно, что ты нашла работу. Удачи.</Translated>
+ </Line>
+<Line StartPos="10388" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="10407" Length="12" Skip="false">
+ <Translated>Спасибо!</Translated>
+ </Line>
+<Line StartPos="10456" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="10483" Length="39" Skip="false">
+ <Translated>Мина тоже хотела быть библиотекарем.</Translated>
+ </Line>
+<Line StartPos="10536" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="10555" Length="9" Skip="false">
+ <Translated>Правда?</Translated>
+ </Line>
+<Line StartPos="10569" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="10596" Length="76" Skip="false">
+ <Translated>Но Мина знала, что начнёт читать во время работы, поэтому она отказалась от этой идеи.</Translated>
+ </Line>
+<Line StartPos="10686" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="10705" Length="30" Skip="false">
+ <Translated>Ха-ха-ха. Это похоже на неё.</Translated>
+ </Line>
+<Line StartPos="10781" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="10800" Length="35" Skip="false">
+ <Translated>Эм... Ты ищешь книгу?</Translated>
+ </Line>
+<Line StartPos="10840" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="10867" Length="41" Skip="false">
+ <Translated>Нет... Я пришёл увидеть тебя.</Translated>
+ </Line>
+<Line StartPos="10922" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="10941" Length="86" Skip="false">
+ <Translated>Ох... Я так рада это слышать, но ты будешь мешать другим посетителям. Поэтому...</Translated>
+ </Line>
+<Line StartPos="11032" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="11059" Length="32" Skip="false">
+ <Translated>Ой, да, и правда. Извини...</Translated>
+ </Line>
+<Line StartPos="11130" Length="44" Skip="false">
+ <Translated>Зайдя в библиотеку, я почувствовал прохладу.</Translated>
+ </Line>
+<Line StartPos="11186" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="11205" Length="18" Skip="false">
+ <Translated>О, Клиф-сан.</Translated>
+ </Line>
+<Line StartPos="11228" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="11255" Length="31" Skip="false">
+ <Translated>Спасибо что стараешься на работе, Шерил.</Translated>
+ </Line>
+<Line StartPos="11291" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="11318" Length="55" Skip="false">
+ <Translated>Кстати... Здесь намного прохладней, чем на улице.</Translated>
+ </Line>
+<Line StartPos="11380" Length="50" Skip="false">
+ <Translated>Наверное, поэтому здесь и людей больше.</Translated>
+ </Line>
+<Line StartPos="11444" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="11463" Length="98" Skip="false">
+ <Translated>Когда никого не было, я применила ледяное заклинание. Теперь температура здесь комфортная.</Translated>
+ </Line>
+<Line StartPos="11568" Length="41" Skip="false">
+ <Translated>Разве это не заклинания для уничтожения монстров?</Translated>
+ </Line>
+<Line StartPos="11713" Length="48" Skip="false">
+ <Translated>Шерил, как всегда, блуждает по библиотеке.</Translated>
+ </Line>
+<Line StartPos="11766" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="11793" Length="60" Skip="false">
+ <Translated>Шерил... А это нормально, ходить здесь так?</Translated>
+ </Line>
+<Line StartPos="11867" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="11886" Length="81" Skip="false">
+ <Translated>Да. Здесь практически ни кого нет, а те, кто остались, увлечены чтением.</Translated>
+ </Line>
+<Line StartPos="11972" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="11999" Length="41" Skip="false">
+ <Translated>Постарайся чтобы тебя не увидели и не устроили переполох.</Translated>
+ </Line>
+<Line StartPos="12054" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="12073" Length="29" Skip="false">
+ <Translated>Хорошо, я буду осторожна.</Translated>
+ </Line>
+<Line StartPos="12132" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="12151" Length="43" Skip="false">
+ <Translated>Эм... А что будет, если меня кто-нибудь увидит?</Translated>
+ </Line>
+<Line StartPos="12199" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="12226" Length="43" Skip="false">
+ <Translated>Ну... Думаю, ты станешь причиной серьёзного переполоха.</Translated>
+ </Line>
+<Line StartPos="12274" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="12301" Length="62" Skip="false">
+ <Translated>Может они потом успокоятся, когда поймут, что ты безобидна, но...</Translated>
+ </Line>
+<Line StartPos="12368" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="12395" Length="74" Skip="false">
+ <Translated>Они могут обратиться в Школу, с просьбой разобраться с призраком в библиотеке.</Translated>
+ </Line>
+<Line StartPos="12483" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="12502" Length="27" Skip="false">
+ <Translated>Это может стать проблемой...</Translated>
+ </Line>
+<Line StartPos="12534" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="12561" Length="21" Skip="false">
+ <Translated>Так что будь осторожна, хорошо?</Translated>
+ </Line>
+<Line StartPos="12587" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="12606" Length="14" Skip="false">
+ <Translated>Хорошо.</Translated>
+ </Line>
+<Line StartPos="12643" Length="78" Skip="false">
+ <Translated>Библиотека как всегда пуста. У Шерил, похоже, это место сейчас как пристанище.</Translated>
+ </Line>
+<Line StartPos="12735" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="12754" Length="18" Skip="false">
+ <Translated>О, Клиф-сан...</Translated>
+ </Line>
+<Line StartPos="12777" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="12804" Length="42" Skip="false">
+ <Translated>Здесь как всегда малолюдно.</Translated>
+ </Line>
+<Line StartPos="12860" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="12879" Length="52" Skip="false">
+ <Translated>Ага. Всего несколько человек.</Translated>
+ </Line>
+<Line StartPos="12945" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="12964" Length="55" Skip="false">
+ <Translated>Сегодня здесь был только хозяин Оружейной лавки.</Translated>
+ </Line>
+<Line StartPos="13026" Length="57" Skip="false">
+ <Translated>Тогда всё должно быть нормально, поскольку он знает о Шерил, но...</Translated>
+ </Line>
+<Line StartPos="13088" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="13115" Length="60" Skip="false">
+ <Translated>Всё равно... Будь осторожна, не дай себя обнаружить.</Translated>
+ </Line>
+<Line StartPos="13189" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="13208" Length="14" Skip="false">
+ <Translated>Да. Знаю.</Translated>
+ </Line>
+<Line StartPos="13236" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="13255" Length="75" Skip="false">
+ <Translated>Но... Почему люди так сильно ненавидят меня, из-за того что я призрак?</Translated>
+ </Line>
+<Line StartPos="13344" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="13363" Length="36" Skip="false">
+ <Translated>Разве призраки не имеют ни на что права?..</Translated>
+ </Line>
+<Line StartPos="13406" Length="22" Skip="false">
+ <Translated>Обычно нет...</Translated>
+ </Line>
+<Line StartPos="13460" Length="51" Skip="false">
+ <Translated>Я заметил, что в библиотеке необычно прохладно.</Translated>
+ </Line>
+<Line StartPos="13516" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="13543" Length="48" Skip="false">
+ <Translated>Эй, Шерил... Почему здесь так прохладно?</Translated>
+ </Line>
+<Line StartPos="13605" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="13624" Length="59" Skip="false">
+ <Translated>Я применила ледяное заклинание, пока никого не было.</Translated>
+ </Line>
+<Line StartPos="13688" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="13715" Length="9" Skip="false">
+ <Translated>Зачем?</Translated>
+ </Line>
+<Line StartPos="13738" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="13757" Length="50" Skip="false">
+ <Translated>Думаю, таким образом, мы привлечём посетителей...</Translated>
+ </Line>
+<Line StartPos="13812" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="13839" Length="82" Skip="false">
+ <Translated>Но чем больше будет людей, тем больше шансов что тебя обнаружат.</Translated>
+ </Line>
+<Line StartPos="13935" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="13954" Length="58" Skip="false">
+ <Translated>Но это шанс показать, что я полезный призрак.</Translated>
+ </Line>
+<Line StartPos="14026" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="14045" Length="43" Skip="false">
+ <Translated>Скучно всё время прятаться...</Translated>
+ </Line>
+<Line StartPos="14095" Length="59" Skip="false">
+ <Translated>Верно. Не думаю, что можно вечно прятать Шерил от всех.</Translated>
+ </Line>
+<Line StartPos="14159" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="14186" Length="48" Skip="false">
+ <Translated>Хорошо. Поступай как знаешь, но будь осторожна.</Translated>
+ </Line>
+<Line StartPos="14239" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="14266" Length="69" Skip="false">
+ <Translated>Главное смотри, чтобы нам не дали работу по уничтожению приведения в библиотеке.</Translated>
+ </Line>
+<Line StartPos="14349" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="14368" Length="12" Skip="false">
+ <Translated>Хорошо.</Translated>
+ </Line>
+<Line StartPos="14449" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="14468" Length="18" Skip="false">
+ <Translated>О, Клиф-сан...</Translated>
+ </Line>
+<Line StartPos="14493" Length="31" Skip="false">
+ <Translated>Шерил выглядит печальной...</Translated>
+ </Line>
+<Line StartPos="14529" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="14556" Length="60" Skip="false">
+ <Translated>С тобой всё нормально? Эм... В этот раз враг... твоя...</Translated>
+ </Line>
+<Line StartPos="14630" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="14649" Length="25" Skip="false">
+ <Translated>Всё в порядке. Я готова.</Translated>
+ </Line>
+<Line StartPos="14688" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="14707" Length="57" Skip="false">
+ <Translated>Я не хочу, чтобы подобная трагедия повторилась вновь...</Translated>
+ </Line>
+<Line StartPos="14778" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="14797" Length="48" Skip="false">
+ <Translated>И... Я не хочу её игнорировать.</Translated>
+ </Line>
+<Line StartPos="14850" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="14877" Length="23" Skip="false">
+ <Translated>Да, ты права...</Translated>
+ </Line>
+<Line StartPos="14907" Length="42" Skip="false">
+ <Translated>Но... Она должна победить свою мать...</Translated>
+ </Line>
+<Line StartPos="14954" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="14981" Length="39" Skip="false">
+ <Translated>Скажи мне, если я чем-то могу помочь.</Translated>
+ </Line>
+<Line StartPos="15034" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="15053" Length="19" Skip="false">
+ <Translated>Да. Спасибо...</Translated>
+ </Line>
+<Line StartPos="15079" Length="53" Skip="false">
+ <Translated>С этого момента, я буду поддерживать Шерил.</Translated>
+ </Line>
+<Line StartPos="15139" Length="41" Skip="false">
+ <Translated>Это всё, что я могу сейчас сделать.</Translated>
+ </Line>
+<Line StartPos="15277" Length="26" Skip="false">
+ <Translated>Шерил бродит по библиотеке.</Translated>
+ </Line>
+<Line StartPos="15310" Length="26" Skip="false">
+ <Translated>Никто её не заметил?..</Translated>
+ </Line>
+<Line StartPos="15412" Length="34" Skip="false">
+ <Translated>Расстроенная Шерил сидит в углу.</Translated>
+ </Line>
+<Line StartPos="15449" Length="34" Skip="false">
+ <Translated>Я не знаю, что ей сказать...</Translated>
+ </Line>
+<Line StartPos="15520" Length="40" Skip="false">
+ <Translated>Сегодня, я снова искал информацию об Ирине.</Translated>
+ </Line>
+<Line StartPos="15574" Length="3" Skip="false">
+ <Translated>Мужчина</Translated>
+ </Line>
+<Line StartPos="15590" Length="44" Skip="false">
+ <Translated>Ты интересуешься необычными вещами.</Translated>
+ </Line>
+<Line StartPos="15639" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="15666" Length="6" Skip="false">
+ <Translated>Что?</Translated>
+ </Line>
+<Line StartPos="15697" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="15724" Length="30" Skip="false">
+ <Translated>Ой, эм... Это вы, Вайзор-сан?</Translated>
+ </Line>
+<Line StartPos="15768" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="15786" Length="30" Skip="false">
+ <Translated>Я рад, что ты меня помнишь.</Translated>
+ </Line>
+<Line StartPos="15821" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="15848" Length="70" Skip="false">
+ <Translated>Ах, да, вы говорили, что тоже интересуетесь ведьмами?</Translated>
+ </Line>
+<Line StartPos="15932" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="15950" Length="52" Skip="false">
+ <Translated>Да... Меня интересует всё, что связано с Ириной.</Translated>
+ </Line>
+<Line StartPos="16027" Length="3" Skip="false">
+ <Translated>Мужчина</Translated>
+ </Line>
+<Line StartPos="16043" Length="80" Skip="false">
+ <Translated>Извините... Мне просто стало интересно, потому что вы читаете книги об Ирине.</Translated>
+ </Line>
+<Line StartPos="16128" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="16155" Length="32" Skip="false">
+ <Translated>Извините, но кто вы?</Translated>
+ </Line>
+<Line StartPos="16201" Length="3" Skip="false">
+ <Translated>Мужчина</Translated>
+ </Line>
+<Line StartPos="16217" Length="56" Skip="false">
+ <Translated>Меня зовут Вайзор. Я изучаю историю.</Translated>
+ </Line>
+<Line StartPos="16278" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="16305" Length="36" Skip="false">
+ <Translated>Меня зовут Клиф. Я Охотник.</Translated>
+ </Line>
+<Line StartPos="16355" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="16373" Length="17" Skip="false">
+ <Translated>Охотник... Ты?</Translated>
+ </Line>
+<Line StartPos="16397" Length="57" Skip="false">
+ <Translated>Такое ощущение, будто на мгновение Вайзор-сан пронзил меня взглядом...</Translated>
+ </Line>
+<Line StartPos="16466" Length="48" Skip="false">
+ <Translated>Его лицо снова приняло спокойное выражение.</Translated>
+ </Line>
+<Line StartPos="16519" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="16546" Length="30" Skip="false">
+ <Translated>Охотников как всегда недолюбливают...</Translated>
+ </Line>
+<Line StartPos="16581" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="16599" Length="83" Skip="false">
+ <Translated>Ты интересуешься Ириной, Клиф-кун? Похоже, у тебя тут все книги, связанные с ней.</Translated>
+ </Line>
+<Line StartPos="16687" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="16714" Length="14" Skip="false">
+ <Translated>Ну, да...</Translated>
+ </Line>
+<Line StartPos="16733" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="16751" Length="73" Skip="false">
+ <Translated>Вы ведь изучаете историю. Значит, вы много знаете об Ирине?</Translated>
+ </Line>
+<Line StartPos="16838" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="16856" Length="59" Skip="false">
+ <Translated>Я знаю довольно много. Она — основная тема моих исследований.</Translated>
+ </Line>
+<Line StartPos="16929" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="16947" Length="35" Skip="false">
+ <Translated>Что тебе известно об Ирине?</Translated>
+ </Line>
+<Line StartPos="16987" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="17014" Length="75" Skip="false">
+ <Translated>Немного... Только, что её называли ужаснейшей ведьмой всех времён.</Translated>
+ </Line>
+<Line StartPos="17094" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="17112" Length="10" Skip="false">
+ <Translated>Понятно...</Translated>
+ </Line>
+<Line StartPos="17127" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="17154" Length="67" Skip="false">
+ <Translated>Эм... А вы не могли бы рассказать, что вам известно о ней?</Translated>
+ </Line>
+<Line StartPos="17241" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="17259" Length="52" Skip="false">
+ <Translated>Я не против. С чего бы мне начать...</Translated>
+ </Line>
+<Line StartPos="17337" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="17355" Length="101" Skip="false">
+ <Translated>Ирина - глава семьи Михайловых. Одной из Трёх Великий Семей, которые получили бессмертие.</Translated>
+ </Line>
+<Line StartPos="17461" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="17488" Length="61" Skip="false">
+ <Translated>Три Великие Семьи? Михайловы? Бессмертие?</Translated>
+ </Line>
+<Line StartPos="17563" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="17581" Length="26" Skip="false">
+ <Translated>Давай я объясню всё по порядку.</Translated>
+ </Line>
+<Line StartPos="17621" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="17639" Length="95" Skip="false">
+ <Translated>В состав Трёх Великих Семей входили: Михайловы, Дракулы и Сайфон.</Translated>
+ </Line>
+<Line StartPos="17739" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="17757" Length="106" Skip="false">
+ <Translated>Они придумали очень сильное волшебство — заклинание бессмертия.</Translated>
+ </Line>
+<Line StartPos="17868" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="17895" Length="17" Skip="false">
+ <Translated>Бессмертия?..</Translated>
+ </Line>
+<Line StartPos="17917" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="17935" Length="53" Skip="false">
+ <Translated>Да. Каждая из семей использовала свой уникальный метод.</Translated>
+ </Line>
+<Line StartPos="17993" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="18012" Length="98" Skip="false">
+ <Translated>Семья Сайфон превратилась в суккубов, они высасывают сексуальную силу у людей и питаются ней.</Translated>
+ </Line>
+<Line StartPos="18115" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="18134" Length="101" Skip="false">
+ <Translated>Семья Дракул превратилась в вампиров, они пьют человеческую кровь и живут за счёт этого.</Translated>
+ </Line>
+<Line StartPos="18240" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="18258" Length="92" Skip="false">
+ <Translated>А семья Михайловых превратилась в ведьм, которые крадут непосредственно жизненную силу людей.</Translated>
+ </Line>
+<Line StartPos="18355" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="18373" Length="62" Skip="false">
+ <Translated>Изменив своё тело, они смогли стать бессмертными.</Translated>
+ </Line>
+<Line StartPos="18440" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="18467" Length="66" Skip="false">
+ <Translated>Это значит, что они перестали быть людьми... По-моему, это плохая идея.</Translated>
+ </Line>
+<Line StartPos="18547" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="18565" Length="83" Skip="false">
+ <Translated>Три Великие Семьи боролись между собой за лидерство, но в итоге, всё было уничтожено.</Translated>
+ </Line>
+<Line StartPos="18672" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="18690" Length="30" Skip="false">
+ <Translated>В общем, это всё, что мне известно.</Translated>
+ </Line>
+<Line StartPos="18733" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="18760" Length="48" Skip="false">
+ <Translated>Ух ты... Вы много знаете.</Translated>
+ </Line>
+<Line StartPos="18822" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="18840" Length="60" Skip="false">
+ <Translated>Я пришёл в этот город, для поиска всего, что может быть связано с Ириной.</Translated>
+ </Line>
+<Line StartPos="18905" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="18923" Length="38" Skip="false">
+ <Translated>В этот город, где стоял её замок.</Translated>
+ </Line>
+<Line StartPos="18966" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="18993" Length="20" Skip="false">
+ <Translated>Замок... Ирины?</Translated>
+ </Line>
+<Line StartPos="19027" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="19045" Length="23" Skip="false">
+ <Translated>О, а ты не знал?</Translated>
+ </Line>
+<Line StartPos="19082" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="19100" Length="84" Skip="false">
+ <Translated>Старый замок в северной части леса... Он принадлежал Ирине.</Translated>
+ </Line>
+<Line StartPos="19189" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="19216" Length="10" Skip="false">
+ <Translated>Правда?!</Translated>
+ </Line>
+<Line StartPos="19231" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="19249" Length="98" Skip="false">
+ <Translated>Но мы не должны приближаться к замку. Похоже, в нём живут сильные монстры.</Translated>
+ </Line>
+<Line StartPos="19373" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="19400" Length="36" Skip="false">
+ <Translated>Да... Спасибо, за беспокойство.</Translated>
+ </Line>
+<Line StartPos="19453" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="19480" Length="41" Skip="false">
+ <Translated>Не переживайте. Мы не проиграем монстрам.</Translated>
+ </Line>
+<Line StartPos="19535" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="19553" Length="24" Skip="false">
+ <Translated>Ха-ха-ха. Звучит убедительно.</Translated>
+ </Line>
+<Line StartPos="19591" Length="5" Skip="false">
+ <Translated>Вайзор</Translated>
+ </Line>
+<Line StartPos="19609" Length="108" Skip="false">
+ <Translated>Я ухожу. Обращайся, если что-нибудь понадобиться. Я остановился у Бенжамина.</Translated>
+ </Line>
+<Line StartPos="19722" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="19749" Length="47" Skip="false">
+ <Translated>Правда? Пожелайте мне удачи.</Translated>
+ </Line>
+<Line StartPos="19801" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="19828" Length="37" Skip="false">
+ <Translated>Спасибо вам большое за всё.</Translated>
+ </Line>
+<Line StartPos="19876" Length="37" Skip="false">
+ <Translated>Он поклонился и вышел из библиотеки.</Translated>
+ </Line>
+<Line StartPos="19922" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="19949" Length="28" Skip="false">
+ <Translated>Вайзор-сан хороший и любезный человек.</Translated>
+ </Line>
+<Line StartPos="19991" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="20010" Length="29" Skip="false">
+ <Translated>Клиф-сан... Этот человек...</Translated>
+ </Line>
+<Line StartPos="20044" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="20071" Length="43" Skip="false">
+ <Translated>О, Шерил? Где ты была всё это время?</Translated>
+ </Line>
+<Line StartPos="20119" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="20146" Length="38" Skip="false">
+ <Translated>Я услышал много интересого.</Translated>
+ </Line>
+<Line StartPos="20198" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="20217" Length="33" Skip="false">
+ <Translated>Но этот человек выглядит пугающе...</Translated>
+ </Line>
+<Line StartPos="20255" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="20282" Length="15" Skip="false">
+ <Translated>Вайзор-сан?</Translated>
+ </Line>
+<Line StartPos="20304" Length="19" Skip="false">
+ <Translated>Он хороший человек.</Translated>
+ </Line>
+<Line StartPos="20377" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="20404" Length="41" Skip="false">
+ <Translated>Я слышал, что замок в лесу – дом Ирины.</Translated>
+ </Line>
+<Line StartPos="20450" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="20468" Length="72" Skip="false">
+ <Translated>Это как в поговорке «Не видишь леса за деревьями».</Translated>
+ </Line>
+<Line StartPos="20545" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="20564" Length="9" Skip="false">
+ <Translated>Да...</Translated>
+ </Line>
+<Line StartPos="20578" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="20605" Length="9" Skip="false">
+ <Translated>?..</Translated>
+ </Line>
+<Line StartPos="20645" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="20672" Length="15" Skip="false">
+ <Translated>О... Шерил.</Translated>
+ </Line>
+<Line StartPos="20701" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="20720" Length="16" Skip="false">
+ <Translated>Клиф-сан.</Translated>
+ </Line>
+<Line StartPos="20741" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="20768" Length="24" Skip="false">
+ <Translated>Читаешь книгу?</Translated>
+ </Line>
+<Line StartPos="20806" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="20825" Length="10" Skip="false">
+ <Translated>Да.</Translated>
+ </Line>
+<Line StartPos="20849" Length="6" Skip="false">
+ <Translated>Шерил</Translated>
+ </Line>
+<Line StartPos="20868" Length="86" Skip="false">
+ <Translated>Так замечательно, самостоятельно переворачивать страницы, а не ждать пока подует ветерок.</Translated>
+ </Line>
+<Line StartPos="20959" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="20986" Length="10" Skip="false">
+ <Translated>Ха-ха-ха.</Translated>
+ </Line>
+<Line StartPos="21017" Length="67" Skip="false">
+ <Translated>Похоже, здесь несколько человек. Все читают в тишине.</Translated>
+ </Line>
+<Line StartPos="21093" Length="12" Skip="false">
+ <Translated>Draw\0Library</Translated>
+ </Line>
+ </Lines>
+
+</pre>
+
+
+[[Men_at_Work 2|[Назад]]]

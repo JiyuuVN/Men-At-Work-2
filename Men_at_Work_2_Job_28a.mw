@@ -1,0 +1,1022 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="337">
+  <Line StartPos="1213" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1240" Length="27" Skip="false">
+    <Translated>Нет, нам ещё нельзя возвращаться!</Translated>
+  </Line>
+  <Line StartPos="1276" Length="18" Skip="false">
+    <Translated>Last_sh\0Castle_out</Translated>
+  </Line>
+  <Line StartPos="1297" Length="13" Skip="false">
+    <Translated>Main\0MidNight</Translated>
+  </Line>
+  <Line StartPos="1321" Length="7" Skip="false">
+    <Translated>Выйти?</Translated>
+  </Line>
+  <Line StartPos="1333" Length="6" Skip="false">
+    <Translated>Да\0Нет</Translated>
+  </Line>
+  <Line StartPos="1630" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1657" Length="33" Skip="false">
+    <Translated>Похоже, эту дверь не открыть.</Translated>
+  </Line>
+  <Line StartPos="1704" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="1723" Length="8" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="1746" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1763" Length="23" Skip="false">
+    <Translated>Шерил, что-то случилось?</Translated>
+  </Line>
+  <Line StartPos="1800" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="1819" Length="19" Skip="false">
+    <Translated>Ох, ничего.</Translated>
+  </Line>
+  <Line StartPos="1853" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1870" Length="39" Skip="false">
+    <Translated>С другой стороны что-нибудь есть?</Translated>
+  </Line>
+  <Line StartPos="1923" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="1942" Length="22" Skip="false">
+    <Translated>Я пойду посмотрю.</Translated>
+  </Line>
+  <Line StartPos="1969" Length="6" Skip="false">
+    <Translated>S_NULL</Translated>
+  </Line>
+  <Line StartPos="1984" Length="46" Skip="false">
+    <Translated>Шерил просунула верхнюю часть тела сквозь дверь.</Translated>
+  </Line>
+  <Line StartPos="2033" Length="71" Skip="false">
+    <Translated>Довольно интересно наблюдать, как её зад выпирает через большую металлическую дверь.</Translated>
+  </Line>
+  <Line StartPos="2119" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2136" Length="26" Skip="false">
+    <Translated>Куда ты смотришь?</Translated>
+  </Line>
+  <Line StartPos="2167" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2194" Length="22" Skip="false">
+    <Translated>Га?! Ох, простите!</Translated>
+  </Line>
+  <Line StartPos="2230" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="2249" Length="42" Skip="false">
+    <Translated>Полагаю, с той стороны тоже самое.</Translated>
+  </Line>
+  <Line StartPos="2306" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2323" Length="31" Skip="false">
+    <Translated>Тогда нет причин для беспокойства.</Translated>
+  </Line>
+  <Line StartPos="2368" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2384" Length="29" Skip="false">
+    <Translated>Давайте поищем в другом месте.</Translated>
+  </Line>
+  <Line StartPos="2709" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2736" Length="23" Skip="false">
+    <Translated>Аа? Дверь открыта.</Translated>
+  </Line>
+  <Line StartPos="2773" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2789" Length="55" Skip="false">
+    <Translated>Может быть, это из-за рычага в кафе «Терраса»?</Translated>
+  </Line>
+  <Line StartPos="2859" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2876" Length="12" Skip="false">
+    <Translated>Сокровища!</Translated>
+  </Line>
+  <Line StartPos="2902" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2919" Length="21" Skip="false">
+    <Translated>Я так не думаю...</Translated>
+  </Line>
+  <Line StartPos="2955" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="2973" Length="36" Skip="false">
+    <Translated>Мы собираемся снова попасть в ловушку?</Translated>
+  </Line>
+  <Line StartPos="3023" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="3042" Length="43" Skip="false">
+    <Translated>Всё нормально. Здесь нет никаких вещей.</Translated>
+  </Line>
+  <Line StartPos="3100" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3117" Length="23" Skip="false">
+    <Translated>Как ты об этом узнала?</Translated>
+  </Line>
+  <Line StartPos="3154" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="3173" Length="44" Skip="false">
+    <Translated>Аа? Ты же сама только что упомянула об этом.</Translated>
+  </Line>
+  <Line StartPos="3232" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3249" Length="28" Skip="false">
+    <Translated>Временами тебя трудно понять.</Translated>
+  </Line>
+  <Line StartPos="3291" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3307" Length="39" Skip="false">
+    <Translated>В любом случае, мы должны исследовать здесь всё.</Translated>
+  </Line>
+  <Line StartPos="3351" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3378" Length="17" Skip="false">
+    <Translated>Да. Идём.</Translated>
+  </Line>
+  <Line StartPos="3650" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3667" Length="23" Skip="false">
+    <Translated>Ого, удивительно.</Translated>
+  </Line>
+  <Line StartPos="3705" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3722" Length="28" Skip="false">
+    <Translated>Это совсем не канализация.</Translated>
+  </Line>
+  <Line StartPos="3764" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3780" Length="46" Skip="false">
+    <Translated>Похоже, оно было построено в древние времена.</Translated>
+  </Line>
+  <Line StartPos="3841" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="3859" Length="11" Skip="false">
+    <Translated>Большое!</Translated>
+  </Line>
+  <Line StartPos="3884" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="3903" Length="8" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="4174" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4190" Length="23" Skip="false">
+    <Translated>Похоже, это конец.</Translated>
+  </Line>
+  <Line StartPos="4218" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4245" Length="43" Skip="false">
+    <Translated>Давайте вернёмся, как закончим исследовать это место.</Translated>
+  </Line>
+  <Line StartPos="4303" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="4321" Length="13" Skip="false">
+    <Translated>Я есть хочу.</Translated>
+  </Line>
+  <Line StartPos="4348" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="4365" Length="44" Skip="false">
+    <Translated>Я что-нибудь приготовлю после того как вернёмся.</Translated>
+  </Line>
+  <Line StartPos="4424" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="4441" Length="40" Skip="false">
+    <Translated>Тогда давайте поскорее закончим поиски.</Translated>
+  </Line>
+  <Line StartPos="4662" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="4679" Length="22" Skip="false">
+    <Translated>Стена обрушилась.</Translated>
+  </Line>
+  <Line StartPos="4716" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4732" Length="32" Skip="false">
+    <Translated>Должны ли мы и здесь поискать?</Translated>
+  </Line>
+  <Line StartPos="4778" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="4797" Length="7" Skip="false">
+    <Translated>Ой...</Translated>
+  </Line>
+  <Line StartPos="4819" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="4836" Length="28" Skip="false">
+    <Translated>Что? Ты как-то странно себя ведёшь.</Translated>
+  </Line>
+  <Line StartPos="4869" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4896" Length="20" Skip="false">
+    <Translated>С тобой всё в порядке?</Translated>
+  </Line>
+  <Line StartPos="4930" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="4949" Length="54" Skip="false">
+    <Translated>Да... Но почему-то, моё сердце бьётся сильнее.</Translated>
+  </Line>
+  <Line StartPos="5018" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="5035" Length="38" Skip="false">
+    <Translated>У тебя вроде как нет настоящего сердца.</Translated>
+  </Line>
+  <Line StartPos="5087" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="5106" Length="21" Skip="false">
+    <Translated>Ой... Ты права.</Translated>
+  </Line>
+  <Line StartPos="5142" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="5158" Length="55" Skip="false">
+    <Translated>Господи. Прекратите глупые разговоры и давайте продолжим.</Translated>
+  </Line>
+  <Line StartPos="5449" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="5465" Length="19" Skip="false">
+    <Translated>Здесь тоже...</Translated>
+  </Line>
+  <Line StartPos="5499" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="5516" Length="36" Skip="false">
+    <Translated>Пейзаж совсем не изменился.</Translated>
+  </Line>
+  <Line StartPos="5566" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="5583" Length="21" Skip="false">
+    <Translated>Долго ещё это будет продолжаться?</Translated>
+  </Line>
+  <Line StartPos="5619" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="5637" Length="21" Skip="false">
+    <Translated>Странно...</Translated>
+  </Line>
+  <Line StartPos="5663" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5690" Length="19" Skip="false">
+    <Translated>Будьте осторожны.</Translated>
+  </Line>
+  <Line StartPos="6332" Length="13" Skip="false">
+    <Translated>SewerToCastle</Translated>
+  </Line>
+  <Line StartPos="6385" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="6404" Length="10" Skip="false">
+    <Translated>?!!</Translated>
+  </Line>
+  <Line StartPos="6429" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6446" Length="30" Skip="false">
+    <Translated>Шерил, да что не так?</Translated>
+  </Line>
+  <Line StartPos="6490" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="6509" Length="61" Skip="false">
+    <Translated>Теперь точно могу сказать... Я здесь что-то чувствую.</Translated>
+  </Line>
+  <Line StartPos="6585" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="6602" Length="30" Skip="false">
+    <Translated>Что-то? Что ты хочешь сказать?</Translated>
+  </Line>
+  <Line StartPos="6646" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="6665" Length="45" Skip="false">
+    <Translated>Я не знаю. Я чувствую какое-то зло, и...</Translated>
+  </Line>
+  <Line StartPos="6728" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="6747" Length="26" Skip="false">
+    <Translated>Что-то очень знакомое.</Translated>
+  </Line>
+  <Line StartPos="6787" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="6805" Length="18" Skip="false">
+    <Translated>Ух ты, звучит весело!</Translated>
+  </Line>
+  <Line StartPos="6838" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6855" Length="62" Skip="false">
+    <Translated>Нам стоит поискать поблизости. Давайте продолжим.</Translated>
+  </Line>
+  <Line StartPos="6931" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6947" Length="55" Skip="false">
+    <Translated>Но будьте осторожны. Я тоже ощущаю злое присутствие.</Translated>
+  </Line>
+  <Line StartPos="7007" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7034" Length="12" Skip="false">
+    <Translated>Хорошо.</Translated>
+  </Line>
+  <Line StartPos="7097" Length="11" Skip="false">
+    <Translated>draw\0castle</Translated>
+  </Line>
+  <Line StartPos="7119" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7146" Length="24" Skip="false">
+    <Translated>Что это за место?..</Translated>
+  </Line>
+  <Line StartPos="7184" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="7201" Length="28" Skip="false">
+    <Translated>Похоже на здание.</Translated>
+  </Line>
+  <Line StartPos="7244" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7261" Length="37" Skip="false">
+    <Translated>Погодите... Разве это не Старый замок?</Translated>
+  </Line>
+  <Line StartPos="7312" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="7328" Length="23" Skip="false">
+    <Translated>Мы много прошли.</Translated>
+  </Line>
+  <Line StartPos="7356" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7383" Length="34" Skip="false">
+    <Translated>Да, солнце уже село.</Translated>
+  </Line>
+  <Line StartPos="7438" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="7456" Length="18" Skip="false">
+    <Translated>Здесь кто-то есть!</Translated>
+  </Line>
+  <Line StartPos="7479" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7506" Length="13" Skip="false">
+    <Translated>Кто это?!</Translated>
+  </Line>
+  <Line StartPos="7565" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="7595" Length="31" Skip="false">
+    <Translated>Как вы сюда попали?</Translated>
+  </Line>
+  <Line StartPos="7641" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7658" Length="17" Skip="false">
+    <Translated>Кто ты?</Translated>
+  </Line>
+  <Line StartPos="7689" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="7719" Length="71" Skip="false">
+    <Translated>Ясно... барьер. Не удивительно. Что я не смог найти это место сверху.</Translated>
+  </Line>
+  <Line StartPos="7805" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7822" Length="37" Skip="false">
+    <Translated>Ты не из тех, кто слушает других, да?</Translated>
+  </Line>
+  <Line StartPos="7874" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="7892" Length="39" Skip="false">
+    <Translated>Я чувствую от него что-то действительно гадкое!</Translated>
+  </Line>
+  <Line StartPos="7945" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="7975" Length="55" Skip="false">
+    <Translated>Как ты смеешь так говорить, девушка с кровью Сайфон.</Translated>
+  </Line>
+  <Line StartPos="8045" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="8063" Length="4" Skip="false">
+    <Translated>?!</Translated>
+  </Line>
+  <Line StartPos="8082" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8098" Length="44" Skip="false">
+    <Translated>Берегись! Я чувствую исходящие от него злые волны!</Translated>
+  </Line>
+  <Line StartPos="8157" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8173" Length="24" Skip="false">
+    <Translated>Этот мужчина монстр!</Translated>
+  </Line>
+  <Line StartPos="8202" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8229" Length="13" Skip="false">
+    <Translated>Монстр?!</Translated>
+  </Line>
+  <Line StartPos="8256" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="8286" Length="56" Skip="false">
+    <Translated>Уу... так ты тоже обладаешь силой экзорциста.</Translated>
+  </Line>
+  <Line StartPos="8357" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8373" Length="4" Skip="false">
+    <Translated>?!</Translated>
+  </Line>
+  <Line StartPos="8392" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8408" Length="30" Skip="false">
+    <Translated>Что ты имееш ввиду?!</Translated>
+  </Line>
+  <Line StartPos="8452" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="8482" Length="75" Skip="false">
+    <Translated>Я встречал человека, одетого как ты, который называл себя экзорцистом.</Translated>
+  </Line>
+  <Line StartPos="8572" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8588" Length="48" Skip="false">
+    <Translated>Что ты с ним сделал?! Н-неужели...</Translated>
+  </Line>
+  <Line StartPos="8650" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="8680" Length="58" Skip="false">
+    <Translated>Я убил его. За то что он запятнал меня.</Translated>
+  </Line>
+  <Line StartPos="8743" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8770" Length="14" Skip="false">
+    <Translated>Запятнал?..</Translated>
+  </Line>
+  <Line StartPos="8798" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="8828" Length="16" Skip="false">
+    <Translated>Он ранил меня.</Translated>
+  </Line>
+  <Line StartPos="8859" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8875" Length="10" Skip="false">
+    <Translated>!..</Translated>
+  </Line>
+  <Line StartPos="8892" Length="71" Skip="false">
+    <Translated>Человек распахнул плащ и показал свою правую руку. Она была искусственной.</Translated>
+  </Line>
+  <Line StartPos="8978" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8994" Length="30" Skip="false">
+    <Translated>Так ты убил моего отца!..</Translated>
+  </Line>
+  <Line StartPos="9031" Length="51" Skip="false">
+    <Translated>Это монстр, который убил отца Аой-сан?!..</Translated>
+  </Line>
+  <Line StartPos="9096" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="9126" Length="67" Skip="false">
+    <Translated>Ясно. Значит ты его дочь. Жаждешь мести?</Translated>
+  </Line>
+  <Line StartPos="9208" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="9224" Length="30" Skip="false">
+    <Translated>Ты и есть месть за моего отца!</Translated>
+  </Line>
+  <Line StartPos="9268" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="9298" Length="45" Skip="false">
+    <Translated>Хаха, ладно. Я немного с тобой поиграю.</Translated>
+  </Line>
+  <Line StartPos="9357" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="9387" Length="111" Skip="false">
+    <Translated>Время не повлияло на силу Охотников. Развлеките меня, как пара Охотников, которую я встретил на днях.</Translated>
+  </Line>
+  <Line StartPos="9513" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="9530" Length="29" Skip="false">
+    <Translated>Пара... может ли быть?..</Translated>
+  </Line>
+  <Line StartPos="9573" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="9603" Length="77" Skip="false">
+    <Translated>...а, этот скучный тип с усами рассказывал о Школе Охотников.</Translated>
+  </Line>
+  <Line StartPos="9694" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="9724" Length="64" Skip="false">
+    <Translated>Ясно, вы их ученики. Это забавно.</Translated>
+  </Line>
+  <Line StartPos="9803" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="9820" Length="40" Skip="false">
+    <Translated>Т-ты! Что ты сделал с нашими Учителями?!</Translated>
+  </Line>
+  <Line StartPos="9874" Length="17" Skip="false">
+    <Translated>Человек в чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="9904" Length="55" Skip="false">
+    <Translated>Они оказались на моём пути, и я немного поиграл с ними.</Translated>
+  </Line>
+  <Line StartPos="9964" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9991" Length="17" Skip="false">
+    <Translated>Мог ли Учитель...</Translated>
+  </Line>
+  <Line StartPos="10022" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="10052" Length="41" Skip="false">
+    <Translated>Хахахаха! Ты тоже хочешь мести?!</Translated>
+  </Line>
+  <Line StartPos="10108" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="10125" Length="24" Skip="false">
+    <Translated>Я-я убью тебя!</Translated>
+  </Line>
+  <Line StartPos="10206" Length="20" Skip="false">
+    <Translated>WeiserWin\0WeiserLose</Translated>
+  </Line>
+  <Line StartPos="10240" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="10270" Length="62" Skip="false">
+    <Translated>Твои учителя хорошо постарались. Это всё, с чем ты способна справиться?</Translated>
+  </Line>
+  <Line StartPos="10346" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="10376" Length="50" Skip="false">
+    <Translated>Если вы его ученики не убегайте и сразитесь со мной!</Translated>
+  </Line>
+  <Line StartPos="10454" Length="11" Skip="false">
+    <Translated>draw\0castle</Translated>
+  </Line>
+  <Line StartPos="10493" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="10523" Length="38" Skip="false">
+    <Translated>Хаха, ясно. Вы постарались.</Translated>
+  </Line>
+  <Line StartPos="10576" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="10593" Length="36" Skip="false">
+    <Translated>Почему ты ведёшь себя так?!</Translated>
+  </Line>
+  <Line StartPos="10643" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="10673" Length="60" Skip="false">
+    <Translated>Дура. Неужели ты думаешь, что я стану всерьез сражаться против каких-то людей?</Translated>
+  </Line>
+  <Line StartPos="10738" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="10768" Length="43" Skip="false">
+    <Translated>Я глава гордой семьи Дракул...</Translated>
+  </Line>
+  <Line StartPos="10816" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10843" Length="13" Skip="false">
+    <Translated>Дракул?!..</Translated>
+  </Line>
+  <Line StartPos="10863" Length="109" Skip="false">
+    <Translated>Это же семья Вайзор-сана, о которой говорили, что они превращаются в вампиров и сосут кровь людей.</Translated>
+  </Line>
+  <Line StartPos="10986" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="11016" Length="56" Skip="false">
+    <Translated>Ну, у меня нет на вас временеи, так что мне пора.</Translated>
+  </Line>
+  <Line StartPos="11087" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="11103" Length="33" Skip="false">
+    <Translated>Стой! Убегаешь?!</Translated>
+  </Line>
+  <Line StartPos="11141" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="11171" Length="38" Skip="false">
+    <Translated>Я не убегаю. Я ухожу.</Translated>
+  </Line>
+  <Line StartPos="11224" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="11241" Length="70" Skip="false">
+    <Translated>Я никогда тебя не прощу! Я отомщу за Учителей!</Translated>
+  </Line>
+  <Line StartPos="11316" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="11346" Length="46" Skip="false">
+    <Translated>Они живы. Они сильны, для Охотников.</Translated>
+  </Line>
+  <Line StartPos="11407" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="11424" Length="12" Skip="false">
+    <Translated>П-правда?!</Translated>
+  </Line>
+  <Line StartPos="11445" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="11475" Length="41" Skip="false">
+    <Translated>Не волнуйся. Мы снова встретимся.</Translated>
+  </Line>
+  <Line StartPos="11530" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="11560" Length="84" Skip="false">
+    <Translated>И тогда я убью и учителей, и учеников. Хахахаха.</Translated>
+  </Line>
+  <Line StartPos="11683" Length="44" Skip="false">
+    <Translated>Человек в чёрном плаще засмеялся и исчез.</Translated>
+  </Line>
+  <Line StartPos="11751" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="11767" Length="39" Skip="false">
+    <Translated>Я наконец-то нашла убийцу своего отца...</Translated>
+  </Line>
+  <Line StartPos="11821" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="11838" Length="18" Skip="false">
+    <Translated>Но он очень силён.</Translated>
+  </Line>
+  <Line StartPos="11871" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="11888" Length="57" Skip="false">
+    <Translated>И, вероятно, он не врал, когда говорил что не сражался всерьёз.</Translated>
+  </Line>
+  <Line StartPos="11959" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="11975" Length="23" Skip="false">
+    <Translated>Да. Я тоже это чувствую.</Translated>
+  </Line>
+  <Line StartPos="12003" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="12030" Length="35" Skip="false">
+    <Translated>Мы ещё слишком слабы, чтобы победить его.</Translated>
+  </Line>
+  <Line StartPos="12080" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="12097" Length="69" Skip="false">
+    <Translated>Ну и что?! Если мы слабы, нам просто нужно стать сильнее!</Translated>
+  </Line>
+  <Line StartPos="12181" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="12198" Length="30" Skip="false">
+    <Translated>...это не вся наша сила!</Translated>
+  </Line>
+  <Line StartPos="12235" Length="17" Skip="false">
+    <Translated>Люси закричала.</Translated>
+  </Line>
+  <Line StartPos="12255" Length="40" Skip="false">
+    <Translated>Но мы сражались с ним изо всех наших сил.</Translated>
+  </Line>
+  <Line StartPos="12298" Length="57" Skip="false">
+    <Translated>Я думал, что мы победили, но он просто играл с нами.</Translated>
+  </Line>
+  <Line StartPos="12358" Length="79" Skip="false">
+    <Translated>Досадно, он показал, насколько велика разница между нами.</Translated>
+  </Line>
+  <Line StartPos="12440" Length="52" Skip="false">
+    <Translated>Люси, должно быть, чувствует тоже самое. И поэтому мы должны...</Translated>
+  </Line>
+  <Line StartPos="12497" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="12524" Length="72" Skip="false">
+    <Translated>Мы должны стать сильнее. Настолько сильными, чтобы не проиграть ему снова.</Translated>
+  </Line>
+  <Line StartPos="12611" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="12628" Length="7" Skip="false">
+    <Translated>Да.</Translated>
+  </Line>
+  <Line StartPos="12649" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="12667" Length="22" Skip="false">
+    <Translated>Я тоже стану сильной!</Translated>
+  </Line>
+  <Line StartPos="12704" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="12720" Length="31" Skip="false">
+    <Translated>Да. Мы должны стать сильнее.</Translated>
+  </Line>
+  <Line StartPos="12758" Length="45" Skip="false">
+    <Translated>Мы кивнули друг другу в тишине Старого Замка.</Translated>
+  </Line>
+  <Line StartPos="12832" Length="11" Skip="false">
+    <Translated>draw\0castle</Translated>
+  </Line>
+  <Line StartPos="12863" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="12893" Length="46" Skip="false">
+    <Translated>Хаха, ученики это всего лишь ученики.</Translated>
+  </Line>
+  <Line StartPos="12954" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="12970" Length="20" Skip="false">
+    <Translated>О-он силён...!</Translated>
+  </Line>
+  <Line StartPos="13005" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="13023" Length="22" Skip="false">
+    <Translated>Да что это с ним?..</Translated>
+  </Line>
+  <Line StartPos="13059" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="13089" Length="88" Skip="false">
+    <Translated>А ты не знаешь? Может ты и юна, но в тебе кровь благородной семьи Сайфон.</Translated>
+  </Line>
+  <Line StartPos="13191" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="13221" Length="66" Skip="false">
+    <Translated>Или ты уже пала так низко, что не знаешь имени Дракул?</Translated>
+  </Line>
+  <Line StartPos="13292" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="13319" Length="13" Skip="false">
+    <Translated>Дракул?!..</Translated>
+  </Line>
+  <Line StartPos="13339" Length="109" Skip="false">
+    <Translated>Это же семья Вайзор-сана, о которой говорят, что они превращаются в вампиров и сосут кровь людей.</Translated>
+  </Line>
+  <Line StartPos="13462" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="13492" Length="99" Skip="false">
+    <Translated>Ну, у меня нет на вас времени. И я не хочу пачкать свой Замок, убивая здесь людей.</Translated>
+  </Line>
+  <Line StartPos="13605" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="13635" Length="74" Skip="false">
+    <Translated>Попросите своего мастера потренировать вас. В следующий раз я сражусь с вами по-настоящему.</Translated>
+  </Line>
+  <Line StartPos="13724" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="13740" Length="21" Skip="false">
+    <Translated>Э-это значит...</Translated>
+  </Line>
+  <Line StartPos="13776" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="13793" Length="28" Skip="false">
+    <Translated>Подожди! Учитель жив?!</Translated>
+  </Line>
+  <Line StartPos="13835" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="13865" Length="69" Skip="false">
+    <Translated>С такими ранами они не умрут. Но в следующий раз, я обязательно убью их.</Translated>
+  </Line>
+  <Line StartPos="13943" Length="17" Skip="false">
+    <Translated>Человек в Чёрном Плаще</Translated>
+  </Line>
+  <Line StartPos="13973" Length="30" Skip="false">
+    <Translated>А до тех пор ждите. Хахахаха.</Translated>
+  </Line>
+  <Line StartPos="14042" Length="44" Skip="false">
+    <Translated>Человек в чёрном плаще рассмеялся и исчез.</Translated>
+  </Line>
+  <Line StartPos="14110" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="14126" Length="8" Skip="false">
+    <Translated>Ух...</Translated>
+  </Line>
+  <Line StartPos="14139" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="14166" Length="12" Skip="false">
+    <Translated>Аой-сан...</Translated>
+  </Line>
+  <Line StartPos="14192" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="14208" Length="59" Skip="false">
+    <Translated>Проклятье... Я наконец-то нашла того, кто убил моего отца...</Translated>
+  </Line>
+  <Line StartPos="14272" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="14288" Length="38" Skip="false">
+    <Translated>Но мы даже сразиться с ним не смогли...</Translated>
+  </Line>
+  <Line StartPos="14341" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="14358" Length="65" Skip="false">
+    <Translated>Ну, по крайней мере, мы живы. Если умрём, то уже ничего не сможем сделать.</Translated>
+  </Line>
+  <Line StartPos="14428" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="14444" Length="16" Skip="false">
+    <Translated>Я знаю, но...</Translated>
+  </Line>
+  <Line StartPos="14475" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="14492" Length="28" Skip="false">
+    <Translated>Мы должны стать сильнее...</Translated>
+  </Line>
+  <Line StartPos="14525" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="14552" Length="61" Skip="false">
+    <Translated>Да. Мы должны стать достаточно сильными, чтобы не проиграть ему.</Translated>
+  </Line>
+  <Line StartPos="14627" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="14645" Length="22" Skip="false">
+    <Translated>Я тоже стану сильнее!</Translated>
+  </Line>
+  <Line StartPos="14672" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="14699" Length="78" Skip="false">
+    <Translated>Давайте постараемся и станем сильнее, настолько, чтобы не проиграть ни одному монстру.</Translated>
+  </Line>
+  <Line StartPos="14792" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="14809" Length="19" Skip="false">
+    <Translated>Да. Верно, Аой?</Translated>
+  </Line>
+  <Line StartPos="14842" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="14858" Length="8" Skip="false">
+    <Translated>Да...</Translated>
+  </Line>
+  <Line StartPos="14915" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="14942" Length="83" Skip="false">
+    <Translated>Ну, мы хотя бы узнали, что канализация соединена с подвалом Старого замка.</Translated>
+  </Line>
+  <Line StartPos="15030" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="15048" Length="31" Skip="false">
+    <Translated>Давайте расскажем это Вайзор-сану.</Translated>
+  </Line>
+  <Line StartPos="15090" Length="20" Skip="false">
+    <Translated>В это время...</Translated>
+  </Line>
+  <Line StartPos="15134" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="15153" Length="8" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="15166" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="15193" Length="9" Skip="false">
+    <Translated>Шерил?</Translated>
+  </Line>
+  <Line StartPos="15209" Length="51" Skip="false">
+    <Translated>Шерил начала ходить, будто одержимая чем-то.</Translated>
+  </Line>
+  <Line StartPos="15275" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="15293" Length="23" Skip="false">
+    <Translated>Шерил, что случилось?</Translated>
+  </Line>
+  <Line StartPos="15330" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="15349" Length="57" Skip="false">
+    <Translated>Эти чувства... Это так дорого, больно, грустно и тепло...</Translated>
+  </Line>
+  <Line StartPos="15420" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="15439" Length="29" Skip="false">
+    <Translated>Где-то здесь...</Translated>
+  </Line>
+  <Line StartPos="15483" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="15500" Length="65" Skip="false">
+    <Translated>Эй, может нам стоит ещё поискать здесь. Может быть здесь...</Translated>
+  </Line>
+  <Line StartPos="15570" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="15597" Length="26" Skip="false">
+    <Translated>Да, возможно здесь...</Translated>
+  </Line>
+  <Line StartPos="16091" Length="11" Skip="false">
+    <Translated>main\0SunSet</Translated>
+  </Line>
+</Lines>
+
+
+</pre>
+
+[[Men_at_Work 2|[Назад]]]

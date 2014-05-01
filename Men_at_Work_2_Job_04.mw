@@ -1,0 +1,737 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="181">
+  <Line StartPos="608" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="625" Length="26" Skip="false">
+    <Origin>"Hey... I have a request."</Origin>
+    <Translated>Эй... У меня тут запрос.</Translated>
+  </Line>
+  <Line StartPos="656" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="683" Length="22" Skip="false">
+    <Origin>"A request, from you?"</Origin>
+    <Translated>Запрос? От тебя?</Translated>
+  </Line>
+  <Line StartPos="719" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="736" Length="39" Skip="false">
+    <Origin>"No. It&apos;s a request from someone else."</Origin>
+    <Translated>Не. Запрос от кого-то другого.</Translated>
+  </Line>
+  <Line StartPos="780" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="807" Length="3" Skip="false">
+    <Origin>"?"</Origin>
+    <Translated>М?</Translated>
+  </Line>
+  <Line StartPos="824" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="841" Length="65" Skip="false">
+    <Origin>"The owner of this store told me to go\0get some &apos;pumpkin seeds&apos;."</Origin>
+    <Translated>Владелец магазина сказал мне пойти раздобыть семян тыквы.</Translated>
+  </Line>
+  <Line StartPos="911" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="938" Length="13" Skip="false">
+    <Origin>"...Pumpkin?"</Origin>
+    <Translated>Э...Тыквы?</Translated>
+  </Line>
+  <Line StartPos="965" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="982" Length="72" Skip="false">
+    <Origin>"Yup, pumpkin. It&apos;s really nutritious\0and it&apos;s actually really popular."</Origin>
+    <Translated>Ага, тыквы. Они питательны и очень популярны.</Translated>
+  </Line>
+  <Line StartPos="1059" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1086" Length="38" Skip="false">
+    <Origin>"Do you guys actually sell\0them here?"</Origin>
+    <Translated>И вы что, продаёте их здесь?</Translated>
+  </Line>
+  <Line StartPos="1138" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1155" Length="75" Skip="false">
+    <Origin>"We get orders from all over the\0country, so we&apos;re only doing mail\0orders."</Origin>
+    <Translated>Мы принимаем заказы со всей страны и отправляем их по почте.</Translated>
+  </Line>
+  <Line StartPos="1235" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1262" Length="9" Skip="false">
+    <Origin>"Okay..."</Origin>
+    <Translated>Ясно...</Translated>
+  </Line>
+  <Line StartPos="1285" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1302" Length="48" Skip="false">
+    <Origin>"But our stock of pumpkin seeds is\0running out."</Origin>
+    <Translated>Но наш запас тыквенных семян на исходе.</Translated>
+  </Line>
+  <Line StartPos="1364" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1381" Length="53" Skip="false">
+    <Origin>"So I got this request to go get some\0pumpkin seeds."</Origin>
+    <Translated>Так что, я получила запрос — пойти и раздобыть их.</Translated>
+  </Line>
+  <Line StartPos="1439" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1466" Length="53" Skip="false">
+    <Origin>"But I&apos;m sure you can find\0pumpkin seeds anywhere..."</Origin>
+    <Translated>Но... Мне казалось, что семена тыквы можно найти почти везде...</Translated>
+  </Line>
+  <Line StartPos="1533" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1550" Length="78" Skip="false">
+    <Origin>"That&apos;s wrong, Ku-chan. He wouldn&apos;t ask\0me if it&apos;s just normal pumpkin seeds."</Origin>
+    <Translated>Ку-чан, ты ошибаешься. Он просил меня принести не просто семена обычной тыквы.</Translated>
+  </Line>
+  <Line StartPos="1642" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1659" Length="59" Skip="false">
+    <Origin>"What he wants is seeds of &apos;Pumpkin&apos;,\0the pumpkin monster."</Origin>
+    <Translated>Он хочет семян тыквы-монстра.</Translated>
+  </Line>
+  <Line StartPos="1723" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1750" Length="20" Skip="false">
+    <Origin>"...Is that edible?"</Origin>
+    <Translated>Эм...А они съедобные?</Translated>
+  </Line>
+  <Line StartPos="1784" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1801" Length="54" Skip="false">
+    <Origin>"It&apos;s fine. I told you it&apos;s really\0nutritious, right?"</Origin>
+    <Translated>Естественно. Я же говорила, что они очень питательны.</Translated>
+  </Line>
+  <Line StartPos="1869" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1886" Length="63" Skip="false">
+    <Origin>"...So can you tell everyone to be ready\0to leave at any time?"</Origin>
+    <Translated>Можешь сказать всем, чтобы были готовы отправиться в любое время?</Translated>
+  </Line>
+  <Line StartPos="1954" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1981" Length="12" Skip="false">
+    <Origin>"All right."</Origin>
+    <Translated>Хорошо.</Translated>
+  </Line>
+  <Line StartPos="2000" Length="56" Skip="false">
+    <Origin>You have accepted the request to go get\0"Pumpkin seeds".</Origin>
+    <Translated>Вы приняли запрос на сбор "Семян тыквы".</Translated>
+  </Line>
+  <Line StartPos="2086" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2103" Length="61" Skip="false">
+    <Origin>"How are we doing on the preparation to\0go hunt the Pumpkin?"</Origin>
+    <Translated>Как там подготовка к охоте за тыквами?</Translated>
+  </Line>
+  <Line StartPos="2169" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2196" Length="23" Skip="false">
+    <Origin>"We can leave anytime."</Origin>
+    <Translated>Можем идти в любое время.</Translated>
+  </Line>
+  <Line StartPos="2233" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2250" Length="44" Skip="false">
+    <Origin>"Well done, Ku-chan! You sure are\0reliable!"</Origin>
+    <Translated>Прекрасно, Ку-чан! Ты очень надёжный!</Translated>
+  </Line>
+  <Line StartPos="2312" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2329" Length="49" Skip="false">
+    <Origin>"Ku-chan. I haven&apos;t given up on the\0Pumpkin yet."</Origin>
+    <Translated>Ку-чан. Я ещё не отказалась от этого задания.</Translated>
+  </Line>
+  <Line StartPos="2383" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2410" Length="30" Skip="false">
+    <Origin>"I know. We&apos;re preparing\0too."</Origin>
+    <Translated>Знаю. Мы тоже готовимся.</Translated>
+  </Line>
+  <Line StartPos="2454" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2471" Length="34" Skip="false">
+    <Origin>"You&apos;re really reliable, Ku-chan!"</Origin>
+    <Translated>Ку-чан, ты и правда надежен!</Translated>
+  </Line>
+  <Line StartPos="2510" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2537" Length="13" Skip="false">
+    <Origin>"T-Thanks..."</Origin>
+    <Translated>С-спасибо...</Translated>
+  </Line>
+  <Line StartPos="2766" Length="11" Skip="false">
+    <Origin>Forest\0Draw</Origin>
+    <Translated>Лес\0Draw</Translated>
+  </Line>
+  <Line StartPos="2799" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2816" Length="29" Skip="false">
+    <Origin>"This is a strange forest..."</Origin>
+    <Translated>Очень странный лес...</Translated>
+  </Line>
+  <Line StartPos="2850" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2877" Length="48" Skip="false">
+    <Origin>"Yeah... It feels like\0something will jump out."</Origin>
+    <Translated>Угу... Такое чувство, что кто-то вот-вот выпрыгнет на нас.</Translated>
+  </Line>
+  <Line StartPos="2940" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2957" Length="23" Skip="false">
+    <Origin>"All right, let&apos;s go!!"</Origin>
+    <Translated>Хорошо, вперёд!</Translated>
+  </Line>
+  <Line StartPos="2994" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3010" Length="31" Skip="false">
+    <Origin>"You are taking this too easy."</Origin>
+    <Translated>Ты слишком беспечно к этому относишься.</Translated>
+  </Line>
+  <Line StartPos="3071" Length="25" Skip="false">
+    <Origin>Will you exit the forest?</Origin>
+    <Translated>Выйти из леса?</Translated>
+  </Line>
+  <Line StartPos="3101" Length="6" Skip="false">
+    <Origin>Yes\0No</Origin>
+    <Translated>Да\0Нет</Translated>
+  </Line>
+  <Line StartPos="3136" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3153" Length="33" Skip="false">
+    <Origin>"What? Did you forget something?"</Origin>
+    <Translated>Что? Вы что-то забыли?</Translated>
+  </Line>
+  <Line StartPos="3216" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3232" Length="49" Skip="false">
+    <Origin>"We should come back after we regroup\0ourselves."</Origin>
+    <Translated>Нам следует перегруппироваться и вернуться сюда позже.</Translated>
+  </Line>
+  <Line StartPos="3296" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3313" Length="33" Skip="false">
+    <Origin>"Yeah. We still need more seeds."</Origin>
+    <Translated>Угу. Нам нужно собрать больше семян.</Translated>
+  </Line>
+  <Line StartPos="3424" Length="11" Skip="false">
+    <Origin>main\0SunSet</Origin>
+    <Translated>main\0SunSet</Translated>
+  </Line>
+  <Line StartPos="3463" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3480" Length="21" Skip="false">
+    <Origin>"Oh, there! Pumpkin!"</Origin>
+    <Translated>Там! Тыквы!</Translated>
+  </Line>
+  <Line StartPos="3506" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3533" Length="28" Skip="false">
+    <Origin>"W-What are we going to do?"</Origin>
+    <Translated>Ч-что нам делать?</Translated>
+  </Line>
+  <Line StartPos="3575" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3592" Length="41" Skip="false">
+    <Origin>"Simple! We&apos;re gonna get it! What\0else!?"</Origin>
+    <Translated>Это же просто! Мы просто получим их! Что же ещё?!</Translated>
+  </Line>
+  <Line StartPos="3667" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3683" Length="12" Skip="false">
+    <Origin>"Let&apos;s go!!"</Origin>
+    <Translated>Вперёд!</Translated>
+  </Line>
+  <Line StartPos="3753" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3770" Length="48" Skip="false">
+    <Origin>"All right, we got it. Let&apos;s take the\0seed out."</Origin>
+    <Translated>Отлично, мы сделали это. Давайте соберём семена.</Translated>
+  </Line>
+  <Line StartPos="3823" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3851" Length="29" Skip="false">
+    <Origin>"All righty. Lemme cut\0it..."</Origin>
+    <Translated>Хорошо. Сейчас вырежу...</Translated>
+  </Line>
+  <Line StartPos="3885" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3913" Length="34" Skip="false">
+    <Origin>"All righty. Lemme cut it...\0huh?"</Origin>
+    <Translated>Хорошо. Сейчас вырежу...га?</Translated>
+  </Line>
+  <Line StartPos="3981" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3997" Length="18" Skip="false">
+    <Origin>"There&apos;s no seed."</Origin>
+    <Translated>Тут нет семян.</Translated>
+  </Line>
+  <Line StartPos="4030" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="4047" Length="11" Skip="false">
+    <Origin>"No seed!?"</Origin>
+    <Translated>Нет семян?!</Translated>
+  </Line>
+  <Line StartPos="4063" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4090" Length="9" Skip="false">
+    <Origin>"Really?"</Origin>
+    <Translated>Правда?</Translated>
+  </Line>
+  <Line StartPos="4113" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="4130" Length="37" Skip="false">
+    <Origin>"I think it needs to be more ripe..."</Origin>
+    <Translated>Думаю, они должны быть более спелыми...</Translated>
+  </Line>
+  <Line StartPos="4182" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="4199" Length="7" Skip="false">
+    <Origin>"Ohhh."</Origin>
+    <Translated>Оох.</Translated>
+  </Line>
+  <Line StartPos="4221" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="4238" Length="10" Skip="false">
+    <Origin>"Ku-chan!"</Origin>
+    <Translated>Ку-чан!</Translated>
+  </Line>
+  <Line StartPos="4253" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4280" Length="7" Skip="false">
+    <Origin>"Yes!?"</Origin>
+    <Translated>Да?!</Translated>
+  </Line>
+  <Line StartPos="4292" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="4309" Length="102" Skip="false">
+    <Origin>"Let&apos;s go search the deeper part of the\0forest! We&apos;re going to find the pumpkin\0seeds no matter what!"</Origin>
+    <Translated>Пойдем искать глубже в лес! Мы должны найти эти семена не смотря ни на что!</Translated>
+  </Line>
+  <Line StartPos="4425" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4441" Length="70" Skip="false">
+    <Origin>"Geez... I shall see this through this\0since I have obligated myself."</Origin>
+    <Translated>Боже... Я бы лучше посмотрела со стороны, а не участвовала в этом сама.</Translated>
+  </Line>
+  <Line StartPos="4525" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="4542" Length="27" Skip="false">
+    <Origin>"Yes... let&apos;s do our best."</Origin>
+    <Translated>Да... Давайте постараемся.</Translated>
+  </Line>
+  <Line StartPos="4584" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="4601" Length="27" Skip="false">
+    <Origin>"I&apos;m counting on you guys."</Origin>
+    <Translated>Я рассчитываю на вас, ребята.</Translated>
+  </Line>
+  <Line StartPos="4633" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4660" Length="9" Skip="false">
+    <Origin>"Haha..."</Origin>
+    <Translated>Фу-ух...</Translated>
+  </Line>
+  <Line StartPos="4924" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4940" Length="24" Skip="false">
+    <Origin>"Let&apos;s retreat for now!"</Origin>
+    <Translated>Мы должны отступить!</Translated>
+  </Line>
+  <Line StartPos="4979" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="4996" Length="40" Skip="false">
+    <Origin>"Ohh... my money maker is going away..."</Origin>
+    <Translated>Ааа... Мои деньги убегают...</Translated>
+  </Line>
+  <Line StartPos="5871" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="5888" Length="31" Skip="false">
+    <Origin>"We&apos;re in a strange place now."</Origin>
+    <Translated>Это очень странное место.</Translated>
+  </Line>
+  <Line StartPos="5924" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5951" Length="21" Skip="false">
+    <Origin>"What is this place?"</Origin>
+    <Translated>Что это за место такое?</Translated>
+  </Line>
+  <Line StartPos="5986" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6002" Length="43" Skip="false">
+    <Origin>"Be careful... I feel something evil\0here!"</Origin>
+    <Translated>Будьте осторожны... Я ощущаю здесь присутствие зла!</Translated>
+  </Line>
+  <Line StartPos="6050" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6077" Length="8" Skip="false">
+    <Origin>"What!?"</Origin>
+    <Translated>Что?!</Translated>
+  </Line>
+  <Line StartPos="6100" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6117" Length="17" Skip="false">
+    <Origin>"Oh, I smell it!"</Origin>
+    <Translated>Ох, я чувствую это!</Translated>
+  </Line>
+  <Line StartPos="6148" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="6165" Length="13" Skip="false">
+    <Origin>"Smell what?"</Origin>
+    <Translated>Чувствуешь что?</Translated>
+  </Line>
+  <Line StartPos="6193" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6210" Length="32" Skip="false">
+    <Origin>"This is the smell of pumpkins!"</Origin>
+    <Translated>Тыквенный запах!</Translated>
+  </Line>
+  <Line StartPos="6257" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6274" Length="26" Skip="false">
+    <Origin>"But it smells too sweet."</Origin>
+    <Translated>Но он слишком сладкий.</Translated>
+  </Line>
+  <Line StartPos="6314" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="6331" Length="35" Skip="false">
+    <Origin>"I think I recognize this smell..."</Origin>
+    <Translated>Кажется, я узнаю этот запах...</Translated>
+  </Line>
+  <Line StartPos="6381" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6398" Length="35" Skip="false">
+    <Origin>"I don&apos;t care! We&apos;re almost there!"</Origin>
+    <Translated>Неважно! Мы уже почти там!</Translated>
+  </Line>
+  <Line StartPos="6610" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6637" Length="15" Skip="false">
+    <Origin>"These are...!"</Origin>
+    <Translated>Вот оно!</Translated>
+  </Line>
+  <Line StartPos="6666" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6682" Length="14" Skip="false">
+    <Origin>"Certainly..."</Origin>
+    <Translated>Так и есть...</Translated>
+  </Line>
+  <Line StartPos="6730" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="6747" Length="18" Skip="false">
+    <Origin>"Pumpkins, but..."</Origin>
+    <Translated>Тыквы, но...</Translated>
+  </Line>
+  <Line StartPos="6780" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6797" Length="19" Skip="false">
+    <Origin>"They&apos;re rotten..."</Origin>
+    <Translated>Они все гнилые...</Translated>
+  </Line>
+  <Line StartPos="6821" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6848" Length="20" Skip="false">
+    <Origin>"What should we do?"</Origin>
+    <Translated>Что нам делать?</Translated>
+  </Line>
+  <Line StartPos="6882" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="6899" Length="74" Skip="false">
+    <Origin>"Oh, but I think you can&apos;t ask for more\0when you talk about being ripe..."</Origin>
+    <Translated>Ох, наверное, они уже спелее некуда...</Translated>
+  </Line>
+  <Line StartPos="6988" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7005" Length="30" Skip="false">
+    <Origin>"True! We&apos;re after the seeds!"</Origin>
+    <Translated>Верно! Заберём у них семена!</Translated>
+  </Line>
+  <Line StartPos="7050" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7067" Length="33" Skip="false">
+    <Origin>"We can get alot if it&apos;s rotten!"</Origin>
+    <Translated>Мы сможем много собрать, если займёмся гнилыми!</Translated>
+  </Line>
+  <Line StartPos="7105" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7132" Length="40" Skip="false">
+    <Origin>"I don&apos;t want to touch them\0too much..."</Origin>
+    <Translated>Я не очень-то хочу к ним прикасаться...</Translated>
+  </Line>
+  <Line StartPos="7186" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="7202" Length="17" Skip="false">
+    <Origin>"They&apos;re coming!"</Origin>
+    <Translated>Они приближаются!</Translated>
+  </Line>
+  <Line StartPos="7252" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7279" Length="29" Skip="false">
+    <Origin>"I don&apos;t want to touch\0it..."</Origin>
+    <Translated>Я не хочу их трогать...</Translated>
+  </Line>
+  <Line StartPos="7322" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7339" Length="21" Skip="false">
+    <Origin>"I&apos;ll splatter them!"</Origin>
+    <Translated>Я раздолбаю их всех!</Translated>
+  </Line>
+  <Line StartPos="7387" Length="11" Skip="false">
+    <Origin>draw\0forest</Origin>
+    <Translated>draw\0лес</Translated>
+  </Line>
+  <Line StartPos="7418" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7435" Length="34" Skip="false">
+    <Origin>"...Well, I think we have enough."</Origin>
+    <Translated>Ну... Думаю достаточно.</Translated>
+  </Line>
+  <Line StartPos="7474" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7501" Length="20" Skip="false">
+    <Origin>"Phew... I&apos;m tired."</Origin>
+    <Translated>Фух... Я устал.</Translated>
+  </Line>
+  <Line StartPos="7535" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7552" Length="35" Skip="false">
+    <Origin>"You want a seed? It&apos;s nutritious."</Origin>
+    <Translated>Хочешь одно? Они питательны.</Translated>
+  </Line>
+  <Line StartPos="7592" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7619" Length="13" Skip="false">
+    <Origin>"Oh, thanks."</Origin>
+    <Translated>О, спасибо.</Translated>
+  </Line>
+  <Line StartPos="7637" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7664" Length="24" Skip="false">
+    <Origin>"Wow, it&apos;s really good."</Origin>
+    <Translated>Ух ты, они действительно хороши.</Translated>
+  </Line>
+  <Line StartPos="7702" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7719" Length="72" Skip="false">
+    <Origin>"Now, you&apos;ll have to go hunt more to\0make up for the seed you just ate."</Origin>
+    <Translated>Теперь, чтобы компенсировать съеденное, ты должен снова пойти на охоту.</Translated>
+  </Line>
+  <Line StartPos="7796" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7823" Length="10" Skip="false">
+    <Origin>"W-What!?"</Origin>
+    <Translated>Ч-что?!</Translated>
+  </Line>
+  <Line StartPos="7847" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7864" Length="42" Skip="false">
+    <Origin>"Of course. You just ate one, didn&apos;t\0you?"</Origin>
+    <Translated>Конечно. Ты же только что съел одно, правильно?</Translated>
+  </Line>
+  <Line StartPos="7911" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7938" Length="26" Skip="false">
+    <Origin>"Okay... I&apos;ll do my best."</Origin>
+    <Translated>Хорошо... Сделаю всё возможное.</Translated>
+  </Line>
+  <Line StartPos="7998" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="8015" Length="9" Skip="false">
+    <Origin>"Haha..."</Origin>
+    <Translated>Хаха...</Translated>
+  </Line>
+  <Line StartPos="8039" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8055" Length="26" Skip="false">
+    <Origin>"She is a total swindler."</Origin>
+    <Translated>Она настоящий мошенник.</Translated>
+  </Line>
+  <Line StartPos="8128" Length="3" Skip="false">
+    <Origin>Top</Origin>
+    <Translated>Top</Translated>
+  </Line>
+</Lines>
+
+</pre>
+
+
+[[Men_at_Work 2|[Назад]]]

@@ -1,0 +1,900 @@
+[[Men_at_Work 2|[Назад]]]
+<pre>
+
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="296">
+  <Line StartPos="385" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="402" Length="58" Skip="false">
+    <Translated>Привет Клиф-кун. Уже привык к здешней жизни?</Translated>
+  </Line>
+  <Line StartPos="465" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="492" Length="16" Skip="false">
+    <Translated>Ну... немного.</Translated>
+  </Line>
+  <Line StartPos="522" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="539" Length="28" Skip="false">
+    <Translated>Какие-то трудности?..</Translated>
+  </Line>
+  <Line StartPos="572" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="599" Length="33" Skip="false">
+    <Translated>Ну... много чего случилось.</Translated>
+  </Line>
+  <Line StartPos="646" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="663" Length="23" Skip="false">
+    <Translated>Думаю да...</Translated>
+  </Line>
+  <Line StartPos="691" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="718" Length="34" Skip="false">
+    <Translated>И это только моя вина...</Translated>
+  </Line>
+  <Line StartPos="766" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="783" Length="92" Skip="false">
+    <Translated>Ну, вокруг нас только девушки. Ты должен быть особенно внимателен...</Translated>
+  </Line>
+  <Line StartPos="889" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="906" Length="60" Skip="false">
+    <Translated>Ну, удачи... Как одному из немногих мужчин в Школе.</Translated>
+  </Line>
+  <Line StartPos="971" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="998" Length="10" Skip="false">
+    <Translated>Спасибо...</Translated>
+  </Line>
+  <Line StartPos="1015" Length="79" Skip="false">
+    <Translated>Если подумать, Учитель Вилл был единственным мужчиной в Школе, прежде чем я появился здесь...</Translated>
+  </Line>
+  <Line StartPos="1097" Length="73" Skip="false">
+    <Translated>Уверен, временами ему приходилось совсем туго. Учитель Вилл, отношения улучшились.</Translated>
+  </Line>
+  <Line StartPos="1200" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1217" Length="33" Skip="false">
+    <Translated>О, Клиф-кун. Что-то случилось?</Translated>
+  </Line>
+  <Line StartPos="1255" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1282" Length="51" Skip="false">
+    <Translated>Ум... у меня несколько вопросов, на которые я бы хотел получить ответы.</Translated>
+  </Line>
+  <Line StartPos="1338" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1355" Length="13" Skip="false">
+    <Translated>...такие как?</Translated>
+  </Line>
+  <Line StartPos="1373" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1400" Length="47" Skip="false">
+    <Translated>... ну, я не знаю, как сказать, но...</Translated>
+  </Line>
+  <Line StartPos="1461" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1478" Length="58" Skip="false">
+    <Translated>Тебя волнует, как обращаться с другими девушками?</Translated>
+  </Line>
+  <Line StartPos="1541" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1568" Length="32" Skip="false">
+    <Translated>Н-ну, проще говоря, да.</Translated>
+  </Line>
+  <Line StartPos="1614" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1631" Length="72" Skip="false">
+    <Translated>Ну, вначале у меня тоже были сложности, так что я понимаю твоё беспокойство.</Translated>
+  </Line>
+  <Line StartPos="1708" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1725" Length="61" Skip="false">
+    <Translated>Как то я открыл дверь, когда Аой принимала ванну.</Translated>
+  </Line>
+  <Line StartPos="1791" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1818" Length="14" Skip="false">
+    <Translated>А, вы тоже?</Translated>
+  </Line>
+  <Line StartPos="1846" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1863" Length="25" Skip="false">
+    <Translated>Да. Я был в панике.</Translated>
+  </Line>
+  <Line StartPos="1893" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1920" Length="46" Skip="false">
+    <Translated>И как вы поступили после этого?</Translated>
+  </Line>
+  <Line StartPos="1980" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1997" Length="55" Skip="false">
+    <Translated>Никак вообще-то. На следующий день всё стало прежним.</Translated>
+  </Line>
+  <Line StartPos="2057" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2084" Length="9" Skip="false">
+    <Translated>Правда?</Translated>
+  </Line>
+  <Line StartPos="2107" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2124" Length="63" Skip="false">
+    <Translated>Аой немного медлительна, так что может показаться, что она ненавидит тебя...</Translated>
+  </Line>
+  <Line StartPos="2192" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2209" Length="94" Skip="false">
+    <Translated>Но на самом деле она хороший человек, так что не сильно волнуйся об этом.</Translated>
+  </Line>
+  <Line StartPos="2308" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2335" Length="27" Skip="false">
+    <Translated>Да. Спасибо огромное.</Translated>
+  </Line>
+  <Line StartPos="2369" Length="40" Skip="false">
+    <Translated>Ясно... может быть я просто не понял её.</Translated>
+  </Line>
+  <Line StartPos="2439" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2456" Length="28" Skip="false">
+    <Translated>Тебе сегодня что-нибудь нужно?</Translated>
+  </Line>
+  <Line StartPos="2489" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2516" Length="42" Skip="false">
+    <Translated>Учитель... кажется сегодня вы в настроении.</Translated>
+  </Line>
+  <Line StartPos="2572" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2589" Length="72" Skip="false">
+    <Translated>Конечно. С нетерпением жду историй о твоих сегодняшних неудачах.</Translated>
+  </Line>
+  <Line StartPos="2666" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2693" Length="11" Skip="false">
+    <Translated>Учитель...</Translated>
+  </Line>
+  <Line StartPos="2709" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2726" Length="40" Skip="false">
+    <Translated>Я совсем не смеюсь или что-то подобное.</Translated>
+  </Line>
+  <Line StartPos="2771" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2798" Length="60" Skip="false">
+    <Translated>Ну, неудачи неудачами, я хотел спросить у вас кое-что.</Translated>
+  </Line>
+  <Line StartPos="2872" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2889" Length="31" Skip="false">
+    <Translated>Что, совсем нет? Это плохо.</Translated>
+  </Line>
+  <Line StartPos="2925" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2952" Length="27" Skip="false">
+    <Translated>Значит, всё-таки смеётесь...</Translated>
+  </Line>
+  <Line StartPos="2993" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3010" Length="45" Skip="false">
+    <Translated>Эй, ну... так о чём ты хотел спросить меня?</Translated>
+  </Line>
+  <Line StartPos="3060" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3087" Length="42" Skip="false">
+    <Translated>Ум... почему вы решили стать Охотником?</Translated>
+  </Line>
+  <Line StartPos="3143" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3160" Length="9" Skip="false">
+    <Translated>Хммм...</Translated>
+  </Line>
+  <Line StartPos="3183" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3200" Length="66" Skip="false">
+    <Translated>... основная причина – мне была скучна моя обычная жизнь.</Translated>
+  </Line>
+  <Line StartPos="3271" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3298" Length="8" Skip="false">
+    <Translated>Скучна?</Translated>
+  </Line>
+  <Line StartPos="3311" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3337" Length="29" Skip="false">
+    <Translated>Да. Тогда я был молод.</Translated>
+  </Line>
+  <Line StartPos="3380" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3397" Length="62" Skip="false">
+    <Translated>Я просто жаждал острых ощущений. Это единственная причина, по которой я стал Охотником.</Translated>
+  </Line>
+  <Line StartPos="3464" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3491" Length="7" Skip="false">
+    <Translated>Ох...</Translated>
+  </Line>
+  <Line StartPos="3512" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+ <Line StartPos="3529" Length="72" Skip="false">
+    <Translated>Поэтому Охотники тогда… Ну, это было лишь три года назад.</Translated>
+  </Line>
+  <Line StartPos="3615" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3632" Length="74" Skip="false">
+    <Translated>Охотников тогда боялись и ненавидели больше всего на свете.</Translated>
+  </Line>
+  <Line StartPos="3711" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3738" Length="25" Skip="false">
+    <Translated>Т-так это правда?!</Translated>
+  </Line>
+  <Line StartPos="3777" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3794" Length="61" Skip="false">
+    <Translated>Для людей, стремящихся стать Охотниками, это, конечно, плохо.</Translated>
+  </Line>
+  <Line StartPos="3860" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3877" Length="91" Skip="false">
+    <Translated>И в своё оправдание, я бегал по округе, пытаясь создать положительное мнение об Охотниках.</Translated>
+  </Line>
+  <Line StartPos="3973" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4000" Length="8" Skip="false">
+    <Translated>Ясно.</Translated>
+  </Line>
+  <Line StartPos="4022" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4039" Length="66" Skip="false">
+    <Translated>Так что тебе нужно постараться и стать Охотником, подающим хороший пример остальным, хорошо?</Translated>
+  </Line>
+  <Line StartPos="4110" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4137" Length="7" Skip="false">
+    <Translated>Хорошо!</Translated>
+  </Line>
+  <Line StartPos="4151" Length="29" Skip="false">
+    <Translated>Да... я постараюсь.</Translated>
+  </Line>
+  <Line StartPos="4210" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4227" Length="38" Skip="false">
+    <Translated>... снова пришёл проблемный ягнёнок.</Translated>
+  </Line>
+  <Line StartPos="4270" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4297" Length="11" Skip="false">
+    <Translated>Учитель...</Translated>
+  </Line>
+  <Line StartPos="4315" Length="62" Skip="false">
+    <Translated>Чувствую, как надо мной смеются, но я всё равно пришёл к Учителю за консультацией.</Translated>
+  </Line>
+  <Line StartPos="4388" Length="64" Skip="false">
+    <Translated>Комната Директора Школы... комната Учителя Вилла.</Translated>
+  </Line>
+  <Line StartPos="4459" Length="47" Skip="false">
+    <Translated>... Учитель вышел и сейчас в ней никого нет.</Translated>
+  </Line>
+  <Line StartPos="4538" Length="60" Skip="false">
+    <Translated>А, я слышу голоса внутри. Похоже, кто-то  разговаривает внутри.</Translated>
+  </Line>
+  <Line StartPos="4603" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="4619" Length="20" Skip="false">
+    <Translated>Подожди... Учитель.</Translated>
+  </Line>
+  <Line StartPos="4644" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4661" Length="21" Skip="false">
+    <Translated>Неа, я не могу больше ждать.</Translated>
+  </Line>
+  <Line StartPos="4689" Length="36" Skip="false">
+    <Translated>?.. О чём они говорят?</Translated>
+  </Line>
+  <Line StartPos="4767" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="4783" Length="54" Skip="false">
+    <Translated>Н-нет... не так внезапно, Учитель... ааах!</Translated>
+  </Line>
+  <Line StartPos="4842" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4859" Length="86" Skip="false">
+    <Translated>Ничего не могу поделать. Клиф-кун недавно вышел и у нас совсем немного времени.</Translated>
+  </Line>
+  <Line StartPos="4950" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="4966" Length="71" Skip="false">
+    <Translated>Но не здесь... аух! А если кто-нибудь зайдёт?..</Translated>
+  </Line>
+  <Line StartPos="5042" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="5059" Length="85" Skip="false">
+    <Translated>Всё нормально. Они пошли в бани, так что их не будет целый час.</Translated>
+  </Line>
+  <Line StartPos="5149" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="5165" Length="24" Skip="false">
+    <Translated>Аах, ох...! Учитель...!</Translated>
+  </Line>
+  <Line StartPos="5196" Length="44" Skip="false">
+    <Translated>Учитель Вилл и Учитель Айри на диване.</Translated>
+  </Line>
+  <Line StartPos="5243" Length="86" Skip="false">
+    <Translated>Учитель Айри с расстёгнутой одеждой сидит на коленях у Учителя Вила...</Translated>
+  </Line>
+  <Line StartPos="5334" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="5350" Length="22" Skip="false">
+    <Translated>Фуа... не здесь...!&apos;</Translated>
+  </Line>
+  <Line StartPos="5377" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="5394" Length="56" Skip="false">
+    <Translated>Ох... похоже, ты тоже в настроении. Ты уже достаточно взмокла.</Translated>
+  </Line>
+  <Line StartPos="5455" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="5471" Length="64" Skip="false">
+    <Translated>Потому что с последнего раза прошло какое-то время. Аааах, да, там!</Translated>
+  </Line>
+  <Line StartPos="5544" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5571" Length="23" Skip="false">
+    <Translated>У-дивительно...</Translated>
+  </Line>
+  <Line StartPos="5599" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5626" Length="49" Skip="false">
+    <Translated>Н-ну это вполне естественно, они ведь женаты...</Translated>
+  </Line>
+  <Line StartPos="5682" Length="18" Skip="false">
+    <Translated>Но я подглядываю...</Translated>
+  </Line>
+  <Line StartPos="5703" Length="41" Skip="false">
+    <Translated>Я не способен двигаться или свести с них взгляд.</Translated>
+  </Line>
+  <Line StartPos="5749" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5776" Length="41" Skip="false">
+    <Translated>Грудь Учителя Айри красива...</Translated>
+  </Line>
+  <Line StartPos="5824" Length="92" Skip="false">
+    <Translated>Я знал что под одеждой у неё хорошее тело, но то, что я вижу просто за пределами моего воображения.</Translated>
+  </Line>
+  <Line StartPos="5921" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="5938" Length="30" Skip="false">
+    <Translated>Вот... тебе ведь это нравится?</Translated>
+  </Line>
+  <Line StartPos="5973" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="5989" Length="22" Skip="false">
+    <Translated>Ах, ещё, ещё...</Translated>
+  </Line>
+  <Line StartPos="6018" Length="69" Skip="false">
+    <Translated>Учитель Вилл сильно сжимает её грудь. Её грудь меняет форму.</Translated>
+  </Line>
+  <Line StartPos="6092" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6119" Length="43" Skip="false">
+    <Translated>Значит у женщин действительно мягкие груди...</Translated>
+  </Line>
+  <Line StartPos="6169" Length="64" Skip="false">
+    <Translated>Я вижу розовые вершины. Учитель Вилл начинает тереть их.</Translated>
+  </Line>
+  <Line StartPos="6238" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="6254" Length="24" Skip="false">
+    <Translated>Ооох! Там, там...!</Translated>
+  </Line>
+  <Line StartPos="6285" Length="42" Skip="false">
+    <Translated>Учитель Айри стонет и трясёт своими длинными волосами.</Translated>
+  </Line>
+  <Line StartPos="6332" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="6349" Length="26" Skip="false">
+    <Translated>Так, поднимись немного...</Translated>
+  </Line>
+  <Line StartPos="6380" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="6396" Length="9" Skip="false">
+    <Translated>Ладно...</Translated>
+  </Line>
+  <Line StartPos="6412" Length="58" Skip="false">
+    <Translated>Учитель Айри, сидевшая на коленях у учителя Вила, привстаёт.</Translated>
+  </Line>
+  <Line StartPos="6473" Length="50" Skip="false">
+    <Translated>Я понимаю, что её нижнее бельё тоже снимается.</Translated>
+  </Line>
+  <Line StartPos="6526" Length="95" Skip="false">
+    <Translated>Темно, и я не вижу этого, но Учитель Вилл тянется вниз и что-то делает.</Translated>
+  </Line>
+  <Line StartPos="6626" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="6643" Length="33" Skip="false">
+    <Translated>Вот так. Можешь опускаться...</Translated>
+  </Line>
+  <Line StartPos="6681" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="6697" Length="15" Skip="false">
+    <Translated>Нн... ааааах!</Translated>
+  </Line>
+  <Line StartPos="6717" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6744" Length="19" Skip="false">
+    <Translated>Это не?..</Translated>
+  </Line>
+  <Line StartPos="6770" Length="53" Skip="false">
+    <Translated>Опускаясь, Учитель Айри начинает дрожать от удовольствия.</Translated>
+  </Line>
+  <Line StartPos="6826" Length="57" Skip="false">
+    <Translated>Пусть и не вижу, но точно могу сказать, что они связаны.</Translated>
+  </Line>
+  <Line StartPos="6888" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="6904" Length="13" Skip="false">
+    <Translated>Оооооох...</Translated>
+  </Line>
+  <Line StartPos="6922" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="6939" Length="10" Skip="false">
+    <Translated>...фух.</Translated>
+  </Line>
+  <Line StartPos="6956" Length="67" Skip="false">
+    <Translated>После всего это Учитель Айри прогибается на Учителя Вила.</Translated>
+  </Line>
+  <Line StartPos="7028" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="7044" Length="26" Skip="false">
+    <Translated>Учитель, ты лучший.</Translated>
+  </Line>
+  <Line StartPos="7075" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="7092" Length="30" Skip="false">
+    <Translated>Тоже самое. Ты лучшая...</Translated>
+  </Line>
+  <Line StartPos="7127" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="7143" Length="29" Skip="false">
+    <Translated>Правда? Лучше Анны-сан?</Translated>
+  </Line>
+  <Line StartPos="7177" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="7194" Length="36" Skip="false">
+    <Translated>Погоди! Почему сразу она?!</Translated>
+  </Line>
+  <Line StartPos="7235" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="7251" Length="33" Skip="false">
+    <Translated>Ох, ты ведёшь себя подозрительно.</Translated>
+  </Line>
+  <Line StartPos="7289" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="7306" Length="18" Skip="false">
+    <Translated>Это не правда!</Translated>
+  </Line>
+  <Line StartPos="7329" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="7345" Length="8" Skip="false">
+    <Translated>Кьяаа!</Translated>
+  </Line>
+  <Line StartPos="7360" Length="26" Skip="false">
+    <Translated>Учитель Айри неожиданно подскочила.</Translated>
+  </Line>
+  <Line StartPos="7389" Length="87" Skip="false">
+    <Translated>Учитель Вилл толкает её снизу. Её волосы танцуют в воздухе при каждом движении.</Translated>
+  </Line>
+  <Line StartPos="7481" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="7498" Length="11" Skip="false">
+    <Translated>Вот тебе.</Translated>
+  </Line>
+  <Line StartPos="7514" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="7530" Length="37" Skip="false">
+    <Translated>Нхаааа! ...это не... честно... ох!</Translated>
+  </Line>
+  <Line StartPos="7572" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7599" Length="23" Skip="false">
+    <Translated>Ого, поразительно!..</Translated>
+  </Line>
+  <Line StartPos="7629" Length="60" Skip="false">
+    <Translated>Пока их тела движутся, грудь Учителя Айри прыгает вверх и вниз.</Translated>
+  </Line>
+  <Line StartPos="7692" Length="74" Skip="false">
+    <Translated>У Учителя Айри похотливый вид, её лицо выражает удовольствие...</Translated>
+  </Line>
+  <Line StartPos="7771" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="7787" Length="24" Skip="false">
+    <Translated>... ух! ...ум! ...аах!</Translated>
+  </Line>
+  <Line StartPos="7818" Length="40" Skip="false">
+    <Translated>Сейчас их движения быстрые и короткие.</Translated>
+  </Line>
+  <Line StartPos="7863" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="7880" Length="28" Skip="false">
+    <Translated>Гух... я кончаю!</Translated>
+  </Line>
+  <Line StartPos="7913" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="7929" Length="31" Skip="false">
+    <Translated>Аах! Учитель... пожалуйста!</Translated>
+  </Line>
+  <Line StartPos="7965" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="7982" Length="10" Skip="false">
+    <Translated>!..</Translated>
+  </Line>
+  <Line StartPos="7997" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="8013" Length="10" Skip="false">
+    <Translated>ААААААААХ!</Translated>
+  </Line>
+  <Line StartPos="8030" Length="39" Skip="false">
+    <Translated>Учитель Айри вскрикивает после прекращения движений.</Translated>
+  </Line>
+  <Line StartPos="8072" Length="59" Skip="false">
+    <Translated>Их дрожащие пояса плотно прижаты друг к другу.</Translated>
+  </Line>
+  <Line StartPos="8136" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8163" Length="32" Skip="false">
+    <Translated>Так вот что делают взрослые...</Translated>
+  </Line>
+  <Line StartPos="8202" Length="55" Skip="false">
+    <Translated>Не то чтобы я был в полном неведении как это делается...</Translated>
+  </Line>
+  <Line StartPos="8260" Length="63" Skip="false">
+    <Translated>Но это впервые когда я вижу как другие делают что-то подобное.</Translated>
+  </Line>
+  <Line StartPos="8328" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="8344" Length="14" Skip="false">
+    <Translated>...оох...</Translated>
+  </Line>
+  <Line StartPos="8365" Length="25" Skip="false">
+    <Translated>Учитель Айри довольно вздыхает.</Translated>
+  </Line>
+  <Line StartPos="8393" Length="39" Skip="false">
+    <Translated>Учитель Вилл нежно ласкает её грудь.</Translated>
+  </Line>
+  <Line StartPos="8437" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="8454" Length="28" Skip="false">
+    <Translated>Было красиво, Айри...</Translated>
+  </Line>
+  <Line StartPos="8487" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="8503" Length="38" Skip="false">
+    <Translated>Боже... Учитель. Ты всё ещё грубиян...</Translated>
+  </Line>
+  <Line StartPos="8546" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8573" Length="27" Skip="false">
+    <Translated>Что это значит...</Translated>
+  </Line>
+  <Line StartPos="8605" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="8622" Length="49" Skip="false">
+    <Translated>У нас ещё есть немного времени перед тем как остальные вернуться...</Translated>
+  </Line>
+  <Line StartPos="8676" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="8692" Length="49" Skip="false">
+    <Translated>... собираешься продолжать до тех пор?</Translated>
+  </Line>
+  <Line StartPos="8746" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="8763" Length="20" Skip="false">
+    <Translated>Ты не хочешь?</Translated>
+  </Line>
+  <Line StartPos="8788" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="8804" Length="19" Skip="false">
+    <Translated>...ты плохой...</Translated>
+  </Line>
+  <Line StartPos="8853" Length="76" Skip="false">
+    <Translated>Для меня это уже слишком. Если я продолжу подглядывать, это нанесёт удар по моей совести.</Translated>
+  </Line>
+  <Line StartPos="8932" Length="35" Skip="false">
+    <Translated>С неохотой, но я ухожу...</Translated>
+  </Line>
+  <Line StartPos="9043" Length="85" Skip="false">
+    <Translated>Когда я захожу в комнату, Учитель Вилл что-то ищет за картиной на стене.</Translated>
+  </Line>
+  <Line StartPos="9133" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9160" Length="40" Skip="false">
+    <Translated>Учитель, вы что-то ищете?</Translated>
+  </Line>
+  <Line StartPos="9214" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="9231" Length="52" Skip="false">
+    <Translated>Га?! А-а, Клиф, это ты. Ты напугал меня.</Translated>
+  </Line>
+  <Line StartPos="9288" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9315" Length="46" Skip="false">
+    <Translated>За этой картиной что-то есть?</Translated>
+  </Line>
+  <Line StartPos="9366" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="9383" Length="42" Skip="false">
+    <Translated>Н-нет...я просто гоняюсь за мухой...</Translated>
+  </Line>
+  <Line StartPos="9430" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9457" Length="8" Skip="false">
+    <Translated>Мухой?</Translated>
+  </Line>
+  <Line StartPos="9470" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="9487" Length="32" Skip="false">
+    <Translated>Н-ну... думаю, она уже улетела.</Translated>
+  </Line>
+  <Line StartPos="9526" Length="44" Skip="false">
+    <Translated>... я огляделся, но не заметил ни одной мухи.</Translated>
+  </Line>
+  <Line StartPos="9575" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9602" Length="41" Skip="false">
+    <Translated>Аа? Что это у вас за спиной?</Translated>
+  </Line>
+  <Line StartPos="9648" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="9665" Length="21" Skip="false">
+    <Translated>Н-нет, совсем ничего.</Translated>
+  </Line>
+  <Line StartPos="9693" Length="34" Skip="false">
+    <Translated>... что его беспокоит?</Translated>
+  </Line>
+  <Line StartPos="9742" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="9758" Length="29" Skip="false">
+    <Translated>Учитель, что ты делаешь?</Translated>
+  </Line>
+  <Line StartPos="9801" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="9818" Length="40" Skip="false">
+    <Translated>Хай, Айри. Ты так красива сегодня.</Translated>
+  </Line>
+  <Line StartPos="9873" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="9889" Length="41" Skip="false">
+    <Translated>... что ты делаешь, вот так скрываясь?</Translated>
+  </Line>
+  <Line StartPos="9944" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="9961" Length="41" Skip="false">
+    <Translated>Н-ничего. И вовсе я не прятался.</Translated>
+  </Line>
+  <Line StartPos="10017" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="10033" Length="39" Skip="false">
+    <Translated>... тогда что у тебя за спиной?</Translated>
+  </Line>
+  <Line StartPos="10086" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="10103" Length="15" Skip="false">
+    <Translated>Ум... ну...</Translated>
+  </Line>
+  <Line StartPos="10133" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="10149" Length="16" Skip="false">
+    <Translated>Дай это мне.</Translated>
+  </Line>
+  <Line StartPos="10179" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="10196" Length="14" Skip="false">
+    <Translated>Хорошо...</Translated>
+  </Line>
+  <Line StartPos="10217" Length="94" Skip="false">
+    <Translated>Учитель достаёт конверт из-за спины. Учитель Айри пугает даже когда улыбается...</Translated>
+  </Line>
+  <Line StartPos="10326" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="10342" Length="48" Skip="false">
+    <Translated>Так и думала! Прячешь тайные сбережения!</Translated>
+  </Line>
+  <Line StartPos="10404" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="10421" Length="84" Skip="false">
+    <Translated>Э-это не! Это деньги не для себя. Это деньги на случай чрезвычайных ситуаций...</Translated>
+  </Line>
+  <Line StartPos="10520" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="10536" Length="83" Skip="false">
+    <Translated>... ладно, скажу так. Значит, никаких проблем если они будут у меня, да?</Translated>
+  </Line>
+  <Line StartPos="10633" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="10650" Length="8" Skip="false">
+    <Translated>Боже...</Translated>
+  </Line>
+  <Line StartPos="10673" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="10689" Length="28" Skip="false">
+    <Translated>Клиф-кун. Подойди.</Translated>
+  </Line>
+  <Line StartPos="10722" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10749" Length="6" Skip="false">
+    <Translated>Да?</Translated>
+  </Line>
+  <Line StartPos="10762" Length="24" Skip="false">
+    <Translated>Что она от меня хочет?</Translated>
+  </Line>
+  <Line StartPos="10825" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="10841" Length="35" Skip="false">
+    <Translated>Я доверяю эти деньги тебе.</Translated>
+  </Line>
+  <Line StartPos="10881" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10908" Length="8" Skip="false">
+    <Translated>Что?!</Translated>
+  </Line>
+  <Line StartPos="10930" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="10946" Length="83" Skip="false">
+    <Translated>Это не пособие. Это на особые случаи, ясно? Так сказал учитель.</Translated>
+  </Line>
+  <Line StartPos="11034" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="11061" Length="14" Skip="false">
+    <Translated>П-почему я?..</Translated>
+  </Line>
+  <Line StartPos="11089" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="11105" Length="49" Skip="false">
+    <Translated>Учитель сможет получить их обратно, если они будут у меня.</Translated>
+  </Line>
+  <Line StartPos="11159" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="11186" Length="9" Skip="false">
+    <Translated>Хаха...</Translated>
+  </Line>
+  <Line StartPos="11202" Length="38" Skip="false">
+    <Translated>... думаю, мне стоит хранить их в столе.</Translated>
+  </Line>
+  <Line StartPos="11261" Length="9" Skip="false">
+    <Translated>Draw\0Will</Translated>
+  </Line>
+</Lines>
+
+</pre>
+[[Men_at_Work 2|[Назад]]]

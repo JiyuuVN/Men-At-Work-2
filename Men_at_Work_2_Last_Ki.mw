@@ -1,0 +1,1391 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="458">
+  <Line StartPos="973" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="989" Length="56" Skip="false">
+    <Translated>Настолько сильный монстр бродит по городу ночью?!.</Translated>
+  </Line>
+  <Line StartPos="1060" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1077" Length="66" Skip="false">
+    <Translated>Ого. Я думала, что мы разделимся, но это было бы слишком опасно.</Translated>
+  </Line>
+  <Line StartPos="1157" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1174" Length="32" Skip="false">
+    <Translated>Да, нам стоит оставаться всем вместе.</Translated>
+  </Line>
+  <Line StartPos="1221" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="1240" Length="39" Skip="false">
+    <Translated>Надеюсь с Китти-чан всё в порядке...</Translated>
+  </Line>
+  <Line StartPos="1284" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1311" Length="58" Skip="false">
+    <Translated>Возможно, это как-то связано с тем, что Китти убежала.</Translated>
+  </Line>
+  <Line StartPos="1383" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="1399" Length="21" Skip="false">
+    <Translated>Наверное ты прав.</Translated>
+  </Line>
+  <Line StartPos="1435" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1452" Length="43" Skip="false">
+    <Translated>Так! Давайте бить их по одному!</Translated>
+  </Line>
+  <Line StartPos="1522" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1549" Length="15" Skip="false">
+    <Translated>Мы победили их!</Translated>
+  </Line>
+  <Line StartPos="1579" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1596" Length="59" Skip="false">
+    <Translated>КИИИИИИИТ! Где ты?! Скажи что-нибудь, если слышишь меня!</Translated>
+  </Line>
+  <Line StartPos="1712" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="1730" Length="26" Skip="false">
+    <Translated>...я пришла, как и обещала.</Translated>
+  </Line>
+  <Line StartPos="1770" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="1788" Length="44" Skip="false">
+    <Translated>Хм... похоже, ты уже попрощалась с ними.</Translated>
+  </Line>
+  <Line StartPos="1846" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="1864" Length="43" Skip="false">
+    <Translated>Я сдержала обещание, теперь твоя очередь!</Translated>
+  </Line>
+  <Line StartPos="1921" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="1939" Length="60" Skip="false">
+    <Translated>Знаю. Я не буду первым нападать на них. Обещаю.</Translated>
+  </Line>
+  <Line StartPos="2013" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="2031" Length="27" Skip="false">
+    <Translated>Тогда ладно. Приступай.</Translated>
+  </Line>
+  <Line StartPos="2072" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="2090" Length="58" Skip="false">
+    <Translated>Как и ожидалось от Сайфон. Похвальная решимость.</Translated>
+  </Line>
+  <Line StartPos="2216" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="2235" Length="46" Skip="false">
+    <Translated>...думаю, монстры здесь стали сильнее.</Translated>
+  </Line>
+  <Line StartPos="2296" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2313" Length="36" Skip="false">
+    <Translated>Да... я начинаю уставать.</Translated>
+  </Line>
+  <Line StartPos="2363" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2379" Length="45" Skip="false">
+    <Translated>Я чувствую, как зло в воздухе становится сильнее.</Translated>
+  </Line>
+  <Line StartPos="2438" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2454" Length="58" Skip="false">
+    <Translated>Здесь не так много сильных и злых монстров.</Translated>
+  </Line>
+  <Line StartPos="2527" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2544" Length="59" Skip="false">
+    <Translated>...ты хочешь сказать, что где-то есть что-то очень негативное?</Translated>
+  </Line>
+  <Line StartPos="2617" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2633" Length="39" Skip="false">
+    <Translated>Да, вероятно... нет, я уверена в этом.</Translated>
+  </Line>
+  <Line StartPos="2677" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2704" Length="67" Skip="false">
+    <Translated>У меня плохое предчувствие. Давайте поскорее найдём Китти.</Translated>
+  </Line>
+  <Line StartPos="2786" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2803" Length="7" Skip="false">
+    <Translated>Да.</Translated>
+  </Line>
+  <Line StartPos="2849" Length="3" Skip="false">
+    <Translated>???</Translated>
+  </Line>
+  <Line StartPos="2866" Length="20" Skip="false">
+    <Translated>Хьохьохьохьохьооо!</Translated>
+  </Line>
+  <Line StartPos="2895" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2922" Length="19" Skip="false">
+    <Translated>Ч-что это было?!</Translated>
+  </Line>
+  <Line StartPos="2955" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2971" Length="31" Skip="false">
+    <Translated>Звучит жутко знакомо.</Translated>
+  </Line>
+  <Line StartPos="3017" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3034" Length="11" Skip="false">
+    <Translated>Идём!</Translated>
+  </Line>
+  <Line StartPos="3105" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3122" Length="33" Skip="false">
+    <Translated>Это означало – до свидания?!</Translated>
+  </Line>
+  <Line StartPos="3160" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3187" Length="22" Skip="false">
+    <Translated>Я не знаю!</Translated>
+  </Line>
+  <Line StartPos="3223" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3239" Length="59" Skip="false">
+    <Translated>Точно. Все проблемы уже решены, так зачем было сбегать?</Translated>
+  </Line>
+  <Line StartPos="3313" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3330" Length="60" Skip="false">
+    <Translated>Дура! Я же говорила ей не повторять одну и ту же ошибку дважды!</Translated>
+  </Line>
+  <Line StartPos="3404" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="3423" Length="45" Skip="false">
+    <Translated>Но... разве Китти-чан сегодня не вела себя странно?</Translated>
+  </Line>
+  <Line StartPos="3482" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3499" Length="83" Skip="false">
+    <Translated>О-ох, да. Сегодня она зашла в кафе. В это время она обычно спит...</Translated>
+  </Line>
+  <Line StartPos="3597" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3614" Length="66" Skip="false">
+    <Translated>У меня она тоже была. Не знаю почему, но она помогала мне...</Translated>
+  </Line>
+  <Line StartPos="3694" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="3713" Length="52" Skip="false">
+    <Translated>В библиотеке она тоже была. Я читала ей книгу.</Translated>
+  </Line>
+  <Line StartPos="3779" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3795" Length="39" Skip="false">
+    <Translated>Она и мне помогала разбрызгивать воду.</Translated>
+  </Line>
+  <Line StartPos="3849" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3866" Length="48" Skip="false">
+    <Translated>Невозможно! Она готовилась к этому?!</Translated>
+  </Line>
+  <Line StartPos="3919" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3946" Length="24" Skip="false">
+    <Translated>Давайте искать её!</Translated>
+  </Line>
+  <Line StartPos="4005" Length="11" Skip="false">
+    <Translated>battle\0form</Translated>
+  </Line>
+  <Line StartPos="4383" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4410" Length="21" Skip="false">
+    <Translated>Прости, Китти...</Translated>
+  </Line>
+  <Line StartPos="4631" Length="15" Skip="false">
+    <Translated>Гильотин-сама</Translated>
+  </Line>
+  <Line StartPos="4660" Length="43" Skip="false">
+    <Translated>Хьохьохьохьооо! Давно я вас не видел!</Translated>
+  </Line>
+  <Line StartPos="4708" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4735" Length="28" Skip="false">
+    <Translated>Ум... кто это?..</Translated>
+  </Line>
+  <Line StartPos="4768" Length="15" Skip="false">
+    <Translated>Гильотин-сама</Translated>
+  </Line>
+  <Line StartPos="4797" Length="54" Skip="false">
+    <Translated>Гррр! Как ты посмел забыть великого Гильотин-саму!</Translated>
+  </Line>
+  <Line StartPos="4856" Length="15" Skip="false">
+    <Translated>Гильотин-сама</Translated>
+  </Line>
+  <Line StartPos="4885" Length="102" Skip="false">
+    <Translated>Я не забыл своё унижение. Теперь великий Гильотин-сама "ВЕРНЁТСЯ НАЗАД"!</Translated>
+  </Line>
+  <Line StartPos="4992" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="5023" Length="44" Skip="false">
+    <Translated>Теперь моё имя Гильотин-сама В! Фхахаха!</Translated>
+  </Line>
+  <Line StartPos="5072" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="5103" Length="109" Skip="false">
+    <Translated>Конечно же "В" означает "Вернулся". Получите мой железный кулак правосудия, который вернулся из пучины ада!</Translated>
+  </Line>
+  <Line StartPos="5226" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="5242" Length="65" Skip="false">
+    <Translated>Уйди! У нас нет времени играть с таким дураком, как ты!</Translated>
+  </Line>
+  <Line StartPos="5316" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="5347" Length="91" Skip="false">
+    <Translated>Дураком! Дураком?! Ты назвала великого Гильотин-саму дураком?! Да кто ты такая?!</Translated>
+  </Line>
+  <Line StartPos="5452" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="5469" Length="94" Skip="false">
+    <Translated>Мы спешим, не стой у нас на пути! У нас нет времени сражаться с таким слабаком, как ты!</Translated>
+  </Line>
+  <Line StartPos="5572" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="5604" Length="70" Skip="false">
+    <Translated>Слабаком! Ты воспринимаешь меня, как слабого монстра?! Разве это возможно?!</Translated>
+  </Line>
+  <Line StartPos="5679" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="5711" Length="59" Skip="false">
+    <Translated>Я не смогу сохранить своё достоинство, если вы смеётесь надо мною!</Translated>
+  </Line>
+  <Line StartPos="5775" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="5807" Length="87" Skip="false">
+    <Translated>Я покажу вам, что с этим "В" в моём имени, я больше не просто слабый монстр! Фуахахаха!</Translated>
+  </Line>
+  <Line StartPos="5908" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="5925" Length="66" Skip="false">
+    <Translated>И чем ты изменился? Ты просто слабый монстр!</Translated>
+  </Line>
+  <Line StartPos="6000" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="6031" Length="81" Skip="false">
+    <Translated>Хьохьо! Я докажу вам! Великий Гильотин-сама В уже не такой, как прежде!</Translated>
+  </Line>
+  <Line StartPos="6155" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="6186" Length="60" Skip="false">
+    <Translated>Хьохьохьохьо! Такой великий человек как я, заслуживает великой фоновой музыки!</Translated>
+  </Line>
+  <Line StartPos="6251" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6278" Length="46" Skip="false">
+    <Translated>...я начинаю уставать от его болтовни.</Translated>
+  </Line>
+  <Line StartPos="6338" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6354" Length="12" Skip="false">
+    <Translated>Тоже самое.</Translated>
+  </Line>
+  <Line StartPos="6381" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6398" Length="19" Skip="false">
+    <Translated>Ты на моём пути!</Translated>
+  </Line>
+  <Line StartPos="6453" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6470" Length="37" Skip="false">
+    <Translated>Голди, мне надоело терять время!</Translated>
+  </Line>
+  <Line StartPos="6516" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="6547" Length="35" Skip="false">
+    <Translated>Добро пожаловать в мир неудач!</Translated>
+  </Line>
+  <Line StartPos="6614" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6631" Length="46" Skip="false">
+    <Translated>Н-нет... проиграть такому слабому монстру...</Translated>
+  </Line>
+  <Line StartPos="6682" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6709" Length="26" Skip="false">
+    <Translated>Отступаем!</Translated>
+  </Line>
+  <Line StartPos="6744" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="6775" Length="21" Skip="false">
+    <Translated>Приходите в любое время!</Translated>
+  </Line>
+  <Line StartPos="6832" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6848" Length="17" Skip="false">
+    <Translated>Э-этот тип...</Translated>
+  </Line>
+  <Line StartPos="6870" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6897" Length="20" Skip="false">
+    <Translated>Нет... Китти...</Translated>
+  </Line>
+  <Line StartPos="6922" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="6953" Length="39" Skip="false">
+    <Translated>Хорошо! Приглашаю 5 человек в ад!</Translated>
+  </Line>
+  <Line StartPos="7077" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="7109" Length="43" Skip="false">
+    <Translated>Нееет! Не может быть, уже не один, а целых два раза!!!</Translated>
+  </Line>
+  <Line StartPos="7157" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="7189" Length="82" Skip="false">
+    <Translated>"В" значит "Вернулся"!Это не должно означать возвращение в ад!</Translated>
+  </Line>
+  <Line StartPos="7285" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7302" Length="36" Skip="false">
+    <Translated>Заткнись! Успокойся и сдохни наконец!</Translated>
+  </Line>
+  <Line StartPos="7347" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="7378" Length="55" Skip="false">
+    <Translated>Боже мой! Я же возрождён великим Вайзор-самой!</Translated>
+  </Line>
+  <Line StartPos="7438" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7465" Length="12" Skip="false">
+    <Translated>Вайзор?!..</Translated>
+  </Line>
+  <Line StartPos="7491" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="7507" Length="41" Skip="false">
+    <Translated>Постой! При чём тут имя Вайзора?!</Translated>
+  </Line>
+  <Line StartPos="7557" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="7589" Length="65" Skip="false">
+    <Translated>Хьохьохьооо! Он бессмертный король и единственная персона, коей я восхищаюсь!</Translated>
+  </Line>
+  <Line StartPos="7659" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="7691" Length="75" Skip="false">
+    <Translated>Уверен, он уже украл силу девушки и стал высшей сущностью!</Translated>
+  </Line>
+  <Line StartPos="7780" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7797" Length="37" Skip="false">
+    <Translated>Девушки... ты говоришь о Кит?!</Translated>
+  </Line>
+  <Line StartPos="7848" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="7865" Length="33" Skip="false">
+    <Translated>Отвечай! Где Китти-чан?!</Translated>
+  </Line>
+  <Line StartPos="7907" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="7938" Length="33" Skip="false">
+    <Translated>Я никогда не скажу вам. Хьохьохьо!</Translated>
+  </Line>
+  <Line StartPos="7976" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="8007" Length="80" Skip="false">
+    <Translated>Оох. Жаль, что я не могу вернуться в церковь и рапортовать Вайзор-саме!</Translated>
+  </Line>
+  <Line StartPos="8092" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="8124" Length="57" Skip="false">
+    <Translated>Но! Вы можете целую вечность искать Вайзор-саму!</Translated>
+  </Line>
+  <Line StartPos="8186" Length="17" Skip="false">
+    <Translated>Гильотин-сама В</Translated>
+  </Line>
+  <Line StartPos="8218" Length="65" Skip="false">
+    <Translated>Я никогда не скажу где Вайзор-сама! Ну, до встречи!</Translated>
+  </Line>
+  <Line StartPos="8301" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8317" Length="9" Skip="false">
+    <Translated>Ну...</Translated>
+  </Line>
+  <Line StartPos="8331" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8358" Length="11" Skip="false">
+    <Translated>Идём.</Translated>
+  </Line>
+  <Line StartPos="8384" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="8401" Length="42" Skip="false">
+    <Translated>Все ведь знают, куда мы идём, да?</Translated>
+  </Line>
+  <Line StartPos="8457" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="8474" Length="22" Skip="false">
+    <Translated>Угу. В церковь.</Translated>
+  </Line>
+  <Line StartPos="8511" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8527" Length="32" Skip="false">
+    <Translated>И... и зачем он появился?</Translated>
+  </Line>
+  <Line StartPos="8573" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="8592" Length="59" Skip="false">
+    <Translated>Может быть, чтобы сказать куда нам идти? Какая хорошая личность.</Translated>
+  </Line>
+  <Line StartPos="8666" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="8683" Length="86" Skip="false">
+    <Translated>Нет, нет. Ну, это, конечно, хорошо. Но от него было много головной боли, и всё ещё стоит звон в ушах.</Translated>
+  </Line>
+  <Line StartPos="8774" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8801" Length="39" Skip="false">
+    <Translated>Хорошо, давайте поспешим в церковь!</Translated>
+  </Line>
+  <Line StartPos="8889" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="8906" Length="15" Skip="false">
+    <Translated>Уф... фух...</Translated>
+  </Line>
+  <Line StartPos="8936" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="8955" Length="32" Skip="false">
+    <Translated>Мина-сан... ты в порядке?</Translated>
+  </Line>
+  <Line StartPos="9001" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="9018" Length="21" Skip="false">
+    <Translated>Д-да... я в порядке.</Translated>
+  </Line>
+  <Line StartPos="9054" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="9070" Length="28" Skip="false">
+    <Translated>Вижу! Церковь!</Translated>
+  </Line>
+  <Line StartPos="9103" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9130" Length="19" Skip="false">
+    <Translated>Китти там?..</Translated>
+  </Line>
+  <Line StartPos="9164" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="9181" Length="21" Skip="false">
+    <Translated>Ч-что это?!..</Translated>
+  </Line>
+  <Line StartPos="9304" Length="7" Skip="false">
+    <Translated>Генерал</Translated>
+  </Line>
+  <Line StartPos="9325" Length="23" Skip="false">
+    <Translated>Я не дам вам пройти...</Translated>
+  </Line>
+  <Line StartPos="9387" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="9404" Length="13" Skip="false">
+    <Translated>Ч-что?!..</Translated>
+  </Line>
+  <Line StartPos="9431" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="9447" Length="32" Skip="false">
+    <Translated>В святой церкви, вот это?..</Translated>
+  </Line>
+  <Line StartPos="9488" Length="7" Skip="false">
+    <Translated>Генерал</Translated>
+  </Line>
+  <Line StartPos="9509" Length="47" Skip="false">
+    <Translated>Из ада я был призван Вайзор-самой.</Translated>
+  </Line>
+  <Line StartPos="9561" Length="7" Skip="false">
+    <Translated>Генерал</Translated>
+  </Line>
+  <Line StartPos="9582" Length="49" Skip="false">
+    <Translated>По приказу моего хозяина, я никому не позволю пройти.</Translated>
+  </Line>
+  <Line StartPos="9636" Length="7" Skip="false">
+    <Translated>Генерал</Translated>
+  </Line>
+  <Line StartPos="9657" Length="19" Skip="false">
+    <Translated>Исчезните или умрите!</Translated>
+  </Line>
+  <Line StartPos="9690" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="9707" Length="65" Skip="false">
+    <Translated>Не говори глупостей! Мы не отступим, пока не вернём Китти!</Translated>
+  </Line>
+  <Line StartPos="9781" Length="7" Skip="false">
+    <Translated>Генерал</Translated>
+  </Line>
+  <Line StartPos="9802" Length="50" Skip="false">
+    <Translated>Тогда умрите! Умрите сейчас же! Умрите мгновенно! Умрите, умрите, умрите!</Translated>
+  </Line>
+  <Line StartPos="9867" Length="7" Skip="false">
+    <Translated>Генерал</Translated>
+  </Line>
+  <Line StartPos="9888" Length="31" Skip="false">
+    <Translated> Умрите! Умрите! Умрите! Умрите! Умрите! Умрите!</Translated>
+  </Line>
+  <Line StartPos="9933" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="9950" Length="22" Skip="false">
+    <Translated>...прости меня, Кит...</Translated>
+  </Line>
+  <Line StartPos="9977" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10004" Length="18" Skip="false">
+    <Translated>Китти... Китти!</Translated>
+  </Line>
+  <Line StartPos="10111" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="10127" Length="59" Skip="false">
+    <Translated>Осторожно. Я ощущаю сильное зло с той стороны...</Translated>
+  </Line>
+  <Line StartPos="10201" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="10218" Length="52" Skip="false">
+    <Translated>Конечно. Тот монстр чётко сказал, "Вайзор-сама".</Translated>
+  </Line>
+  <Line StartPos="10284" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="10301" Length="24" Skip="false">
+    <Translated>Значит, он здесь?!..</Translated>
+  </Line>
+  <Line StartPos="10330" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10357" Length="17" Skip="false">
+    <Translated>...идём внутрь.</Translated>
+  </Line>
+  <Line StartPos="10425" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="10443" Length="14" Skip="false">
+    <Translated>А. Охотники.</Translated>
+  </Line>
+  <Line StartPos="10462" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10489" Length="9" Skip="false">
+    <Translated>Китти!</Translated>
+  </Line>
+  <Line StartPos="10526" Length="30" Skip="false">
+    <Translated>Китти лежит у ног Вайзора.</Translated>
+  </Line>
+  <Line StartPos="10559" Length="71" Skip="false">
+    <Translated>У неё бледное лицо и кровь течёт из двух дыр в шее...</Translated>
+  </Line>
+  <Line StartPos="10635" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10662" Length="28" Skip="false">
+    <Translated>Что ты сделал с Китти?!</Translated>
+  </Line>
+  <Line StartPos="10695" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="10713" Length="61" Skip="false">
+    <Translated>Хах. Не стоит так злиться. Я только забрал её силу и кровь.</Translated>
+  </Line>
+  <Line StartPos="10779" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="10796" Length="19" Skip="false">
+    <Translated>Силу и кровь?!</Translated>
+  </Line>
+  <Line StartPos="10820" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="10838" Length="105" Skip="false">
+    <Translated>Не волнуйтесь. Мы не умираем от такого. Её сила была отобрана и она просто продолжит свой сон.</Translated>
+  </Line>
+  <Line StartPos="10978" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="10995" Length="21" Skip="false">
+    <Translated>Продолжит сон?!</Translated>
+  </Line>
+  <Line StartPos="11030" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="11048" Length="86" Skip="false">
+    <Translated>Верно. Эта девушка потомок одной из Трёх Великих Семей, Сайфон...</Translated>
+  </Line>
+  <Line StartPos="11148" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="11166" Length="97" Skip="false">
+    <Translated>Она не умрёт от такого. Но она проспит долгое время, пока её сила не вернётся.</Translated>
+  </Line>
+  <Line StartPos="11277" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+   <Line StartPos="11295" Length="27" Skip="false">
+    <Translated>Всего-то около ста лет.</Translated>
+  </Line>
+  <Line StartPos="11336" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="11353" Length="49" Skip="false">
+    <Translated>Это значит, что она не проснётся, когда мы ещё будем живы!</Translated>
+  </Line>
+  <Line StartPos="11417" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="11434" Length="87" Skip="false">
+    <Translated>Ты же не думаешь, что просто так сможешь уйти, сделав такое с одним из членов моей семьи, верно?</Translated>
+  </Line>
+  <Line StartPos="11536" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="11553" Length="40" Skip="false">
+    <Translated>Я просто прибью тебя! Готовься!</Translated>
+  </Line>
+  <Line StartPos="11621" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="11639" Length="82" Skip="false">
+    <Translated>Ты хочешь противостоять мне? Прекрати. Собираешься сделать нашу сделку напрасной?</Translated>
+  </Line>
+  <Line StartPos="11735" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="11751" Length="20" Skip="false">
+    <Translated>Что это значит?!</Translated>
+  </Line>
+  <Line StartPos="11785" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="11803" Length="68" Skip="false">
+    <Translated>Эта девушка пожертвовала собой и пришла ко мне, чтобы спасти вас, людей.</Translated>
+  </Line>
+  <Line StartPos="11876" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="11903" Length="11" Skip="false">
+    <Translated>Что?!</Translated>
+  </Line>
+  <Line StartPos="11928" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="11946" Length="110" Skip="false">
+    <Translated>Я заключил с ней контракт. Я не убью вас, если она отдаст мне свою кровь и силу.</Translated>
+  </Line>
+  <Line StartPos="12061" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="12079" Length="82" Skip="false">
+    <Translated>Естественно, при условии, что вы первыми не нападёте на меня.</Translated>
+  </Line>
+  <Line StartPos="12175" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="12192" Length="19" Skip="false">
+    <Translated>Как она могла...!</Translated>
+  </Line>
+  <Line StartPos="12225" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="12243" Length="98" Skip="false">
+    <Translated>Со своей стороны, я сдержу это обещание. А значит, вам не стоит разбрасываться жизнями, спасёнными этой девушкой, верно?</Translated>
+  </Line>
+  <Line StartPos="12355" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="12371" Length="54" Skip="false">
+    <Translated>Прости, но я не думаю, что это всё что тебе нужно.</Translated>
+  </Line>
+  <Line StartPos="12439" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="12457" Length="25" Skip="false">
+    <Translated>Ох... что ты хочешь сказать?</Translated>
+  </Line>
+  <Line StartPos="12496" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="12512" Length="51" Skip="false">
+    <Translated>Какая у тебя цель? Зачем ты пришёл в эти земли?</Translated>
+  </Line>
+  <Line StartPos="12577" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="12595" Length="87" Skip="false">
+    <Translated>Мне нужна сила. Той лисицы, которая запечатала меня вместе с Сайфон и погрузила в длительный сон...</Translated>
+  </Line>
+  <Line StartPos="12696" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="12714" Length="94" Skip="false">
+    <Translated>Да. Худшей ведьмы всех времён, главы одной из Трёх Великих Семей, Михайлов...</Translated>
+  </Line>
+  <Line StartPos="12822" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="12840" Length="58" Skip="false">
+    <Translated>Увидеть мёртвое тело Ирины Михайловны, вот моя истинная цель.</Translated>
+  </Line>
+  <Line StartPos="12912" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="12931" Length="24" Skip="false">
+    <Translated>Ирины... Михайловны?..</Translated>
+  </Line>
+  <Line StartPos="12969" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="12987" Length="55" Skip="false">
+    <Translated>Да. Даже в её теле должно быть много энергии.</Translated>
+  </Line>
+  <Line StartPos="13056" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="13074" Length="55" Skip="false">
+    <Translated>Когда я заберу её силу, моя станет абсолютной.</Translated>
+  </Line>
+  <Line StartPos="13143" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="13160" Length="44" Skip="false">
+    <Translated>Тогда почему Кит пришлось пережить всё это?!</Translated>
+  </Line>
+  <Line StartPos="13218" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="13236" Length="74" Skip="false">
+    <Translated>Я же говорил вам. В этой девушке кровь одной из Трёх Великих Семей, Сайфон.</Translated>
+  </Line>
+  <Line StartPos="13324" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="13342" Length="67" Skip="false">
+    <Translated>Даже если не так много, как у Михайлов, эта девушка очень сильна.</Translated>
+  </Line>
+  <Line StartPos="13414" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="13432" Length="39" Skip="false">
+    <Translated>И я взял её силу вместо Ирины.</Translated>
+  </Line>
+  <Line StartPos="13485" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="13503" Length="56" Skip="false">
+    <Translated>...и теперь, я сильнейший и величайший в этом времени!</Translated>
+  </Line>
+  <Line StartPos="13573" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="13589" Length="48" Skip="false">
+    <Translated>...ты ответил только на один мой вопрос.</Translated>
+  </Line>
+  <Line StartPos="13651" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="13669" Length="33" Skip="false">
+    <Translated>Ладно, что ты хочешь знать?</Translated>
+  </Line>
+  <Line StartPos="13716" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="13732" Length="29" Skip="false">
+    <Translated>Зачем ты ищешь силу?</Translated>
+  </Line>
+  <Line StartPos="13775" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="13791" Length="60" Skip="false">
+    <Translated>...что ты намереваешься сделать, когда получишь эту силу?!</Translated>
+  </Line>
+  <Line StartPos="13865" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="13883" Length="44" Skip="false">
+    <Translated>...создам царство монстров.</Translated>
+  </Line>
+  <Line StartPos="13932" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="13959" Length="4" Skip="false">
+    <Translated>!!!</Translated>
+  </Line>
+  <Line StartPos="13977" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="13995" Length="111" Skip="false">
+    <Translated>Королевство управляемое монстрами, для монстров. Монстры-это высшие существа, и людям не суждено выжить.</Translated>
+  </Line>
+  <Line StartPos="14120" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="14138" Length="91" Skip="false">
+    <Translated>Да... это королевство должно было появиться ещё тысячу лет назад! Это моя главная цель!</Translated> 
+  </Line>
+  <Line StartPos="14243" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="14261" Length="91" Skip="false">
+    <Translated>Я убью всех людей. Но благодаря её жертве, вам будет позволено жить.</Translated>
+  </Line>
+  <Line StartPos="14366" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="14383" Length="37" Skip="false">
+    <Translated>Заткнись! Ты несёшь бред!</Translated>
+  </Line>
+  <Line StartPos="14434" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="14451" Length="58" Skip="false">
+    <Translated>Какое ещё королевство?! Я раздавлю тебя прямо здесь!</Translated>
+  </Line>
+  <Line StartPos="14523" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="14541" Length="70" Skip="false">
+    <Translated>Как глупо. Ты правда хочешь отречься от жизни, которую ты получила?</Translated>
+  </Line>
+  <Line StartPos="14625" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="14641" Length="97" Skip="false">
+    <Translated>...даже если мы будем жить по твоей милости, это ничем не отличается от порабощения другими монстрами.</Translated>
+  </Line>
+  <Line StartPos="14752" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="14770" Length="30" Skip="false">
+    <Translated>...вы правда хотите умереть?</Translated>
+  </Line>
+  <Line StartPos="14814" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="14831" Length="42" Skip="false">
+    <Translated>Не шути со мной! Конечно же я хочу жить!</Translated>
+  </Line>
+  <Line StartPos="14887" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="14905" Length="105" Skip="false">
+    <Translated>Девушки... ваша речь и ваше поведение противоречат друг другу. Зачем вы противитесь мне, если хотите жить?</Translated>
+  </Line>
+  <Line StartPos="15024" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="15041" Length="41" Skip="false">
+    <Translated>Конечно же потому, что я хочу жить.</Translated>
+  </Line>
+  <Line StartPos="15096" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="15113" Length="38" Skip="false">
+    <Translated>Я ненавижу мир, в котором ты мне позволишь жить!</Translated>
+  </Line>
+  <Line StartPos="15165" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="15182" Length="35" Skip="false">
+    <Translated>Верно! Хорошо сказано, Ми-чан!</Translated>
+  </Line>
+  <Line StartPos="15251" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="15267" Length="41" Skip="false">
+    <Translated>Я не отдам тебе место, где мы живём!</Translated>
+  </Line>
+  <Line StartPos="15323" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="15342" Length="37" Skip="false">
+    <Translated>Сложно сказать, что я живу, но...</Translated>
+  </Line>
+  <Line StartPos="15394" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="15413" Length="65" Skip="false">
+    <Translated>Я не позволю тебе убить друзей, которые так дороги мне!</Translated>
+  </Line>
+  <Line StartPos="15483" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="15510" Length="35" Skip="false">
+    <Translated>Вайзор... я уничтожу тебя!</Translated>
+  </Line>
+  <Line StartPos="15573" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="15591" Length="59" Skip="false">
+    <Translated>Хахахаха. Сайфон. Похоже, всё что ты сделала было напрасно.</Translated>
+  </Line>
+  <Line StartPos="15664" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="15682" Length="41" Skip="false">
+    <Translated>Ладно. Давайте. Я убью вас медленно.</Translated>
+  </Line>
+  <Line StartPos="15737" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="15755" Length="50" Skip="false">
+    <Translated>Я покажу вам свою силу, как высшая сущность!</Translated>
+  </Line>
+  <Line StartPos="15878" Length="14" Skip="false">
+    <Translated>WinDra\0LoseDra</Translated>
+  </Line>
+  <Line StartPos="15906" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="15924" Length="60" Skip="false">
+    <Translated>Что случилось с теми речами, коими вы бросались в меня прежде?</Translated>
+  </Line>
+  <Line StartPos="15998" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="16016" Length="53" Skip="false">
+    <Translated>Поймите, насколько безрассуден и тщеславен был ваш выбор!</Translated>
+  </Line>
+  <Line StartPos="16116" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="16134" Length="47" Skip="false">
+    <Translated>Было большим преступлением, стать на пути моего правления.</Translated>
+  </Line>
+  <Line StartPos="16195" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="16213" Length="33" Skip="false">
+    <Translated>Заплатите за это вашими жизнями!</Translated>
+  </Line>
+  <Line StartPos="16265" Length="29" Skip="false">
+    <Translated>Вайзор что-то кричит.</Translated>
+  </Line>
+  <Line StartPos="16297" Length="50" Skip="false">
+    <Translated>Но у меня нет сил слушать его...</Translated>
+  </Line>
+  <Line StartPos="16409" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="16427" Length="13" Skip="false">
+    <Translated>Гуааах!..</Translated>
+  </Line>
+  <Line StartPos="16454" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="16472" Length="74" Skip="false">
+    <Translated>Как... я получил силу семьи Сайфон и проиграл простым людям?!..</Translated>
+  </Line>
+  <Line StartPos="16560" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="16578" Length="72" Skip="false">
+    <Translated>Невозможно!.. Это невозможно...! Этого не должно было случиться!..</Translated>
+  </Line>
+  <Line StartPos="16664" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="16682" Length="18" Skip="false">
+    <Translated>Обычные люди!..</Translated>
+  </Line>
+  <Line StartPos="16757" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="16773" Length="18" Skip="false">
+    <Translated>М-мы победили его...</Translated>
+  </Line>
+  <Line StartPos="16796" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="16823" Length="30" Skip="false">
+    <Translated>Я и сам не могу в это поверить...</Translated>
+  </Line>
+  <Line StartPos="16868" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="16885" Length="24" Skip="false">
+    <Translated>Кит важнее!</Translated>
+  </Line>
+  <Line StartPos="16914" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="16941" Length="25" Skip="false">
+    <Translated>Т-ты права! Китти!</Translated>
+  </Line>
+  <Line StartPos="16980" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="16997" Length="13" Skip="false">
+    <Translated>Китти-чан!</Translated>
+  </Line>
+  <Line StartPos="17038" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="17057" Length="27" Skip="false">
+    <Translated>Китти, держись...</Translated>
+  </Line>
+  <Line StartPos="17089" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="17108" Length="11" Skip="false">
+    <Translated>Китти!..</Translated>
+  </Line>
+  <Line StartPos="17126" Length="50" Skip="false">
+    <Translated>Я беру Китти на руки и отчаянно кричу.</Translated>
+  </Line>
+  <Line StartPos="17179" Length="42" Skip="false">
+    <Translated>...сердце Китти всё ещё слабо бьётся.</Translated>
+  </Line>
+  <Line StartPos="17224" Length="47" Skip="false">
+    <Translated>Но настолько слабо, что может остановиться в любую секунду.</Translated>
+  </Line>
+  <Line StartPos="17276" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="17294" Length="11" Skip="false">
+    <Translated>Китти!..</Translated>
+  </Line>
+  <Line StartPos="17310" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="17328" Length="15" Skip="false">
+    <Translated>Кл... иф?..</Translated>
+  </Line>
+  <Line StartPos="17348" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="17367" Length="13" Skip="false">
+    <Translated>Китти-чан!</Translated>
+  </Line>
+  <Line StartPos="17385" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="17402" Length="20" Skip="false">
+    <Translated>Кит, ты проснулась?!</Translated>
+  </Line>
+  <Line StartPos="17427" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="17445" Length="32" Skip="false">
+    <Translated>Что... случилось с Дракул?..</Translated>
+  </Line>
+  <Line StartPos="17482" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="17500" Length="14" Skip="false">
+    <Translated>Мы победили его.</Translated>
+  </Line>
+  <Line StartPos="17519" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="17537" Length="38" Skip="false">
+    <Translated>Аха... все... такие сильные...</Translated>
+  </Line>
+  <Line StartPos="17580" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="17598" Length="48" Skip="false">
+    <Translated>Китти, крепко держись. Мы идём домой.</Translated>
+  </Line>
+  <Line StartPos="17651" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="17669" Length="15" Skip="false">
+    <Translated>Угу...</Translated>
+  </Line>
+  <Line StartPos="17689" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="17707" Length="28" Skip="false">
+    <Translated>Я хочу... домой...</Translated>
+  </Line>
+  <Line StartPos="17740" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="17758" Length="34" Skip="false">
+    <Translated>Я хочу... быть со всеми...</Translated>
+  </Line>
+  <Line StartPos="17797" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="17814" Length="19" Skip="false">
+    <Translated>Конечно будешь!</Translated>
+  </Line>
+  <Line StartPos="17838" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="17855" Length="32" Skip="false">
+    <Translated>Ага! Так что держись!</Translated>
+  </Line>
+  <Line StartPos="17892" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="17908" Length="51" Skip="false">
+    <Translated>Ни кто не смеет мешать нашей мирной жизни.</Translated>
+  </Line>
+  <Line StartPos="17964" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="17983" Length="32" Skip="false">
+    <Translated>Китти-чан, пожалуйста, держись!</Translated>
+  </Line>
+  <Line StartPos="18020" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="18038" Length="8" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="18051" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="18069" Length="51" Skip="false">
+    <Translated>Нет... я больше не могу... двигаться...</Translated>
+  </Line>
+  <Line StartPos="18125" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="18143" Length="12" Skip="false">
+    <Translated>Китти!..</Translated>
+  </Line>
+  <Line StartPos="18160" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="18177" Length="7" Skip="false">
+    <Translated>Кит!</Translated>
+  </Line>
+  <Line StartPos="18189" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="18206" Length="13" Skip="false">
+    <Translated>Китти-чан!</Translated>
+  </Line>
+  <Line StartPos="18226" Length="60" Skip="false">
+    <Translated>Пульс Китти слабеет. И вот-вот может остановиться...</Translated>
+  </Line>
+  <Line StartPos="18291" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="18309" Length="20" Skip="false">
+    <Translated>Клиф... я... я...</Translated>
+  </Line>
+  <Line StartPos="18334" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="18352" Length="17" Skip="false">
+    <Translated>...люблю тебя...</Translated>
+  </Line>
+  <Line StartPos="18374" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="18392" Length="34" Skip="false">
+    <Translated>Я тебя тоже!.. Поэтому не умирай, Китти!</Translated>
+  </Line>
+  <Line StartPos="18431" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="18449" Length="20" Skip="false">
+    <Translated>Клиф... пожалуйста...</Translated>
+  </Line>
+  <Line StartPos="18474" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="18492" Length="15" Skip="false">
+    <Translated>Поцелуй ... меня...</Translated>
+  </Line>
+  <Line StartPos="18512" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="18530" Length="10" Skip="false">
+    <Translated>Китти...</Translated>
+  </Line>
+  <Line StartPos="18547" Length="49" Skip="false">
+    <Translated>В этот момент, рука Китти падает на пол.</Translated>
+  </Line>
+  <Line StartPos="18601" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="18619" Length="33" Skip="false">
+    <Translated>Китти! Китти! Открой глаза!</Translated>
+  </Line>
+  <Line StartPos="18657" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="18675" Length="13" Skip="false">
+    <Translated>Китти...</Translated>
+  </Line>
+  <Line StartPos="18723" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="18739" Length="14" Skip="false">
+    <Translated>Китти-сан...</Translated>
+  </Line>
+  <Line StartPos="18767" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="18784" Length="32" Skip="false">
+    <Translated>Кит! Чёрт, открой глаза!</Translated>
+  </Line>
+  <Line StartPos="18834" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="18853" Length="14" Skip="false">
+    <Translated>Нет...</Translated>
+  </Line>
+  <Line StartPos="18881" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="18898" Length="15" Skip="false">
+    <Translated>Китти-чан...</Translated>
+  </Line>
+  <Line StartPos="18931" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="18948" Length="36" Skip="false">
+    <Translated>Ку-чан... это было последним желанием Кит...</Translated>
+  </Line>
+  <Line StartPos="18998" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="19015" Length="24" Skip="false">
+    <Translated>Поцелуй её.</Translated>
+  </Line>
+  <Line StartPos="19044" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="19071" Length="9" Skip="false">
+    <Translated>Да...</Translated>
+  </Line>
+  <Line StartPos="19108" Length="48" Skip="false">
+    <Translated>Я поднимаю Китти и касаюсь её тёплых губ.</Translated>
+  </Line>
+  <Line StartPos="19171" Length="68" Skip="false">
+    <Translated>Неожиданно, у меня закружилась голова, и я почувствовал, как что-то уходит из моего тела...</Translated>
+  </Line>
+  <Line StartPos="19244" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="19261" Length="11" Skip="false">
+    <Translated>Ку-чан?!</Translated>
+  </Line>
+  <Line StartPos="19277" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="19294" Length="31" Skip="false">
+    <Translated>Клиф! Что с тобой?</Translated>
+  </Line>
+  <Line StartPos="19330" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="19346" Length="13" Skip="false">
+    <Translated>Клиф-сан!!!</Translated>
+  </Line>
+  <Line StartPos="19370" Length="24" Skip="false">
+    <Translated>...всё что-то кричат.</Translated>
+  </Line>
+  <Line StartPos="19397" Length="101" Skip="false">
+    <Translated>Мой разум погружается в темноту, мне уже всё равно, если я смогу попасть туда, где Китти...</Translated>
+  </Line>
+  <Line StartPos="19501" Length="57" Skip="false">
+    <Translated>Я слышу как знакомый голос зовёт меня издали...</Translated>
+  </Line>
+</Lines>
+
+</pre>
+
+[[Men_at_Work 2|[Назад]]]

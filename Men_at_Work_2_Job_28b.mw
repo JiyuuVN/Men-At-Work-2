@@ -1,0 +1,35 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="8">
+  <Line StartPos="938" Length="35" Skip="false">
+    <Translated>Дорога ведёт в город.</Translated>
+  </Line>
+  <Line StartPos="999" Length="16" Skip="false">
+    <Translated>Вернуться в город?</Translated>
+  </Line>
+  <Line StartPos="1020" Length="6" Skip="false">
+    <Translated>Да\0Нет</Translated>
+  </Line>
+  <Line StartPos="3036" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3063" Length="12" Skip="false">
+    <Translated>Я разбит!</Translated>
+  </Line>
+  <Line StartPos="3089" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3105" Length="36" Skip="false">
+    <Translated>Не принуждай себя.</Translated>
+  </Line>
+  <Line StartPos="3178" Length="11" Skip="false">
+    <Translated>main\0SunSet</Translated>
+  </Line>
+</Lines>
+
+</pre>
+
+[[Men_at_Work 2|[Назад]]]

@@ -1,0 +1,266 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="85">
+  <Line StartPos="123" Length="64" Skip="false">
+    <Translated>После поражения Вайзора монстры исчезли из Старого Замка.</Translated>
+  </Line>
+  <Line StartPos="203" Length="66" Skip="false">
+    <Translated>Мы смогли без препятствий выйти наружу.</Translated>
+  </Line>
+  <Line StartPos="281" Length="27" Skip="false">
+    <Translated>А солнце тем временем уже село...</Translated>
+  </Line>
+  <Line StartPos="338" Length="65" Skip="false">
+    <Translated>Но монстры исчезли не только из Старого Замка.</Translated>
+  </Line>
+  <Line StartPos="415" Length="69" Skip="false">
+    <Translated>Сильные монстры повсюду начали исчезать или терять свои силы.</Translated>
+  </Line>
+  <Line StartPos="496" Length="53" Skip="false">
+    <Translated>Все удивились, но мы-то догадываемся в чём причина.</Translated>
+  </Line>
+  <Line StartPos="561" Length="40" Skip="false">
+    <Translated>Дракул как-то влиял на них.</Translated>
+  </Line>
+  <Line StartPos="633" Length="47" Skip="false">
+    <Translated>По ночам по-прежнему появляются слабые монстры, но...</Translated>
+  </Line>
+  <Line StartPos="692" Length="58" Skip="false">
+    <Translated>Но... город Филандрия вернулся к своей мирной жизни.</Translated>
+  </Line>
+  <Line StartPos="762" Length="42" Skip="false">
+    <Translated>К прежней мирной жизни, которой мы так желали...</Translated>
+  </Line>
+  <Line StartPos="841" Length="58" Skip="false">
+    <Translated>Конечно, не всё вернулось в своё прежнее состояние...</Translated>
+  </Line>
+  <Line StartPos="911" Length="89" Skip="false">
+    <Translated>Одна комната на втором этаже Школы всё ещё пуста, как будто ждёт возвращения своего хозяина...</Translated>
+  </Line>
+  <Line StartPos="1037" Length="82" Skip="false">
+    <Translated>Прошло немного времени... шок от потери Шерил понемногу проходит...</Translated>
+  </Line>
+  <Line StartPos="1142" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1159" Length="7" Skip="false">
+    <Translated>Ох...</Translated>
+  </Line>
+  <Line StartPos="1180" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1197" Length="27" Skip="false">
+    <Translated>Ребята! Сенсей возвращается!</Translated>
+  </Line>
+  <Line StartPos="1255" Length="50" Skip="false">
+    <Translated>Вилл-сенсей и Айри-сенсей возвращаются из Лигурии.</Translated>
+  </Line>
+  <Line StartPos="1317" Length="53" Skip="false">
+    <Translated>Они были удивлены, узнав что нас стало больше, но...</Translated>
+  </Line>
+  <Line StartPos="1382" Length="81" Skip="false">
+    <Translated>Они полностью утвердили Китти как члена Школы.</Translated>
+  </Line>
+  <Line StartPos="1517" Length="74" Skip="false">
+    <Translated>И когда мы рассказали, что один из нас погиб, так и не встретившись с ними...</Translated>
+  </Line>
+  <Line StartPos="1603" Length="46" Skip="false">
+    <Translated>Сенсей погладил наши головы с добрым выражением.</Translated>
+  </Line>
+  <Line StartPos="1661" Length="68" Skip="false">
+    <Translated>Сенсей молчан, но казалось, что он говорил нам, не падать духом.</Translated>
+  </Line>
+  <Line StartPos="1741" Length="59" Skip="false">
+    <Translated>Я также рассказал ему, что случилось с Дракулом...</Translated>
+  </Line>
+  <Line StartPos="1812" Length="44" Skip="false">
+    <Translated>Они сильно удивились, узнав это.</Translated>
+  </Line>
+  <Line StartPos="1890" Length="86" Skip="false">
+    <Translated>Позже я узнал, что инцидент, в Лигурию тоже был связан с ним.</Translated>
+  </Line>
+  <Line StartPos="1988" Length="58" Skip="false">
+    <Translated>Похоже, мы выполнили задание вместо Сенсея.</Translated>
+  </Line>
+  <Line StartPos="2094" Length="52" Skip="false">
+    <Translated>Со временем Школа стала выглядеть лучше и...</Translated>
+  </Line>
+  <Line StartPos="2180" Length="40" Skip="false">
+    <Translated>И... мы стали взрослее.</Translated>
+  </Line>
+  <Line StartPos="2251" Length="69" Skip="false">
+    <Translated>Мы меняемся шаг за шагом... ведь у нас есть завтра, которое уже не изменится.</Translated>
+  </Line>
+  <Line StartPos="2332" Length="32" Skip="false">
+    <Translated>И это хорошо, я в этом уверен.</Translated>
+  </Line>
+  <Line StartPos="2395" Length="58" Skip="false">
+    <Translated>Мы напоминаем себе о том, как важны обычные дни...</Translated>
+  </Line>
+  <Line StartPos="2469" Length="61" Skip="false">
+    <Translated>Ах да. Есть ещё кое-что важное, что я должен сказать.</Translated>
+  </Line>
+  <Line StartPos="2565" Length="45" Skip="false">
+    <Translated>Вскоре после возвращения Сенсея, мы с Аой поженились.</Translated>
+  </Line>
+  <Line StartPos="2626" Length="55" Skip="false">
+    <Translated>Пока проходили мирные и счастливые дни...\0у нас появился ребёнок.</Translated>
+  </Line>
+  <Line StartPos="2693" Length="29" Skip="false">
+    <Translated>Милая девочка с золотистыми волосами.</Translated>
+  </Line>
+  <Line StartPos="2736" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2752" Length="24" Skip="false">
+    <Translated>Ум... могу я дать ей имя?</Translated>
+  </Line>
+  <Line StartPos="2781" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2799" Length="64" Skip="false">
+    <Translated>Хорошо. Уверен, это тоже самое имя, которое хотел ей дать я.</Translated>
+  </Line>
+  <Line StartPos="2868" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2884" Length="40" Skip="false">
+    <Translated>Ох... А какое имя ты хотел ей дать?</Translated>
+  </Line>
+  <Line StartPos="2929" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2947" Length="45" Skip="false">
+    <Translated>Ты хочешь произнести его вместе?..\0Готовься...</Translated>
+  </Line>
+  <Line StartPos="2999" Length="55" Skip="false">
+    <Translated>Имя, слетевшее с наших уст было одним и тем же.</Translated>
+  </Line>
+  <Line StartPos="3057" Length="48" Skip="false">
+    <Translated>Имя, которое подойдёт девушке с длинными светлыми волосами...</Translated>
+  </Line>
+  <Line StartPos="3114" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3131" Length="36" Skip="false">
+    <Translated>Ку-чан! Аой! Дайте мне увидеть малышку!</Translated>
+  </Line>
+  <Line StartPos="3170" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="3188" Length="21" Skip="false">
+    <Translated>И мне тоже!</Translated>
+  </Line>
+  <Line StartPos="3216" Length="83" Skip="false">
+    <Translated>Люси, Китти, Мина, Вилл-сенсей и Айри-сенсей, все они приходят каждый день чтобы увидеть ребёнка.</Translated>
+  </Line>
+  <Line StartPos="3304" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3321" Length="40" Skip="false">
+    <Translated>Это, насчёт имени. Я тут подумала...</Translated>
+  </Line>
+  <Line StartPos="3368" Length="85" Skip="false">
+    <Translated>Конечно же, Люси назвала то же самое имя.</Translated>
+  </Line>
+  <Line StartPos="3464" Length="52" Skip="false">
+    <Translated>Уверен, в будущем она получит много любви.</Translated>
+  </Line>
+  <Line StartPos="3528" Length="63" Skip="false">
+    <Translated>Она вырастет честной, весёлой и доброй девушкой...</Translated>
+  </Line>
+  <Line StartPos="3603" Length="40" Skip="false">
+    <Translated>Такой же как и девушка, которая умерла спасая нас...</Translated>
+  </Line>
+  <Line StartPos="3657" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3675" Length="18" Skip="false">
+    <Translated>Верно... Шерил?</Translated>
+  </Line>
+  <Line StartPos="3711" Length="3" Skip="false">
+    <Translated>???</Translated>
+  </Line>
+  <Line StartPos="3727" Length="9" Skip="false">
+    <Translated>Хихи...</Translated>
+  </Line>
+  <Line StartPos="3756" Length="45" Skip="false">
+    <Translated>Знакомый смех, кажется, я где-то его слышал...</Translated>
+  </Line>
+  <Line StartPos="3822" Length="17" Skip="false">
+    <Translated>ED_Mena\0StaffRoll</Translated>
+  </Line>
+  <Line StartPos="3935" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3951" Length="37" Skip="false">
+    <Translated>Спасибо, Клиф-сан.</Translated>
+  </Line>
+  <Line StartPos="4016" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4032" Length="52" Skip="false">
+    <Translated>Шерил-сан стала счастливой и я наконец-то почувствовала спокойствие.</Translated>
+  </Line>
+  <Line StartPos="4098" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4114" Length="39" Skip="false">
+    <Translated>Ну, всё не так то просто, но...</Translated>
+  </Line>
+  <Line StartPos="4189" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4205" Length="41" Skip="false">
+    <Translated>Мм... спасибо что выбрал меня в этот раз...</Translated>
+  </Line>
+  <Line StartPos="4260" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4276" Length="55" Skip="false">
+    <Translated>Я никогда не думала, что смогу выйти замуж и у меня будет ребёнок.</Translated>
+  </Line>
+  <Line StartPos="4345" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4361" Length="33" Skip="false">
+    <Translated>Но, есть то, о чём я сожалею...</Translated>
+  </Line>
+  <Line StartPos="4408" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4424" Length="51" Skip="false">
+    <Translated>Да... я не смогла спасти одного человека...</Translated>
+  </Line>
+  <Line StartPos="4489" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4505" Length="60" Skip="false">
+    <Translated>Пожалуйста... я хочу, чтобы в следующий раз ты сделал Шерил-сан счастливой...</Translated>
+  </Line>
+  <Line StartPos="4579" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4595" Length="50" Skip="false">
+    <Translated>Она дала нам счастье, которое сейчас у нас есть ...</Translated>
+  </Line>
+  <Line StartPos="4663" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4679" Length="112" Skip="false">
+    <Translated>Тогда мы снова вернёмся к первому дню. Не думаю, что должна говорить тебе, но пожалуйста, не забудь сохраниться.</Translated>
+  </Line>
+  <Line StartPos="4805" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4821" Length="49" Skip="false">
+    <Translated>И пожалуйста, дорогой, приходи повидать нашу Шерил-чан снова.</Translated>
+  </Line>
+</Lines>
+
+</pre>
+
+[[Men_at_Work 2|[Назад]]]

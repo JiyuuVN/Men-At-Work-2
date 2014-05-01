@@ -1,0 +1,287 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="92">
+  <Line StartPos="437" Length="12" Skip="false">
+    <Translated>Last_me\0Load</Translated>
+  </Line>
+  <Line StartPos="784" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="811" Length="68" Skip="false">
+    <Translated>Солнце уже заходит...\0Времени для подготовки больше нет.</Translated>
+  </Line>
+  <Line StartPos="884" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="911" Length="11" Skip="false">
+    <Translated>Пора идти!</Translated>
+  </Line>
+  <Line StartPos="960" Length="44" Skip="false">
+    <Translated>Academy\0BuildFirm\0WeaponShop\0ItemShop\0Church</Translated>
+  </Line>
+  <Line StartPos="1025" Length="10" Skip="false">
+    <Translated>Pub\0Castle</Translated>
+  </Line>
+  <Line StartPos="1046" Length="23" Skip="false">
+    <Translated>Здесь некуда идти.</Translated>
+  </Line>
+  <Line StartPos="1086" Length="12" Skip="false">
+    <Translated>draw\0Academy</Translated>
+  </Line>
+  <Line StartPos="1114" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="1132" Length="12" Skip="false">
+    <Translated>О, Клиф.</Translated>
+  </Line>
+  <Line StartPos="1159" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="1178" Length="43" Skip="false">
+    <Translated>Пожалуйста, позаботься о приготовлениях.</Translated>
+  </Line>
+  <Line StartPos="1226" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1253" Length="15" Skip="false">
+    <Translated>Да, я знаю.</Translated>
+  </Line>
+  <Line StartPos="1285" Length="14" Skip="false">
+    <Translated>draw\0BuildFirm</Translated>
+  </Line>
+  <Line StartPos="1334" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1354" Length="94" Skip="false">
+    <Translated>Эй, парень... Мне очень жаль, но какое-то время я не смогу ничего для тебя сделать.</Translated>
+  </Line>
+  <Line StartPos="1453" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1480" Length="16" Skip="false">
+    <Translated>Что-то случилось?</Translated>
+  </Line>
+  <Line StartPos="1510" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1530" Length="86" Skip="false">
+    <Translated>Ты же знаешь о вчерашнем пожаре, правда?.. Я должен с этим помочь.</Translated>
+  </Line>
+  <Line StartPos="1630" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1650" Length="38" Skip="false">
+    <Translated>Это же работа плотника?</Translated>
+  </Line>
+  <Line StartPos="1693" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1720" Length="56" Skip="false">
+    <Translated>Вы выглядите не особо довольным...</Translated>
+  </Line>
+  <Line StartPos="1790" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1810" Length="68" Skip="false">
+    <Translated>Нет... Просто мне, как плотнику, больно видеть такое.</Translated>
+  </Line>
+  <Line StartPos="1892" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1912" Length="86" Skip="false">
+    <Translated>Ненавижу пожары... Весь труд и все старания могут превратиться в пыль за одно мгновение.</Translated>
+  </Line>
+  <Line StartPos="2003" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2030" Length="9" Skip="false">
+    <Translated>Да...</Translated>
+  </Line>
+  <Line StartPos="2053" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="2073" Length="43" Skip="false">
+    <Translated>Ну, хорошо что никто не умер.</Translated>
+  </Line>
+  <Line StartPos="2121" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="2141" Length="111" Skip="false">
+    <Translated>Тебе тоже стоит опасаться пожаров. Если в этом старом здании что-то загорится, то оно обратится в прах за одно мгновение.</Translated>
+  </Line>
+  <Line StartPos="2257" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2284" Length="8" Skip="false">
+    <Translated>Старое...</Translated>
+  </Line>
+  <Line StartPos="2299" Length="27" Skip="false">
+    <Translated>Не хочу признавать этого, но так и есть.</Translated>
+  </Line>
+  <Line StartPos="2350" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="2370" Length="65" Skip="false">
+    <Translated>Привет... Как я и говорил, я сейчас очень занят.</Translated>
+  </Line>
+  <Line StartPos="2440" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2467" Length="25" Skip="false">
+    <Translated>Хорошо... Удачи.</Translated>
+  </Line>
+  <Line StartPos="2501" Length="11" Skip="false">
+    <Translated>WP_Shop\0Top</Translated>
+  </Line>
+  <Line StartPos="2536" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2553" Length="37" Skip="false">
+    <Translated>Мы должны спасти Ми-чан как можно скорее.</Translated>
+  </Line>
+  <Line StartPos="2595" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2622" Length="15" Skip="false">
+    <Translated>Да, я знаю.</Translated>
+  </Line>
+  <Line StartPos="2654" Length="13" Skip="false">
+    <Translated>draw\0ItemShop</Translated>
+  </Line>
+  <Line StartPos="2701" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2718" Length="89" Skip="false">
+    <Translated>Ох, я ждала тебя, Ку-чан.\0Иди и подготовься как следует.</Translated>
+  </Line>
+  <Line StartPos="2834" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2851" Length="36" Skip="false">
+    <Translated>А, забыл что-то? Входи.</Translated>
+  </Line>
+  <Line StartPos="2937" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2953" Length="43" Skip="false">
+    <Translated>Нужно спешить... Мы должны скорее спасти Мину-сан.</Translated>
+  </Line>
+  <Line StartPos="3001" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3028" Length="15" Skip="false">
+    <Translated>Да, я знаю.</Translated>
+  </Line>
+  <Line StartPos="3060" Length="11" Skip="false">
+    <Translated>draw\0Church</Translated>
+  </Line>
+  <Line StartPos="3103" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3119" Length="62" Skip="false">
+    <Translated>У меня есть все лекарства, которые могут понадобиться.\0Тебе что-нибудь нужно?</Translated>
+  </Line>
+  <Line StartPos="3212" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3228" Length="33" Skip="false">
+    <Translated>А?.. Забыл что-нибудь?</Translated>
+  </Line>
+  <Line StartPos="3296" Length="11" Skip="false">
+    <Translated>Library\0Top</Translated>
+  </Line>
+  <Line StartPos="3322" Length="8" Skip="false">
+    <Translated>draw\0Pub</Translated>
+  </Line>
+  <Line StartPos="3359" Length="5" Skip="false">
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="3377" Length="65" Skip="false">
+    <Translated>Похоже, ночью был большой пожар. Тебе что-то об этом известно?</Translated>
+  </Line>
+  <Line StartPos="3447" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3474" Length="8" Skip="false">
+    <Translated>Да...</Translated>
+  </Line>
+  <Line StartPos="3487" Length="5" Skip="false">
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="3505" Length="51" Skip="false">
+    <Translated>Пожары пугают... Впредь надо быть осторожной.</Translated>
+  </Line>
+  <Line StartPos="3561" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3588" Length="9" Skip="false">
+    <Translated>Угу...</Translated>
+  </Line>
+  <Line StartPos="3611" Length="5" Skip="false">
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="3629" Length="41" Skip="false">
+    <Translated>И... Зачем ты пришёл сегодня?</Translated>
+  </Line>
+  <Line StartPos="3675" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3702" Length="38" Skip="false">
+    <Translated>Ой... Я просто пришёл поздороваться.</Translated>
+  </Line>
+  <Line StartPos="3745" Length="5" Skip="false">
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="3763" Length="63" Skip="false">
+    <Translated>А, ясно... Вам нужно будет как-нибудь прийти сюда и пообедать всем вместе.</Translated>
+  </Line>
+  <Line StartPos="3831" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3858" Length="41" Skip="false">
+    <Translated>Ладно... Обещаю, я зайду сюда снова.</Translated>
+  </Line>
+  <Line StartPos="3913" Length="5" Skip="false">
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="3931" Length="9" Skip="false">
+    <Translated>?..</Translated>
+  </Line>
+  <Line StartPos="3955" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3982" Length="41" Skip="false">
+    <Translated>Я обязательно вернусь чтобы снова поесть здесь.</Translated>
+  </Line>
+  <Line StartPos="4037" Length="5" Skip="false">
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="4055" Length="13" Skip="false">
+    <Translated>М?.. Х-хорошо...</Translated>
+  </Line>
+  <Line StartPos="4079" Length="36" Skip="false">
+    <Translated>Я закончил все приготовления?</Translated>
+  </Line>
+  <Line StartPos="4120" Length="40" Skip="false">
+    <Translated>Я полностью готов!\0Мне нужно ещё кое-что...</Translated>
+  </Line>
+  <Line StartPos="4194" Length="42" Skip="false">
+    <Translated>Я собрал всех и мы направились в Старый Замок.</Translated>
+  </Line>
+  <Line StartPos="4239" Length="33" Skip="false">
+    <Translated>Чтобы победить Вайзора и спасти Мину...</Translated>
+  </Line>
+  <Line StartPos="4285" Length="5" Skip="false">
+    <Translated>start</Translated>
+  </Line>
+  <Line StartPos="4293" Length="11" Skip="false">
+    <Translated>Ed_Mena\0Top</Translated>
+  </Line>
+</Lines>
+
+</pre>
+
+[[Men_at_Work 2|[Назад]]]

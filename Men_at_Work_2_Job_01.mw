@@ -1,0 +1,1197 @@
+[[Men at Work 2:Прогресс_перевода|[Назад]]]
+<poem>
+
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="297">
+ <Line StartPos="442" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="469" Length="21" Skip="false">
+   <Origin>"Oh, we&apos;ve got mail."</Origin>
+   <Translated>О, у нас почта.</Translated>
+ </Line>
+ <Line StartPos="495" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="522" Length="22" Skip="false">
+   <Origin>"Um... a job request?"</Origin>
+   <Translated>Хм... контракт?</Translated>
+ </Line>
+ <Line StartPos="551" Length="20" Skip="false">
+   <Origin>It&apos;s from the mayor.</Origin>
+   <Translated>Это от мэра.</Translated>
+ </Line>
+ <Line StartPos="576" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="603" Length="31" Skip="false">
+   <Origin>"I wonder what it could\0be...?"</Origin>
+   <Translated>И что же тут у нас?..</Translated>
+ </Line>
+ <Line StartPos="658" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="685" Length="47" Skip="false">
+   <Origin>"Um... I&apos;ve got a request\0from the mayor here."</Origin>
+   <Translated>Эмм... я получил запрос от мэра.</Translated>
+ </Line>
+ <Line StartPos="746" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="763" Length="17" Skip="false">
+   <Origin>"From the mayor?"</Origin>
+   <Translated>От мэра?</Translated>
+ </Line>
+ <Line StartPos="814" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="831" Length="13" Skip="false">
+   <Origin>"What is it?"</Origin>
+   <Translated>И какой же?</Translated>
+ </Line>
+ <Line StartPos="849" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="876" Length="25" Skip="false">
+   <Origin>"...Cleaning the sewers."</Origin>
+   <Translated>Чистка канализации...</Translated>
+ </Line>
+ <Line StartPos="916" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="933" Length="16" Skip="false">
+   <Origin>"What is that!?"</Origin>
+   <Translated>Чего?!</Translated>
+ </Line>
+ <Line StartPos="954" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="981" Length="77" Skip="false">
+   <Origin>"It says the sewer is filled\0with slimes, so he wants us\0to get rid of them."</Origin>
+   <Translated>Тут написано, что в канализации расплодились слизни, и он хочет, чтобы мы от них избавились.</Translated>
+ </Line>
+ <Line StartPos="1072" Length="3" Skip="false">
+   <Origin>Iry</Origin>
+   <Translated>Айри</Translated>
+ </Line>
+ <Line StartPos="1088" Length="45" Skip="false">
+   <Origin>"Oh my... The mayor sure gives us hard\0jobs."</Origin>
+   <Translated>О Боже... Мэр определённо дает нам самую грязную работу.</Translated>
+ </Line>
+ <Line StartPos="1148" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="1164" Length="105" Skip="false">
+   <Origin>"Well, we will improve our reputation if\0we do something nobody else will do. I\0think we should take it."</Origin>
+   <Translated>Ну, мы улучшим свою репутацию, если возьмёмся за то, что другие сделать не могут. Думаю, нам следует согласиться.</Translated>
+ </Line>
+ <Line StartPos="1283" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="1300" Length="70" Skip="false">
+   <Origin>"I think the mayor&apos;s being considerate.\0The reward&apos;s pretty good too."</Origin>
+   <Translated>Я думаю, что мэр к нам присматривается. Да и награда вроде неплохая.</Translated>
+ </Line>
+ <Line StartPos="1385" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="1402" Length="55" Skip="false">
+   <Origin>"Hey, Sensei. Can we upgrade the bath\0with that money?"</Origin>
+   <Translated>Эй, учитель. А на эти деньги мы сможем отремонтировать ванную?</Translated>
+ </Line>
+ <Line StartPos="1471" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="1488" Length="107" Skip="false">
+   <Origin>"The reward&apos;s not that big. We&apos;ll have\0to do this a dozen more times if we\0wanted to reconstruct the bath."</Origin>
+   <Translated>Вознаграждение не настолько большое. Нам придется выполнить с десяток подобных заданий, если мы хотим восстановить ее.</Translated>
+ </Line>
+ <Line StartPos="1610" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="1627" Length="9" Skip="false">
+   <Origin>"Damn..."</Origin>
+   <Translated>Чёрт...</Translated>
+ </Line>
+ <Line StartPos="1650" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="1667" Length="74" Skip="false">
+   <Origin>"But... if it&apos;s just slimes, it\0shouldn&apos;t be a problem for even you\0guys."</Origin>
+   <Translated>Ну... раз это просто обычные слизни, они не должны стать для вас особой проблемой.</Translated>
+ </Line>
+ <Line StartPos="1755" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="1772" Length="99" Skip="false">
+   <Origin>"I think it&apos;s a perfect job to help\0Cliff-kun and Mena-kun understand what\0the jobs are like here."</Origin>
+   <Translated>Думаю, это идеальная возможность показать Клиф-куну и Мине-чан, что такое работа охотника.</Translated>
+ </Line>
+ <Line StartPos="1886" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="1903" Length="47" Skip="false">
+   <Origin>"So it&apos;ll be our first job. We&apos;ll do our\0best."</Origin>
+   <Translated>Это будет наше первое задание. Мы постараемся!</Translated>
+ </Line>
+ <Line StartPos="1965" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="1982" Length="23" Skip="false">
+   <Origin>"Let&apos;s do it, Ku-chan."</Origin>
+   <Translated>Ку-чан, сделаем это.</Translated>
+ </Line>
+ <Line StartPos="2010" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="2037" Length="22" Skip="false">
+   <Origin>"I-I&apos;ll do my best..."</Origin>
+   <Translated>Я... Я сделаю всё, что сумею...</Translated>
+ </Line>
+ <Line StartPos="2073" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="2090" Length="59" Skip="false">
+   <Origin>"...Then it&apos;s decided. We&apos;ll let you\0guys handle this job."</Origin>
+   <Translated>Решено. Тогда идите и займитесь этим.</Translated>
+ </Line>
+ <Line StartPos="2154" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="2171" Length="77" Skip="false">
+   <Origin>"The sewer flows out into the river, so\0you can enter from there. Good luck."</Origin>
+   <Translated>Канализационные воды сбрасывают в реку, так что оттуда вы сможете попасть внутрь. Удачи.</Translated>
+ </Line>
+ <Line StartPos="2263" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="2279" Length="39" Skip="false">
+   <Origin>"Yes... Please trust us with this job."</Origin>
+   <Translated>Да... пожалуйста, доверьтесь нам.</Translated>
+ </Line>
+ <Line StartPos="2362" Length="48" Skip="false">
+   <Origin>Will-Sensei takes out an envelope during\0dinner.</Origin>
+   <Translated>Во время обеда учитель Вилл достаёт конверт.</Translated>
+ </Line>
+ <Line StartPos="2415" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="2442" Length="23" Skip="false">
+   <Origin>"What is that, Sensei?"</Origin>
+   <Translated>Учитель, что это?</Translated>
+ </Line>
+ <Line StartPos="2479" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="2496" Length="41" Skip="false">
+   <Origin>"Rejoice. It&apos;s a request to the\0Academy."</Origin>
+   <Translated>Радуйся. Это запрос.</Translated>
+ </Line>
+ <Line StartPos="2552" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="2569" Length="26" Skip="false">
+   <Origin>"Is it a job for Hunters?"</Origin>
+   <Translated>Это работа для Охотников?</Translated>
+ </Line>
+ <Line StartPos="2609" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="2626" Length="80" Skip="false">
+   <Origin>"Yeah. It&apos;s from the mayor. I guess\0there are slimes he wants us to get rid\0of."</Origin>
+   <Translated>Да. От мэра. Похоже, есть какие-то слизни, и он хочет, чтобы их не стало.</Translated>
+ </Line>
+ <Line StartPos="2721" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="2738" Length="29" Skip="false">
+   <Origin>"Slimes are a piece of cake."</Origin>
+   <Translated>Слизни? Да раз плюнуть.</Translated>
+ </Line>
+ <Line StartPos="2782" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="2798" Length="34" Skip="false">
+   <Origin>"...Do not take them too lightly."</Origin>
+   <Translated>Вряд ли все так просто...</Translated>
+ </Line>
+ <Line StartPos="2837" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="2854" Length="73" Skip="false">
+   <Origin>"That&apos;s right. They shouldn&apos;t be trouble\0unless you let your guard down."</Origin>
+   <Translated>Верно. Никаких проблем до тех пор, пока ты не отвлечешься.</Translated>
+ </Line>
+ <Line StartPos="2941" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="2958" Length="51" Skip="false">
+   <Origin>"It&apos;s perfect for your first job in\0those regards."</Origin>
+   <Translated>Они идеально подойдут для вашей первой работы. Хотя...</Translated>
+ </Line>
+ <Line StartPos="3024" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="3041" Length="19" Skip="false">
+   <Origin>"Those regards...?"</Origin>
+   <Translated>Что-то не так?..</Translated>
+ </Line>
+ <Line StartPos="3074" Length="3" Skip="false">
+   <Origin>Iry</Origin>
+   <Translated>Айри</Translated>
+ </Line>
+ <Line StartPos="3090" Length="68" Skip="false">
+   <Origin>"I saw the request form, but it seems\0the slimes are in the sewers."</Origin>
+   <Translated>Я посмотрела бланк запроса, похоже, эти слизни живут в канализации.</Translated>
+ </Line>
+ <Line StartPos="3163" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="3190" Length="48" Skip="false">
+   <Origin>"S-Sewer!? We have to go to\0a place like that!?"</Origin>
+   <Translated>К-канализации?! Мы что, должны будем туда залезть?!</Translated>
+ </Line>
+ <Line StartPos="3253" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="3269" Length="105" Skip="false">
+   <Origin>"Well, we will improve our reputation if\0we do something nobody else will do. I\0think we should take it."</Origin>
+   <Translated>Ну, мы улучшим свою репутацию, если возьмёмся за то, что другие сделать не могут. Думаю, нам следует согласиться.</Translated>
+ </Line>
+ <Line StartPos="3388" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="3405" Length="77" Skip="false">
+   <Origin>"I think the mayor&apos;s considering that\0too. He prepared a pretty good reward."</Origin>
+   <Translated>Думаю, мэр это тоже учёл. Он приготовил весьма хорошее вознаграждение.</Translated>
+ </Line>
+ <Line StartPos="3497" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="3514" Length="60" Skip="false">
+   <Origin>"Hey Sensei. Can&apos;t we reconstruct the\0bath with that money?"</Origin>
+   <Translated>Учитель. А мы сможем отремонтировать нашу ванную на эти деньги?</Translated>
+ </Line>
+ <Line StartPos="3588" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="3605" Length="84" Skip="false">
+   <Origin>"It&apos;s not that much money. We&apos;ll have to\0make so much more to reconstruct the\0bath."</Origin>
+   <Translated>Это не настолько большая сумма. На ремонт ванны нам понадобиться куда больше.</Translated>
+ </Line>
+ <Line StartPos="3704" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="3721" Length="8" Skip="false">
+   <Origin>"Man..."</Origin>
+   <Translated>Эх...</Translated>
+ </Line>
+ <Line StartPos="3743" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="3760" Length="52" Skip="false">
+   <Origin>"...Then it&apos;s decided. I&apos;ll leave this\0to you guys."</Origin>
+   <Translated>Решено. Оставляю это на вас.</Translated>
+ </Line>
+ <Line StartPos="3817" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="3834" Length="67" Skip="false">
+   <Origin>"The sewer exits into the river. I think\0you can go in from there."</Origin>
+   <Translated>Канализационные воды сбрасываются в реку. Думаю, вы сможете зайти оттуда.</Translated>
+ </Line>
+ <Line StartPos="3916" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="3933" Length="21" Skip="false">
+   <Origin>"Let&apos;s do it, Cliff."</Origin>
+   <Translated>Клиф, давай сделаем это.</Translated>
+ </Line>
+ <Line StartPos="3959" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="3986" Length="7" Skip="false">
+   <Origin>"Yeah."</Origin>
+   <Translated>Угу.</Translated>
+ </Line>
+ <Line StartPos="4134" Length="10" Skip="false">
+   <Origin>draw\0sewer</Origin>
+   <Translated>draw\0sewer</Translated>
+ </Line>
+ <Line StartPos="4157" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="4183" Length="30" Skip="false">
+   <Origin>"Wow... it smells terrible..."</Origin>
+   <Translated>Ух... Кошмарный запах...</Translated>
+ </Line>
+ <Line StartPos="4228" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="4245" Length="82" Skip="false">
+   <Origin>"It&apos;s worse than I thought. Geez,\0everyone must be throwing everything\0down here."</Origin>
+   <Translated>Еще хуже, чем я думала. Чёрт, наверняка все подряд сюда мусор выкидывают.</Translated>
+ </Line>
+ <Line StartPos="4332" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="4359" Length="47" Skip="false">
+   <Origin>"...Why was there a sudden\0outbreak of slimes?"</Origin>
+   <Translated>Почему тут вдруг завелись слизни?</Translated>
+ </Line>
+ <Line StartPos="4420" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="4436" Length="44" Skip="false">
+   <Origin>"I think someone drained a slime down\0here."</Origin>
+   <Translated>Думаю, кто-то их тут развел.</Translated>
+ </Line>
+ <Line StartPos="4495" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="4512" Length="34" Skip="false">
+   <Origin>"It&apos;s scary how it might be true."</Origin>
+   <Translated>Жуть до чего похоже на правду.</Translated>
+ </Line>
+ <Line StartPos="4551" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="4578" Length="60" Skip="false">
+   <Origin>"U-Um... Does the Academy\0always accept these kind of\0jobs?"</Origin>
+   <Translated>Угу... И часто Школа принимает такие задания?</Translated>
+ </Line>
+ <Line StartPos="4653" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="4670" Length="47" Skip="false">
+   <Origin>"You can&apos;t be choosy with your jobs, Ku-\0chan."</Origin>
+   <Translated>Ку-чан, не стоит пренебрегать работой.</Translated>
+ </Line>
+ <Line StartPos="4722" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="4739" Length="24" Skip="false">
+   <Origin>"Not all jobs are cool."</Origin>
+   <Translated>Не всякая работа хороша.</Translated>
+ </Line>
+ <Line StartPos="4778" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="4795" Length="64" Skip="false">
+   <Origin>"First of all, we&apos;re in no position to\0be choosy with our jobs."</Origin>
+   <Translated>В первую очередь, мы не в том положении, чтобы выбирать.</Translated>
+ </Line>
+ <Line StartPos="4864" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="4891" Length="13" Skip="false">
+   <Origin>"Oh, okay..."</Origin>
+   <Translated>А, ладно...</Translated>
+ </Line>
+ <Line StartPos="4918" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="4935" Length="37" Skip="false">
+   <Origin>"Try your best at everything, right?"</Origin>
+   <Translated>Постарайся хорошо проявить себя, договорились?</Translated>
+ </Line>
+ <Line StartPos="4987" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="5004" Length="47" Skip="false">
+   <Origin>"Right. You sure are know what&apos;s up, Me-\0chan."</Origin>
+   <Translated>Верно. Ми-тян, уж ты-то точно знаешь что делать.</Translated>
+ </Line>
+ <Line StartPos="5078" Length="96" Skip="false">
+   <Origin>Left clicking on the mouse will move\0your character. Right clicking will\0change your view angle.</Origin>
+   <Translated>Левая кнопка мыши передвигает вашего персонажа. Правая кнопка мыши изменяет угол обзора.</Translated>
+ </Line>
+ <Line StartPos="5177" Length="91" Skip="false">
+   <Origin>You can save anywhere, but you will\0start over from the beginning of the map\0when you load.</Origin>
+   <Translated>Вы можете сохраняться в любом месте, но при загрузке всегда окажетесь в начале карты.</Translated>
+ </Line>
+ <Line StartPos="5319" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="5346" Length="20" Skip="false">
+   <Origin>"Phew. Is that all?"</Origin>
+   <Translated>Фух. Это всё?</Translated>
+ </Line>
+ <Line StartPos="5380" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="5397" Length="68" Skip="false">
+   <Origin>"I think so... I don&apos;t think there are\0any more slimes around here."</Origin>
+   <Translated>Я так... не думаю, здесь ещё много слизней.</Translated>
+ </Line>
+ <Line StartPos="5480" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="5497" Length="60" Skip="false">
+   <Origin>"No... There&apos;s one more nasty one\0somewhere. I can feel it."</Origin>
+   <Translated>Нет... Самый мерзкий где-то рядом. Я чувствую его.</Translated>
+ </Line>
+ <Line StartPos="5562" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="5589" Length="11" Skip="false">
+   <Origin>"Nasty...?"</Origin>
+   <Translated>Мерзкий?..</Translated>
+ </Line>
+ <Line StartPos="5615" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="5632" Length="39" Skip="false">
+   <Origin>"Yeah, nasty. Come on, can&apos;t you tell?"</Origin>
+   <Translated>Да, мерзкий. А что, разве нет?</Translated>
+ </Line>
+ <Line StartPos="5676" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="5703" Length="14" Skip="false">
+   <Origin>"Oh... sorry."</Origin>
+   <Translated>Ох... прости.</Translated>
+ </Line>
+ <Line StartPos="5731" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="5747" Length="66" Skip="false">
+   <Origin>"...Please do not give him nonsense. I\0did not understand either."</Origin>
+   <Translated>Пожалуйста, не говори всякую ерунду. Я тебя не понимаю.</Translated>
+ </Line>
+ <Line StartPos="5827" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="5844" Length="11" Skip="false">
+   <Origin>"Me too..."</Origin>
+   <Translated>Я тоже...</Translated>
+ </Line>
+ <Line StartPos="5870" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="5887" Length="37" Skip="false">
+   <Origin>"Geez... you guys aren&apos;t fun at all."</Origin>
+   <Translated>Блин... С вами совсем не весело.</Translated>
+ </Line>
+ <Line StartPos="5938" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="5954" Length="27" Skip="false">
+   <Origin>"I don&apos;t think it matters."</Origin>
+   <Translated>Я о таком и не думаю.</Translated>
+ </Line>
+ <Line StartPos="5986" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="6013" Length="48" Skip="false">
+   <Origin>"U-Um... Why don&apos;t we look\0in the back as well?"</Origin>
+   <Translated>Ммм... Почему бы нам не вернуться?</Translated>
+ </Line>
+ <Line StartPos="6076" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="6093" Length="42" Skip="false">
+   <Origin>"Yeah... Let&apos;s finish this up and go\0eat."</Origin>
+   <Translated>Верно... Давайте закончим уже и пойдём перекусим.</Translated>
+ </Line>
+ <Line StartPos="6149" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="6166" Length="25" Skip="false">
+   <Origin>"It&apos;s already that late?"</Origin>
+   <Translated>Уже так поздно?</Translated>
+ </Line>
+ <Line StartPos="6205" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="6221" Length="28" Skip="false">
+   <Origin>"Lucy-san is always hungry."</Origin>
+   <Translated>Люси-сан всегда голодная.</Translated>
+ </Line>
+ <Line StartPos="6264" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="6281" Length="33" Skip="false">
+   <Origin>"Gimme a break. Let&apos;s get going!"</Origin>
+   <Translated>Устроим перерыв. Идемте уже!</Translated>
+ </Line>
+ <Line StartPos="6540" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="6557" Length="70" Skip="false">
+   <Origin>"Hold on. Are you going back even though\0we&apos;re not done with our job?"</Origin>
+   <Translated>А ну стой! Ты что, собираешься уйти, не закончив работу?</Translated>
+ </Line>
+ <Line StartPos="6634" Length="5" Skip="false">
+   <Origin>Exit?</Origin>
+   <Translated>Уйти?</Translated>
+ </Line>
+ <Line StartPos="6644" Length="6" Skip="false">
+   <Origin>Yes\0No</Origin>
+   <Translated>Да\0Нет</Translated>
+ </Line>
+ <Line StartPos="6695" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="6712" Length="35" Skip="false">
+   <Origin>"I&apos;m fine, so let&apos;s go keep going."</Origin>
+   <Translated>Я в порядке, идёмте дальше.</Translated>
+ </Line>
+ <Line StartPos="6762" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="6779" Length="47" Skip="false">
+   <Origin>"Way to go, Me-chan! Your future is\0promising!"</Origin>
+   <Translated>Так держать Ми-чан! Твоё будущее выглядит многообещающе!</Translated>
+ </Line>
+ <Line StartPos="6840" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="6856" Length="20" Skip="false">
+   <Origin>"This is only play."</Origin>
+   <Translated>Это всего лишь игра.</Translated>
+ </Line>
+ <Line StartPos="6891" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="6908" Length="34" Skip="false">
+   <Origin>"Aoi sure is intense like always."</Origin>
+   <Translated>Аой как всегда жизнерадостна.</Translated>
+ </Line>
+ <Line StartPos="6947" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="6974" Length="35" Skip="false">
+   <Origin>"Um... sorry. I&apos;ll do my\0best too."</Origin>
+   <Translated>Хм... Простите что вмешиваюсь. Я тоже постараюсь.</Translated>
+ </Line>
+ <Line StartPos="7024" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="7041" Length="36" Skip="false">
+   <Origin>"All right! As expected from a guy!"</Origin>
+   <Translated> Верно! Настоящий парень!</Translated>
+ </Line>
+ <Line StartPos="7113" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="7130" Length="44" Skip="false">
+   <Origin>"Geez... the future looks gloomy like\0this."</Origin>
+   <Translated>Блин... Теперь будущее представляется весьма мрачным.</Translated>
+ </Line>
+ <Line StartPos="7211" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="7227" Length="46" Skip="false">
+   <Origin>"I still feel some evil presence around\0here."</Origin>
+   <Translated>Я всё ещё ощущаю какое-то злое присутствие здесь.</Translated>
+ </Line>
+ <Line StartPos="7288" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="7305" Length="55" Skip="false">
+   <Origin>"You don&apos;t have to hurry, Ku-chan. Let&apos;s\0take it easy."</Origin>
+   <Translated>Ку-чан, не торопись ты так. Расслабься.</Translated>
+ </Line>
+ <Line StartPos="7365" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="7392" Length="11" Skip="false">
+   <Origin>"Oh, okay."</Origin>
+   <Translated>Ой, ладно.</Translated>
+ </Line>
+ <Line StartPos="7492" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="7519" Length="19" Skip="false">
+   <Origin>"There! The slime!"</Origin>
+   <Translated>Там! Слизень!</Translated>
+ </Line>
+ <Line StartPos="7552" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="7568" Length="17" Skip="false">
+   <Origin>"Let&apos;s get them!"</Origin>
+   <Translated>Разберёмся с ним!</Translated>
+ </Line>
+ <Line StartPos="7687" Length="8" Skip="false">
+   <Origin>lose\0run</Origin>
+   <Translated>lose\0run</Translated>
+ </Line>
+ <Line StartPos="7733" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="7750" Length="18" Skip="false">
+   <Origin>"I can&apos;t go on..."</Origin>
+   <Translated>Я больше так не могу...</Translated>
+ </Line>
+ <Line StartPos="7782" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="7798" Length="37" Skip="false">
+   <Origin>"I-It&apos;s too dangerous to keep going!"</Origin>
+   <Translated>Дальше идти слишком опасно!</Translated>
+ </Line>
+ <Line StartPos="7850" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="7867" Length="16" Skip="false">
+   <Origin>"We&apos;ll retreat!"</Origin>
+   <Translated>Надо отступать!</Translated>
+ </Line>
+ <Line StartPos="7888" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="7915" Length="14" Skip="false">
+   <Origin>"Oh, wait up!"</Origin>
+   <Translated>Эй, подождите!</Translated>
+ </Line>
+ <Line StartPos="7981" Length="11" Skip="false">
+   <Origin>FirstBattle</Origin>
+   <Translated>FirstBattle</Translated>
+ </Line>
+ <Line StartPos="8271" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="8298" Length="21" Skip="false">
+   <Origin>"What is this place?"</Origin>
+   <Translated>Что это за место?</Translated>
+ </Line>
+ <Line StartPos="8333" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="8349" Length="24" Skip="false">
+   <Origin>"It sure is a big door."</Origin>
+   <Translated>Это определенно большая дверь.</Translated>
+ </Line>
+ <Line StartPos="8388" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="8405" Length="31" Skip="false">
+   <Origin>"Do we have to go around this?"</Origin>
+   <Translated>И мы должны идти в обход?</Translated>
+ </Line>
+ <Line StartPos="8451" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="8468" Length="30" Skip="false">
+   <Origin>"I don&apos;t think we&apos;ll have to."</Origin>
+   <Translated>Не думаю что у нас получится.</Translated>
+ </Line>
+ <Line StartPos="8512" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="8528" Length="37" Skip="false">
+   <Origin>"We can&apos;t go behind the door anyway."</Origin>
+   <Translated>В любом случае, мы всё равно не можем пройти сквозь эту дверь.</Translated>
+ </Line>
+ <Line StartPos="8580" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="8597" Length="26" Skip="false">
+   <Origin>"Let&apos;s go somewhere else."</Origin>
+   <Translated>Давайте пойдём куда-нибудь еще.</Translated>
+ </Line>
+ <Line StartPos="8929" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="8956" Length="18" Skip="false">
+   <Origin>"W-What is this!?"</Origin>
+   <Translated>Эт-то еще что такое?!</Translated>
+ </Line>
+ <Line StartPos="8988" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="9004" Length="15" Skip="false">
+   <Origin>"Poison slime!"</Origin>
+   <Translated>Ядовитый слизень!</Translated>
+ </Line>
+ <Line StartPos="9024" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="9051" Length="18" Skip="false">
+   <Origin>"P-Poison slime!?"</Origin>
+   <Translated>Я-ядовитый?!</Translated>
+ </Line>
+ <Line StartPos="9083" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="9100" Length="48" Skip="false">
+   <Origin>"Just like it sounds, it&apos;s a slime with\0poison!"</Origin>
+   <Translated>Так и есть – слизень с кучей яда внутри!</Translated>
+ </Line>
+ <Line StartPos="9153" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="9170" Length="56" Skip="false">
+   <Origin>"Be careful not to let it hit you!\0You&apos;ll get poisoned!"</Origin>
+   <Translated>Постарайся не попасть под его удар! Иначе ты будешь отравлен!</Translated>
+ </Line>
+ <Line StartPos="9231" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="9258" Length="14" Skip="false">
+   <Origin>"A-All right!"</Origin>
+   <Translated>Х-хорошо!</Translated>
+ </Line>
+ <Line StartPos="9310" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="9327" Length="38" Skip="false">
+   <Origin>"I&apos;ll make sure to beat it this time!"</Origin>
+   <Translated>На это раз я точно наваляю ему!</Translated>
+ </Line>
+ <Line StartPos="9379" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="9396" Length="37" Skip="false">
+   <Origin>"Don&apos;t let your guard down, Ku-chan!"</Origin>
+   <Translated>Ку-чан, не теряй бдительности!</Translated>
+ </Line>
+ <Line StartPos="9438" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="9465" Length="14" Skip="false">
+   <Origin>"A-All right!"</Origin>
+   <Translated>Х-хорошо!</Translated>
+ </Line>
+ <Line StartPos="9513" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="9529" Length="27" Skip="false">
+   <Origin>"Watch out for the poison!"</Origin>
+   <Translated>И берегитесь яда!</Translated>
+ </Line>
+ <Line StartPos="9571" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="9588" Length="12" Skip="false">
+   <Origin>"All right!"</Origin>
+   <Translated>Так и сделаем!</Translated>
+ </Line>
+ <Line StartPos="9631" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="9658" Length="34" Skip="false">
+   <Origin>"Phew... we managed to beat\0it..."</Origin>
+   <Translated>Уфф... Мы справились...</Translated>
+ </Line>
+ <Line StartPos="9706" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="9723" Length="89" Skip="false">
+   <Origin>"....The future&apos;s looking bad seeing how\0you&apos;re having trouble with such a weak\0monster."</Origin>
+   <Translated>Если у вас возникли трудности в бою с таким слабым монстром, то что же будет дальше?</Translated>
+ </Line>
+ <Line StartPos="9817" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="9844" Length="12" Skip="false">
+   <Origin>"S-Sorry..."</Origin>
+   <Translated>П-прости...</Translated>
+ </Line>
+ <Line StartPos="9870" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="9887" Length="30" Skip="false">
+   <Origin>"But, well done! Awesome job!"</Origin>
+   <Translated>Но, тем не менее! Хорошая работа!</Translated>
+ </Line>
+ <Line StartPos="9953" Length="114" Skip="false">
+   <Origin>But... it didn&apos;t seem like Lucy-san and\0Aoi-san were having any trouble at all.\0They&apos;re not even breaking a sweat.</Origin>
+   <Translated>Но... Мне кажется что Люси-сан и Аой-сан не испытывали каких-то особых трудностей в бою. Они даже не вспотели.</Translated>
+ </Line>
+ <Line StartPos="10082" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="10099" Length="24" Skip="false">
+   <Origin>"You sure... are tough."</Origin>
+   <Translated>Вы точно... крепкие.</Translated>
+ </Line>
+ <Line StartPos="10137" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="10153" Length="77" Skip="false">
+   <Origin>"We cannot be getting tired from such\0things. What I aim for is much higher."</Origin>
+   <Translated>Мы не можем уставать от подобного. Я стремлюсь к гораздо большему.</Translated>
+ </Line>
+ <Line StartPos="10235" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="10262" Length="16" Skip="false">
+   <Origin>"Aim... for...?"</Origin>
+   <Translated>Стремишься... к чему?</Translated>
+ </Line>
+ <Line StartPos="10292" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="10308" Length="43" Skip="false">
+   <Origin>"I do not have time to be staggering\0here."</Origin>
+   <Translated>У меня нет времени болтаться тут.</Translated>
+ </Line>
+ <Line StartPos="10356" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="10383" Length="9" Skip="false">
+   <Origin>"......?"</Origin>
+   <Translated>?..</Translated>
+ </Line>
+ <Line StartPos="10407" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="10424" Length="96" Skip="false">
+   <Origin>"Hey now. Stop with the difficult talk.\0I&apos;m sure we&apos;re really done this time, so\0let&apos;s go home."</Origin>
+   <Translated>Эй там. Хватит болтать. Уверена, теперь мы действительно закончили, так что идем домой.</Translated>
+ </Line>
+ <Line StartPos="10534" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="10551" Length="6" Skip="false">
+   <Origin>"Yes."</Origin>
+   <Translated>Да.</Translated>
+ </Line>
+ <Line StartPos="10601" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="10628" Length="25" Skip="false">
+   <Origin>"C-Crap! They&apos;re strong!"</Origin>
+   <Translated>Ч-чёрт! Они сильные!</Translated>
+ </Line>
+ <Line StartPos="10667" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="10684" Length="72" Skip="false">
+   <Origin>"It can&apos;t be helped. We&apos;ll retreat for\0now! Don&apos;t fall behind, Me-chan!"</Origin>
+   <Translated>Ничего не поделаешь. Мы отступаем! Ми-чан, не отставай!</Translated>
+ </Line>
+ <Line StartPos="10790" Length="4" Skip="false">
+   <Origin>Mena</Origin>
+   <Translated>Мина</Translated>
+ </Line>
+ <Line StartPos="10807" Length="9" Skip="false">
+   <Origin>"O-Okay!"</Origin>
+   <Translated>Х-хорошо!</Translated>
+ </Line>
+ <Line StartPos="10889" Length="11" Skip="false">
+   <Origin>main\0SunSet</Origin>
+   <Translated>main\0SunSet</Translated>
+ </Line>
+ <Line StartPos="10913" Length="11" Skip="false">
+   <Origin>main\0SunSet</Origin>
+   <Translated>main\0SunSet</Translated>
+ </Line>
+ <Line StartPos="10927" Length="12" Skip="false">
+   <Origin>draw\0Academy</Origin>
+   <Translated>draw\0Academy</Translated>
+ </Line>
+ <Line StartPos="10959" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="10976" Length="45" Skip="false">
+   <Origin>"Welcome back. It seems you guys managed\0it."</Origin>
+   <Translated>С возвращением. Похоже, вы справились.</Translated>
+ </Line>
+ <Line StartPos="11026" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="11053" Length="32" Skip="false">
+   <Origin>"Oh... Will-Sensei. We&apos;re\0back."</Origin>
+   <Translated>О... Вилл-сенсей. Мы вернулись.</Translated>
+ </Line>
+ <Line StartPos="11100" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="11117" Length="87" Skip="false">
+   <Origin>"It was a piece of cake. Well, there was\0one that might&apos;ve been too much for Ku-\0chan."</Origin>
+   <Translated>Это было легко. Ну, правда там всё таки был один, который доставил Ку-чану проблем.</Translated>
+ </Line>
+ <Line StartPos="11218" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="11235" Length="36" Skip="false">
+   <Origin>"How was your first job, Cliff-kun?"</Origin>
+   <Translated>Клиф-кун, как тебе твоя первая работа?</Translated>
+ </Line>
+ <Line StartPos="11276" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="11303" Length="48" Skip="false">
+   <Origin>"...So the Academy does all\0sorts of jobs, huh?"</Origin>
+   <Translated>...значит, Школа выполняет все виды работ, да?</Translated>
+ </Line>
+ <Line StartPos="11356" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="11383" Length="47" Skip="false">
+   <Origin>"I didn&apos;t think we&apos;d be\0cleaning the sewers..."</Origin>
+   <Translated>Не думал, что мы будем чистить канализации...</Translated>
+ </Line>
+ <Line StartPos="11444" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="11461" Length="20" Skip="false">
+   <Origin>"Was it surprising?"</Origin>
+   <Translated>Это было неожиданно?</Translated>
+ </Line>
+ <Line StartPos="11486" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="11513" Length="22" Skip="false">
+   <Origin>"To be honest... yes."</Origin>
+   <Translated>Если честно... то да.</Translated>
+ </Line>
+ <Line StartPos="11549" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="11566" Length="55" Skip="false">
+   <Origin>"That&apos;s why I said this job is perfect\0in all regards."</Origin>
+   <Translated>Вот потому я и сказал, что эта работа прекрасна во всех отношениях.</Translated>
+ </Line>
+ <Line StartPos="11635" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="11652" Length="54" Skip="false">
+   <Origin>"I&apos;m sure you understand now what kind\0of jobs we do."</Origin>
+   <Translated>Уверен, что теперь ты понял, за какие виды работ мы берёмся.</Translated>
+ </Line>
+ <Line StartPos="11711" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="11738" Length="9" Skip="false">
+   <Origin>"Yeah..."</Origin>
+   <Translated>Угу...</Translated>
+ </Line>
+ <Line StartPos="11761" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="11778" Length="26" Skip="false">
+   <Origin>"Do you want to quit now?"</Origin>
+   <Translated>Хочешь всё бросить и уйти?</Translated>
+ </Line>
+ <Line StartPos="11809" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="11836" Length="34" Skip="false">
+   <Origin>"N-No! That&apos;s not what I\0meant..."</Origin>
+   <Translated>Н-нет! Я не это имел в виду...</Translated>
+ </Line>
+ <Line StartPos="11875" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="11902" Length="43" Skip="false">
+   <Origin>"...Not all jobs done by\0Hunters are cool."</Origin>
+   <Translated>...далеко не все работы, поручаемые Охотникам, приятны.</Translated>
+ </Line>
+ <Line StartPos="11959" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="11976" Length="15" Skip="false">
+   <Origin>"...Well said."</Origin>
+   <Translated>Хорошо сказано...</Translated>
+ </Line>
+ <Line StartPos="12006" Length="4" Skip="false">
+   <Origin>Lucy</Origin>
+   <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="12023" Length="29" Skip="false">
+   <Origin>"That&apos;s exactly what I said."</Origin>
+   <Translated>Точь-в-точь как я говорила.</Translated>
+ </Line>
+ <Line StartPos="12057" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="12084" Length="11" Skip="false">
+   <Origin>"H-Haha..."</Origin>
+   <Translated>А-хаха...</Translated>
+ </Line>
+ <Line StartPos="12109" Length="4" Skip="false">
+   <Origin>Will</Origin>
+   <Translated>Вилл</Translated>
+ </Line>
+ <Line StartPos="12126" Length="67" Skip="false">
+   <Origin>"...Anyway, good job, you guys. I&apos;ll\0contact the mayor about this."</Origin>
+   <Translated>В любом случае, отлично сработано. Я сообщу мэру об этом.</Translated>
+ </Line>
+ <Line StartPos="12208" Length="3" Skip="false">
+   <Origin>Aoi</Origin>
+   <Translated>Аой</Translated>
+ </Line>
+ <Line StartPos="12224" Length="9" Skip="false">
+   <Origin>"Please."</Origin>
+   <Translated>Пожалуйста.</Translated>
+ </Line>
+ <Line StartPos="12270" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="12297" Length="27" Skip="false">
+   <Origin>"I can take a peek, right?"</Origin>
+   <Translated>Я же могу взглянуть, правда?</Translated>
+ </Line>
+ <Line StartPos="12329" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="12356" Length="8" Skip="false">
+   <Origin>"......"</Origin>
+   <Translated>...</Translated>
+ </Line>
+ <Line StartPos="12369" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="12396" Length="14" Skip="false">
+   <Origin>"............"</Origin>
+   <Translated>...</Translated>
+ </Line>
+ <Line StartPos="12415" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="12442" Length="46" Skip="false">
+   <Origin>"What!? Get rid of the\0slimes in the sewers!?"</Origin>
+   <Translated>Чего?! Избавиться от слизней в канализации?!</Translated>
+ </Line>
+ <Line StartPos="12493" Length="5" Skip="false">
+   <Origin>Cliff</Origin>
+   <Translated>Клиф</Translated>
+ </Line>
+ <Line StartPos="12520" Length="51" Skip="false">
+   <Origin>"That means we&apos;d have to go\0into the sewer, right?"</Origin>
+   <Translated>Это же не значит, что мы должны лезть в канализацию, да?..</Translated>
+ </Line>
+</Lines>
+
+</poem>
+[[Men at Work 2:Прогресс_перевода|[Назад]]]

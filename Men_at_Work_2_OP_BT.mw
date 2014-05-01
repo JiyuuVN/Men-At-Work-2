@@ -1,0 +1,193 @@
+[[Men at Work 2:Прогресс_перевода|[Назад]]]
+<pre>
+<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="62">
+  <Line StartPos="189" Length="9" Skip="false">
+    <Translated>op_bt.dat</Translated>
+  </Line>
+  <Line StartPos="205" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="232" Length="14" Skip="false">
+    <Translated>М-монстры?!</Translated>
+  </Line>
+  <Line StartPos="260" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="277" Length="46" Skip="false">
+    <Translated>Успокойся. Они слабые.</Translated>
+  </Line>
+  <Line StartPos="337" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="354" Length="66" Skip="false">
+    <Translated>Это хороший шанс, Клиф, узнать\0насколько ты хорош.</Translated>
+  </Line>
+  <Line StartPos="434" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="450" Length="71" Skip="false">
+    <Translated>Клиф-кун, Это твоя первая битва.\0Я тебе помогу, удачи!</Translated>
+  </Line>
+  <Line StartPos="526" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="553" Length="30" Skip="false">
+    <Translated>Н-но... Это так неожиданно.</Translated>
+  </Line>
+  <Line StartPos="597" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="614" Length="61" Skip="false">
+    <Translated>Возьми себя в руки, ты ведь должен\0защитить Мину, верно?</Translated>
+  </Line>
+  <Line StartPos="680" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="707" Length="3" Skip="false">
+    <Translated>!!!</Translated>
+  </Line>
+  <Line StartPos="717" Length="19" Skip="false">
+    <Translated>Хорошо, я...</Translated>
+  </Line>
+  <Line StartPos="741" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="768" Length="21" Skip="false">
+    <Translated>Я сделаю всё возможное!</Translated>
+  </Line>
+  <Line StartPos="803" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="819" Length="46" Skip="false">
+    <Translated>Так держать! Вперёд!</Translated>
+  </Line>
+  <Line StartPos="878" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="905" Length="19" Skip="false">
+    <Translated>Ч-что это было?!</Translated>
+  </Line>
+  <Line StartPos="938" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="955" Length="111" Skip="false">
+    <Translated>Это комбо-атака. Она получается, когда\0ты наносишь удары, используя определённую\0последовательность элементов стихий.</Translated>
+  </Line>
+  <Line StartPos="1080" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="1096" Length="82" Skip="false">
+    <Translated>Сейчас, я добавила мой "огненный"\0элемент к "атаке ветром" Учителя.</Translated>
+  </Line>
+  <Line StartPos="1183" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1210" Length="13" Skip="false">
+    <Translated>Элемент?</Translated>
+  </Line>
+  <Line StartPos="1237" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1254" Length="88" Skip="false">
+    <Translated>Похоже, твой элемент "земля". Попробуй\0атаковать врага после меня и Айри.</Translated>
+  </Line>
+  <Line StartPos="1347" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1374" Length="9" Skip="false">
+    <Translated>Хорошо!</Translated>
+  </Line>
+  <Line StartPos="1392" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1419" Length="12" Skip="false">
+    <Translated>У-удивитеьно!</Translated>
+  </Line>
+  <Line StartPos="1445" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1462" Length="61" Skip="false">
+    <Translated>Это комбо-атака. В битве - это основная\0атакующая техника.</Translated>
+  </Line>
+  <Line StartPos="1528" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1555" Length="18" Skip="false">
+    <Translated>Основная?..</Translated>
+  </Line>
+  <Line StartPos="1587" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1604" Length="103" Skip="false">
+    <Translated>Если проведёшь успешное комбо, позже\0сможешь использовать усиленную атаку,\0ты должен всегда к этому стремиться.</Translated>
+  </Line>
+  <Line StartPos="1712" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1739" Length="9" Skip="false">
+    <Translated>Понятно!</Translated>
+  </Line>
+  <Line StartPos="1753" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1780" Length="76" Skip="false">
+    <Translated>"Значит, я могу сделать\0комбо, если атакую\0последовательностью\0элементов ветра-огня-земли.\0Я это запомню."</Translated>
+  </Line>
+  <Line StartPos="1865" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1892" Length="19" Skip="false">
+    <Translated>Ух ты, получилось!</Translated>
+  </Line>
+  <Line StartPos="1925" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1942" Length="84" Skip="false">
+    <Translated>Другая базовая тактика, атаковать\0самого слабого противника, так можно\0быстрее победить.</Translated>
+  </Line>
+  <Line StartPos="2031" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2058" Length="72" Skip="false">
+    <Translated>Так значит, они считают\0меня слабым врагом, и\0уверены в своей победе?</Translated>
+  </Line>
+  <Line StartPos="2144" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2161" Length="53" Skip="false">
+    <Translated>Ну, затягивать бой опасно.</Translated>
+  </Line>
+  <Line StartPos="2219" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2236" Length="44" Skip="false">
+    <Translated>Айри давай прикончим их одним ударом.</Translated>
+  </Line>
+  <Line StartPos="2295" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="2311" Length="20" Skip="false">
+    <Translated>Хорошо!</Translated>
+  </Line>
+  <Line StartPos="2362" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2389" Length="13" Skip="false">
+    <Translated>Ч-что это?!</Translated>
+  </Line>
+  <Line StartPos="2416" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2433" Length="100" Skip="false">
+    <Translated>Ты можешь выполнить мощную атаку, если\0люди, выполняющие её, действительно\0доверяют друг другу.</Translated>
+  </Line>
+  <Line StartPos="2547" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2564" Length="63" Skip="false">
+    <Translated>Надеюсь, когда-нибудь ты найдёшь\0такого человека.</Translated>
+  </Line>
+</Lines>
+</pre>
+[[Men at Work 2:Прогресс_перевода|[Назад]]]

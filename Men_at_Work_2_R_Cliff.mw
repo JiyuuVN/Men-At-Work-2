@@ -1,0 +1,267 @@
+[[Men_at_Work 2|[Назад]]]
+<pre>
+
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="86">
+  <Line StartPos="376" Length="16" Skip="false">
+    <Translated>Моя комната.</Translated>
+  </Line>
+  <Line StartPos="412" Length="17" Skip="false">
+    <Translated>Что мне делать?</Translated>
+  </Line>
+  <Line StartPos="434" Length="43" Skip="false">
+    <Translated>Лечь спать\0Сходить куда-нибудь ещё\0Остаться в комнате</Translated>
+  </Line>
+  <Line StartPos="489" Length="17" Skip="false">
+    <Translated>Что мне делать?</Translated>
+  </Line>
+  <Line StartPos="511" Length="29" Skip="false">
+    <Translated>Лечь спать\0Сходить куда-нибудь ещё</Translated>
+  </Line>
+  <Line StartPos="550" Length="16" Skip="false">
+    <Translated>sleep\0Other\0Past</Translated>
+  </Line>
+  <Line StartPos="571" Length="34" Skip="false">
+    <Translated>...пойду-ка я ещё куда-нибудь.</Translated>
+  </Line>
+  <Line StartPos="710" Length="31" Skip="false">
+    <Translated>Сегодня был тяжёлый день...</Translated>
+  </Line>
+  <Line StartPos="790" Length="31" Skip="false">
+    <Translated>Сегодня был тяжёлый день...</Translated>
+  </Line>
+  <Line StartPos="916" Length="33" Skip="false">
+    <Translated>...уже поздно. Пойду спать.</Translated>
+  </Line>
+  <Line StartPos="1034" Length="40" Skip="false">
+    <Translated>Сонливость берёт верх и я засыпаю.</Translated>
+  </Line>
+  <Line StartPos="1077" Length="6" Skip="false">
+    <Translated>*Сопение*</Translated>
+  </Line>
+  <Line StartPos="1350" Length="37" Skip="false">
+    <Translated>Фух... я вспотел. Нужно переодеться.</Translated>
+  </Line>
+  <Line StartPos="1436" Length="37" Skip="false">
+    <Translated>Фух... я вспотел. Нужно переодеться.</Translated>
+  </Line>
+  <Line StartPos="1488" Length="38" Skip="false">
+    <Translated>Я решил убить время, оставшись в своей комнате.</Translated>
+  </Line>
+  <Line StartPos="1566" Length="78" Skip="false">
+    <Translated>Я снимаю свою куртку, чтобы сменить её. Мина сможет постирать её завтра.</Translated>
+  </Line>
+  <Line StartPos="1670" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1687" Length="37" Skip="false">
+    <Translated>&quot;"Клиф, я принесла тебе чистую одежду."&quot;</Translated>
+  </Line>
+  <Line StartPos="1729" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1756" Length="15" Skip="false">
+    <Translated>&quot;"Ввоа?! Мина?!"&quot;</Translated>
+  </Line>
+  <Line StartPos="1785" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1802" Length="66" Skip="false">
+    <Translated>&quot;"Ой. Ты только что разделся? Завтра я всё тебе постираю."&quot;</Translated>
+  </Line>
+  <Line StartPos="1873" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1900" Length="21" Skip="false">
+    <Translated>&quot;"У-угу... Сп-пасибо..."&quot;</Translated>
+  </Line>
+  <Line StartPos="1935" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1952" Length="18" Skip="false">
+    <Translated>&quot;Что-то не так?...&quot;</Translated>
+  </Line>
+  <Line StartPos="1975" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2002" Length="27" Skip="false">
+    <Translated>&quot;"Я как бы переодеваюсь..."&quot;</Translated>
+  </Line>
+  <Line StartPos="2043" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2060" Length="69" Skip="false">
+    <Translated>&quot;"О чём ты, Клиф? Я видела тебя голым с самого детства."&quot;</Translated>
+  </Line>
+  <Line StartPos="2134" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2161" Length="28" Skip="false">
+    <Translated>&quot;"Это так, но..."&quot;</Translated>
+  </Line>
+  <Line StartPos="2203" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2220" Length="82" Skip="false">
+    <Translated>&quot;"Тогда я забираю твои вещи. Ох, можешь завтра положить в стирку свою простыню?"&quot;</Translated>
+  </Line>
+  <Line StartPos="2329" Length="12" Skip="false">
+    <Translated>Мина вышла.</Translated>
+  </Line>
+  <Line StartPos="2346" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2373" Length="48" Skip="false">
+    <Translated>&quot;"Ну, мы привыкли видеть друг друга голыми..."&quot;</Translated>
+  </Line>
+  <Line StartPos="2428" Length="50" Skip="false">
+    <Translated>Мы живём вместе более 10 лет.</Translated>
+  </Line>
+  <Line StartPos="2501" Length="37" Skip="false">
+    <Translated>Я снимаю одежду чтобы переодеться.</Translated>
+  </Line>
+  <Line StartPos="2564" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2580" Length="34" Skip="false">
+    <Translated>&quot;"Мм, Клиф-сан. Насчёт завтра..."&quot;</Translated>
+  </Line>
+  <Line StartPos="2628" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2644" Length="22" Skip="false">
+    <Translated>&quot;"Ох, п-прости, я не знала!"&quot;</Translated>
+  </Line>
+  <Line StartPos="2693" Length="47" Skip="false">
+    <Translated>Увидев, что я переодеваюсь, Аой-сан выбегает за дверь.</Translated>
+  </Line>
+  <Line StartPos="2745" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2772" Length="35" Skip="false">
+    <Translated>&quot;"Ну да. Это вполне нормальная реакция."&quot;</Translated>
+  </Line>
+  <Line StartPos="2845" Length="34" Skip="false">
+    <Translated>Я снимаю свой плащ чтобы переодеться.</Translated>
+  </Line>
+  <Line StartPos="2882" Length="38" Skip="false">
+    <Translated>Мина сможет постирать его завтра.</Translated>
+  </Line>
+  <Line StartPos="2946" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2963" Length="32" Skip="false">
+    <Translated>&quot;"Клиф, я принесла тебе чистые вещи."&quot;</Translated>
+  </Line>
+  <Line StartPos="3000" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3028" Length="43" Skip="false">
+    <Translated>&quot;"О, как раз вовремя. Сможешь постирать это зав-..."&quot;</Translated>
+  </Line>
+  <Line StartPos="3085" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3102" Length="14" Skip="false">
+    <Translated>&quot;"А-ах, прости!"&quot;</Translated>
+  </Line>
+  <Line StartPos="3137" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3165" Length="7" Skip="false">
+    <Translated>&quot;"Э-э-э?!"&quot;</Translated>
+  </Line>
+  <Line StartPos="3191" Length="52" Skip="false">
+    <Translated>Мина бросает в меня корзинку и выбегает из комнаты.</Translated>
+  </Line>
+  <Line StartPos="3252" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3279" Length="28" Skip="false">
+    <Translated>&quot;"Да что с ней сегодня?"&quot;</Translated>
+  </Line>
+  <Line StartPos="3326" Length="9" Skip="false">
+    <Translated>draw\0Mena</Translated>
+  </Line>
+  <Line StartPos="3361" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3378" Length="42" Skip="false">
+    <Translated>&quot;"Странно. Клиф переодевался...&quot;</Translated>
+  </Line>
+  <Line StartPos="3425" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3442" Length="33" Skip="false">
+    <Translated>&quot;"...моё сердце всё ещё стучит..."&quot;</Translated>
+  </Line>
+  <Line StartPos="3489" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3506" Length="60" Skip="false">
+    <Translated>&quot;"Что же это такое... Я привыкла видеть его тело..."&quot;</Translated>
+  </Line>
+  <Line StartPos="3571" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3588" Length="52" Skip="false">
+    <Translated>&quot;"И я кричала на него недавно, когда он увидел меня голой..."&quot;</Translated>
+  </Line>
+  <Line StartPos="3658" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3675" Length="23" Skip="false">
+    <Translated>&quot;"Что со мной не так?"&quot;</Translated>
+  </Line>
+  <Line StartPos="3727" Length="59" Skip="false">
+    <Translated>Думая о случившемся, я ложусь в свою постель.</Translated>
+  </Line>
+  <Line StartPos="3789" Length="52" Skip="false">
+    <Translated>Мой отец умер и я решил переехать в Школу...</Translated>
+  </Line>
+  <Line StartPos="3844" Length="25" Skip="false">
+    <Translated>Я встретил Люси и Аой-сан...</Translated>
+  </Line>
+  <Line StartPos="3872" Length="18" Skip="false">
+    <Translated>Появилась Шерил...</Translated>
+  </Line>
+  <Line StartPos="3893" Length="21" Skip="false">
+    <Translated>Потом мы нашли Китти...</Translated>
+  </Line>
+  <Line StartPos="3917" Length="51" Skip="false">
+    <Translated>Если задуматься, ни у кого из нас нет родственников...</Translated>
+  </Line>
+  <Line StartPos="3971" Length="37" Skip="false">
+    <Translated>Потеряли своих родителей и пришли сюда...</Translated>
+  </Line>
+  <Line StartPos="4011" Length="42" Skip="false">
+    <Translated>Возможно поэтому все здесь так добры.</Translated>
+  </Line>
+  <Line StartPos="4056" Length="70" Skip="false">
+    <Translated>Все мы потеряли свои семьи, но вновь обрели здесь новую.</Translated>
+  </Line>
+  <Line StartPos="4129" Length="31" Skip="false">
+    <Translated>Я хочу защитить это место...</Translated>
+  </Line>
+  <Line StartPos="4163" Length="46" Skip="false">
+    <Translated>Думая об этом я засыпаю...</Translated>
+  </Line>
+  <Line StartPos="4226" Length="12" Skip="false">
+    <Translated>Chap_ini\0Top</Translated>
+  </Line>
+  <Line StartPos="4251" Length="11" Skip="false">
+    <Translated>H_Kitty\0Top</Translated>
+  </Line>
+  <Line StartPos="4265" Length="13" Skip="false">
+    <Translated>main\0Midnight</Translated>
+  </Line>
+  <Line StartPos="4297" Length="10" Skip="false">
+    <Translated>H_Mena\0Top</Translated>
+  </Line>
+  <Line StartPos="4323" Length="10" Skip="false">
+    <Translated>Draw\0Cliff</Translated>
+  </Line>
+</Lines>
+
+</pre>
+[[Men_at_Work 2|[Назад]]]

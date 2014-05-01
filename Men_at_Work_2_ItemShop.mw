@@ -1,0 +1,1584 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Lines Count="392">
+<Line StartPos="1017" Length="8" Skip="false">
+ <Origin>Itemshop</Origin>
+ <Translated>Itemshop</Translated>
+ </Line>
+<Line StartPos="1182" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="1199" Length="11" Skip="false">
+ <Origin>"Welcome!!"</Origin>
+ <Translated>Добро пожаловать!</Translated>
+ </Line>
+<Line StartPos="1215" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1242" Length="41" Skip="false">
+ <Origin>"...Thanks for your hard\0work, Lucy-san."</Origin>
+ <Translated>Спасибо, Люси-сан, что стараешься.</Translated>
+ </Line>
+<Line StartPos="1297" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="1314" Length="29" Skip="false">
+ <Origin>"Oh, it's just you, Ku-chan."</Origin>
+ <Translated>А это ты, Ку-чан.</Translated>
+ </Line>
+<Line StartPos="1348" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1375" Length="63" Skip="false">
+ <Origin>"Lucy-san... aren't you cold\0always wearing clothes like\0that?"</Origin>
+ <Translated>Люси-сан... Ты не боишься заболеть, так одеваясь?</Translated>
+ </Line>
+<Line StartPos="1452" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="1469" Length="31" Skip="false">
+ <Origin>"Oh, are you worried about me?"</Origin>
+ <Translated>О, ты беспокоишься обо мне?</Translated>
+ </Line>
+<Line StartPos="1514" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="1531" Length="111" Skip="false">
+ <Origin>"Well, it's still warm right now. I'll\0wear something over this when it gets\0cold, so you don't need to worry."</Origin>
+ <Translated>Сейчас ещё тепло. Я одену что-нибудь поверх, когда похолодает, так что не переживай.</Translated>
+ </Line>
+<Line StartPos="1647" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1674" Length="7" Skip="false">
+ <Origin>"Oh..."</Origin>
+ <Translated>О...</Translated>
+ </Line>
+<Line StartPos="1695" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="1712" Length="72" Skip="false">
+ <Origin>"And I can't waste the summer. I want to\0show off when I can, you know?"</Origin>
+ <Translated>К тому же, летом я хочу показать себя во всей красе, пока есть такая возможность.</Translated>
+ </Line>
+<Line StartPos="1798" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="1815" Length="29" Skip="false">
+ <Origin>"You prefer that too, right?"</Origin>
+ <Translated>Тебе ведь тоже нравится?</Translated>
+ </Line>
+<Line StartPos="1849" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1876" Length="39" Skip="false">
+ <Origin>"I-I'm not looking at you\0like that..."</Origin>
+ <Translated>Я не смотрю на тебя так...</Translated>
+ </Line>
+<Line StartPos="1929" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="1946" Length="50" Skip="false">
+ <Origin>"Oh, you're embarrassed. You're really\0pure, man."</Origin>
+ <Translated>Ой, застеснялся. Бедняжка.</Translated>
+ </Line>
+<Line StartPos="2003" Length="34" Skip="false">
+ <Origin>I wish she'd not make fun of me...</Origin>
+ <Translated>Как я хочу, чтобы она не потешалась надо мной...</Translated>
+ </Line>
+<Line StartPos="2067" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="2084" Length="29" Skip="false">
+ <Origin>"Hey, Ku-chan. How ya doing?"</Origin>
+ <Translated>Эй, Ку-чан. Как дела?</Translated>
+ </Line>
+<Line StartPos="2118" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2145" Length="22" Skip="false">
+ <Origin>"You seem to be busy."</Origin>
+ <Translated>Похоже, ты занята.</Translated>
+ </Line>
+<Line StartPos="2181" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="2198" Length="29" Skip="false">
+ <Origin>"...That sarcasm hurts, man."</Origin>
+ <Translated>Блин, не смешно...</Translated>
+ </Line>
+<Line StartPos="2234" Length="33" Skip="false">
+ <Origin>...I'm the only one in the store.</Origin>
+ <Translated>Я одна в магазине.</Translated>
+ </Line>
+<Line StartPos="2272" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2299" Length="10" Skip="false">
+ <Origin>"S-Sorry."</Origin>
+ <Translated>И-извини...</Translated>
+ </Line>
+<Line StartPos="2323" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="2340" Length="63" Skip="false">
+ <Origin>"Well, it can't be helped. Only Hunters\0use things like these."</Origin>
+ <Translated>Ничего не поделаешь, только Охотникам нужны наши товары.</Translated>
+ </Line>
+<Line StartPos="2408" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2435" Length="10" Skip="false">
+ <Origin>"...Yeah."</Origin>
+ <Translated>Да.</Translated>
+ </Line>
+<Line StartPos="2459" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="2476" Length="35" Skip="false">
+ <Origin>"Well, wish for more sales for me."</Origin>
+ <Translated>Пожелай мне побольше продаж.</Translated>
+ </Line>
+<Line StartPos="2516" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2543" Length="47" Skip="false">
+ <Origin>"Okay. Please wish for the\0Academy's best too."</Origin>
+ <Translated>Хорошо. А ты пожелай, чтобы с Школой всё было хорошо.</Translated>
+ </Line>
+<Line StartPos="2604" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="2621" Length="21" Skip="false">
+ <Origin>"Haha. You're right."</Origin>
+ <Translated>Ха-ха. Ты прав.</Translated>
+ </Line>
+<Line StartPos="2665" Length="38" Skip="false">
+ <Origin>I pass an old man as I exit the store.</Origin>
+ <Translated>Выходя из магазина, я пропустил старика.</Translated>
+ </Line>
+<Line StartPos="2708" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2735" Length="41" Skip="false">
+ <Origin>"That's rare for you to have\0a customer."</Origin>
+ <Translated>У тебя клиент? Редко такое бывает.</Translated>
+ </Line>
+<Line StartPos="2790" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="2807" Length="35" Skip="false">
+ <Origin>"Sorry customers are so rare here."</Origin>
+ <Translated>Да уж, покупатели тут бывают редко.</Translated>
+ </Line>
+<Line StartPos="2847" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2874" Length="20" Skip="false">
+ <Origin>"Oh... Sorry. Um..."</Origin>
+ <Translated>Ой... Прости. Эм...</Translated>
+ </Line>
+<Line StartPos="2908" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="2925" Length="34" Skip="false">
+ <Origin>"Well, that's what I thought too."</Origin>
+ <Translated>Ну, я об этом тоже думала.</Translated>
+ </Line>
+<Line StartPos="2964" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2991" Length="5" Skip="false">
+ <Origin>"Oh."</Origin>
+ <Translated>О.</Translated>
+ </Line>
+<Line StartPos="3010" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="3027" Length="81" Skip="false">
+ <Origin>"He bought some weird stuff too. Eastern\0turtle powder and dried mountain snake."</Origin>
+ <Translated>Он купил странные вещи. Порошок из черепахи и высушенных горных змей.</Translated>
+ </Line>
+<Line StartPos="3113" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3140" Length="23" Skip="false">
+ <Origin>"You have such things?"</Origin>
+ <Translated>У вас даже такое продаётся?</Translated>
+ </Line>
+<Line StartPos="3177" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="3194" Length="42" Skip="false">
+ <Origin>"Actually, he specially had them\0ordered."</Origin>
+ <Translated>На самом деле, он их специально заказывал.</Translated>
+ </Line>
+<Line StartPos="3250" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="3267" Length="42" Skip="false">
+ <Origin>"But... I wonder what he'll use them\0for?"</Origin>
+ <Translated>Интересно, зачем ему всё это понадобилось?</Translated>
+ </Line>
+<Line StartPos="3314" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3341" Length="20" Skip="false">
+ <Origin>"Maybe some ritual?"</Origin>
+ <Translated>Может для ритуала?</Translated>
+ </Line>
+<Line StartPos="3375" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="3392" Length="45" Skip="false">
+ <Origin>"That old guy didn't look like a mage to\0me."</Origin>
+ <Translated>Мне кажется, он не похож на мага.</Translated>
+ </Line>
+<Line StartPos="3444" Length="22" Skip="false">
+ <Origin>We wonder for a while.</Origin>
+ <Translated>Мы долго это обдумывали.</Translated>
+ </Line>
+<Line StartPos="3496" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="3513" Length="43" Skip="false">
+ <Origin>"Oh, Ku-chan. That old guy was here\0again."</Origin>
+ <Translated>О, Ку-чан. Тот старик приходил снова.</Translated>
+ </Line>
+<Line StartPos="3563" Length="88" Skip="false">
+ <Origin>Is she talking about the one that bought\0the turtle powder and the dried mountain\0snake?</Origin>
+ <Translated>Она говорит о человеке, что купил порошок из черепахи и сушенных горных змей?</Translated>
+ </Line>
+<Line StartPos="3665" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="3682" Length="40" Skip="false">
+ <Origin>"What do you think he bought this time?"</Origin>
+ <Translated>И что ты думаешь, он купил на этот раз?</Translated>
+ </Line>
+<Line StartPos="3727" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3754" Length="15" Skip="false">
+ <Origin>"I don't know."</Origin>
+ <Translated>Не знаю.</Translated>
+ </Line>
+<Line StartPos="3783" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="3800" Length="28" Skip="false">
+ <Origin>"Blood of turtle and snake."</Origin>
+ <Translated>Кровь змеи и черепахи.</Translated>
+ </Line>
+<Line StartPos="3833" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3860" Length="12" Skip="false">
+ <Origin>"Blood...!?"</Origin>
+ <Translated>Кровь?!</Translated>
+ </Line>
+<Line StartPos="3879" Length="118" Skip="false">
+ <Origin>I don't know who would actually buy this\0stuff, but I didn't know about a store\0that would actually carry such things.</Origin>
+ <Translated>Не знаю, кто подобное покупает, и без понятия, какой ещё магазин будет торговать таким.</Translated>
+ </Line>
+<Line StartPos="4011" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="4028" Length="85" Skip="false">
+ <Origin>"I asked him what the hell he'd use the\0stuff for, but he wouldn't tell me\0anything."</Origin>
+ <Translated>Я спросила его, зачем ему такие вещи, но он ничего не ответил.</Translated>
+ </Line>
+<Line StartPos="4118" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="4135" Length="45" Skip="false">
+ <Origin>"It might be a strange ritual like you\0said."</Origin>
+ <Translated>Наверное, для ритуала, как ты и говорил.</Translated>
+ </Line>
+<Line StartPos="4185" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="4212" Length="8" Skip="false">
+ <Origin>"Hmm..."</Origin>
+ <Translated>Хм...</Translated>
+ </Line>
+<Line StartPos="4227" Length="39" Skip="false">
+ <Origin>He didn't look like a bad person to me.</Origin>
+ <Translated>Он не похож на плохого человека.</Translated>
+ </Line>
+<Line StartPos="4359" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="4386" Length="8" Skip="false">
+ <Origin>"Hello."</Origin>
+ <Translated>Привет.</Translated>
+ </Line>
+<Line StartPos="4408" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="4425" Length="23" Skip="false">
+ <Origin>"Oh, Ku-chan. Welcome."</Origin>
+ <Translated>Ку-чан, добро пожаловать.</Translated>
+ </Line>
+<Line StartPos="4453" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="4480" Length="41" Skip="false">
+ <Origin>"Hear about anything\0involving monsters?"</Origin>
+ <Translated>Слышала что-нибудь о монстрах?</Translated>
+ </Line>
+<Line StartPos="4535" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="4552" Length="55" Skip="false">
+ <Origin>"There's a rumor. It doesn't sound like\0a job, though."</Origin>
+ <Translated>Только слухи, от них будет мало пользы.</Translated>
+ </Line>
+<Line StartPos="4612" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="4639" Length="23" Skip="false">
+ <Origin>"What kind of a rumor?"</Origin>
+ <Translated>Какие слухи?</Translated>
+ </Line>
+<Line StartPos="4676" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="4693" Length="82" Skip="false">
+ <Origin>"I hear there's an outbreak of mice. I\0hear everyday about food getting eaten\0up."</Origin>
+ <Translated>Я слышала о нападении мышей. Они съедают всю еду, что им попадётся.</Translated>
+ </Line>
+<Line StartPos="4780" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="4807" Length="7" Skip="false">
+ <Origin>"Oh..."</Origin>
+ <Translated>О...</Translated>
+ </Line>
+<Line StartPos="4828" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="4845" Length="60" Skip="false">
+ <Origin>"I hate it. I'd love to send all mice to\0hell or something."</Origin>
+ <Translated>Ненавижу мышей. Чтоб они все провалились.</Translated>
+ </Line>
+<Line StartPos="4912" Length="64" Skip="false">
+ <Origin>But she's right that there's nothing we\0can do about this rumor.</Origin>
+ <Translated>Но она права, с этим слухом мы ничего не можем поделать.</Translated>
+ </Line>
+<Line StartPos="5006" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="5023" Length="14" Skip="false">
+ <Origin>"Oh, Ku-chan."</Origin>
+ <Translated>О, Ку-чан.</Translated>
+ </Line>
+<Line StartPos="5042" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5069" Length="40" Skip="false">
+ <Origin>"...You look like you're in\0a bad mood."</Origin>
+ <Translated>Похоже, у тебя плохое настроение.</Translated>
+ </Line>
+<Line StartPos="5123" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="5140" Length="68" Skip="false">
+ <Origin>"Oh, crap. Smile, smile. It's a basic\0thing for a service. Welcome!"</Origin>
+ <Translated>Вот чёрт. Улыбаемся, улыбаемся. Это же основы обслуживания. Добро пожаловать!</Translated>
+ </Line>
+<Line StartPos="5213" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5240" Length="8" Skip="false">
+ <Origin>"......"</Origin>
+ <Translated>...</Translated>
+ </Line>
+<Line StartPos="5253" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5280" Length="35" Skip="false">
+ <Origin>"So... why were you in a bad\0mood?"</Origin>
+ <Translated>Так почему у тебя плохое настроение?</Translated>
+ </Line>
+<Line StartPos="5329" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="5346" Length="82" Skip="false">
+ <Origin>"Well, you try seeing a group of mice on\0your way here... you'd be depressed\0too."</Origin>
+ <Translated>Если бы встретил кучу мышей на своём пути... Сам бы расстроился.</Translated>
+ </Line>
+<Line StartPos="5433" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5460" Length="6" Skip="false">
+ <Origin>"Wow."</Origin>
+ <Translated>Ух ты.</Translated>
+ </Line>
+<Line StartPos="5480" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="5497" Length="71" Skip="false">
+ <Origin>"Maybe I'll ask the store owner to get\0some items to keep them away..."</Origin>
+ <Translated>Может попросить хозяина, чтобы он достал что-нибудь для их отпугивания...</Translated>
+ </Line>
+<Line StartPos="5575" Length="32" Skip="false">
+ <Origin>It seems Люси really hates mice.</Origin>
+ <Translated>Похоже, Люси действительно не любит мышей.</Translated>
+ </Line>
+<Line StartPos="5628" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5655" Length="8" Skip="false">
+ <Origin>"Hello."</Origin>
+ <Translated>Привет</Translated>
+ </Line>
+<Line StartPos="5677" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="5694" Length="76" Skip="false">
+ <Origin>"Oh, Ku-chan. You came at the right\0time. Take care of the store for a bit."</Origin>
+ <Translated>Ку-чан. Ты вовремя. Присмотри за магазином.</Translated>
+ </Line>
+<Line StartPos="5779" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5806" Length="15" Skip="false">
+ <Origin>"Huh!? W-Wait!"</Origin>
+ <Translated>Ч-что?!</Translated>
+ </Line>
+<Line StartPos="5828" Length="27" Skip="false">
+ <Origin>...Люси runs out the store.</Origin>
+ <Translated>Люси выбегает из магазина.</Translated>
+ </Line>
+<Line StartPos="5860" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5887" Length="10" Skip="false">
+ <Origin>"...What?"</Origin>
+ <Translated>Что?</Translated>
+ </Line>
+<Line StartPos="5904" Length="55" Skip="false">
+ <Origin>After about 30 minutes, Lucy comes back with a big bag.</Origin>
+ <Translated>Через полчаса Люси возвращается с большой сумкой.</Translated>
+ </Line>
+<Line StartPos="5973" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="5990" Length="35" Skip="false">
+ <Origin>"You really helped me out. Thanks."</Origin>
+ <Translated>Спасибо. Ты меня выручил.</Translated>
+ </Line>
+<Line StartPos="6030" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="6057" Length="31" Skip="false">
+ <Origin>"You're welcome. What is\0that?"</Origin>
+ <Translated>Не за что. А что это?</Translated>
+ </Line>
+<Line StartPos="6102" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="6119" Length="62" Skip="false">
+ <Origin>"It's emerald fruit. I saw this at the\0market on my way here."</Origin>
+ <Translated>Это изумрудный фрукт. Я увидела его в магазине, когда шла на работу.</Translated>
+ </Line>
+<Line StartPos="6195" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="6212" Length="80" Skip="false">
+ <Origin>"I was troubled since I wanted to buy\0it, but I couldn't leave the store\0empty."</Origin>
+ <Translated>Я очень хотела его купить, но не могла оставить магазин без присмотра.</Translated>
+ </Line>
+<Line StartPos="6299" Length="56" Skip="false">
+ <Origin>Люси's bag contains these brown, hairy,\0egg-like things.</Origin>
+ <Translated>В сумке у Люси лежало что-то яйцеподобное, ворсистое, коричневого цвета.</Translated>
+ </Line>
+<Line StartPos="6360" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="6387" Length="34" Skip="false">
+ <Origin>"Emerald fruit...? This is\0fruit?"</Origin>
+ <Translated>Изумрудный фрукт?.. Это фрукт?..</Translated>
+ </Line>
+<Line StartPos="6428" Length="49" Skip="false">
+ <Origin>Люси takes out a knife and cuts open one\0of them.</Origin>
+ <Translated>Люси разрезала один из них ножом.</Translated>
+ </Line>
+<Line StartPos="6482" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="6509" Length="8" Skip="false">
+ <Origin>"Wow..."</Origin>
+ <Translated>Ух ты...</Translated>
+ </Line>
+<Line StartPos="6531" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="6548" Length="24" Skip="false">
+ <Origin>"It's beautiful, right?"</Origin>
+ <Translated>Не правда ли красиво?</Translated>
+ </Line>
+<Line StartPos="6579" Length="46" Skip="false">
+ <Origin>The cut end is pure green like a real\0emerald.</Origin>
+ <Translated>Внутри он оказался зелёным, как настоящий изумруд.</Translated>
+ </Line>
+<Line StartPos="6639" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="6656" Length="84" Skip="false">
+ <Origin>"This is a special good in my hometown.\0I missed it so much that I had to buy\0some."</Origin>
+ <Translated>Эти фрукты особенно хороши у меня на родине. Давно их не ела, поэтому решила купить.</Translated>
+ </Line>
+<Line StartPos="6754" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="6771" Length="20" Skip="false">
+ <Origin>"Try it. It's good."</Origin>
+ <Translated>Попробуй. Очень вкусно.</Translated>
+ </Line>
+<Line StartPos="6798" Length="40" Skip="false">
+ <Origin>I take a piece Люси gives me and eat it.</Origin>
+ <Translated>Я съел кусочек, который дала мне Люси.</Translated>
+ </Line>
+<Line StartPos="6841" Length="47" Skip="false">
+ <Origin>Sweet juice fills my mouth... It's\0really good.</Origin>
+ <Translated>Сладкий сок наполнил мой рот... Очень вкусно.</Translated>
+ </Line>
+<Line StartPos="6893" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="6920" Length="26" Skip="false">
+ <Origin>"You're right. It's good."</Origin>
+ <Translated>Ты права, очень вкусно.</Translated>
+ </Line>
+<Line StartPos="6960" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="6977" Length="83" Skip="false">
+ <Origin>"Let's ask Me-chan and have her use it\0to decorate a cake. It'll be really\0pretty."</Origin>
+ <Translated>Давай попросим Ми-чан, чтобы она украсила ими торт.</Translated>
+ </Line>
+<Line StartPos="7067" Length="40" Skip="false">
+ <Origin>Yeah. I think it'll be a beautiful cake.</Origin>
+ <Translated>Да. Думаю, получиться замечательный торт.</Translated>
+ </Line>
+<Line StartPos="7137" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="7154" Length="59" Skip="false">
+ <Origin>"Oh, Ku-chan. Can I ask you to look\0after the store again?"</Origin>
+ <Translated>О, Ку-чан. Можно тебя попросить, снова присмотреть за магазином?</Translated>
+ </Line>
+<Line StartPos="7218" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="7245" Length="11" Skip="false">
+ <Origin>"Oh, okay."</Origin>
+ <Translated>Хорошо.</Translated>
+ </Line>
+<Line StartPos="7263" Length="28" Skip="false">
+ <Origin>Is she going shopping again?</Origin>
+ <Translated>Опять за покупками?</Translated>
+ </Line>
+<Line StartPos="7305" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="7322" Length="34" Skip="false">
+ <Origin>"Nope. I'm going to the bathroom."</Origin>
+ <Translated>Неа. Я в ванную.</Translated>
+ </Line>
+<Line StartPos="7361" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="7388" Length="14" Skip="false">
+ <Origin>"Oh... Sorry."</Origin>
+ <Translated>О... Извини.</Translated>
+ </Line>
+<Line StartPos="7413" Length="38" Skip="false">
+ <Origin>Люси hurries to the back of the store.</Origin>
+ <Translated>Люси cпешит обратно в магазин.</Translated>
+ </Line>
+<Line StartPos="7517" Length="9" Skip="false">
+ <Origin>Baby_Lucy</Origin>
+ <Translated>Baby_Lucy</Translated>
+ </Line>
+<Line StartPos="7622" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="7639" Length="74" Skip="false">
+ <Origin>"Man... The Academy's getting crowded. I\0didn't think a ghost would join."</Origin>
+ <Translated>Боже... В Школе всё больше людей. Не думала, что к нам присоединится призрак.</Translated>
+ </Line>
+<Line StartPos="7718" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="7745" Length="21" Skip="false">
+ <Origin>"Haha. You're right."</Origin>
+ <Translated>Хаха. Правда.</Translated>
+ </Line>
+<Line StartPos="7780" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="7797" Length="88" Skip="false">
+ <Origin>"Well, it looks like Aoi's having some\0trouble. She lives to kill off ghosts,\0you know?"</Origin>
+ <Translated>Похоже, у Аой-сан возникли кое-какие проблемы. Ведь она экзорцист, живёт ради уничтожения призраков.</Translated>
+ </Line>
+<Line StartPos="7899" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="7916" Length="70" Skip="false">
+ <Origin>"Well... I don't think there are that\0many ghost with that much guts."</Origin>
+ <Translated>Не думаю, что есть много призраков с такой силой воли.</Translated>
+ </Line>
+<Line StartPos="7993" Length="41" Skip="false">
+ <Origin>I don't think guts has to do with\0this...</Origin>
+ <Translated>Сила воли тут не причём.</Translated>
+ </Line>
+<Line StartPos="8043" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="8070" Length="59" Skip="false">
+ <Origin>"Have you heard of any\0rumors or incidents about\0monsters?"</Origin>
+ <Translated>Не слышала никаких слухов о монстрах?</Translated>
+ </Line>
+<Line StartPos="8143" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="8160" Length="30" Skip="false">
+ <Origin>"Hmm. This is a rumor, but..."</Origin>
+ <Translated>Слышала, но...</Translated>
+ </Line>
+<Line StartPos="8204" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="8221" Length="71" Skip="false">
+ <Origin>"I heard that there's a cave where you\0can hear a girl's crying voice."</Origin>
+ <Translated>Я слышала, что есть пещера, из которой доноситься плачь.</Translated>
+ </Line>
+<Line StartPos="8297" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="8324" Length="32" Skip="false">
+ <Origin>"A girl...? Which cave is\0that?"</Origin>
+ <Translated>Плачь? В какой пещере?</Translated>
+ </Line>
+<Line StartPos="8370" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="8387" Length="15" Skip="false">
+ <Origin>"I don't know."</Origin>
+ <Translated>Не знаю.</Translated>
+ </Line>
+<Line StartPos="8407" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="8434" Length="5" Skip="false">
+ <Origin>"Oh."</Origin>
+ <Translated>О.</Translated>
+ </Line>
+<Line StartPos="8453" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="8470" Length="39" Skip="false">
+ <Origin>"Hey now. I only heard about it, okay?"</Origin>
+ <Translated>Эй. Я только недавно услышала об этом.</Translated>
+ </Line>
+<Line StartPos="8523" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="8540" Length="59" Skip="false">
+ <Origin>"I'll get more details next time. Gimme\0a break this time."</Origin>
+ <Translated>Я узнаю подробности в следующий раз. Дай передохнуть.</Translated>
+ </Line>
+<Line StartPos="8604" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="8631" Length="15" Skip="false">
+ <Origin>"Yeah, please."</Origin>
+ <Translated>Да, пожалуйста.</Translated>
+ </Line>
+<Line StartPos="8700" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="8717" Length="47" Skip="false">
+ <Origin>"Oh, Ku-chan. Aoi was here until a\0second ago."</Origin>
+ <Translated>Ку-чан. Аой была тут несколько минут назад.</Translated>
+ </Line>
+<Line StartPos="8769" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="8796" Length="14" Skip="false">
+ <Origin>"Aoi-san was?"</Origin>
+ <Translated>Аой-сан?</Translated>
+ </Line>
+<Line StartPos="8824" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="8841" Length="75" Skip="false">
+ <Origin>"She bought many things, saying she'll\0make sure to send Sheryl to heaven."</Origin>
+ <Translated>Она сказала, что обязательно отправит Шерил на небеса и накупила кучу всего.</Translated>
+ </Line>
+<Line StartPos="8921" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="8948" Length="9" Skip="false">
+ <Origin>"Haha..."</Origin>
+ <Translated>Хаха...</Translated>
+ </Line>
+<Line StartPos="8971" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="8988" Length="23" Skip="false">
+ <Origin>"...What do you think?"</Origin>
+ <Translated>Что думаешь?</Translated>
+ </Line>
+<Line StartPos="9016" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="9043" Length="19" Skip="false">
+ <Origin>"What do you mean?"</Origin>
+ <Translated>В смысле?</Translated>
+ </Line>
+<Line StartPos="9076" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="9093" Length="61" Skip="false">
+ <Origin>"Do you think you can get her to heaven\0just by using items?"</Origin>
+ <Translated>Думаешь, её можно вернуть на небеса, используя какие-то предметы?</Translated>
+ </Line>
+<Line StartPos="9159" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="9186" Length="70" Skip="false">
+ <Origin>"...It's impossible. I'm not\0saying Aoi-san isn't good\0enough, but..."</Origin>
+ <Translated>Вряд ли. Не то чтобы я сомневался в умениях Аой-сан, но...</Translated>
+ </Line>
+<Line StartPos="9261" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="9288" Length="65" Skip="false">
+ <Origin>"Aoi-san's skill should be\0much more than just relying\0on items."</Origin>
+ <Translated>У Аой-сан и так достаточно способностей, без всех этих предметов.</Translated>
+ </Line>
+<Line StartPos="9367" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="9384" Length="37" Skip="false">
+ <Origin>"Well, you're right. I think so too."</Origin>
+ <Translated>Да. Ты прав, я тоже так думаю.</Translated>
+ </Line>
+<Line StartPos="9435" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="9452" Length="57" Skip="false">
+ <Origin>"But, seeing Aoi get in a tussle is\0worrisome and funny."</Origin>
+ <Translated>Но забавно смотреть, как она пытается отправить Шерил на небеса.</Translated>
+ </Line>
+<Line StartPos="9514" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="9541" Length="39" Skip="false">
+ <Origin>"You shouldn't be\0entertained by this."</Origin>
+ <Translated>Не стоит смеяться над этим.</Translated>
+ </Line>
+<Line StartPos="9587" Length="61" Skip="false">
+ <Origin>But... I think it's a bit easier to talk\0to Aoi-san recently.</Origin>
+ <Translated>Но... Думаю, в последнее время разговаривать с Аой-сан стало проще.</Translated>
+ </Line>
+<Line StartPos="9690" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="9707" Length="45" Skip="false">
+ <Origin>"Hey Ku-chan. I've got something to ask\0you."</Origin>
+ <Translated>Эй, Ку-чан. Хочу тебя кое о чём попросить.</Translated>
+ </Line>
+<Line StartPos="9757" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="9784" Length="7" Skip="false">
+ <Origin>"What?"</Origin>
+ <Translated>О чём?</Translated>
+ </Line>
+<Line StartPos="9805" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="9822" Length="63" Skip="false">
+ <Origin>"I got something good. Can you pay for\0it out of our expenses?"</Origin>
+ <Translated>Я присмотрела тут кое-что. Не мог бы ты заплатить из наших сбережений?</Translated>
+ </Line>
+<Line StartPos="9890" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="9917" Length="17" Skip="false">
+ <Origin>"Something good?"</Origin>
+ <Translated>Кое-что?</Translated>
+ </Line>
+<Line StartPos="9948" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="9965" Length="12" Skip="false">
+ <Origin>"It's this."</Origin>
+ <Translated>Это.</Translated>
+ </Line>
+<Line StartPos="9984" Length="60" Skip="false">
+ <Origin>Люси puts something that looks like\0medicine on the counter.</Origin>
+ <Translated>Люси кладёт на весы какой-то амулет.</Translated>
+ </Line>
+<Line StartPos="10049" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="10076" Length="15" Skip="false">
+ <Origin>"What is this?"</Origin>
+ <Translated>Что это?</Translated>
+ </Line>
+<Line StartPos="10105" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="10122" Length="92" Skip="false">
+ <Origin>"It's stuff to keep mice away. I hear\0mice won't come near it if you put it in\0the kitchen."</Origin>
+ <Translated>Это для отпугивания мышей. Я слышала, если положить его на кухне, они больше не появятся.</Translated>
+ </Line>
+<Line StartPos="10219" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="10246" Length="21" Skip="false">
+ <Origin>"Wow, that's useful."</Origin>
+ <Translated>Ух ты, а это полезно.</Translated>
+ </Line>
+<Line StartPos="10281" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+ <Line StartPos="10298" Length="68" Skip="false">
+ <Origin>"I'll make it cheap too. It's 50 Zel, but how about it for 30 Zel!?"</Origin>
+ <Translated>Я поторгуюсь. Он стоит 50 зел, а как насчёт 30?</Translated>
+ </Line>
+<Line StartPos="10389" Length="5" Skip="false">
+ <Origin>Um...</Origin>
+ <Translated>Эм...</Translated>
+ </Line>
+<Line StartPos="10399" Length="26" Skip="false">
+ <Origin>I'll buy it\0I won't buy it</Origin>
+ <Translated>Я покупаю\0Я не покупаю</Translated>
+ </Line>
+<Line StartPos="10441" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="10468" Length="36" Skip="false">
+ <Origin>"No. We have to stop wasting\0money."</Origin>
+ <Translated>Нет. Нам надо прекратить тратить деньги.</Translated>
+ </Line>
+<Line StartPos="10518" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="10535" Length="25" Skip="false">
+ <Origin>"Wasting money? Come on."</Origin>
+ <Translated>Тратить? Да ладно.</Translated>
+ </Line>
+<Line StartPos="10565" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="10592" Length="59" Skip="false">
+ <Origin>"We have to use our money\0sparingly. We're poor, you\0know?"</Origin>
+ <Translated>Ты же знаешь, что мы на мели. Надо экономить.</Translated>
+ </Line>
+<Line StartPos="10664" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="10691" Length="32" Skip="false">
+ <Origin>"All right. It's 30 Zel, right?"</Origin>
+ <Translated>Ладно. 30 зел?</Translated>
+ </Line>
+<Line StartPos="10737" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="10754" Length="23" Skip="false">
+ <Origin>"You're gonna buy it!?"</Origin>
+ <Translated>Собираешься купить?!</Translated>
+ </Line>
+<Line StartPos="10782" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="10809" Length="46" Skip="false">
+ <Origin>"Yeah. I can't ignore the\0damage mice can do."</Origin>
+ <Translated>Да. Мыши доставляют много проблем.</Translated>
+ </Line>
+<Line StartPos="10860" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="10887" Length="59" Skip="false">
+ <Origin>"I don't think it's a waste\0of money for things like\0this."</Origin>
+ <Translated>Не думаю, что это пустая трата денег.</Translated>
+ </Line>
+<Line StartPos="10960" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="10977" Length="56" Skip="false">
+ <Origin>"Ohhh, that's why I like you! Thanks for\0your business!"</Origin>
+ <Translated>О-о-о, вот за это ты мне нравишься. Спасибо за понимание.</Translated>
+ </Line>
+<Line StartPos="11040" Length="44" Skip="false">
+ <Origin>I'll set this in the kitchen once I go\0back.</Origin>
+ <Translated>Как вернусь, спрячу на кухне.</Translated>
+ </Line>
+<Line StartPos="11105" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="11132" Length="32" Skip="false">
+ <Origin>"... Sorry. I don't have\0money."</Origin>
+ <Translated>Извини. У меня нет денег.</Translated>
+ </Line>
+<Line StartPos="11178" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="11195" Length="24" Skip="false">
+ <Origin>"Man... you're useless."</Origin>
+ <Translated>Блин... Ты бесполезен.</Translated>
+ </Line>
+<Line StartPos="11224" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="11251" Length="12" Skip="false">
+ <Origin>"Come on..."</Origin>
+ <Translated>Эй...</Translated>
+ </Line>
+<Line StartPos="11277" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="11294" Length="38" Skip="false">
+ <Origin>"Fine. I'll buy it with my own money."</Origin>
+ <Translated>Хорошо. Я куплю за свои деньги.</Translated>
+ </Line>
+<Line StartPos="11346" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="11363" Length="67" Skip="false">
+ <Origin>"Man... I feel sad for saying thank you\0to myself for buying this."</Origin>
+ <Translated>Боже... Так грустно, говорить спасибо за покупку самой себе.</Translated>
+ </Line>
+<Line StartPos="11435" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="11462" Length="8" Skip="false">
+ <Origin>"......"</Origin>
+ <Translated>...</Translated>
+ </Line>
+<Line StartPos="11551" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="11578" Length="23" Skip="false">
+ <Origin>"You look happy, Lucy."</Origin>
+ <Translated>Люси, ты выглядишь счастливой.</Translated>
+ </Line>
+<Line StartPos="11615" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="11632" Length="59" Skip="false">
+ <Origin>"Well, yeah. I just thought the\0Academy's getting crowded."</Origin>
+ <Translated>Да. В Школе появляется всё больше людей.</Translated>
+ </Line>
+<Line StartPos="11705" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="11722" Length="68" Skip="false">
+ <Origin>"Although the new ones are strange\0people like ghosts and Succubus."</Origin>
+ <Translated>Хотя все новички — странные создания, вроде призрака и суккуба.</Translated>
+ </Line>
+<Line StartPos="11795" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="11822" Length="9" Skip="false">
+ <Origin>"Haha..."</Origin>
+ <Translated>Хаха...</Translated>
+ </Line>
+<Line StartPos="11845" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="11862" Length="35" Skip="false">
+ <Origin>"Well, it's fine because it's fun."</Origin>
+ <Translated>Ну, зато с ними не соскучишся.</Translated>
+ </Line>
+<Line StartPos="11902" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="11929" Length="7" Skip="false">
+ <Origin>"Yeah."</Origin>
+ <Translated>Да.</Translated>
+ </Line>
+<Line StartPos="11966" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="11983" Length="29" Skip="false">
+ <Origin>"What's Kit doing right now?"</Origin>
+ <Translated>Что Кит сейчас делает?</Translated>
+ </Line>
+<Line StartPos="12017" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="12044" Length="36" Skip="false">
+ <Origin>"I don't know... probably\0sleeping."</Origin>
+ <Translated>Не знаю, скорее всего спит.</Translated>
+ </Line>
+<Line StartPos="12094" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="12111" Length="59" Skip="false">
+ <Origin>"I see. Come to think of it, she's\0mostly active at night."</Origin>
+ <Translated>Понятно. Если подумать, обычно она активная ночью.</Translated>
+ </Line>
+<Line StartPos="12175" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="12202" Length="42" Skip="false">
+ <Origin>"But I think she sleeps at\0night as well."</Origin>
+ <Translated>Ну, думаю, она и ночью хорошо может поспать.</Translated>
+ </Line>
+<Line StartPos="12258" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="12275" Length="29" Skip="false">
+ <Origin>"...Well, she's still a kid."</Origin>
+ <Translated>Ну, она же всё ещё ребёнок.</Translated>
+ </Line>
+<Line StartPos="12311" Length="31" Skip="false">
+ <Origin>They say those that sleep grow.</Origin>
+ <Translated>Как говорят, во сне – растёшь.</Translated>
+ </Line>
+<Line StartPos="12372" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="12389" Length="89" Skip="false">
+ <Origin>"Now that there are 2 people that can fly, I wonder if we can make a business\0out of it."</Origin>
+ <Translated>Теперь у нас двое с крыльями. Можем ли мы это использовать?</Translated>
+ </Line>
+<Line StartPos="12483" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="12510" Length="24" Skip="false">
+ <Origin>"Like a new job for us?"</Origin>
+ <Translated>Вроде новой работы для нас?</Translated>
+ </Line>
+<Line StartPos="12548" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="12565" Length="38" Skip="false">
+ <Origin>"Yup. Can you think of anything good?"</Origin>
+ <Translated>Ага, можешь придумать что-нибудь хорошее?</Translated>
+ </Line>
+<Line StartPos="12608" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="12635" Length="44" Skip="false">
+ <Origin>"Like flying taxi or\0sightseeing flights..."</Origin>
+ <Translated>Типа летающего такси или туристических полётов...</Translated>
+ </Line>
+<Line StartPos="12693" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="12710" Length="8" Skip="false">
+ <Origin>"......"</Origin>
+ <Translated>...</Translated>
+ </Line>
+<Line StartPos="12732" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="12749" Length="54" Skip="false">
+ <Origin>"They sound tiring. I guess being a\0Hunter is easier."</Origin>
+ <Translated>Это тяжело. Думаю быть Охотником легче</Translated>
+ </Line>
+<Line StartPos="12808" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="12835" Length="7" Skip="false">
+ <Origin>"Haha."</Origin>
+ <Translated>Хаха...</Translated>
+ </Line>
+<Line StartPos="12872" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="12889" Length="29" Skip="false">
+ <Origin>"How's the job thing coming?"</Origin>
+ <Translated>Как дела с работой?</Translated>
+ </Line>
+<Line StartPos="12923" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="12950" Length="28" Skip="false">
+ <Origin>"Hmm... It's pretty hard..."</Origin>
+ <Translated>Не очень...</Translated>
+ </Line>
+<Line StartPos="12992" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="13009" Length="107" Skip="false">
+ <Origin>"I'll get weak if I don't keep on\0fighting. We could call it training and\0go beat some monsters somewhere."</Origin>
+ <Translated>Я совсем форму потеряю, если не буду сражаться. Можно пойти убить несколько монстров для тренировки?</Translated>
+ </Line>
+<Line StartPos="13121" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="13148" Length="20" Skip="false">
+ <Origin>"...Like the sewer?"</Origin>
+ <Translated>Можно сходить, например в канализацию.</Translated>
+ </Line>
+<Line StartPos="13182" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="13199" Length="34" Skip="false">
+ <Origin>"...You're getting mean recently."</Origin>
+ <Translated>В последнее время ты становишься жалким.</Translated>
+ </Line>
+<Line StartPos="13347" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="13364" Length="30" Skip="false">
+ <Origin>"Oh, how's business, Ku-chan?"</Origin>
+ <Translated>Как дела, Ку-чан?</Translated>
+ </Line>
+<Line StartPos="13399" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="13426" Length="42" Skip="false">
+ <Origin>"You should know that all\0too well, Люси."</Origin>
+ <Translated>Ты должна знать, что всё слишком хорошо.</Translated>
+ </Line>
+<Line StartPos="13482" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="13499" Length="38" Skip="false">
+ <Origin>"Haha... It's a bit of a recession..."</Origin>
+ <Translated>Хаха... Вроде не настолько...</Translated>
+ </Line>
+<Line StartPos="13542" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="13569" Length="43" Skip="false">
+ <Origin>"Well, I won't give up and\0keep searching."</Origin>
+ <Translated>Я не сдамся и продолжу поиски...</Translated>
+ </Line>
+<Line StartPos="13626" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="13643" Length="15" Skip="false">
+ <Origin>"Yeah, please."</Origin>
+ <Translated>Да, пожалуйста.</Translated>
+ </Line>
+<Line StartPos="13688" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="13705" Length="23" Skip="false">
+ <Origin>"Oh. Welcome, Ku-chan."</Origin>
+ <Translated>Ку-чан. Добро пожаловать.</Translated>
+ </Line>
+<Line StartPos="13733" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="13760" Length="24" Skip="false">
+ <Origin>"How's the store doing?"</Origin>
+ <Translated>Как дела?</Translated>
+ </Line>
+<Line StartPos="13798" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="13815" Length="51" Skip="false">
+ <Origin>"Not good at all. You're the third\0customer today."</Origin>
+ <Translated>Плохо. Ты третий клиент за сегодня.</Translated>
+ </Line>
+<Line StartPos="13871" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="13898" Length="49" Skip="false">
+ <Origin>"...I'm surprised this store\0isn't closing down."</Origin>
+ <Translated>Удивительно, как вы ещё не закрылись.</Translated>
+ </Line>
+<Line StartPos="13961" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="13978" Length="70" Skip="false">
+ <Origin>"I guess the mail order the store\0owner's doing for fun is a big hit."</Origin>
+ <Translated>Думаю, заказы почтой приносят немалый доход, а магазин хозяин держит забавы ради.</Translated>
+ </Line>
+<Line StartPos="14062" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="14079" Length="80" Skip="false">
+ <Origin>"Thanks to that, he's rich even though\0the actual store isn't making any\0money."</Origin>
+ <Translated>Благодаря заказам у него есть деньги. Хотя магазин и не приносит прибыли.</Translated>
+ </Line>
+<Line StartPos="14173" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="14190" Length="63" Skip="false">
+ <Origin>"So, this job pays pretty good even\0though it's not that busy."</Origin>
+ <Translated>Я практически ничего не делаю, а работа приносит не плохие деньги.</Translated>
+ </Line>
+<Line StartPos="14258" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="14285" Length="9" Skip="false">
+ <Origin>"Haha..."</Origin>
+ <Translated>Хаха...</Translated>
+ </Line>
+<Line StartPos="14308" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="14325" Length="65" Skip="false">
+ <Origin>"But still... I'll get weak if I just\0live peacefully like this."</Origin>
+ <Translated>Но... я стану слабой, если буду жить так мирно.</Translated>
+ </Line>
+<Line StartPos="14404" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="14421" Length="28" Skip="false">
+ <Origin>"Go find us a good job, ok?"</Origin>
+ <Translated>Найди нам работу, хорошо?</Translated>
+ </Line>
+<Line StartPos="14454" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="14481" Length="22" Skip="false">
+ <Origin>"I-I'll do my best..."</Origin>
+ <Translated>Постараюсь...</Translated>
+ </Line>
+<Line StartPos="14533" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="14550" Length="45" Skip="false">
+ <Origin>"Oh yeah, Aoi was talking about this,\0but..."</Origin>
+ <Translated>Ах да, Аой тут кое о чём говорила...</Translated>
+ </Line>
+<Line StartPos="14600" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="14627" Length="22" Skip="false">
+ <Origin>"What was she saying?"</Origin>
+ <Translated>Что она говорила?</Translated>
+ </Line>
+<Line StartPos="14663" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="14680" Length="49" Skip="false">
+ <Origin>"I guess some strange air is covering\0this town."</Origin>
+ <Translated>Вроде бы, что странная атмосфера окутывает город.</Translated>
+ </Line>
+<Line StartPos="14734" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="14761" Length="14" Skip="false">
+ <Origin>"Strange air?"</Origin>
+ <Translated>Странная атмосфера?</Translated>
+ </Line>
+<Line StartPos="14789" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="14806" Length="36" Skip="false">
+ <Origin>"Yeah. Aoi was calling it evil air."</Origin>
+ <Translated>Да. Аой назвала её злой.</Translated>
+ </Line>
+<Line StartPos="14856" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="14873" Length="60" Skip="false">
+ <Origin>"You should watch out too. We don't know\0what might happen."</Origin>
+ <Translated>Будь осторожен. Мы не знаем, что может произойти.</Translated>
+ </Line>
+<Line StartPos="14938" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="14965" Length="24" Skip="false">
+ <Origin>"Yeah. I'll be careful."</Origin>
+ <Translated>Да, я буду осторожен.</Translated>
+ </Line>
+<Line StartPos="15019" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="15036" Length="41" Skip="false">
+ <Origin>"...It's not because Aoi said it,\0but..."</Origin>
+ <Translated>Не потому что Аой так сказала, но...</Translated>
+ </Line>
+<Line StartPos="15091" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="15108" Length="48" Skip="false">
+ <Origin>"It feels like something bad's about to\0happen."</Origin>
+ <Translated>Такое чувство, что произойдёт что-то плохое.</Translated>
+ </Line>
+<Line StartPos="15161" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="15188" Length="27" Skip="false">
+ <Origin>"Could there be something?"</Origin>
+ <Translated>Что-то может произойти?</Translated>
+ </Line>
+<Line StartPos="15229" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="15246" Length="53" Skip="false">
+ <Origin>"I don't know... but it doesn't hurt to\0be prepared."</Origin>
+ <Translated>Не знаю... Но стоит подготовиться.</Translated>
+ </Line>
+<Line StartPos="15313" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="15330" Length="48" Skip="false">
+ <Origin>"So I'll let you be in charge of that,\0Ku-chan."</Origin>
+ <Translated>Так что, Ку-чан, будь начеку.</Translated>
+ </Line>
+<Line StartPos="15383" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="15410" Length="15" Skip="false">
+ <Origin>"Yeah, I know."</Origin>
+ <Translated>Да, я знаю.</Translated>
+ </Line>
+<Line StartPos="15455" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="15472" Length="14" Skip="false">
+ <Origin>"Oh, Ku-chan."</Origin>
+ <Translated>О, Ку-чан.</Translated>
+ </Line>
+<Line StartPos="15500" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="15517" Length="69" Skip="false">
+ <Origin>"I'm counting on you for the\0preparations. I'm ready to go any time."</Origin>
+ <Translated>Оставляю на тебя все приготовления. Я готова пойти в любой момент.</Translated>
+ </Line>
+<Line StartPos="15591" Length="5" Skip="false">
+ <Origin>Cliff</Origin>
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="15618" Length="15" Skip="false">
+ <Origin>"Yeah, I know."</Origin>
+ <Translated>Да. Я знаю.</Translated>
+ </Line>
+<Line StartPos="15651" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="15668" Length="66" Skip="false">
+ <Origin>"Well, take your time and choose. You\0don't have to buy anything."</Origin>
+ <Translated>Не торопись, выбирай. Не надо покупать всё.</Translated>
+ </Line>
+<Line StartPos="15799" Length="42" Skip="false">
+ <Origin>There's no one in the store. How\0careless.</Origin>
+ <Translated>Никого нет в магазине. Как беспечно.</Translated>
+ </Line>
+<Line StartPos="15870" Length="41" Skip="false">
+ <Origin>I put the money on the counter and\0leave.</Origin>
+ <Translated>Я кладу деньги на весы и ухожу.</Translated>
+ </Line>
+<Line StartPos="15922" Length="38" Skip="false">
+ <Origin>I exit the store after looking around.</Origin>
+ <Translated>Осмотревшись, я выхожу из магазина.</Translated>
+ </Line>
+<Line StartPos="15971" Length="31" Skip="false">
+ <Origin>...The store is already closed.</Origin>
+ <Translated>Магазин уже закрыт.</Translated>
+ </Line>
+<Line StartPos="16048" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="16065" Length="21" Skip="false">
+ <Origin>"Thanks! Come again!"</Origin>
+ <Translated>Спасибо! приходи ещё!</Translated>
+ </Line>
+<Line StartPos="16104" Length="4" Skip="false">
+ <Origin>Lucy</Origin>
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="16121" Length="38" Skip="false">
+ <Origin>"I'll be waiting for your next visit."</Origin>
+ <Translated>Я буду тебя ждать.</Translated>
+ </Line>
+<Line StartPos="16168" Length="13" Skip="false">
+ <Origin>Draw\0ItemShop</Origin>
+ <Translated>Draw\0ItemShop</Translated>
+ </Line>
+ </Lines>
+
+</pre>
+
+
+[[Men_at_Work 2|[Назад]]]

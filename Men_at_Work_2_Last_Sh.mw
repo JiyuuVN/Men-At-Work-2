@@ -1,0 +1,2150 @@
+[[Men_at_Work 2|[Назад]]]
+Похерись имена персонажей, в основном Шерил и Ирины.
+<pre>
+
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="710">
+  <Line StartPos="274" Length="3" Skip="false">
+    <Translated>???</Translated>
+  </Line>
+  <Line StartPos="290" Length="14" Skip="false">
+    <Translated>Клиф-сан...</Translated>
+  </Line>
+  <Line StartPos="309" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="336" Length="9" Skip="false">
+    <Translated>Аа?..</Translated>
+  </Line>
+  <Line StartPos="352" Length="32" Skip="false">
+    <Translated>Кто-то произнёс моё имя</Translated>
+  </Line>
+  <Line StartPos="404" Length="69" Skip="false">
+    <Translated>Когда я обернулся, то обнаружил стоящую там с серьезным выражением лица Шерил.</Translated>
+  </Line>
+  <Line StartPos="478" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="505" Length="25" Skip="false">
+    <Translated>Шерил... что-то случилось?</Translated>
+  </Line>
+  <Line StartPos="563" Length="35" Skip="false">
+    <Translated>Я хочу с тобой поговорить...</Translated>
+  </Line>
+  <Line StartPos="605" Length="28" Skip="false">
+    <Translated>Голос Шерил дрожит...</Translated>
+  </Line>
+  <Line StartPos="666" Length="26" Skip="false">
+    <Translated>Ты можешь пойти со мной?..</Translated>
+  </Line>
+  <Line StartPos="697" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="724" Length="11" Skip="false">
+    <Translated>Л-ладно...</Translated>
+  </Line>
+  <Line StartPos="746" Length="35" Skip="false">
+    <Translated>Шерил идёт впереди, а я иду следом.</Translated>
+  </Line>
+  <Line StartPos="788" Length="48" Skip="false">
+    <Translated>Похоже, Шерил двигается тяжёлой поступью.</Translated>
+  </Line>
+  <Line StartPos="854" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="871" Length="69" Skip="false">
+    <Translated>А?.. Это же Ку-чан и Шерил. Куда это они в такое время?</Translated>
+  </Line>
+  <Line StartPos="953" Length="15" Skip="false">
+    <Translated>draw\0Castlewood</Translated>
+  </Line>
+  <Line StartPos="979" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1006" Length="50" Skip="false">
+    <Translated>Шерил, куда ты идёшь? Если мы продолжим...</Translated>
+  </Line>
+  <Line StartPos="1063" Length="50" Skip="false">
+    <Translated>Если мы продолжим... то попадём в старый замок...</Translated>
+  </Line>
+  <Line StartPos="1126" Length="11" Skip="false">
+    <Translated>draw\0Castle</Translated>
+  </Line>
+  <Line StartPos="1148" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1175" Length="12" Skip="false">
+    <Translated>Шерил!..</Translated>
+  </Line>
+  <Line StartPos="1194" Length="49" Skip="false">
+    <Translated>Всё таки Шерил привела меня к Старому Замку.</Translated>
+  </Line>
+  <Line StartPos="1280" Length="101" Skip="false">
+    <Translated>Когда-то, этот старый замок использовался Ириной, известной как худшая ведьма всех времён...</Translated>
+  </Line>
+  <Line StartPos="1386" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1413" Length="47" Skip="false">
+    <Translated>...да... я слышал эту историю от Вайзора.</Translated>
+  </Line>
+  <Line StartPos="1493" Length="102" Skip="false">
+    <Translated>Ирина была главой семьи Михайлов, одной из Трёх Великих Семей, достигших бессмертия.</Translated>
+  </Line>
+  <Line StartPos="1600" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1627" Length="26" Skip="false">
+    <Translated>Да... это я тоже знаю.</Translated>
+  </Line>
+  <Line StartPos="1686" Length="100" Skip="false">
+    <Translated>Главы Трёх Великих Семей отчаянно боролись за право стать королём Волшебного Королевства.</Translated>
+  </Line>
+  <Line StartPos="1791" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1818" Length="9" Skip="false">
+    <Translated>Аа?..</Translated>
+  </Line>
+  <Line StartPos="1860" Length="88" Skip="false">
+    <Translated>Три Великие Семьи, получив бессмертие, начали сражаться, чтобы обрести превосходство.</Translated>
+  </Line>
+  <Line StartPos="1955" Length="48" Skip="false">
+    <Translated>Я в первый раз слышу эту историю...</Translated>
+  </Line>
+  <Line StartPos="2006" Length="55" Skip="false">
+    <Translated>...но, что важнее, почему Шерил знает такое?</Translated>
+  </Line>
+  <Line StartPos="2094" Length="114" Skip="false">
+    <Translated>Битва продолжалась долгое время, и наконец-то появился тот один, кто победил других двух – семья Ирины Михайловой...</Translated>
+  </Line>
+  <Line StartPos="2255" Length="21" Skip="false">
+    <Translated>Она моя мать...</Translated>
+  </Line>
+  <Line StartPos="2281" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2308" Length="12" Skip="false">
+    <Translated>Аа?..</Translated>
+  </Line>
+  <Line StartPos="2325" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2343" Length="41" Skip="false">
+    <Translated>Шерил... к тебе вернулась память?</Translated>
+  </Line>
+  <Line StartPos="2421" Length="20" Skip="false">
+    <Translated>Идём внутрь...</Translated>
+  </Line>
+  <Line StartPos="2446" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2473" Length="11" Skip="false">
+    <Translated>Л-ладно...</Translated>
+  </Line>
+  <Line StartPos="2542" Length="70" Skip="false">
+    <Translated>Ты знаешь, почему мою мать называли худшей ведьмой всех времён?..</Translated>
+  </Line>
+  <Line StartPos="2617" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2644" Length="7" Skip="false">
+    <Translated>Нет...</Translated>
+  </Line>
+  <Line StartPos="2684" Length="57" Skip="false">
+    <Translated>Ты же знаешь, как моя мать обрела бессмертие, верно?</Translated>
+  </Line>
+  <Line StartPos="2746" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2773" Length="54" Skip="false">
+    <Translated>Ум... я слышал, что она отбирала жизни людей...</Translated>
+  </Line>
+  <Line StartPos="2860" Length="73" Skip="false">
+    <Translated>Как думаешь, сколько людей погибло, пока она достигла этого?</Translated>
+  </Line>
+  <Line StartPos="2938" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2965" Length="4" Skip="false">
+    <Translated>?!</Translated>
+  </Line>
+  <Line StartPos="3002" Length="108" Skip="false">
+    <Translated>Это не просто десятки тысяч... она даже уничтожила страну, с населением в сотню тысяч за одну ночь.</Translated>
+  </Line>
+  <Line StartPos="3134" Length="68" Skip="false">
+    <Translated>Просто чтобы обрести своё собственное бессмертие... просто для науки...</Translated>
+  </Line>
+  <Line StartPos="3207" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3234" Length="13" Skip="false">
+    <Translated>Не может быть?!.</Translated>
+  </Line>
+  <Line StartPos="3280" Length="82" Skip="false">
+    <Translated>Я грешница, которая видела все её злодеяния и ничем не смогла помешать...</Translated>
+  </Line>
+  <Line StartPos="3367" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3394" Length="13" Skip="false">
+    <Translated>Это!..</Translated>
+  </Line>
+  <Line StartPos="3440" Length="65" Skip="false">
+    <Translated>Множество Охотников тогда пришло в этот замок, чтобы убить мою мать...</Translated>
+  </Line>
+  <Line StartPos="3529" Length="94" Skip="false">
+    <Translated>Но все они были убиты, и со временем... никто больше не смел её ослушаться...</Translated>
+  </Line>
+  <Line StartPos="3670" Length="82" Skip="false">
+    <Translated>Но в бою, где ей удалось победить семьи Дракул и Сайфон...</Translated>
+  </Line>
+  <Line StartPos="3776" Length="32" Skip="false">
+    <Translated>Она получила сильные ранения...</Translated>
+  </Line>
+  <Line StartPos="3832" Length="116" Skip="false">
+    <Translated>Моя мать использовала всю свою силу и была настолько слаба, что не могла использовать заклинание бессмертия на себя...</Translated>
+  </Line>
+  <Line StartPos="3972" Length="106" Skip="false">
+    <Translated>Каким-то образом узнав об этом, много Охотников собралось напасть на этот замок.</Translated>
+  </Line>
+  <Line StartPos="4102" Length="26" Skip="false">
+    <Translated>Я узнала эту новость и...</Translated>
+  </Line>
+  <Line StartPos="4133" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4160" Length="14" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="4198" Length="66" Skip="false">
+    <Translated>В это время я решилась. Настало время заплатить за мои грехи.</Translated>
+  </Line>
+  <Line StartPos="4288" Length="35" Skip="false">
+    <Translated>Я сделала предложение своей матери...</Translated>
+  </Line>
+  <Line StartPos="4347" Length="50" Skip="false">
+    <Translated>Я сказала ей, что так она умрёт..</Translated>
+  </Line>
+  <Line StartPos="4421" Length="58" Skip="false">
+    <Translated>Поэтому, она должна передать свою душу мне и жить вечно.</Translated>
+  </Line>
+  <Line StartPos="4484" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4511" Length="4" Skip="false">
+    <Translated>?!</Translated>
+  </Line>
+  <Line StartPos="4573" Length="26" Skip="false">
+    <Translated>Прямо сейчас, в моём теле...</Translated>
+  </Line>
+  <Line StartPos="4632" Length="73" Skip="false">
+    <Translated>Запечатана душа худшей ведьмы всех времён, Ирины...</Translated>
+  </Line>
+  <Line StartPos="4710" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4737" Length="14" Skip="false">
+    <Translated>Не... может быть...</Translated>
+  </Line>
+  <Line StartPos="4784" Length="49" Skip="false">
+    <Translated>Прошлой ночью, на мгновение, моя мать проснулась...</Translated>
+  </Line>
+  <Line StartPos="4866" Length="62" Skip="false">
+    <Translated>В тот момент все мои воспоминания вернулись...</Translated>
+  </Line>
+  <Line StartPos="4958" Length="66" Skip="false">
+    <Translated>Ох, в то время... пугающая личность, держащая нож...</Translated>
+  </Line>
+  <Line StartPos="5027" Length="27" Skip="false">
+    <Translated>Шерил с красными глазами...</Translated>
+  </Line>
+  <Line StartPos="5112" Length="69" Skip="false">
+    <Translated>Это вероятно, потому что образ Карла запечатан в моей памяти вместе с моей мамой...</Translated>
+  </Line>
+  <Line StartPos="5186" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5213" Length="31" Skip="false">
+    <Translated>Я слышал это имя много раз.</Translated>
+  </Line>
+  <Line StartPos="5249" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5277" Length="19" Skip="false">
+    <Translated>Кто такой Карл?</Translated>
+  </Line>
+  <Line StartPos="5329" Length="44" Skip="false">
+    <Translated>Надёжный, молодой лидер Охотников...</Translated>
+  </Line>
+  <Line StartPos="5406" Length="36" Skip="false">
+    <Translated>И тот, кто был моим любимым...</Translated>
+  </Line>
+  <Line StartPos="5447" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5475" Length="14" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="5522" Length="32" Skip="false">
+    <Translated>Его полное имя Карл Уинстон.</Translated>
+  </Line>
+  <Line StartPos="5559" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5586" Length="4" Skip="false">
+    <Translated>?!</Translated>
+  </Line>
+  <Line StartPos="5597" Length="33" Skip="false">
+    <Translated>Та же фамилия что и у меня?!..</Translated>
+  </Line>
+  <Line StartPos="5644" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="5663" Length="66" Skip="false">
+    <Translated>Я слышала, что семья Уинстонов наследует силу Охотников.</Translated>
+  </Line>
+  <Line StartPos="5762" Length="34" Skip="false">
+    <Translated>Думаю, это твой далёкий предок.</Translated>
+  </Line>
+  <Line StartPos="5803" Length="33" Skip="false">
+    <Translated>Карл... Уинстон... мой предок...</Translated>
+  </Line>
+  <Line StartPos="5860" Length="21" Skip="false">
+    <Translated>Идём вниз...</Translated>
+  </Line>
+  <Line StartPos="5911" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5938" Length="18" Skip="false">
+    <Translated>Это место...</Translated>
+  </Line>
+  <Line StartPos="5970" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="5989" Length="36" Skip="false">
+    <Translated>Это место, где я была запечатана...</Translated>
+  </Line>
+  <Line StartPos="6039" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="6058" Length="64" Skip="false">
+    <Translated>Ты знаешь, почему я предложила своей матери перенести свою душу в меня?</Translated>
+  </Line>
+  <Line StartPos="6146" Length="43" Skip="false">
+    <Translated>И... ты знаешь, почему я была запечатана здесь?</Translated>
+  </Line>
+  <Line StartPos="6194" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6221" Length="45" Skip="false">
+    <Translated>Прошлой ночью... Ирина назвала пеня предателем...</Translated>
+  </Line>
+  <Line StartPos="6271" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6298" Length="35" Skip="false">
+    <Translated>Этот Карл обманул тебя?!..</Translated>
+  </Line>
+  <Line StartPos="6366" Length="54" Skip="false">
+    <Translated>Нет... ты ошибаешься... предателем была я...</Translated>
+  </Line>
+  <Line StartPos="6425" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6452" Length="9" Skip="false">
+    <Translated>Аа?..</Translated>
+  </Line>
+  <Line StartPos="6494" Length="88" Skip="false">
+    <Translated>Я та, кто предала свою мать и сказала Карлу запечатать меня с душой матери внутри.</Translated>
+  </Line>
+  <Line StartPos="6587" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6614" Length="33" Skip="false">
+    <Translated>Зачем ты так поступила?..</Translated>
+  </Line>
+  <Line StartPos="6680" Length="83" Skip="false">
+    <Translated>Во-первых, это был мой способ искупления, будучи не в состоянии остановить свою мать силой.</Translated>
+  </Line>
+  <Line StartPos="6787" Length="77" Skip="false">
+    <Translated>Во-вторых, Карл был мастером в запечатывании зла... и наконец...</Translated>
+  </Line>
+  <Line StartPos="6911" Length="102" Skip="false">
+    <Translated>Я хотела любить и защищать свою мать, даже если она была ведьмой, убившей много людей...</Translated>
+  </Line>
+  <Line StartPos="7046" Length="77" Skip="false">
+    <Translated>Вот почему я выбрала запечатывание души матери во мне и быть вместе запечатанными навсегда...</Translated>
+  </Line>
+  <Line StartPos="7128" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7155" Length="11" Skip="false">
+    <Translated>Неужели...</Translated>
+  </Line>
+  <Line StartPos="7190" Length="64" Skip="false">
+    <Translated>Но... думаю, сила печати стала слабеть со временем...</Translated>
+  </Line>
+  <Line StartPos="7287" Length="108" Skip="false">
+    <Translated>Ты появился здесь, и я почувствовала твоё присутствие. Моя душа покинула печать и направилась к тебе.</Translated>
+  </Line>
+  <Line StartPos="7419" Length="38" Skip="false">
+    <Translated>И я встретила всех в Школе...</Translated>
+  </Line>
+  <Line StartPos="7490" Length="76" Skip="false">
+    <Translated>Потом моя печать была сломана, и я возродилась в этом мире без памяти.</Translated>
+  </Line>
+  <Line StartPos="7571" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7598" Length="14" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="7645" Length="73" Skip="false">
+    <Translated>Клиф-сан... ты, вероятно, родился в этом мире с душой Карла...</Translated>
+  </Line>
+  <Line StartPos="7751" Length="50" Skip="false">
+    <Translated>Вот почему ты бессознательно способен использовать заклинания Карла...</Translated>
+  </Line>
+  <Line StartPos="7834" Length="51" Skip="false">
+    <Translated>И это должно быть то, чем ты так привлекаешь меня...</Translated>
+  </Line>
+  <Line StartPos="7890" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7918" Length="57" Skip="false">
+    <Translated>Но, я не люблю тебя, лишь потому что я реинкарнация Карла!</Translated>
+  </Line>
+  <Line StartPos="7980" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8008" Length="38" Skip="false">
+    <Translated>Я люблю тебя из-за своих собственных чувств...</Translated>
+  </Line>
+  <Line StartPos="8079" Length="25" Skip="false">
+    <Translated>Спасибо, Клиф-сан...</Translated>
+  </Line>
+  <Line StartPos="8137" Length="71" Skip="false">
+    <Translated>Но... я существо, которое не должно быть в этом мире.</Translated>
+  </Line>
+  <Line StartPos="8213" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8240" Length="45" Skip="false">
+    <Translated>Шерил, почему ты говоришь такое?..</Translated>
+  </Line>
+  <Line StartPos="8318" Length="75" Skip="false">
+    <Translated>Ты тоже это видел?! Если удалось возродиться мне, то и моя мать тоже возродиться.</Translated>
+  </Line>
+  <Line StartPos="8398" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8425" Length="4" Skip="false">
+    <Translated>!!!</Translated>
+  </Line>
+  <Line StartPos="8462" Length="95" Skip="false">
+    <Translated>Тот факт, что я вернула свою память означает, что печать моей матери внутри меня тоже слабеет...</Translated>
+  </Line>
+  <Line StartPos="8590" Length="44" Skip="false">
+    <Translated>Не так много времени осталось до возрождения Ирины.</Translated>
+  </Line>
+  <Line StartPos="8639" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8666" Length="28" Skip="false">
+    <Translated>Не говори мне... Шерил...</Translated>
+  </Line>
+  <Line StartPos="8699" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8717" Length="38" Skip="false">
+    <Translated>Что ты привела меня сюда для...</Translated>
+  </Line>
+  <Line StartPos="8788" Length="36" Skip="false">
+    <Translated>Пожалуйста, запечатай меня здесь снова...</Translated>
+  </Line>
+  <Line StartPos="8857" Length="42" Skip="false">
+    <Translated>Так, чтобы я никогда больше не проснулась...</Translated>
+  </Line>
+  <Line StartPos="8904" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8931" Length="24" Skip="false">
+    <Translated>Н-нет, я не хочу этого!</Translated>
+  </Line>
+  <Line StartPos="8960" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8987" Length="36" Skip="false">
+    <Translated>Почему ты просишь меня о таком?!</Translated>
+  </Line>
+  <Line StartPos="9056" Length="57" Skip="false">
+    <Translated>Пожалуйста, Клиф-сан... это то, что можешь сделать только ты.</Translated>
+  </Line>
+  <Line StartPos="9124" Length="24" Skip="false">
+    <Translated>Я чувствую сильное дежа-вю.</Translated>
+  </Line>
+  <Line StartPos="9151" Length="67" Skip="false">
+    <Translated>Я уже видел это прежде... я чувствовал то же самое прежде...</Translated>
+  </Line>
+  <Line StartPos="9223" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9250" Length="42" Skip="false">
+    <Translated>Почему ты должна нести такое бремя?!</Translated>
+  </Line>
+  <Line StartPos="9299" Length="58" Skip="false">
+    <Translated>Да, так и есть... думаю, тогда я сказал тоже самое...</Translated>
+  </Line>
+  <Line StartPos="9362" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9389" Length="35" Skip="false">
+    <Translated>Тогда я смогу победить Ирину, если она вернётся!</Translated>
+  </Line>
+  <Line StartPos="9429" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9456" Length="24" Skip="false">
+    <Translated>Поэтому не говори таких...</Translated>
+  </Line>
+  <Line StartPos="9513" Length="21" Skip="false">
+    <Translated>Ты не сможешь!!!</Translated>
+  </Line>
+  <Line StartPos="9567" Length="69" Skip="false">
+    <Translated>Если ты попытаешься убить мою мать, я буду считать тебя своим врагом.</Translated>
+  </Line>
+  <Line StartPos="9643" Length="36" Skip="false">
+    <Translated>Да... тогда Шерил ответила так же...</Translated>
+  </Line>
+  <Line StartPos="9682" Length="49" Skip="false">
+    <Translated>Вот почему Карл запечатал Шерил против своей воли...</Translated>
+  </Line>
+  <Line StartPos="9734" Length="17" Skip="false">
+    <Translated>Но... но...!..</Translated>
+  </Line>
+  <Line StartPos="9754" Length="27" Skip="false">
+    <Translated>Я не хочу делать этого!!!</Translated>
+  </Line>
+  <Line StartPos="9786" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9813" Length="41" Skip="false">
+    <Translated>Просто так повторять то, что уже было сделано!</Translated>
+  </Line>
+  <Line StartPos="9859" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9886" Length="45" Skip="false">
+    <Translated>Ты всё ещё не искупила все свои грехи!..</Translated>
+  </Line>
+  <Line StartPos="9964" Length="4" Skip="false">
+    <Translated>!!!</Translated>
+  </Line>
+  <Line StartPos="9973" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10000" Length="76" Skip="false">
+    <Translated>Запечатывание её в себе это не искупление! Ведь ничего не изменилось!</Translated>
+  </Line>
+  <Line StartPos="10081" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10108" Length="39" Skip="false">
+    <Translated>Почему ты не пытаешься остановить Ирину?!</Translated>
+  </Line>
+  <Line StartPos="10180" Length="11" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="10196" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10223" Length="75" Skip="false">
+    <Translated>Если ты хочешь искупить свои грехи, то ты должна противостоять Ирине.</Translated>
+  </Line>
+  <Line StartPos="10303" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10330" Length="42" Skip="false">
+    <Translated>Ты должна восстать против неё и остановить её.</Translated>
+  </Line>
+  <Line StartPos="10377" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10404" Length="45" Skip="false">
+    <Translated>Я не пытаюсь повторить твои слова, но...</Translated>
+  </Line>
+  <Line StartPos="10454" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10472" Length="46" Skip="false">
+    <Translated>Вероятно это то, что только ты сможешь сделать...</Translated>
+  </Line>
+  <Line StartPos="10555" Length="14" Skip="false">
+    <Translated>Клиф-сан...</Translated>
+  </Line>
+  <Line StartPos="10602" Length="22" Skip="false">
+    <Translated>Что мне делать?..</Translated>
+  </Line>
+  <Line StartPos="10648" Length="71" Skip="false">
+    <Translated>Я хочу остановить свою мать, но у меня нет сил, чтобы остановить её...</Translated>
+  </Line>
+  <Line StartPos="10736" Length="3" Skip="false">
+    <Translated>???</Translated>
+  </Line>
+  <Line StartPos="10752" Length="19" Skip="false">
+    <Translated>...могу я помочь?</Translated>
+  </Line>
+  <Line StartPos="10804" Length="4" Skip="false">
+    <Translated>?!</Translated>
+  </Line>
+  <Line StartPos="10813" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10840" Length="13" Skip="false">
+    <Translated>Кто здесь?!</Translated>
+  </Line>
+  <Line StartPos="10891" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="10909" Length="12" Skip="false">
+    <Translated>Это я...</Translated>
+  </Line>
+  <Line StartPos="10926" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10953" Length="34" Skip="false">
+    <Translated>Вайзор-сан?! Почему вы здесь?..</Translated>
+  </Line>
+  <Line StartPos="11020" Length="63" Skip="false">
+    <Translated>Отойди, Клиф-сан! Этот мужчина монстр! И очень сильный!</Translated>
+  </Line>
+  <Line StartPos="11088" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="11115" Length="7" Skip="false">
+    <Translated>Аа?!</Translated>
+  </Line>
+  <Line StartPos="11142" Length="24" Skip="false">
+    <Translated>Вайзор-сан монстр?!</Translated>
+  </Line>
+  <Line StartPos="11180" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="11198" Length="46" Skip="false">
+    <Translated>Хахаха. Как и ожидалось от дочери Ирины...</Translated>
+  </Line>
+  <Line StartPos="11299" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="11317" Length="70" Skip="false">
+    <Translated>Шерил, я всё слышал. Никогда бы не подумал, что Ирина запечатана в тебе.</Translated>
+  </Line>
+  <Line StartPos="11392" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="11419" Length="12" Skip="false">
+    <Translated>Д-дракул?!</Translated>
+  </Line>
+  <Line StartPos="11438" Length="38" Skip="false">
+    <Translated>Не может быть... Вайзор-сан - это Дракул?..</Translated>
+  </Line>
+  <Line StartPos="11481" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="11499" Length="79" Skip="false">
+    <Translated>Не удивительно, что я почувствовал Ирину в Школе. Ты с ней одно целое.</Translated>
+  </Line>
+  <Line StartPos="11583" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="11610" Length="38" Skip="false">
+    <Translated>Ч-что ты хочешь сделать с нами?!</Translated>
+  </Line>
+  <Line StartPos="11662" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="11680" Length="43" Skip="false">
+    <Translated>Я же сказал тебе... я хочу помочь остановить Ирину...</Translated>
+  </Line>
+  <Line StartPos="11728" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="11755" Length="13" Skip="false">
+    <Translated>П-помочь нам?!</Translated>
+  </Line>
+  <Line StartPos="11773" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="11791" Length="77" Skip="false">
+    <Translated>Шерил, если ты желаешь искупить свои грехи, позволь мне помочь с этим.</Translated>
+  </Line>
+  <Line StartPos="11901" Length="30" Skip="false">
+    <Translated>Ч-что ты хочешь сделать?!</Translated>
+  </Line>
+  <Line StartPos="11945" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="11963" Length="47" Skip="false">
+    <Translated>...я удалю душу Ирины из тебя.</Translated>
+  </Line>
+  <Line StartPos="12024" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="12042" Length="35" Skip="false">
+    <Translated>Я могу полностью уничтожить Ирину.</Translated>
+  </Line>
+  <Line StartPos="12110" Length="16" Skip="false">
+    <Translated>Я... я отказываюсь!</Translated>
+  </Line>
+  <Line StartPos="12140" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="12158" Length="55" Skip="false">
+    <Translated>Почему? Пробуждение Ирины лишь вопрос времени.</Translated>
+  </Line>
+  <Line StartPos="12246" Length="57" Skip="false">
+    <Translated>Это не значит, что я позволю тебе убить мою мать! И...</Translated>
+  </Line>
+  <Line StartPos="12317" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="12335" Length="6" Skip="false">
+    <Translated>И?</Translated>
+  </Line>
+  <Line StartPos="12374" Length="86" Skip="false">
+    <Translated>Если я позволю тебе сделать это, ты обретёшь её силу и станешь настоящим монстром!</Translated>
+  </Line>
+  <Line StartPos="12474" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="12492" Length="55" Skip="false">
+    <Translated>Так ты знаешь. Ну, странно было бы, если бы ты не знала.</Translated>
+  </Line>
+  <Line StartPos="12561" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="12579" Length="68" Skip="false">
+    <Translated>Но я пришёл в этот город, чтобы забрать силу Ирины и стать сильнее.</Translated>
+  </Line>
+  <Line StartPos="12661" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="12679" Length="48" Skip="false">
+    <Translated>И я заберу эту силу, что бы вы не говорили!</Translated>
+  </Line>
+  <Line StartPos="12744" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="12771" Length="7" Skip="false">
+    <Translated>Аа!</Translated>
+  </Line>
+  <Line StartPos="12783" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="12810" Length="18" Skip="false">
+    <Translated>Я не могу пошевелиться!..</Translated>
+  </Line>
+  <Line StartPos="12835" Length="60" Skip="false">
+    <Translated>Вайзор смотрит на меня и моё тело полностью перестаёт подчиняться...</Translated>
+  </Line>
+  <Line StartPos="12911" Length="54" Skip="false">
+    <Translated>И... Шерил стоит на месте, совершенно не двигаясь...</Translated>
+  </Line>
+  <Line StartPos="12970" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="12997" Length="43" Skip="false">
+    <Translated>Вайзор!.. Что ты сделал с Шерил?!..</Translated>
+  </Line>
+  <Line StartPos="13054" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="13072" Length="92" Skip="false">
+    <Translated>...я просто запечатал её сознание. Сейчас, она просто оболочка без собственного разума.</Translated>
+  </Line>
+  <Line StartPos="13178" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="13196" Length="39" Skip="false">
+    <Translated>Она просто марионетка под моим контролем.</Translated>
+  </Line>
+  <Line StartPos="13268" Length="17" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="13290" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="13317" Length="20" Skip="false">
+    <Translated>Шерил! Проснись!</Translated>
+  </Line>
+  <Line StartPos="13351" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="13369" Length="63" Skip="false">
+    <Translated>Это бесполезно... сейчас эта женщина ничего не слышит.</Translated>
+  </Line>
+  <Line StartPos="13437" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="13464" Length="13" Skip="false">
+    <Translated>Шерил!..</Translated>
+  </Line>
+  <Line StartPos="13482" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="13500" Length="91" Skip="false">
+    <Translated>Клиф Уинстон, реинкарнация Карла... я скажу тебе, что ты должен будешь сделать.</Translated>
+  </Line>
+  <Line StartPos="13596" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="13623" Length="41" Skip="false">
+    <Translated>Ч-что ты хочешь заставить меня сделать?!..</Translated>
+  </Line>
+  <Line StartPos="13669" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="13687" Length="83" Skip="false">
+    <Translated>Впереди есть дорога, которая ведёт в подземную пещеру. Там я нашёл тело Ирины.</Translated>
+  </Line>
+  <Line StartPos="13775" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="13793" Length="45" Skip="false">
+    <Translated>Но на нём есть твоя... нет, печать Карла.</Translated>
+  </Line>
+  <Line StartPos="13852" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="13870" Length="30" Skip="false">
+    <Translated>Сними печать.</Translated>
+  </Line>
+  <Line StartPos="13905" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="13932" Length="40" Skip="false">
+    <Translated>Я-я не могу. Я не смогу сделать такое!..</Translated>
+  </Line>
+  <Line StartPos="13986" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="14004" Length="63" Skip="false">
+    <Translated>Ты должен быть в состоянии. Ты уже сломал печать Шерил.</Translated>
+  </Line>
+  <Line StartPos="14072" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="14090" Length="99" Skip="false">
+    <Translated>Когда ты снимешь печать, душа Ирины оставит Шерил и вновь вернётся в своё тело.</Translated>
+  </Line>
+  <Line StartPos="14203" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="14222" Length="64" Skip="false">
+    <Translated>И тогда... я возьму её кровь и её сила станет моей.</Translated>
+  </Line>
+  <Line StartPos="14291" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="14310" Length="13" Skip="false">
+    <Translated>Хахахахаха.</Translated>
+  </Line>
+  <Line StartPos="14328" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="14355" Length="19" Skip="false">
+    <Translated>Что если я откажусь?</Translated>
+  </Line>
+  <Line StartPos="14379" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="14397" Length="84" Skip="false">
+    <Translated>Мне всё равно. Ты просто останешься здесь не в состоянии двигаться до конца жизни.</Translated>
+  </Line>
+  <Line StartPos="14495" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="14513" Length="62" Skip="false">
+    <Translated>Я сниму своё заклинание, если ты подчинишься мне.\0Каков твой ответ?</Translated>
+  </Line>
+  <Line StartPos="14580" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="14607" Length="9" Skip="false">
+    <Translated>Н-нет...</Translated>
+  </Line>
+  <Line StartPos="14630" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="14648" Length="106" Skip="false">
+    <Translated>Хорошо, я подарю тебе спасение. Я убью тебя сейчас, вместо того чтобы позволить тебе стоять неподвижно до конца своей жизни...</Translated>
+  </Line>
+  <Line StartPos="14767" Length="45" Skip="false">
+    <Translated>Сверкающий коготь Вайзора поднимается над моей головой...</Translated>
+  </Line>
+  <Line StartPos="14841" Length="12" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="14856" Length="10" Skip="false">
+    <Translated>?..</Translated>
+  </Line>
+  <Line StartPos="14896" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="14914" Length="23" Skip="false">
+    <Translated>Гу... угх... ч-что?!</Translated>
+  </Line>
+  <Line StartPos="14961" Length="112" Skip="false">
+    <Translated>Как глупо с твоей стороны. Как и раньше, пытаться выглядеть круто и так облажаться в конце. А, малыш Вайзор?</Translated>
+  </Line>
+  <Line StartPos="15080" Length="27" Skip="false">
+    <Translated>Невероятное зрелище.</Translated>
+  </Line>
+  <Line StartPos="15114" Length="89" Skip="false">
+    <Translated>Шерил, стоявшая позади Вайзора, вдруг улыбнулась и пронзила грудь Вайзора сзади.</Translated>
+  </Line>
+  <Line StartPos="15206" Length="47" Skip="false">
+    <Translated>Без оружия, одной своей рукой.</Translated>
+  </Line>
+  <Line StartPos="15256" Length="41" Skip="false">
+    <Translated>В добавок, в руке она сжимает сердце Вайзора.</Translated>
+  </Line>
+  <Line StartPos="15304" Length="39" Skip="false">
+    <Translated>Шерил способна на такие ужасные поступки?..</Translated>
+  </Line>
+  <Line StartPos="15348" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="15366" Length="24" Skip="false">
+    <Translated>Т-ты, Ирина! Как?..</Translated>
+  </Line>
+  <Line StartPos="15414" Length="57" Skip="false">
+    <Translated>Ты и правда дурак. Это всё благодаря тебе, малыш Вайзор.</Translated>
+  </Line>
+  <Line StartPos="15495" Length="90" Skip="false">
+    <Translated>Ведь ты запечатал её сознание, а значит меня ничто не сдерживало.</Translated>
+  </Line>
+  <Line StartPos="15590" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="15608" Length="16" Skip="false">
+    <Translated>Гх... чёрт!..</Translated>
+  </Line>
+  <Line StartPos="15655" Length="41" Skip="false">
+    <Translated>Ирина раздавливает сердце Вайзоре в своей руке.</Translated>
+  </Line>
+  <Line StartPos="15699" Length="100" Skip="false">
+    <Translated>Вайзор падает на землю выражением агониеи на лице... в это же время, я вновь обретаю свободу.</Translated>
+  </Line>
+  <Line StartPos="15823" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="15841" Length="10" Skip="false">
+    <Translated>Шерил!</Translated>
+  </Line>
+  <Line StartPos="15875" Length="63" Skip="false">
+    <Translated>Ну, я разобралась с этим шумным парнишей. Теперь твоя очередь, Карл.</Translated>
+  </Line>
+  <Line StartPos="15943" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="15961" Length="26" Skip="false">
+    <Translated>Я не Карл! Я Клиф!</Translated>
+  </Line>
+  <Line StartPos="16032" Length="56" Skip="false">
+    <Translated>Довольно жалкий способ умолять сохранить себе жизнь, Карл.</Translated>
+  </Line>
+  <Line StartPos="16093" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="16111" Length="4" Skip="false">
+    <Translated>?!</Translated>
+  </Line>
+  <Line StartPos="16122" Length="24" Skip="false">
+    <Translated>Ясно... значит это Ирина...</Translated>
+  </Line>
+  <Line StartPos="16172" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="16190" Length="69" Skip="false">
+    <Translated>Приготовься. Ты заплатишь за то, что запечатал меня на это долгое время.</Translated>
+  </Line>
+  <Line StartPos="16282" Length="3" Skip="false">
+    <Translated>???</Translated>
+  </Line>
+  <Line StartPos="16298" Length="7" Skip="false">
+    <Translated>Стой!</Translated>
+  </Line>
+  <Line StartPos="16342" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="16359" Length="74" Skip="false">
+    <Translated>Не говори таких эгоистичных слов! Я не позволю тебе и пальцем коснуться Ку-чана!</Translated>
+  </Line>
+  <Line StartPos="16438" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="16465" Length="7" Skip="false">
+    <Translated>Люси!</Translated>
+  </Line>
+  <Line StartPos="16506" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="16522" Length="113" Skip="false">
+    <Translated>Ты была запечатана, потому что Шерил чувствовала себя виновной за твои действия. И у тебя нет прав винить её.</Translated>
+  </Line>
+  <Line StartPos="16650" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="16667" Length="28" Skip="false">
+    <Translated>Верни назад тело Шерил!</Translated>
+  </Line>
+  <Line StartPos="16709" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="16727" Length="15" Skip="false">
+    <Translated>Верни назад!</Translated>
+  </Line>
+  <Line StartPos="16747" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="16774" Length="33" Skip="false">
+    <Translated>Аой-сан! Мина! И Китти тоже! Почему?!</Translated>
+  </Line>
+  <Line StartPos="16822" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="16839" Length="37" Skip="false">
+    <Translated>Я видела, как вы двое шли куда-то.</Translated>
+  </Line>
+  <Line StartPos="16891" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="16908" Length="115" Skip="false">
+    <Translated>Мне стало интересно и я пошла за вами. И что я увидела? Вы шли в Старый Замок.</Translated>
+  </Line>
+  <Line StartPos="17038" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="17055" Length="85" Skip="false">
+    <Translated>Я решила, что это плохо, и быстро слетала домой, чтобы собрать всех. Я рада, что так поступила.</Translated>
+  </Line>
+  <Line StartPos="17165" Length="11" Skip="false">
+    <Translated>battle\0form</Translated>
+  </Line>
+  <Line StartPos="17219" Length="82" Skip="false">
+    <Translated>Фырк, вы слабые люди с ограниченным сроком жизни. И вы пытаетесь противостоять мне?</Translated>
+  </Line>
+  <Line StartPos="17325" Length="46" Skip="false">
+    <Translated>Замечательно... я должна доказать вам вашу глупость!</Translated>
+  </Line>
+  <Line StartPos="17420" Length="10" Skip="false">
+    <Translated>sheryl.dat</Translated>
+  </Line>
+  <Line StartPos="17445" Length="20" Skip="false">
+    <Translated>WinSheryl\0LoseSheryl</Translated>
+  </Line>
+  <Line StartPos="17506" Length="53" Skip="false">
+    <Translated>...уже умоляете о пощаде? Какая жалость.</Translated>
+  </Line>
+  <Line StartPos="17583" Length="75" Skip="false">
+    <Translated>Если в тебе есть душа или кровь Карла, не будь таким жалким!</Translated>
+  </Line>
+  <Line StartPos="17704" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="17722" Length="65" Skip="false">
+    <Translated>Э-это не честно! Я не могу действовать во всю силу против тела Шерил!</Translated>
+  </Line>
+  <Line StartPos="17802" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="17819" Length="23" Skip="false">
+    <Translated>Что нам делать?..</Translated>
+  </Line>
+  <Line StartPos="17856" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="17872" Length="91" Skip="false">
+    <Translated>Наш враг худшая ведьма всех времён Ирина! Мы не сможем так просто победить её!</Translated>
+  </Line>
+  <Line StartPos="17978" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="17995" Length="21" Skip="false">
+    <Translated>Чёрт, это сложно!</Translated>
+  </Line>
+  <Line StartPos="18107" Length="61" Skip="false">
+    <Translated>Пф, это судьба тех, кто имеет срок жизни...</Translated>
+  </Line>
+  <Line StartPos="18192" Length="79" Skip="false">
+    <Translated>Вы должны быть счастливы. Ваши жизни станут частью меня и смогут жить вечно.</Translated>
+  </Line>
+  <Line StartPos="18290" Length="65" Skip="false">
+    <Translated>В этот день, худшая ведьма всех времён вернулась в Филандию...</Translated>
+  </Line>
+  <Line StartPos="18358" Length="51" Skip="false">
+    <Translated>Но сколько же ещё ужасных поступков она совершит...</Translated>
+  </Line>
+  <Line StartPos="18412" Length="34" Skip="false">
+    <Translated>Это то, что мы никогда не узнаем...</Translated>
+  </Line>
+  <Line StartPos="18536" Length="49" Skip="false">
+    <Translated>Угх, я не могу использовать всю мою силу в этом теле...</Translated>
+  </Line>
+  <Line StartPos="18634" Length="14" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="18653" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="18680" Length="9" Skip="false">
+    <Translated>Шерил!</Translated>
+  </Line>
+  <Line StartPos="18722" Length="12" Skip="false">
+    <Translated>Ах... аах!</Translated>
+  </Line>
+  <Line StartPos="18749" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="18765" Length="38" Skip="false">
+    <Translated>Шерил-сан! Это снова ты?!</Translated>
+  </Line>
+  <Line StartPos="18836" Length="35" Skip="false">
+    <Translated>Пожалуйста! Остановите мою мать!</Translated>
+  </Line>
+  <Line StartPos="18886" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="18903" Length="40" Skip="false">
+    <Translated>Остановить её? Но она уже остановилась.</Translated>
+  </Line>
+  <Line StartPos="18958" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="18975" Length="40" Skip="false">
+    <Translated>Разве Ирина не вернулась в тебя назад?..</Translated>
+  </Line>
+  <Line StartPos="19049" Length="46" Skip="false">
+    <Translated>Нет! Душа моей матери уже покинула моё тело!</Translated>
+  </Line>
+  <Line StartPos="19129" Length="55" Skip="false">
+    <Translated>Я уверена, она отправилась к своему настоящему телу!</Translated>
+  </Line>
+  <Line StartPos="19189" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="19216" Length="43" Skip="false">
+    <Translated>Но Вайзор сказал, что оно запечатано...</Translated>
+  </Line>
+  <Line StartPos="19292" Length="57" Skip="false">
+    <Translated>Нет, печать значительно ослабла после столь долгого времени.</Translated>
+  </Line>
+  <Line StartPos="19382" Length="42" Skip="false">
+    <Translated>И она забрала силу Вайзора!</Translated>
+  </Line>
+  <Line StartPos="19429" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="19456" Length="4" Skip="false">
+    <Translated>!!!</Translated>
+  </Line>
+  <Line StartPos="19475" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="19492" Length="60" Skip="false">
+    <Translated>Это плохо! Слабая печать не сможет удержать её!</Translated>
+  </Line>
+  <Line StartPos="19585" Length="94" Skip="false">
+    <Translated>Быстрее, мы должны спешить к месту, где запечатано тело моей матери! Если запечатать её прямо сейчас, то мы ещё можем успеть!</Translated>
+  </Line>
+  <Line StartPos="19694" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="19711" Length="67" Skip="false">
+    <Translated>Поспешим! Ирина восстанет с полными силами, если мы не поспешим!</Translated>
+  </Line>
+  <Line StartPos="19793" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="19811" Length="8" Skip="false">
+    <Translated>Быстрее!</Translated>
+  </Line>
+  <Line StartPos="19852" Length="48" Skip="false">
+    <Translated>Тело моей матери в подземелье! Пожалуйста, поспешим!</Translated>
+  </Line>
+  <Line StartPos="19949" Length="6" Skip="false">
+    <Translated>morgue</Translated>
+  </Line>
+  <Line StartPos="19989" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="20006" Length="23" Skip="false">
+    <Translated>Ч-что это за место?</Translated>
+  </Line>
+  <Line StartPos="20063" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="20079" Length="41" Skip="false">
+    <Translated>Подобное место было в этом замке?..</Translated>
+  </Line>
+  <Line StartPos="20154" Length="47" Skip="false">
+    <Translated>Пожалуйста поспешим, тело моей матери прямо там.</Translated>
+  </Line>
+  <Line StartPos="20278" Length="19" Skip="false">
+    <Translated>Оно прямо спереди!</Translated>
+  </Line>
+  <Line StartPos="20312" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="20328" Length="18" Skip="false">
+    <Translated>Это чувство!..</Translated>
+  </Line>
+  <Line StartPos="20361" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="20377" Length="25" Skip="false">
+    <Translated>Какой тёмный и мутный воздух...</Translated>
+  </Line>
+  <Line StartPos="20416" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="20434" Length="23" Skip="false">
+    <Translated>Угх... мне плохо...</Translated>
+  </Line>
+  <Line StartPos="20531" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="20549" Length="25" Skip="false">
+    <Translated>Это печать Ирины...</Translated>
+  </Line>
+  <Line StartPos="20579" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="20595" Length="43" Skip="false">
+    <Translated>Берегись, сильная магия выходит наружу!</Translated>
+  </Line>
+  <Line StartPos="20643" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="20659" Length="28" Skip="false">
+    <Translated>Пожалуйста, запечатай её побыстрее!..</Translated>
+  </Line>
+  <Line StartPos="20711" Length="15" Skip="false">
+    <Translated>Нет! Бегите!</Translated>
+  </Line>
+  <Line StartPos="20731" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="20749" Length="7" Skip="false">
+    <Translated>Аа?!</Translated>
+  </Line>
+  <Line StartPos="20780" Length="16" Skip="false">
+    <Translated>Уже слишком поздно!</Translated>
+  </Line>
+  <Line StartPos="20884" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="20902" Length="22" Skip="false">
+    <Translated>Хаха... хахаха...</Translated>
+  </Line>
+  <Line StartPos="20929" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="20947" Length="28" Skip="false">
+    <Translated>Хахахахаха... ахахахаха!..!</Translated>
+  </Line>
+  <Line StartPos="21012" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="21030" Length="33" Skip="false">
+    <Translated>Наконец-то... наконец-то, я вернулась...</Translated>
+  </Line>
+  <Line StartPos="21077" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="21095" Length="43" Skip="false">
+    <Translated>Как правитель всего на этой земле.</Translated>
+  </Line>
+  <Line StartPos="21152" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="21170" Length="42" Skip="false">
+    <Translated>Как существо превыше всех...!..</Translated>
+  </Line>
+  <Line StartPos="21223" Length="44" Skip="false">
+    <Translated>Перед нами стоит привлекательная женщина...</Translated>
+  </Line>
+  <Line StartPos="21270" Length="37" Skip="false">
+    <Translated>Это Ирина?.. Мать Шерил?..</Translated>
+  </Line>
+  <Line StartPos="21344" Length="12" Skip="false">
+    <Translated>Мама!..</Translated>
+  </Line>
+  <Line StartPos="21370" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="21388" Length="44" Skip="false">
+    <Translated>Шерил. Как ты посмела провести меня...</Translated>
+  </Line>
+  <Line StartPos="21446" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="21464" Length="40" Skip="false">
+    <Translated>Не думала я, что ты ненавидишь меня так сильно!</Translated>
+  </Line>
+  <Line StartPos="21537" Length="19" Skip="false">
+    <Translated>Нет, мама! Я!..</Translated>
+  </Line>
+  <Line StartPos="21589" Length="51" Skip="false">
+    <Translated>Я не хочу, чтобы ты и дальше совершала ужасные поступки!..</Translated>
+  </Line>
+  <Line StartPos="21673" Length="22" Skip="false">
+    <Translated>Я не ненавижу тебя...</Translated>
+  </Line>
+  <Line StartPos="21709" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="21727" Length="39" Skip="false">
+    <Translated>Ты говоришь, что не ненавидишь меня?..</Translated>
+  </Line>
+  <Line StartPos="21780" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="21798" Length="24" Skip="false">
+    <Translated>Тогда, Шерил, докажи это.</Translated>
+  </Line>
+  <Line StartPos="21855" Length="17" Skip="false">
+    <Translated>Доказать... это?..</Translated>
+  </Line>
+  <Line StartPos="21886" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="21904" Length="64" Skip="false">
+    <Translated>Убей врага, который запечатал меня, Карла, и вернись ко мне.</Translated>
+  </Line>
+  <Line StartPos="22001" Length="4" Skip="false">
+    <Translated>!!!</Translated>
+  </Line>
+  <Line StartPos="22010" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="22037" Length="22" Skip="false">
+    <Translated>Карл... то есть я?</Translated>
+  </Line>
+  <Line StartPos="22092" Length="28" Skip="false">
+    <Translated>Я-я не могу этого сделать!</Translated>
+  </Line>
+  <Line StartPos="22135" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="22152" Length="43" Skip="false">
+    <Translated>Эй ты, старая карга! Разве ты не слышала, что сказала Шерил?</Translated>
+  </Line>
+  <Line StartPos="22210" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="22227" Length="81" Skip="false">
+    <Translated>Ей и так больно из-за того, что ты хочешь и дальше продолжать делать жуткие вещи!</Translated>
+  </Line>
+  <Line StartPos="22323" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="22340" Length="33" Skip="false">
+    <Translated>Почему ты не можешь этого понять?!</Translated>
+  </Line>
+  <Line StartPos="22401" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="22419" Length="33" Skip="false">
+    <Translated>Жестокие поступки? Что значит жестокие?</Translated>
+  </Line>
+  <Line StartPos="22466" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="22482" Length="87" Skip="false">
+    <Translated>Разве ты не понимаешь, что это жестоко, губить множество невинных жизней и забирать их себе?</Translated>
+  </Line>
+  <Line StartPos="22583" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="22601" Length="93" Skip="false">
+    <Translated>Это просто жалкие людишки... даже если я убью тысячи, нет, миллионы, мне будет абсолютно всё равно.</Translated>
+  </Line>
+  <Line StartPos="22708" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="22726" Length="53" Skip="false">
+    <Translated>Потому что я высшее существо!..</Translated>
+  </Line>
+  <Line StartPos="22793" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="22810" Length="49" Skip="false">
+    <Translated>Не говори нелепостей! Кто ты думаешь ты такая?!</Translated>
+  </Line>
+  <Line StartPos="22873" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="22890" Length="84" Skip="false">
+    <Translated>Не важно кто ты, у тебя нет прав играть жизнями других людей!</Translated>
+  </Line>
+  <Line StartPos="22988" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="23006" Length="37" Skip="false">
+    <Translated>Говорите что пожелаете, жалкие людишки.</Translated>
+  </Line>
+  <Line StartPos="23056" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="23074" Length="25" Skip="false">
+    <Translated>А сейчас Шерил, подойди ко мне.</Translated>
+  </Line>
+  <Line StartPos="23113" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="23131" Length="85" Skip="false">
+    <Translated>Откажись от этих мелочных и жалких людей и стань рядом со мной!..</Translated>
+  </Line>
+  <Line StartPos="23230" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="23246" Length="99" Skip="false">
+    <Translated>Непростительно, называть нас жалкими и мелочными. В чём же мы жалки и мелочны?!</Translated>
+  </Line>
+  <Line StartPos="23359" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="23377" Length="53" Skip="false">
+    <Translated>Разве ты не знаешь, а? Вот почему вы жалки.</Translated>
+  </Line>
+  <Line StartPos="23444" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="23462" Length="94" Skip="false">
+    <Translated>Люди жалкие существа с ограниченным сроком жизни. Вот почему они постыдно сражаются.</Translated>
+  </Line>
+  <Line StartPos="23570" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="23588" Length="95" Skip="false">
+    <Translated>Они жалкие существа, которые пытаются чего-то достичь с их короткими жизнями и живут отчаянно!..</Translated>
+  </Line>
+  <Line StartPos="23697" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="23715" Length="57" Skip="false">
+    <Translated>Вот почему я оставила это, чтобы обрести вечную жизнь!</Translated>
+  </Line>
+  <Line StartPos="23786" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="23804" Length="72" Skip="false">
+    <Translated>Как существо, превосходящее жалких и мелочных людей!..</Translated>
+  </Line>
+  <Line StartPos="23890" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="23907" Length="100" Skip="false">
+    <Translated>Я дала тебе выговориться, а ты начала нести чушь! Тело, которое не умрёт ещё более отвратительно, ты чудовище!</Translated>
+  </Line>
+  <Line StartPos="24021" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="24039" Length="67" Skip="false">
+    <Translated>Чудовище?.. Ты называешь высшую сущность чудовищем?</Translated>
+  </Line>
+  <Line StartPos="24120" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="24137" Length="79" Skip="false">
+    <Translated>Прежде всего, ты должна забрать жизнь у тех самых жалких людишек, чтобы жить!</Translated>
+  </Line>
+  <Line StartPos="24230" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="24247" Length="80" Skip="false">
+    <Translated>Я не хочу называться именем кого-то, кто сам живёт за счёт людских жизней!</Translated>
+  </Line>
+  <Line StartPos="24341" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="24359" Length="65" Skip="false">
+    <Translated>Ты слишком много говоришь... может мне закрыть твой рот навсегда?</Translated>
+  </Line>
+  <Line StartPos="24457" Length="23" Skip="false">
+    <Translated>Пожалуйста остановись, мама!</Translated>
+  </Line>
+  <Line StartPos="24494" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="24512" Length="53" Skip="false">
+    <Translated>Шерил... после всего, ты выбираешь их сторону?</Translated>
+  </Line>
+  <Line StartPos="24579" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="24597" Length="40" Skip="false">
+    <Translated>Прекрасно. Ты больше не моя дочь.</Translated>
+  </Line>
+  <Line StartPos="24651" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="24669" Length="44" Skip="false">
+    <Translated>Ты можешь умереть, как одна из жалких людишек.</Translated>
+  </Line>
+  <Line StartPos="24727" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="24745" Length="41" Skip="false">
+    <Translated>Я уничтожу эту землю в одно мгновение.</Translated>
+  </Line>
+  <Line StartPos="24800" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="24818" Length="27" Skip="false">
+    <Translated>Фуахахахаха...ахахахаха!</Translated>
+  </Line>
+  <Line StartPos="24891" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="24908" Length="20" Skip="false">
+    <Translated>Она исчезла...</Translated>
+  </Line>
+  <Line StartPos="24961" Length="11" Skip="false">
+    <Translated>Не может быть...</Translated>
+  </Line>
+  <Line StartPos="25011" Length="39" Skip="false">
+    <Translated>Нет!.. Моя мать собирается призвать падающую звезду!</Translated>
+  </Line>
+  <Line StartPos="25083" Length="89" Skip="false">
+    <Translated>Как тогда, когда она уничтожила целое государство с сотнями тысяч людей!</Translated>
+  </Line>
+  <Line StartPos="25187" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="25203" Length="32" Skip="false">
+    <Translated>Ч-то значит звезду?..</Translated>
+  </Line>
+  <Line StartPos="25268" Length="111" Skip="false">
+    <Translated>То и значит. Это заклинание, которое призывает крупнейший метеор с неба и посылает его на землю!</Translated>
+  </Line>
+  <Line StartPos="25412" Length="90" Skip="false">
+    <Translated>Мать однажды использовала его прежде, чтобы уничтожить город-государство!</Translated>
+  </Line>
+  <Line StartPos="25517" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="25535" Length="43" Skip="false">
+    <Translated>Что случится, если такая штука упадёт вниз?!</Translated>
+  </Line>
+  <Line StartPos="25611" Length="75" Skip="false">
+    <Translated>Вся эта местность превратится в выжженную землю... нет, она превратится в пыль.</Translated>
+  </Line>
+  <Line StartPos="25719" Length="25" Skip="false">
+    <Translated>Никто не выживет...</Translated>
+  </Line>
+  <Line StartPos="25759" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="25776" Length="31" Skip="false">
+    <Translated>Господи! Мы должны остановить это!</Translated>
+  </Line>
+  <Line StartPos="25822" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="25839" Length="48" Skip="false">
+    <Translated>Да! Нельзя позволить ей обрушить эту звезду!</Translated>
+  </Line>
+  <Line StartPos="25892" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="25919" Length="30" Skip="false">
+    <Translated>Шерил! Куда Ирина отправилась?!</Translated>
+  </Line>
+  <Line StartPos="25982" Length="95" Skip="false">
+    <Translated>Вероятно на вершину... верхний этаж башни. Оттуда можно увидеть город.</Translated>
+  </Line>
+  <Line StartPos="26092" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="26109" Length="81" Skip="false">
+    <Translated>Собирается смотреть фейерверк с вершины башни, да?! Да кто она такая?!</Translated>
+  </Line>
+  <Line StartPos="26223" Length="86" Skip="false">
+    <Translated>Как и на любую другую абсолютную магию, на активацию у неё уйдёт несколько дней.</Translated>
+  </Line>
+  <Line StartPos="26314" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="26341" Length="40" Skip="false">
+    <Translated>Значит, мы можем вернуться в город и перегруппироваться?</Translated>
+  </Line>
+  <Line StartPos="26414" Length="59" Skip="false">
+    <Translated>Но если оно будет активировано, то никто не сможет остановить его.</Translated>
+  </Line>
+  <Line StartPos="26488" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="26504" Length="14" Skip="false">
+    <Translated>Давайте поспешим!</Translated>
+  </Line>
+  <Line StartPos="26533" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="26551" Length="13" Skip="false">
+    <Translated>Остановим Ирину!</Translated>
+  </Line>
+  <Line StartPos="26606" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="26623" Length="23" Skip="false">
+    <Translated>Мы выходим?</Translated>
+  </Line>
+  <Line StartPos="26651" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="26678" Length="75" Skip="false">
+    <Translated>Мы столкнулись с худшей ведьмой. Нам не победить её без подготовки.</Translated>
+  </Line>
+  <Line StartPos="26768" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="26784" Length="55" Skip="false">
+    <Translated>Ты прав. Мы должны исцелить все ранения, которые мы получили.</Translated>
+  </Line>
+  <Line StartPos="26872" Length="74" Skip="false">
+    <Translated>...у нас не так много времени. Если мы возвращаемся, то должны поспешить.</Translated>
+  </Line>
+  <Line StartPos="27078" Length="33" Skip="false">
+    <Translated>Мы идём. Все готовы?</Translated>
+  </Line>
+  <Line StartPos="27126" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="27143" Length="54" Skip="false">
+    <Translated>Я хочу спросить то же. Ты приготовилась?</Translated>
+  </Line>
+  <Line StartPos="27230" Length="39" Skip="false">
+    <Translated>...нет причин для беспокойства.</Translated>
+  </Line>
+  <Line StartPos="27276" Length="25" Skip="false">
+    <Translated>Шерил сжимает губы.</Translated>
+  </Line>
+  <Line StartPos="27304" Length="28" Skip="false">
+    <Translated>Очевидно, что она врёт.</Translated>
+  </Line>
+  <Line StartPos="27347" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="27365" Length="12" Skip="false">
+    <Translated>Вперёд!</Translated>
+  </Line>
+  <Line StartPos="27384" Length="35" Skip="false">
+    <Translated>Китти сбивает напряжённую тишину.</Translated>
+  </Line>
+  <Line StartPos="27422" Length="33" Skip="false">
+    <Translated>Ну... это последняя битва.</Translated>
+  </Line>
+  <Line StartPos="27482" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="27509" Length="31" Skip="false">
+    <Translated>Идём туда, где сейчас Ирина.</Translated>
+  </Line>
+  <Line StartPos="27573" Length="9" Skip="false">
+    <Translated>...да.</Translated>
+  </Line>
+  <Line StartPos="27651" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="27678" Length="11" Skip="false">
+    <Translated>Шерил...</Translated>
+  </Line>
+  <Line StartPos="27722" Length="13" Skip="false">
+    <Translated>Что?</Translated>
+  </Line>
+  <Line StartPos="27740" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="27767" Length="69" Skip="false">
+    <Translated>Разве это не больно? Ум...\0сражаться с собственной матерью?..</Translated>
+  </Line>
+  <Line StartPos="27869" Length="36" Skip="false">
+    <Translated>Я солгу, сказав что это не так...</Translated>
+  </Line>
+  <Line StartPos="27938" Length="45" Skip="false">
+    <Translated>Я защищала её всё это время...</Translated>
+  </Line>
+  <Line StartPos="28016" Length="83" Skip="false">
+    <Translated>Но я притворялась, что не замечала всех тех бессмысленно отнятых жизней ...</Translated>
+  </Line>
+  <Line StartPos="28132" Length="51" Skip="false">
+    <Translated>Я уверена, что все они были важны для кого-то...</Translated>
+  </Line>
+  <Line StartPos="28207" Length="32" Skip="false">
+    <Translated>Точно так же, как ты для меня...</Translated>
+  </Line>
+  <Line StartPos="28244" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="28271" Length="11" Skip="false">
+    <Translated>Шерил...</Translated>
+  </Line>
+  <Line StartPos="28315" Length="56" Skip="false">
+    <Translated>Я ещё люблю свою мать... в этом нет лжи, но...</Translated>
+  </Line>
+  <Line StartPos="28404" Length="49" Skip="false">
+    <Translated>Я больше не могу прощать жестокость своей матери...</Translated>
+  </Line>
+  <Line StartPos="28486" Length="40" Skip="false">
+    <Translated>Я должна была решиться намного раньше...</Translated>
+  </Line>
+  <Line StartPos="28541" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="28557" Length="54" Skip="false">
+    <Translated>Да... но не думаю, что уже слишком поздно.</Translated>
+  </Line>
+  <Line StartPos="28626" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="28643" Length="85" Skip="false">
+    <Translated>Так и есть. Ты ещё можешь принять ответственность за всё то зло, которое ты причинила.</Translated>
+  </Line>
+  <Line StartPos="28761" Length="30" Skip="false">
+    <Translated>Это моё истинное искупление...</Translated>
+  </Line>
+  <Line StartPos="28824" Length="34" Skip="false">
+    <Translated>Я должна всё закончить на этот раз...</Translated>
+  </Line>
+  <Line StartPos="28891" Length="58" Skip="false">
+    <Translated>Я больше не могу убегать и оттягивать решение проблемы...</Translated>
+  </Line>
+  <Line StartPos="28964" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="28981" Length="16" Skip="false">
+    <Translated>Да, именно.</Translated>
+  </Line>
+  <Line StartPos="29012" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="29029" Length="60" Skip="false">
+    <Translated>Шерил-сан, что бы ни случилось, мы всегда будем на твоей стороне.</Translated>
+  </Line>
+  <Line StartPos="29104" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="29120" Length="22" Skip="false">
+    <Translated>Я чувствую то же самое.</Translated>
+  </Line>
+  <Line StartPos="29157" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="29175" Length="12" Skip="false">
+    <Translated>Китти тоже!</Translated>
+  </Line>
+  <Line StartPos="29220" Length="24" Skip="false">
+    <Translated>Спасибо вам, всем...</Translated>
+  </Line>
+  <Line StartPos="29291" Length="47" Skip="false">
+    <Translated>Я расправлюсь с ней собственными руками!</Translated>
+  </Line>
+  <Line StartPos="29345" Length="39" Skip="false">
+    <Translated>Шерил пришла к трагическому выводу...</Translated>
+  </Line>
+  <Line StartPos="29458" Length="9" Skip="false">
+    <Translated>Мама!</Translated>
+  </Line>
+  <Line StartPos="29481" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="29499" Length="71" Skip="false">
+    <Translated>Так ты пришла... ты изменила своё мнение и решила остаться со мной?</Translated>
+  </Line>
+  <Line StartPos="29603" Length="48" Skip="false">
+    <Translated>Нет... мама, перестань делать такие вещи...</Translated>
+  </Line>
+  <Line StartPos="29684" Length="18" Skip="false">
+    <Translated>А если нет...</Translated>
+  </Line>
+  <Line StartPos="29735" Length="21" Skip="false">
+    <Translated>Я... убью тебя!</Translated>
+  </Line>
+  <Line StartPos="29770" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="29788" Length="49" Skip="false">
+    <Translated>Фуфу... ты стала тщеславной.</Translated>
+  </Line>
+  <Line StartPos="29851" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="29869" Length="93" Skip="false">
+    <Translated>Но, ты думаешь, что эти люди смогут победить меня, ту, что перестала быть человеком?</Translated>
+  </Line>
+  <Line StartPos="29995" Length="48" Skip="false">
+    <Translated>Непременно! У меня есть они, те на кого я могу положиться!</Translated>
+  </Line>
+  <Line StartPos="30058" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="30074" Length="63" Skip="false">
+    <Translated>Я не могу простить смерть невинных людей, погибших из-за твоего эгоизма!</Translated>
+  </Line>
+  <Line StartPos="30151" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="30168" Length="68" Skip="false">
+    <Translated>Более того, я не позволю тебе делать с нашим миром то, что ты захочешь!</Translated>
+  </Line>
+  <Line StartPos="30264" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="30282" Length="39" Skip="false">
+    <Translated>Фуфу, вы и правда жалкие...</Translated>
+  </Line>
+  <Line StartPos="30355" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="30372" Length="79" Skip="false">
+    <Translated>Не считай нас слабаками. Я покажу тебе, насколько сильными могут быть жалкие людишки!</Translated>
+  </Line>
+  <Line StartPos="30465" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="30483" Length="7" Skip="false">
+    <Translated>Да!</Translated>
+  </Line>
+  <Line StartPos="30518" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="30536" Length="49" Skip="false">
+    <Translated>Хорошо. Если так, сражайтесь и остановите меня!</Translated>
+  </Line>
+  <Line StartPos="30630" Length="9" Skip="false">
+    <Translated>irina.dat</Translated>
+  </Line>
+  <Line StartPos="30654" Length="20" Skip="false">
+    <Translated>Win_Irina\0Lose_Irina</Translated>
+  </Line>
+  <Line StartPos="30688" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="30706" Length="52" Skip="false">
+    <Translated>Вы так напыщенно говорили, и это всё на что вы способны?</Translated>
+  </Line>
+  <Line StartPos="30772" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="30790" Length="35" Skip="false">
+    <Translated>Нет... я не позволю вам убежать...</Translated>
+  </Line>
+  <Line StartPos="30876" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="30894" Length="52" Skip="false">
+    <Translated>Теперь вы поняли?.. Это предел людей.</Translated>
+  </Line>
+  <Line StartPos="30960" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="30978" Length="51" Skip="false">
+    <Translated>Простым людям не дано победить меня!.</Translated>
+  </Line>
+  <Line StartPos="31043" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="31061" Length="26" Skip="false">
+    <Translated>Фуфуфуфу... ахахахаха!!!</Translated>
+  </Line>
+  <Line StartPos="31106" Length="23" Skip="false">
+    <Translated>Смех Ирины отдаётся эхом...</Translated>
+  </Line>
+  <Line StartPos="31132" Length="46" Skip="false">
+    <Translated>Моё сознание погружается во тьму и...</Translated>
+  </Line>
+  <Line StartPos="31181" Length="52" Skip="false">
+    <Translated>Никто не знает, что случилось с Филадией после этого...</Translated>
+  </Line>
+  <Line StartPos="31278" Length="3" Skip="false">
+    <Translated>???</Translated>
+  </Line>
+  <Line StartPos="31294" Length="15" Skip="false">
+    <Translated>Ма...</Translated>
+  </Line>
+  <Line StartPos="31324" Length="14" Skip="false">
+    <Translated>Мама...</Translated>
+  </Line>
+  <Line StartPos="31392" Length="29" Skip="false">
+    <Translated>Мама... пожалуйста, остановись...</Translated>
+  </Line>
+  <Line StartPos="31426" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="31444" Length="17" Skip="false">
+    <Translated>Ох... Шерил...</Translated>
+  </Line>
+  <Line StartPos="31466" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="31484" Length="16" Skip="false">
+    <Translated>Разве я проиграла?..</Translated>
+  </Line>
+  <Line StartPos="31524" Length="31" Skip="false">
+    <Translated>Да... Шерил победила тебя...</Translated>
+  </Line>
+  <Line StartPos="31579" Length="31" Skip="false">
+    <Translated>Теперь ты сможешь остановить свою жестокость.</Translated>
+  </Line>
+  <Line StartPos="31615" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="31633" Length="10" Skip="false">
+    <Translated>Ох...</Translated>
+  </Line>
+  <Line StartPos="31648" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="31666" Length="78" Skip="false">
+    <Translated>Что же это... проиграть жалким людишкам с ограниченным сроком жизни...</Translated>
+  </Line>
+  <Line StartPos="31768" Length="51" Skip="false">
+    <Translated>Мама... иметь ограниченную жизнь - это не плохо.</Translated>
+  </Line>
+  <Line StartPos="31843" Length="68" Skip="false">
+    <Translated>Потому что наши жизни ограниченны, нам есть к чему стремиться в поисках счастья.</Translated>
+  </Line>
+  <Line StartPos="31935" Length="34" Skip="false">
+    <Translated>Это не жалостливо и не мелочно.</Translated>
+  </Line>
+  <Line StartPos="31974" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="31992" Length="14" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="32030" Length="99" Skip="false">
+    <Translated>С твоей точки зрения, тебе может показаться что они просто сражаются, но они это делают чтобы жить...</Translated>
+  </Line>
+  <Line StartPos="32153" Length="40" Skip="false">
+    <Translated>Никто не имеет права смеяться над ними.</Translated>
+  </Line>
+  <Line StartPos="32217" Length="36" Skip="false">
+    <Translated>Даже те, кто имеет вечную жизнь...</Translated>
+  </Line>
+  <Line StartPos="32258" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="32276" Length="14" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="32314" Length="58" Skip="false">
+    <Translated>Жить целую вечность... это должно быть так прекрасно...</Translated>
+  </Line>
+  <Line StartPos="32396" Length="90" Skip="false">
+    <Translated>Но, это тоже прекрасно, прожить свою короткую жизнь, чтобы чего-то достигнуть...</Translated> 
+  </Line>
+  <Line StartPos="32510" Length="35" Skip="false">
+    <Translated>Почему ты не можешь понять этого?..</Translated>
+  </Line>
+  <Line StartPos="32550" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="32568" Length="27" Skip="false">
+    <Translated>Сейчас, впервые...</Translated>
+  </Line>
+  <Line StartPos="32619" Length="9" Skip="false">
+    <Translated>Аа?..</Translated>
+  </Line>
+  <Line StartPos="32633" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="32651" Length="44" Skip="false">
+    <Translated>Ты говоришь со мной так открыто...</Translated>
+  </Line>
+  <Line StartPos="32700" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="32718" Length="69" Skip="false">
+    <Translated>Как иронично, сейчас мы впервые можем поговорить серьезно...</Translated>
+  </Line>
+  <Line StartPos="32792" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="32810" Length="59" Skip="false">
+    <Translated>Нет, именно потому, что мы в такой ситуации...</Translated>
+  </Line>
+  <Line StartPos="32893" Length="11" Skip="false">
+    <Translated>Мама...</Translated>
+  </Line>
+  <Line StartPos="32909" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="32927" Length="43" Skip="false">
+    <Translated>Почему ты не сказала мне этого раньше?..</Translated>
+  </Line>
+  <Line StartPos="32975" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="32993" Length="44" Skip="false">
+    <Translated>Когда ты была рядом со мной...</Translated>
+  </Line>
+  <Line StartPos="33061" Length="52" Skip="false">
+    <Translated>Прости меня, тогда у меня не хватило смелости...</Translated>
+  </Line>
+  <Line StartPos="33137" Length="34" Skip="false">
+    <Translated>Я могла только беспомощно наблюдать...</Translated>
+  </Line>
+  <Line StartPos="33195" Length="33" Skip="false">
+    <Translated>Нет, я думала, что была беспомощна...</Translated>
+  </Line>
+  <Line StartPos="33233" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="33251" Length="95" Skip="false">
+    <Translated>Ты права... я тоже думала, что ты хороший ребёнок, который всегда будет делать то, что я скажу...</Translated>
+  </Line>
+  <Line StartPos="33351" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="33369" Length="58" Skip="false">
+    <Translated>Я никогда не думала, что доставляю тебе так много боли...</Translated>
+  </Line>
+  <Line StartPos="33451" Length="11" Skip="false">
+    <Translated>Мама...</Translated>
+  </Line>
+  <Line StartPos="33486" Length="48" Skip="false">
+    <Translated>Единственными у кого была смелость, были эти люди...</Translated>
+  </Line>
+  <Line StartPos="33558" Length="50" Skip="false">
+    <Translated>Те самые, с ограниченным сроком жизни, как ты их называешь...</Translated>
+  </Line>
+  <Line StartPos="33632" Length="84" Skip="false">
+    <Translated>Я смогла собрать всю свою храбрость и выступить против тебя, потому что все эти люди были рядом со мной.</Translated>
+  </Line>
+  <Line StartPos="33721" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="33739" Length="24" Skip="false">
+    <Translated>Они твои друзья?</Translated>
+  </Line>
+  <Line StartPos="33787" Length="25" Skip="false">
+    <Translated>Нет, они моя семья.</Translated>
+  </Line>
+  <Line StartPos="33817" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="33835" Length="14" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="33854" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="33872" Length="21" Skip="false">
+    <Translated>Ты изменилась...</Translated>
+  </Line>
+  <Line StartPos="33898" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="33916" Length="55" Skip="false">
+    <Translated>Возможно, я должна была раньше поговорить с тобой как сейчас...</Translated>
+  </Line>
+  <Line StartPos="33976" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="33994" Length="53" Skip="false">
+    <Translated>Нет, вероятно, это я, та кто не хотела слушать тебя...</Translated>
+  </Line>
+  <Line StartPos="34071" Length="13" Skip="false">
+    <Translated>Мама!..!</Translated>
+  </Line>
+  <Line StartPos="34089" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="34107" Length="40" Skip="false">
+    <Translated>Я никогда не пыталась почувствовать твою боль...</Translated>
+  </Line>
+  <Line StartPos="34152" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="34170" Length="38" Skip="false">
+    <Translated>Это моё проклятие, быть преданной...</Translated>
+  </Line>
+  <Line StartPos="34213" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="34231" Length="22" Skip="false">
+    <Translated>Прости меня, Шерил...</Translated>
+  </Line>
+  <Line StartPos="34278" Length="13" Skip="false">
+    <Translated>Мама!..!</Translated>
+  </Line>
+  <Line StartPos="34316" Length="56" Skip="false">
+    <Translated>Пожалуйста, не забывай! Не зависимо от того, кто осуждает тебя, я...</Translated>
+  </Line>
+  <Line StartPos="34397" Length="32" Skip="false">
+    <Translated>Я люблю тебя, мама!..</Translated>
+  </Line>
+  <Line StartPos="34434" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="34452" Length="24" Skip="false">
+    <Translated>Спасибо... Шерил...</Translated>
+  </Line>
+  <Line StartPos="34508" Length="5" Skip="false">
+    <Translated>Ирина</Translated>
+  </Line>
+  <Line StartPos="34526" Length="37" Skip="false">
+    <Translated>Моя драгоценная... и единственная дочь...</Translated>
+  </Line>
+  <Line StartPos="34587" Length="13" Skip="false">
+    <Translated>Мама?!..</Translated>
+  </Line>
+  <Line StartPos="34624" Length="13" Skip="false">
+    <Translated>Мама!..</Translated>
+  </Line>
+  <Line StartPos="34644" Length="30" Skip="false">
+    <Translated>Ирина тихо закрыла глаза.</Translated>
+  </Line>
+  <Line StartPos="34677" Length="67" Skip="false">
+    <Translated>Это был конец той, кого называли худшей ведьмой всех времён...</Translated>
+  </Line>
+  <Line StartPos="34772" Length="47" Skip="false">
+    <Translated>Мама, я буду жить и искуплю свои грехи.</Translated>
+  </Line>
+  <Line StartPos="34843" Length="45" Skip="false">
+    <Translated>Я буду жить для других, пока я жива...</Translated>
+  </Line>
+  <Line StartPos="34912" Length="33" Skip="false">
+    <Translated>Это будет моё истинное искупление.</Translated>
+  </Line>
+  <Line StartPos="34952" Length="50" Skip="false">
+    <Translated>Слеза Шерил капает на тело Ирины.</Translated>
+  </Line>
+  <Line StartPos="35026" Length="21" Skip="false">
+    <Translated>Прощай... мама.</Translated>
+  </Line>
+  <Line StartPos="35074" Length="97" Skip="false">
+    <Translated>Шерил молча использует заклинание. Тело Ирины превращается в пепел, подхватывается ветром и исчезает...</Translated>
+  </Line>
+  <Line StartPos="35174" Length="45" Skip="false">
+    <Translated>Теперь, Ирина вернулась к матери земле...</Translated>
+  </Line>
+  <Line StartPos="35234" Length="19" Skip="false">
+    <Translated>Мы вышли из замка.</Translated>
+  </Line>
+  <Line StartPos="35256" Length="55" Skip="false">
+    <Translated>Солнце уже село и ночь приближается...</Translated>
+  </Line>
+  <Line StartPos="35338" Length="3" Skip="false">
+    <Translated>out</Translated>
+  </Line>
+</Lines>
+
+</pre>
+
+[[Men_at_Work 2|[Назад]]]

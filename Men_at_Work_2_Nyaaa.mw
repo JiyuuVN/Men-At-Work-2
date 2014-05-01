@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="108">
+  <Line_0 Skip="false">
+    <StartPos>378</StartPos>
+    <Length>12</Length>
+    <Origin>Last_Lu\0Load</Origin>
+    <translated>Last_Lu\0Load</translated>
+  </Line_0>
+  <Line_1 Skip="false">
+    <StartPos>737</StartPos>
+    <Length>5</Length>
+    <Origin>Cliff</Origin>
+    <translated>Cliff</translated>
+  </Line_1>
+  <Line_2 Skip="false">
+    <StartPos>764</StartPos>
+    <Length>68</Length>
+    <Origin>&quot;The sun&apos;s about to set...\0We can&apos;t spare any more time\0to prepare.&quot;</Origin>
+    <translated>&quot;The sun&apos;s about to set...\0We can&apos;t spare any more time\0to prepare.&quot;</translated>
+  </Line_2>
+  <Line_3 Skip="false">
+    <StartPos>837</StartPos>
+    <Length>5</Length>
+    <Origin>Cliff</Origin>
+    <translated>Cliff</translated>
+  </Line_3>
+  <Line_4 Skip="false">
+    <StartPos>864</StartPos>
+    <Length>11</Length>
+    <Origin>&quot;Let&apos;s go!&quot;</Origin>
+    <translated>&quot;Let&apos;s go!&quot;</translated>
+  </Line_4>
+  <Line_5 Skip="false">
+    <StartPos>913</StartPos>
+    <Length>44</Length>
+    <Origin>Academy\0BuildFirm\0WeaponShop\0ItemShop\0Church</Origin>
+    <translated>Academy\0BuildFirm\0WeaponShop\0ItemShop\0Church</translated>
+  </Line_5>
+  <Line_6 Skip="false">
+    <StartPos>978</StartPos>
+    <Length>10</Length>
+    <Origin>Pub\0Castle</Origin>
+    <translated>Pub\0Castle</translated>
+  </Line_6>
+  <Line_7 Skip="false">
+    <StartPos>999</StartPos>
+    <Length>22</Length>
+    <Origin>There is nowhere to go</Origin>
+    <translated>There is nowhere to go</translated>
+  </Line_7>
+  <Line_8 Skip="false">
+    <StartPos>1060</StartPos>
+    <Length>5</Length>
+    <Origin>Kitty</Origin>
+    <translated>Kitty</translated>
+  </Line_8>
+  <Line_9 Skip="false">
+    <StartPos>1078</StartPos>
+    <Length>12</Length>
+    <Origin>&quot;Oh, Cliff!&quot;</Origin>
+    <translated>&quot;Oh, Cliff!&quot;</translated>
+  </Line_9>
+  <Line_10 Skip="false">
+    <StartPos>1105</StartPos>
+    <Length>4</Length>
+    <Origin>Mena</Origin>
+    <translated>Mena</translated>
+  </Line_10>
+  <Line_11 Skip="false">
+    <StartPos>1122</StartPos>
+    <Length>16</Length>
+    <Origin>&quot;Are you ready?&quot;</Origin>
+    <translated>&quot;Are you ready?&quot;</translated>
+  </Line_11>
+  <Line_12 Skip="false">
+    <StartPos>1152</StartPos>
+    <Length>6</Length>
+    <Origin>Sheryl</Origin>
+    <translated>Sheryl</translated>
+  </Line_12>
+  <Line_13 Skip="false">
+    <StartPos>1171</StartPos>
+    <Length>41</Length>
+    <Origin>&quot;We have to go after Lucy-san\0quickly...&quot;</Origin>
+    <translated>&quot;We have to go after Lucy-san\0quickly...&quot;</translated>
+  </Line_13>
+  <Line_14 Skip="false">
+    <StartPos>1217</StartPos>
+    <Length>5</Length>
+    <Origin>Cliff</Origin>
+    <translated>Cliff</translated>
+  </Line_14>
+  <Line_15 Skip="false">
+    <StartPos>1244</StartPos>
+    <Length>15</Length>
+    <Origin>&quot;Yeah, I know.&quot;</Origin>
+    <translated>&quot;Yeah, I know.&quot;</translated>
+  </Line_15>
+  <Line_16 Skip="false">
+    <StartPos>1268</StartPos>
+    <Length>18</Length>
+    <Origin>Day_Mena\0BuildFirm</Origin>
+    <translated>Day_Mena\0BuildFirm</translated>
+  </Line_16>
+  <Line_17 Skip="false">
+    <StartPos>1293</StartPos>
+    <Length>11</Length>
+    <Origin>WP_Shop\0Top</Origin>
+    <translated>WP_Shop\0Top</translated>
+  </Line_17>
+  <Line_18 Skip="false">
+    <StartPos>1334</StartPos>
+    <Length>51</Length>
+    <Origin>Lucy, the one always at the counter,\0isn&apos;t there...</Origin>
+    <translated>Lucy, the one always at the counter,\0isn&apos;t there...</translated>
+  </Line_18>
+  <Line_19 Skip="false">
+    <StartPos>1416</StartPos>
+    <Length>41</Length>
+    <Origin>I put the money on the counter and\0leave.</Origin>
+    <translated>I put the money on the counter and\0leave.</translated>
+  </Line_19>
+  <Line_20 Skip="false">
+    <StartPos>1468</StartPos>
+    <Length>27</Length>
+    <Origin>I sigh and leave the store.</Origin>
+    <translated>I sigh and leave the store.</translated>
+  </Line_20>
+  <Line_21 Skip="false">
+    <StartPos>1504</StartPos>
+    <Length>19</Length>
+    <Origin>Day_Mena\0Church_Mes</Origin>
+    <translated>Day_Mena\0Church_Mes</translated>
+  </Line_21>
+  <Line_22 Skip="false">
+    <StartPos>1526</StartPos>
+    <Length>3</Length>
+    <Origin>Aoi</Origin>
+    <translated>Aoi</translated>
+  </Line_22>
+  <Line_23 Skip="false">
+    <StartPos>1542</StartPos>
+    <Length>45</Length>
+    <Origin>&quot;We should hurry and follow after Lucy-\0san.&quot;</Origin>
+    <translated>&quot;We should hurry and follow after Lucy-\0san.&quot;</translated>
+  </Line_23>
+  <Line_24 Skip="false">
+    <StartPos>1601</StartPos>
+    <Length>3</Length>
+    <Origin>Aoi</Origin>
+    <translated>Aoi</translated>
+  </Line_24>
+  <Line_25 Skip="false">
+    <StartPos>1617</StartPos>
+    <Length>57</Length>
+    <Origin>&quot;I do not know how how far she will go\0if we let her be.&quot;</Origin>
+    <translated>&quot;I do not know how how far she will go\0if we let her be.&quot;</translated>
+  </Line_25>
+  <Line_26 Skip="false">
+    <StartPos>1679</StartPos>
+    <Length>5</Length>
+    <Origin>Cliff</Origin>
+    <translated>Cliff</translated>
+  </Line_26>
+  <Line_27 Skip="false">
+    <StartPos>1706</StartPos>
+    <Length>23</Length>
+    <Origin>&quot;Yeah... you&apos;re right.&quot;</Origin>
+    <translated>&quot;Yeah... you&apos;re right.&quot;</translated>
+  </Line_27>
+  <Line_28 Skip="false">
+    <StartPos>1738</StartPos>
+    <Length>11</Length>
+    <Origin>Library\0Top</Origin>
+    <translated>Library\0Top</translated>
+  </Line_28>
+  <Line_29 Skip="false">
+    <StartPos>1764</StartPos>
+    <Length>8</Length>
+    <Origin>draw\0Pub</Origin>
+    <translated>draw\0Pub</translated>
+  </Line_29>
+  <Line_30 Skip="false">
+    <StartPos>1801</StartPos>
+    <Length>5</Length>
+    <Origin>Hanna</Origin>
+    <translated>Hanna</translated>
+  </Line_30>
+  <Line_31 Skip="false">
+    <StartPos>1819</StartPos>
+    <Length>47</Length>
+    <Origin>&quot;I heard that there was a big fire last\0night.&quot;</Origin>
+    <translated>&quot;I heard that there was a big fire last\0night.&quot;</translated>
+  </Line_31>
+  <Line_32 Skip="false">
+    <StartPos>1871</StartPos>
+    <Length>5</Length>
+    <Origin>Cliff</Origin>
+    <translated>Cliff</translated>
+  </Line_32>
+  <Line_33 Skip="false">
+    <StartPos>1898</StartPos>
+    <Length>34</Length>
+    <Origin>&quot;Yes... Benjamin-san&apos;s\0mansion...&quot;</Origin>
+    <translated>&quot;Yes... Benjamin-san&apos;s\0mansion...&quot;</translated>
+  </Line_33>
+  <Line_34 Skip="false">
+    <StartPos>1946</StartPos>
+    <Length>5</Length>
+    <Origin>Hanna</Origin>
+    <translated>Hanna</translated>
+  </Line_34>
+  <Line_35 Skip="false">
+    <StartPos>1964</StartPos>
+    <Length>55</Length>
+    <Origin>&quot;I heard. Lucy-chan and Kitty-chan were\0heroes, right?&quot;</Origin>
+    <translated>&quot;I heard. Lucy-chan and Kitty-chan were\0heroes, right?&quot;</translated>
+  </Line_35>
+  <Line_36 Skip="false">
+    <StartPos>2024</StartPos>
+    <Length>5</Length>
+    <Origin>Cliff</Origin>
+    <translated>Cliff</translated>
+  </Line_36>
+  <Line_37 Skip="false">
+    <StartPos>2051</StartPos>
+    <Length>10</Length>
+    <Origin>&quot;Huh...!?&quot;</Origin>
+    <translated>&quot;Huh...!?&quot;</translated>
+  </Line_37>
+  <Line_38 Skip="false">
+    <StartPos>2075</StartPos>
+    <Length>5</Length>
+    <Origin>Hanna</Origin>
+    <translated>Hanna</translated>
+  </Line_38>
+  <Line_39 Skip="false">
+    <StartPos>2093</StartPos>
+    <Length>47</Length>
+    <Origin>&quot;I want to know the details. What did\0they do?&quot;</Origin>
+    <translated>&quot;I want to know the details. What did\0they do?&quot;</translated>
+  </Line_39>
+  <Line_40 Skip="false">
+    <StartPos>2145</StartPos>
+    <Length>5</Length>
+    <Origin>Cliff</Origin>
+    <translated>Cliff</translated>
+  </Line_40>
+  <Line_41 Skip="false">
+    <StartPos>2172</StartPos>
+    <Length>47</Length>
+    <Origin>&quot;Well, I&apos;ll tel you about it\0when I have time.&quot;</Origin>
+    <translated>&quot;Well, I&apos;ll tel you about it\0when I have time.&quot;</translated>
+  </Line_41>
+  <Line_42 Skip="false">
+    <StartPos>2224</StartPos>
+    <Length>5</Length>
+    <Origin>Hanna</Origin>
+    <translated>Hanna</translated>
+  </Line_42>
+  <Line_43 Skip="false">
+    <StartPos>2242</StartPos>
+    <Length>50</Length>
+    <Origin>&quot;All right. I&apos;ll be looking forward to\0the story.&quot;</Origin>
+    <translated>&quot;All right. I&apos;ll be looking forward to\0the story.&quot;</translated>
+  </Line_43>
+  <Line_44 Skip="false">
+    <StartPos>2299</StartPos>
+    <Length>91</Length>
+    <Origin>If I&apos;m to tell her about it... I guess\0I&apos;d also have to tell her that Kitty&apos;s a\0Succubus...</Origin>
+    <translated>If I&apos;m to tell her about it... I guess\0I&apos;d also have to tell her that Kitty&apos;s a\0Succubus...</translated>
+  </Line_44>
+  <Line_45 Skip="false">
+    <StartPos>2414</StartPos>
+    <Length>5</Length>
+    <Origin>Hanna</Origin>
+    <translated>Hanna</translated>
+  </Line_45>
+  <Line_46 Skip="false">
+    <StartPos>2432</StartPos>
+    <Length>51</Length>
+    <Origin>&quot;Fire sure is scary... I&apos;d have to be\0careful too.&quot;</Origin>
+    <translated>&quot;Fire sure is scary... I&apos;d have to be\0careful too.&quot;</translated>
+  </Line_46>
+  <Line_47 Skip="false">
+    <StartPos>2490</StartPos>
+    <Length>31</Length>
+    <Origin>Hanna-san really looks worried.</Origin>
+    <translated>Hanna-san really looks worried.</translated>
+  </Line_47>
+  <Line_48 Skip="false">
+    <StartPos>2530</StartPos>
+    <Length>36</Length>
+    <Origin>Am I done with all the preparations?</Origin>
+    <translated>Am I done with all the preparations?</translated>
+  </Line_48>
+  <Line_49 Skip="false">
+    <StartPos>2571</StartPos>
+    <Length>40</Length>
+    <Origin>I&apos;m all prepared!\0I still need something</Origin>
+    <translated>I&apos;m all prepared!\0I still need something</translated>
+  </Line_49>
+  <Line_50 Skip="false">
+    <StartPos>2645</StartPos>
+    <Length>45</Length>
+    <Origin>I gather everyone and head to the Old\0Castle.</Origin>
+    <translated>I gather everyone and head to the Old\0Castle.</translated>
+  </Line_50>
+  <Line_51 Skip="false">
+    <StartPos>2693</StartPos>
+    <Length>24</Length>
+    <Origin>Lucy sure is reckless...</Origin>
+    <translated>Lucy sure is reckless...</translated>
+  </Line_51>
+  <Line_52 Skip="false">
+    <StartPos>2770</StartPos>
+    <Length>4</Length>
+    <Origin>Lucy</Origin>
+    <translated>Lucy</translated>
+  </Line_52>
+  <Line_53 Skip="false">
+    <StartPos>2787</StartPos>
+    <Length>27</Length>
+    <Origin>&quot;Heeey! I&apos;m here, Dra-boy!&quot;</Origin>
+    <translated>&quot;Heeey! I&apos;m here, Dra-boy!&quot;</translated>
+  </Line_53>
+  <Line_54 Skip="false">
+    <StartPos>2819</StartPos>
+    <Length>4</Length>
+    <Origin>Lucy</Origin>
+    <translated>Lucy</translated>
+  </Line_54>
+  <Line_55 Skip="false">
+    <StartPos>2836</StartPos>
+    <Length>31</Length>
+    <Origin>&quot;Don&apos;t hide and show yourself!&quot;</Origin>
+    <translated>&quot;Don&apos;t hide and show yourself!&quot;</translated>
+  </Line_55>
+  <Line_56 Skip="false">
+    <StartPos>2906</StartPos>
+    <Length>4</Length>
+    <Origin>Lucy</Origin>
+    <translated>Lucy</translated>
+  </Line_56>
+  <Line_57 Skip="false">
+    <StartPos>2923</StartPos>
+    <Length>47</Length>
+    <Origin>&quot;Where are you!? I&apos;m really pissed right\0now!!&quot;</Origin>
+    <translated>&quot;Where are you!? I&apos;m really pissed right\0now!!&quot;</translated>
+  </Line_57>
+  <Line_58 Skip="false">
+    <StartPos>2975</StartPos>
+    <Length>4</Length>
+    <Origin>Lucy</Origin>
+    <translated>Lucy</translated>
+  </Line_58>
+  <Line_59 Skip="false">
+    <StartPos>2992</StartPos>
+    <Length>14</Length>
+    <Origin>&quot;Come on out!&quot;</Origin>
+    <translated>&quot;Come on out!&quot;</translated>
+  </Line_59>
+  <Line_60 Skip="false">
+    <StartPos>3052</StartPos>
+    <Length>5</Length>
+    <Origin>Wisor</Origin>
+    <translated>Wisor</translated>
+  </Line_60>
+  <Line_61 Skip="false">
+    <StartPos>3070</StartPos>
+    <Length>57</Length>
+    <Origin>&quot;Oh, so it is you who is being loud...\0What do you want?&quot;</Origin>
+    <translated>&quot;Oh, so it is you who is being loud...\0What do you want?&quot;</translated>
+  </Line_61>
+  <Line_62 Skip="false">
+    <StartPos>3142</StartPos>
+    <Length>4</Length>
+    <Origin>Lucy</Origin>
+    <translated>Lucy</translated>
+  </Line_62>
+  <Line_63 Skip="false">
+    <StartPos>3159</StartPos>
+    <Length>83</Length>
+    <Origin>&quot;Shut up! You&apos;re the one who mislead\0that mustache into doing stupid shit,\0right!?&quot;</Origin>
+    <translated>&quot;Shut up! You&apos;re the one who mislead\0that mustache into doing stupid shit,\0right!?&quot;</translated>
+  </Line_63>
+  <Line_64 Skip="false">
+    <StartPos>3256</StartPos>
+    <Length>5</Length>
+    <Origin>Wisor</Origin>
+    <translated>Wisor</translated>
+  </Line_64>
+  <Line_65 Skip="false">
+    <StartPos>3274</StartPos>
+    <Length>11</Length>
+    <Origin>&quot;Hm... so?&quot;</Origin>
+    <translated>&quot;Hm... so?&quot;</translated>
+  </Line_65>
+  <Line_66 Skip="false">
+    <StartPos>3290</StartPos>
+    <Length>4</Length>
+    <Origin>Lucy</Origin>
+    <translated>Lucy</translated>
+  </Line_66>
+  <Line_67 Skip="false">
+    <StartPos>3307</StartPos>
+    <Length>82</Length>
+    <Origin>&quot;Don&apos;t act dumb! I came here to make\0sure you won&apos;t do anything like that\0again!!&quot;</Origin>
+    <translated>&quot;Don&apos;t act dumb! I came here to make\0sure you won&apos;t do anything like that\0again!!&quot;</translated>
+  </Line_67>
+  <Line_68 Skip="false">
+    <StartPos>3404</StartPos>
+    <Length>4</Length>
+    <Origin>Lucy</Origin>
+    <translated>Lucy</translated>
+  </Line_68>
+  <Line_69 Skip="false">
+    <StartPos>3421</StartPos>
+    <Length>75</Length>
+    <Origin>&quot;Do you understand!? If you do anything\0to Kit again, I won&apos;t forgive you!&quot;</Origin>
+    <translated>&quot;Do you understand!? If you do anything\0to Kit again, I won&apos;t forgive you!&quot;</translated>
+  </Line_69>
+  <Line_70 Skip="false">
+    <StartPos>3501</StartPos>
+    <Length>5</Length>
+    <Origin>Wisor</Origin>
+    <translated>Wisor</translated>
+  </Line_70>
+  <Line_71 Skip="false">
+    <StartPos>3519</StartPos>
+    <Length>31</Length>
+    <Origin>&quot;Oh, what will happen if I do?&quot;</Origin>
+    <translated>&quot;Oh, what will happen if I do?&quot;</translated>
+  </Line_71>
+  <Line_72 Skip="false">
+    <StartPos>3565</StartPos>
+    <Length>4</Length>
+    <Origin>Lucy</Origin>
+    <translated>Lucy</translated>
+  </Line_72>
+  <Line_73 Skip="false">
+    <StartPos>3582</StartPos>
+    <Length>22</Length>
+    <Origin>&quot;It&apos;ll be like this!!&quot;</Origin>
+    <translated>&quot;It&apos;ll be like this!!&quot;</translated>
+  </Line_73>
+  <Line_74 Skip="false">
+    <StartPos>3642</StartPos>
+    <Length>4</Length>
+    <Origin>Lucy</Origin>
+    <translated>Lucy</translated>
+  </Line_74>
+  <Line_75 Skip="false">
+    <StartPos>3659</StartPos>
+    <Length>79</Length>
+    <Origin>&quot;Don&apos;t worry, I went easy on you. But I\0won&apos;t be that kind when I get serious.&quot;</Origin>
+    <translated>&quot;Don&apos;t worry, I went easy on you. But I\0won&apos;t be that kind when I get serious.&quot;</translated>
+  </Line_75>
+  <Line_76 Skip="false">
+    <StartPos>3772</StartPos>
+    <Length>5</Length>
+    <Origin>Wisor</Origin>
+    <translated>Wisor</translated>
+  </Line_76>
+  <Line_77 Skip="false">
+    <StartPos>3790</StartPos>
+    <Length>67</Length>
+    <Origin>&quot;...You don&apos;t need to hold back. Show me\0what you mean by serious.&quot;</Origin>
+    <translated>&quot;...You don&apos;t need to hold back. Show me\0what you mean by serious.&quot;</translated>
+  </Line_77>
+  <Line_78 Skip="false">
+    <StartPos>3872</StartPos>
+    <Length>4</Length>
+    <Origin>Lucy</Origin>
+    <translated>Lucy</translated>
+  </Line_78>
+  <Line_79 Skip="false">
+    <StartPos>3889</StartPos>
+    <Length>18</Length>
+    <Origin>&quot;Gahhhh! Damn it!&quot;</Origin>
+    <translated>&quot;Gahhhh! Damn it!&quot;</translated>
+  </Line_79>
+  <Line_80 Skip="false">
+    <StartPos>3922</StartPos>
+    <Length>4</Length>
+    <Origin>Lucy</Origin>
+    <translated>Lucy</translated>
+  </Line_80>
+  <Line_81 Skip="false">
+    <StartPos>3939</StartPos>
+    <Length>73</Length>
+    <Origin>&quot;Fine... I&apos;ll show you serious! I won&apos;t\0be held responsible if you die!!&quot;</Origin>
+    <translated>&quot;Fine... I&apos;ll show you serious! I won&apos;t\0be held responsible if you die!!&quot;</translated>
+  </Line_81>
+  <Line_82 Skip="false">
+    <StartPos>4055</StartPos>
+    <Length>5</Length>
+    <Origin>Wisor</Origin>
+    <translated>Wisor</translated>
+  </Line_82>
+  <Line_83 Skip="false">
+    <StartPos>4073</StartPos>
+    <Length>15</Length>
+    <Origin>&quot;...That&apos;s it?&quot;</Origin>
+    <translated>&quot;...That&apos;s it?&quot;</translated>
+  </Line_83>
+  <Line_84 Skip="false">
+    <StartPos>4103</StartPos>
+    <Length>4</Length>
+    <Origin>Lucy</Origin>
+    <translated>Lucy</translated>
+  </Line_84>
+  <Line_85 Skip="false">
+    <StartPos>4120</StartPos>
+    <Length>42</Length>
+    <Origin>&quot;No... way... That was all of my\0power...&quot;</Origin>
+    <translated>&quot;No... way... That was all of my\0power...&quot;</translated>
+  </Line_85>
+  <Line_86 Skip="false">
+    <StartPos>4176</StartPos>
+    <Length>5</Length>
+    <Origin>Wisor</Origin>
+    <translated>Wisor</translated>
+  </Line_86>
+  <Line_87 Skip="false">
+    <StartPos>4194</StartPos>
+    <Length>74</Length>
+    <Origin>&quot;You thought you could do something with\0that? You have taken me lightly.&quot;</Origin>
+    <translated>&quot;You thought you could do something with\0that? You have taken me lightly.&quot;</translated>
+  </Line_87>
+  <Line_88 Skip="false">
+    <StartPos>4295</StartPos>
+    <Length>4</Length>
+    <Origin>Lucy</Origin>
+    <translated>Lucy</translated>
+  </Line_88>
+  <Line_89 Skip="false">
+    <StartPos>4312</StartPos>
+    <Length>8</Length>
+    <Origin>&quot;Whoa!?&quot;</Origin>
+    <translated>&quot;Whoa!?&quot;</translated>
+  </Line_89>
+  <Line_90 Skip="false">
+    <StartPos>4335</StartPos>
+    <Length>4</Length>
+    <Origin>Lucy</Origin>
+    <translated>Lucy</translated>
+  </Line_90>
+  <Line_91 Skip="false">
+    <StartPos>4352</StartPos>
+    <Length>52</Length>
+    <Origin>&quot;I-I... can&apos;t move... What... did...\0you... do...!?&quot;</Origin>
+    <translated>&quot;I-I... can&apos;t move... What... did...\0you... do...!?&quot;</translated>
+  </Line_91>
+  <Line_92 Skip="false">
+    <StartPos>4438</StartPos>
+    <Length>5</Length>
+    <Origin>Wisor</Origin>
+    <translated>Wisor</translated>
+  </Line_92>
+  <Line_93 Skip="false">
+    <StartPos>4488</StartPos>
+    <Length>5</Length>
+    <Origin>Wisor</Origin>
+    <translated>Wisor</translated>
+  </Line_93>
+  <Line_94 Skip="false">
+    <StartPos>4506</StartPos>
+    <Length>115</Length>
+    <Origin>&quot;First... the sin of ignorance, not\0knowing how weak you are and challenging\0an opponent you are no match against.&quot;</Origin>
+    <translated>&quot;First... the sin of ignorance, not\0knowing how weak you are and challenging\0an opponent you are no match against.&quot;</translated>
+  </Line_94>
+  <Line_95 Skip="false">
+    <StartPos>4626</StartPos>
+    <Length>5</Length>
+    <Origin>Wisor</Origin>
+    <translated>Wisor</translated>
+  </Line_95>
+  <Line_96 Skip="false">
+    <StartPos>4644</StartPos>
+    <Length>84</Length>
+    <Origin>&quot;Second... the sin of disrespect, going\0against me no matter who you may be.\0And...&quot;</Origin>
+    <translated>&quot;Second... the sin of disrespect, going\0against me no matter who you may be.\0And...&quot;</translated>
+  </Line_96>
+  <Line_97 Skip="false">
+    <StartPos>4742</StartPos>
+    <Length>5</Length>
+    <Origin>Wisor</Origin>
+    <translated>Wisor</translated>
+  </Line_97>
+  <Line_98 Skip="false">
+    <StartPos>4760</StartPos>
+    <Length>113</Length>
+    <Origin>&quot;What I cannot forgive is that you\0underestimated me and thought you could\0do something with such a small power!&quot;</Origin>
+    <translated>&quot;What I cannot forgive is that you\0underestimated me and thought you could\0do something with such a small power!&quot;</translated>
+  </Line_98>
+  <Line_99 Skip="false">
+    <StartPos>4888</StartPos>
+    <Length>4</Length>
+    <Origin>Lucy</Origin>
+    <translated>Lucy</translated>
+  </Line_99>
+  <Line_100 Skip="false">
+    <StartPos>4950</StartPos>
+    <Length>5</Length>
+    <Origin>Wisor</Origin>
+    <translated>Wisor</translated>
+  </Line_100>
+  <Line_101 Skip="false">
+    <StartPos>4968</StartPos>
+    <Length>74</Length>
+    <Origin>&quot;Don&apos;t worry... I will not kill you\0instantly, since that will be boring.&quot;</Origin>
+    <translated>&quot;Don&apos;t worry... I will not kill you\0instantly, since that will be boring.&quot;</translated>
+  </Line_101>
+  <Line_102 Skip="false">
+    <StartPos>5056</StartPos>
+    <Length>5</Length>
+    <Origin>Wisor</Origin>
+    <translated>Wisor</translated>
+  </Line_102>
+  <Line_103 Skip="false">
+    <StartPos>5074</StartPos>
+    <Length>74</Length>
+    <Origin>&quot;...I shall take my time and give you a\0slow and painful death. Hahaha...&quot;</Origin>
+    <translated>&quot;...I shall take my time and give you a\0slow and painful death. Hahaha...&quot;</translated>
+  </Line_103>
+  <Line_104 Skip="false">
+    <StartPos>5163</StartPos>
+    <Length>4</Length>
+    <Origin>Lucy</Origin>
+    <translated>Lucy</translated>
+  </Line_104>
+  <Line_105 Skip="false">
+    <StartPos>5180</StartPos>
+    <Length>22</Length>
+    <Origin>&quot;Y-You... sadist...!!&quot;</Origin>
+    <translated>&quot;Y-You... sadist...!!&quot;</translated>
+  </Line_105>
+  <Line_106 Skip="false">
+    <StartPos>5215</StartPos>
+    <Length>5</Length>
+    <Origin>start</Origin>
+    <translated>start</translated>
+  </Line_106>
+  <Line_107 Skip="false">
+    <StartPos>5223</StartPos>
+    <Length>11</Length>
+    <Origin>Ed_Lucy\0Top</Origin>
+    <translated>Ed_Lucy\0Top</translated>
+  </Line_107>
+</Lines>

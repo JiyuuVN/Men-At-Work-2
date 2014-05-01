@@ -1,0 +1,457 @@
+[[Men at Work 2:Прогресс_перевода|[Назад]]]
+<pre>
+<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="150">
+  <Line StartPos="77" Length="44" Skip="false">
+    <Translated>После молитвы к нам обратились двое\0незнакомцев.</Translated>
+  </Line>
+  <Line StartPos="126" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="143" Length="82" Skip="false">
+    <Translated>Разреши представиться. Меня зовут\0Вильям Смит, а это моя жена Айри.</Translated>
+  </Line>
+  <Line StartPos="240" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="256" Length="58" Skip="false">
+    <Translated>Я Айриш Смит. Приятно познакомиться\0Клиф-кун, Мина-чан.</Translated>
+  </Line>
+  <Line StartPos="328" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="345" Length="28" Skip="false">
+    <Translated>Приятно познакомиться.</Translated>
+  </Line>
+  <Line StartPos="378" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="405" Length="20" Skip="false">
+    <Translated>Вильям-сан...</Translated>
+  </Line>
+  <Line StartPos="439" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="456" Length="52" Skip="false">
+    <Translated>Не стесняйся, зови меня просто Вилл.</Translated>
+  </Line>
+  <Line StartPos="513" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="540" Length="43" Skip="false">
+    <Translated>Вилл-сан, откуда вы узнали\0о нас?</Translated>
+  </Line>
+  <Line StartPos="597" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="614" Length="50" Skip="false">
+    <Translated>Господин Мэрдок продолжительное время\0оказывал мне некоторую помощь.</Translated>
+  </Line>
+  <Line StartPos="669" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="686" Length="82" Skip="false">
+    <Translated>Я много о вас слышал от него, и как\0только увидел, сразу понял кто вы.</Translated>
+  </Line>
+  <Line StartPos="773" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="800" Length="36" Skip="false">
+    <Translated>Понятно. Есть ещё вопрос...</Translated>
+  </Line>
+  <Line StartPos="841" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="868" Length="62" Skip="false">
+    <Translated>Что вы имел в виду под\0Охотником? В смысле,\0обычным охотником?</Translated>
+  </Line>
+  <Line StartPos="935" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="952" Length="43" Skip="false">
+    <Translated>Конечно же нет.</Translated>
+  </Line>
+  <Line StartPos="1000" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1017" Length="59" Skip="false">
+    <Translated>Я имею в виду Охотников на монстров.</Translated>
+  </Line>
+  <Line StartPos="1081" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1108" Length="25" Skip="false">
+    <Translated>О-охотник на монстров?! Я?!</Translated>
+  </Line>
+  <Line StartPos="1138" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1165" Length="62" Skip="false">
+    <Translated>Невозможно! Я не могу\0сражаться с монстрами, да\0и физически я слабоват.</Translated>
+  </Line>
+  <Line StartPos="1242" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="1259" Length="64" Skip="false">
+    <Translated>Клиф-кун. Охотники на монстров, это не\0обязательно физически сильные люди.</Translated>
+  </Line>
+  <Line StartPos="1328" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="1345" Length="71" Skip="false">
+    <Translated>Даже слабая девушка вроде меня может\0быть Охотником.</Translated>
+  </Line>
+  <Line StartPos="1430" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1447" Length="11" Skip="false">
+    <Translated>Слабая?</Translated>
+  </Line>
+  <Line StartPos="1473" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="1489" Length="24" Skip="false">
+    <Translated>Ты что-то сказал?!</Translated>
+  </Line>
+  <Line StartPos="1527" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1544" Length="8" Skip="false">
+    <Translated>Н-нет...</Translated>
+  </Line>
+  <Line StartPos="1557" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1584" Length="31" Skip="false">
+    <Translated>Ваша жена тоже Охотник?</Translated>
+  </Line>
+  <Line StartPos="1630" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="1646" Length="62" Skip="false">
+    <Translated>Постой Клиф-кун! Жена?.. Можешь это\0ещё раз повторить?</Translated>
+  </Line>
+  <Line StartPos="1722" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1739" Length="65" Skip="false">
+    <Translated>Айри... Пожалуйста, не возбуждайся так,\0это смущает.</Translated>
+  </Line>
+  <Line StartPos="1809" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1836" Length="14" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="1864" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1881" Length="86" Skip="false">
+    <Translated>Ну... Айри, наверное, исключение, но\0для Охотника не так сильно важна\0физическая сила.</Translated>
+  </Line>
+  <Line StartPos="1972" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1989" Length="115" Skip="false">
+    <Translated>Бывали случаи, когда девушки, не\0способные убить и жука, одолевали монстра,которого даже сильные мужчины не могли победить.</Translated>
+  </Line>
+  <Line StartPos="2109" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2126" Length="30" Skip="false">
+    <Translated>Мы зовём это "Даром".</Translated>
+  </Line>
+  <Line StartPos="2161" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2188" Length="12" Skip="false">
+    <Translated>Дар?..</Translated>
+  </Line>
+  <Line StartPos="2205" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2222" Length="42" Skip="false">
+    <Translated>Да и у тебя он есть.</Translated>
+  </Line>
+  <Line StartPos="2269" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2296" Length="22" Skip="false">
+    <Translated>С чего вы взяли?</Translated>
+  </Line>
+  <Line StartPos="2333" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="2349" Length="50" Skip="false">
+    <Translated>Я думаю, Мина-чан знает об этом больше\0нас.</Translated>
+  </Line>
+  <Line StartPos="2413" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2430" Length="5" Skip="false">
+    <Translated>Я?</Translated>
+  </Line>
+  <Line StartPos="2440" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="2456" Length="76" Skip="false">
+    <Translated>Мина-чан. Клиф-кун спас тебя, когда-от\0монстра, верно?</Translated>
+  </Line>
+  <Line StartPos="2537" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2563" Length="44" Skip="false">
+    <Translated>Д-да... Это случилось, когда я была\0ещё маленькой.</Translated>
+  </Line>
+  <Line StartPos="2621" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2638" Length="47" Skip="false">
+    <Translated>Клиф победил похожего на волка монстра.</Translated>
+  </Line>
+  <Line StartPos="2690" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2717" Length="45" Skip="false">
+    <Translated>Я был просто перепуган.</Translated>
+  </Line>
+  <Line StartPos="2777" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="2793" Length="66" Skip="false">
+    <Translated>Клиф-кун, испугавшись, человек не\0может победить монстра.</Translated>
+  </Line>
+  <Line StartPos="2874" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="2890" Length="49" Skip="false">
+    <Translated>Особенно когда речь идёт о ребёнке.</Translated>
+  </Line>
+  <Line StartPos="2944" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2971" Length="20" Skip="false">
+    <Translated>П-правда?</Translated>
+  </Line>
+  <Line StartPos="2996" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="3012" Length="47" Skip="false">
+    <Translated>Одной удачи недостаточно чтобы\0победить монстра.</Translated>
+  </Line>
+  <Line StartPos="3064" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="3080" Length="79" Skip="false">
+    <Translated>Другими словами, ты одолел его\0благодаря своему Дару.</Translated>
+  </Line>
+  <Line StartPos="3173" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3190" Length="104" Skip="false">
+    <Translated>Я услышал эту историю от Мэрдока и\0хотел взять тебя в ученики... но я\0очень занятой человек.</Translated>
+  </Line>
+  <Line StartPos="3299" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3316" Length="80" Skip="false">
+    <Translated>Что ж... Не думаю, что смогу остаться\0в стороне, после случившегося.</Translated>
+  </Line>
+  <Line StartPos="3401" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3428" Length="44" Skip="false">
+    <Translated>А я точно смогу?</Translated>
+  </Line>
+  <Line StartPos="3486" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3503" Length="38" Skip="false">
+    <Translated>Конечно. Ведь мы с Айри можем.</Translated>
+  </Line>
+  <Line StartPos="3546" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3573" Length="9" Skip="false">
+    <Translated>Хорошо...</Translated>
+  </Line>
+  <Line StartPos="3597" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="3613" Length="101" Skip="false">
+    <Translated>Давай. Решайся если ты мужчина. В любом\0случае, у вас нет другой возможности\0заработать себе на жизнь прямо сейчас.</Translated>
+  </Line>
+  <Line StartPos="3725" Length="60" Skip="false">
+    <Translated>Она права. Иначе, нам придётся жить\0на улице.</Translated>
+  </Line>
+  <Line StartPos="3788" Length="44" Skip="false">
+    <Translated>Как старший брат, я обязан защитить\0Мину.</Translated>
+  </Line>
+  <Line StartPos="3837" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3864" Length="47" Skip="false">
+    <Translated>Хорошо. Я принимаю ваше\0предложение.</Translated>
+  </Line>
+  <Line StartPos="3925" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3942" Length="69" Skip="false">
+    <Translated>Отлично. Решено. Тогда отправляемся в\0Филандию прямо сейчас.</Translated>
+  </Line>
+  <Line StartPos="4016" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4043" Length="11" Skip="false">
+    <Translated>Филандию?</Translated>
+  </Line>
+  <Line StartPos="4059" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4076" Length="78" Skip="false">
+    <Translated>Да. Там находится наша Школа охотников.</Translated>
+  </Line>
+  <Line StartPos="4168" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4185" Length="34" Skip="false">
+    <Translated>А я её директор.</Translated>
+  </Line>
+  <Line StartPos="4224" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4251" Length="24" Skip="false">
+    <Translated>Школа охотников... Хм...</Translated>
+  </Line>
+  <Line StartPos="4289" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4306" Length="69" Skip="false">
+    <Translated>Правильно. И там есть общежитие, ты\0сможешь в нём жить.</Translated>
+  </Line>
+  <Line StartPos="4380" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4407" Length="10" Skip="false">
+    <Translated>Ох...</Translated>
+  </Line>
+  <Line StartPos="4432" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="4448" Length="26" Skip="false">
+    <Translated>Что случилось Клиф-кун?</Translated>
+  </Line>
+  <Line StartPos="4479" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4506" Length="52" Skip="false">
+    <Translated>А как же Мина? Можно нам\0жить вместе?</Translated>
+  </Line>
+  <Line StartPos="4592" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4609" Length="14" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="4630" Length="27" Skip="false">
+    <Translated>Они задумались.</Translated>
+  </Line>
+  <Line StartPos="4671" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4688" Length="51" Skip="false">
+    <Translated>Конечно, Мина сможет жить с тобой в\0общежитии.</Translated>
+  </Line>
+  <Line StartPos="4753" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4770" Length="96" Skip="false">
+    <Translated>Но.. У нас ограниченно число комнат.\0Мы должны отдавать предпочтение\0поступающим  ученикам...</Translated>
+  </Line>
+  <Line StartPos="4880" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4897" Length="89" Skip="false">
+    <Translated>И я должен искать новых членов. Ты же\0понимаешь, что это значит?</Translated>
+  </Line>
+  <Line StartPos="4991" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5018" Length="55" Skip="false">
+    <Translated>Так значит, Мина должна\0будет уйти?</Translated>
+  </Line>
+  <Line StartPos="5087" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="5104" Length="14" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="5133" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="5149" Length="103" Skip="false">
+    <Translated>Но это не значит, что ей надо уходить\0сразу... Она сможет остаться пока не\0найдёт жильё.</Translated>
+  </Line>
+  <Line StartPos="5266" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="5283" Length="45" Skip="false">
+    <Translated>Всё хорошо. Я уже не ребёнок.</Translated>
+  </Line>
+  <Line StartPos="5342" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="5359" Length="68" Skip="false">
+    <Translated>Я приложу все усилия, так что, Клифу\0не придется переживать.</Translated>
+  </Line>
+  <Line StartPos="5441" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="5458" Length="36" Skip="false">
+    <Translated>Не надо обо мне беспокоиться.</Translated>
+  </Line>
+  <Line StartPos="5499" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5526" Length="14" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="5547" Length="100" Skip="false">
+    <Translated>Я почувствовал себя одиноко... Мина моя\0единственная родственница, ведь отца я\0толком не видел.</Translated>
+  </Line>
+  <Line StartPos="5650" Length="27" Skip="false">
+    <Translated>Я должен буду расстаться с Миной...</Translated>
+  </Line>
+  <Line StartPos="5680" Length="38" Skip="false">
+    <Translated>Я знал, что этот день придёт, но...</Translated>
+  </Line>
+  <Line StartPos="5721" Length="63" Skip="false">
+    <Translated>Когда это случилось по-настоящему...\0Я понял, насколько беспомощен!</Translated>
+  </Line>
+  <Line StartPos="5814" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="5831" Length="17" Skip="false">
+    <Translated>Айри! Клиф-кун!</Translated>
+  </Line>
+  <Line StartPos="5853" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5880" Length="8" Skip="false">
+    <Translated>Д-да?</Translated>
+  </Line>
+  <Line StartPos="5903" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="5919" Length="23" Skip="false">
+    <Translated>Что такое?! Учитель?!</Translated>
+  </Line>
+  <Line StartPos="5947" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="5964" Length="28" Skip="false">
+    <Translated>Они приближаются! Осторожно!</Translated>
+  </Line>
+</Lines>
+</pre>
+[[Men at Work 2:Прогресс_перевода|[Назад]]]

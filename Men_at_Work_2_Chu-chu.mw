@@ -1,0 +1,780 @@
+[[Men_at_Work 2|[Назад]]]
+
+<poem>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Lines Count="252">
+<Line StartPos="336" Length="40" Skip="false">
+ <Translated>На кухне чем-то вкусно пахнет.</Translated>
+ </Line>
+<Line StartPos="390" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="407" Length="12" Skip="false">
+ <Translated>О, Клиф.</Translated>
+ </Line>
+<Line StartPos="424" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="451" Length="17" Skip="false">
+ <Translated>Вкусно пахнет.</Translated>
+ </Line>
+<Line StartPos="482" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="499" Length="92" Skip="false">
+ <Translated>Я решила сделать гамбургеры с сыром.\0Сегодня мясо в магазине продавали\0со скидкой.</Translated>
+ </Line>
+<Line StartPos="596" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="613" Length="21" Skip="false">
+ <Translated>Ты ведь любишь их?</Translated>
+ </Line>
+<Line StartPos="639" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="666" Length="34" Skip="false">
+ <Translated>Да, я надеялся, что ты их сделаешь.</Translated>
+ </Line>
+<Line StartPos="714" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="731" Length="14" Skip="false">
+ <Translated>Хорошо.</Translated>
+ </Line>
+<Line StartPos="759" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="776" Length="9" Skip="false">
+ <Translated>???</Translated>
+ </Line>
+<Line StartPos="799" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="816" Length="6" Skip="false">
+ <Translated>О!</Translated>
+ </Line>
+<Line StartPos="827" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="854" Length="10" Skip="false">
+ <Translated>Ч-что?!</Translated>
+ </Line>
+<Line StartPos="878" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="895" Length="79" Skip="false">
+ <Translated>Ужасно! Нельзя без спроса брать всё, что тебе нравится!</Translated>
+ </Line>
+<Line StartPos="979" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1006" Length="10" Skip="false">
+ <Translated>Ч-что?!</Translated>
+ </Line>
+<Line StartPos="1023" Length="99" Skip="false">
+ <Translated>На столе я увидел пустые тарелки.\0Кажется, на них были гамбургеры.</Translated>
+ </Line>
+<Line StartPos="1127" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1154" Length="25" Skip="false">
+ <Translated>Н-нет! Я только что пришёл сюда!</Translated>
+ </Line>
+<Line StartPos="1193" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="1210" Length="30" Skip="false">
+ <Translated>Если не ты, то кто же тогда?</Translated>
+ </Line>
+<Line StartPos="1245" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1272" Length="19" Skip="false">
+ <Translated>Не знаю...</Translated>
+ </Line>
+<Line StartPos="1306" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="1323" Length="53" Skip="false">
+ <Translated>Пахнет замечательно. У нас сегодня\0будут гамбургеры?</Translated>
+ </Line>
+<Line StartPos="1391" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="1408" Length="69" Skip="false">
+ <Translated>Ми-чан, почему ты такая расстроенная?\0Неужели Ку-чан втихаря съел всю еду?</Translated>
+ </Line>
+<Line StartPos="1482" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1509" Length="11" Skip="false">
+ <Translated>Это не я!</Translated>
+ </Line>
+<Line StartPos="1525" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="1542" Length="35" Skip="false">
+ <Translated>Но здесь был ты один...</Translated>
+ </Line>
+ <Line StartPos="1584" Length="15" Skip="false">
+ <Translated>*Хрум* *Хрум*</Translated>
+ </Line>
+<Line StartPos="1613" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="1630" Length="38" Skip="false">
+ <Translated>Ой! Исчез и тот, который я только что\0сделала!</Translated>
+ </Line>
+<Line StartPos="1682" Length="3" Skip="false">
+ <Translated>Аой</Translated>
+ </Line>
+<Line StartPos="1698" Length="36" Skip="false">
+ <Translated>Что-то шумно... Что случилось?</Translated>
+ </Line>
+<Line StartPos="1755" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1782" Length="26" Skip="false">
+ <Translated>Ого! Посмотрите на пол!!!</Translated>
+ </Line>
+<Line StartPos="1833" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="1850" Length="20" Skip="false">
+ <Translated>А-а-а?! М-мыши!!!</Translated>
+ </Line>
+<Line StartPos="1884" Length="3" Skip="false">
+ <Translated>Аой</Translated>
+ </Line>
+<Line StartPos="1900" Length="38" Skip="false">
+ <Translated>Откуда они взялись?!</Translated>
+ </Line>
+<Line StartPos="1943" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1970" Length="50" Skip="false">
+ <Translated>Э-это они съели наши гамбургеры?!</Translated>
+ </Line>
+<Line StartPos="2106" Length="11" Skip="false">
+ <Translated>draw\0Dining</Translated>
+ </Line>
+<Line StartPos="2137" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="2154" Length="26" Skip="false">
+ <Translated>Это за наш ужин!</Translated>
+ </Line>
+<Line StartPos="2195" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="2212" Length="61" Skip="false">
+ <Translated>Вот так сюрприз. Интересно как они\0сюда попали?</Translated>
+ </Line>
+<Line StartPos="2287" Length="3" Skip="false">
+ <Translated>Аой</Translated>
+ </Line>
+<Line StartPos="2303" Length="27" Skip="false">
+ <Translated>Ещё рано расслабляться.</Translated>
+ </Line>
+<Line StartPos="2345" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="2363" Length="53" Skip="false">
+ <Translated>Что такое Аой?! Почему ты так говоришь?!</Translated>
+ </Line>
+<Line StartPos="2430" Length="3" Skip="false">
+ <Translated>Аой</Translated>
+ </Line>
+<Line StartPos="2446" Length="59" Skip="false">
+ <Translated>Я видела, как несколько мышей убежало\0в коридор.</Translated>
+ </Line>
+<Line StartPos="2520" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="2537" Length="19" Skip="false">
+ <Translated>Не шути так.</Translated>
+ </Line>
+<Line StartPos="2597" Length="3" Skip="false">
+ <Translated>Аой</Translated>
+ </Line>
+<Line StartPos="2613" Length="33" Skip="false">
+ <Translated>О... Свирепые мыши.</Translated>
+ </Line>
+<Line StartPos="2661" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="2678" Length="25" Skip="false">
+ <Translated>Ненавижу их.</Translated>
+ </Line>
+<Line StartPos="2708" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="2735" Length="26" Skip="false">
+ <Translated>Так... Куда они убежали?</Translated>
+ </Line>
+<Line StartPos="2775" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="2792" Length="31" Skip="false">
+ <Translated>Они побежали в коридор.</Translated>
+ </Line>
+<Line StartPos="2838" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="2855" Length="19" Skip="false">
+ <Translated>Не обманывайте меня…</Translated>
+ </Line>
+<Line StartPos="2888" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="2905" Length="103" Skip="false">
+ <Translated>Мы должны разделиться. Аой-сан и я бу-\0дем искать на низу, Клиф и Люси-сан\0ищите наверху.</Translated>
+ </Line>
+<Line StartPos="3013" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3040" Length="12" Skip="false">
+ <Translated>Хорошо.</Translated>
+ </Line>
+<Line StartPos="3067" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="3084" Length="53" Skip="false">
+ <Translated>Если мы их найдем, я громко закричу,\0так что прибегайте быстрее.</Translated>
+ </Line>
+<Line StartPos="3151" Length="3" Skip="false">
+ <Translated>Аой</Translated>
+ </Line>
+<Line StartPos="3167" Length="9" Skip="false">
+ <Translated>Я знаю.</Translated>
+ </Line>
+<Line StartPos="3289" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3316" Length="38" Skip="false">
+ <Translated>Хм… Поблизости их не видно.</Translated>
+ </Line>
+<Line StartPos="3368" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="3385" Length="62" Skip="false">
+ <Translated>Блин… Если мы их не найдём,\0я одна не смогу уснуть.</Translated>
+ </Line>
+<Line StartPos="3452" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3479" Length="35" Skip="false">
+ <Translated>Может, поспишь в комнате Аой-сан?</Translated>
+ </Line>
+<Line StartPos="3528" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="3545" Length="42" Skip="false">
+ <Translated>Я не могу расслабиться когда сплю\0на полу.</Translated>
+ </Line>
+<Line StartPos="3601" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="3618" Length="56" Skip="false">
+ <Translated>Эй… Если мы не найдём мышей, можно у\0тебя переночевать?</Translated>
+ </Line>
+<Line StartPos="3679" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3706" Length="10" Skip="false">
+ <Translated>Ч-что?!</Translated>
+ </Line>
+<Line StartPos="3730" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="3747" Length="25" Skip="false">
+ <Translated>Но я боюсь мышей!</Translated>
+ </Line>
+<Line StartPos="3777" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3804" Length="10" Skip="false">
+ <Translated>Н-но…</Translated>
+ </Line>
+ <Line StartPos="3833" Length="8" Skip="false">
+ <Translated>*Писк*</Translated>
+ </Line>
+<Line StartPos="3855" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="3872" Length="8" Skip="false">
+ <Translated>А-а-а!!!</Translated>
+ </Line>
+<Line StartPos="3893" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="3920" Length="20" Skip="false">
+ <Translated>Ты слышала это?</Translated>
+ </Line>
+<Line StartPos="3954" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="3971" Length="37" Skip="false">
+ <Translated>Я не слышала, совсем ничего не слышала.</Translated>
+ </Line>
+<Line StartPos="4015" Length="46" Skip="false">
+ <Translated>Не надо так сильно трясти головой…</Translated>
+ </Line>
+<Line StartPos="4066" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="4093" Length="45" Skip="false">
+ <Translated>Я здесь не когда не был. Что это за ком-\0ната?</Translated>
+ </Line>
+<Line StartPos="4152" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="4169" Length="71" Skip="false">
+ <Translated>Это склад. А сверху находится техни-\0ческая комната башенных часов.</Translated>
+ </Line>
+<Line StartPos="4245" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="4272" Length="23" Skip="false">
+ <Translated>Я там посмотрю.</Translated>
+ </Line>
+<Line StartPos="4309" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="4326" Length="7" Skip="false">
+ <Translated>Что?</Translated>
+ </Line>
+<Line StartPos="4338" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="4365" Length="40" Skip="false">
+ <Translated>Мы не сможем пойти спать, пока всё не осмотрим.</Translated>
+ </Line>
+<Line StartPos="4419" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="4436" Length="42" Skip="false">
+ <Translated>Ничего. Я просто буду спать в твоей\0комнате.</Translated>
+ </Line>
+<Line StartPos="4483" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="4510" Length="30" Skip="false">
+ <Translated>Давай поищем здесь.</Translated>
+ </Line>
+<Line StartPos="4756" Length="14" Skip="false">
+ <Translated>Machinery Room</Translated>
+ </Line>
+<Line StartPos="4817" Length="99" Skip="false">
+ <Translated>R_Cliff\0R_Mena\0R_Sheryl\0R_Aoi\0R_Lucy\0R_Kitty\0R_Will\0R_Hall\0R_Dining\0Terrace\0R_Bath\0R_Kitchen\0R_Mech</Translated>
+ </Line>
+<Line StartPos="4932" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="4959" Length="44" Skip="false">
+ <Translated>Мина и Аой-сан ищут внизу.</Translated>
+ </Line>
+<Line StartPos="5017" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="5034" Length="28" Skip="false">
+ <Translated>Давай осмотримся.</Translated>
+ </Line>
+<Line StartPos="5107" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5134" Length="25" Skip="false">
+ <Translated>Это комната Аой-сан.</Translated>
+ </Line>
+<Line StartPos="5173" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="5190" Length="22" Skip="false">
+ <Translated>Там есть мыши?</Translated>
+ </Line>
+<Line StartPos="5217" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5244" Length="72" Skip="false">
+ <Translated>Точно не могу сказать, темно здесь, но\0думаю, тут их нет.</Translated>
+ </Line>
+<Line StartPos="5330" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="5347" Length="39" Skip="false">
+ <Translated>Понятно. Тогда пошли в следующую ком-\0нату.</Translated>
+ </Line>
+<Line StartPos="5409" Length="31" Skip="false">
+ <Translated>Мы снова осматриваем комнату Аой-сан.</Translated>
+ </Line>
+<Line StartPos="5454" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="5471" Length="73" Skip="false">
+ <Translated>Мы уже обыскивали эту комнату.\0Поищем где-нибудь ещё?</Translated>
+ </Line>
+<Line StartPos="5549" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5576" Length="18" Skip="false">
+ <Translated>Да.</Translated>
+ </Line>
+<Line StartPos="5601" Length="24" Skip="false">
+ <Translated>Мы покинули комнату Аой-сан.</Translated>
+ </Line>
+<Line StartPos="5680" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="5697" Length="18" Skip="false">
+ <Translated>Это моя комната.</Translated>
+ </Line>
+<Line StartPos="5729" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="5746" Length="48" Skip="false">
+ <Translated>Их тут нет? Правда, нет?</Translated>
+ </Line>
+<Line StartPos="5799" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5826" Length="26" Skip="false">
+ <Translated>Думаю, нету.</Translated>
+ </Line>
+<Line StartPos="5866" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="5883" Length="22" Skip="false">
+ <Translated>Фух… Это хорошо.</Translated>
+ </Line>
+<Line StartPos="5910" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="5937" Length="39" Skip="false">
+ <Translated>Тогда пойдём искать в других комнатах.</Translated>
+ </Line>
+<Line StartPos="5999" Length="28" Skip="false">
+ <Translated>Мы снова осматриваем комнату Люси.</Translated>
+ </Line>
+<Line StartPos="6041" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="6058" Length="69" Skip="false">
+ <Translated>Я плотно запру дверь, так что пошли\0дальше.</Translated>
+ </Line>
+<Line StartPos="6132" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="6159" Length="10" Skip="false">
+ <Translated>Хорошо.</Translated>
+ </Line>
+<Line StartPos="6176" Length="21" Skip="false">
+ <Translated>Мы покинули комнату Люси.</Translated>
+ </Line>
+<Line StartPos="6244" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="6271" Length="24" Skip="false">
+ <Translated>Это пустая комната.</Translated>
+ </Line>
+<Line StartPos="6309" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="6326" Length="35" Skip="false">
+ <Translated>И мышей здесь не видно.</Translated>
+ </Line>
+<Line StartPos="6366" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="6393" Length="37" Skip="false">
+ <Translated>Да. Пошли искать в других комнатах.</Translated>
+ </Line>
+<Line StartPos="6451" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="6478" Length="32" Skip="false">
+ <Translated>Мы уже осматривали эту комнату.</Translated>
+ </Line>
+<Line StartPos="6524" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="6541" Length="55" Skip="false">
+ <Translated>Давай… Я не смогу заснуть, если мы их не найдём.</Translated>
+ </Line>
+<Line StartPos="6644" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="6671" Length="46" Skip="false">
+ <Translated>Похоже, эта комната пустует.</Translated>
+ </Line>
+<Line StartPos="6731" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="6748" Length="46" Skip="false">
+ <Translated>Наверное, их здесь нет.</Translated>
+ </Line>
+<Line StartPos="6799" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="6826" Length="37" Skip="false">
+ <Translated>Да. Давай поищем в других комнатах.</Translated>
+ </Line>
+<Line StartPos="6893" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="6910" Length="59" Skip="false">
+ <Translated>Мы ведь уже осматривали эту комнату.</Translated>
+ </Line>
+<Line StartPos="6974" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="7001" Length="50" Skip="false">
+ <Translated>Да. Давай поищем в других комнатах.</Translated>
+ </Line>
+<Line StartPos="7074" Length="13" Skip="false">
+ <Translated>draw\0MechRoom</Translated>
+ </Line>
+<Line StartPos="7098" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="7125" Length="20" Skip="false">
+ <Translated>Здесь есть мыши?</Translated>
+ </Line>
+<Line StartPos="7165" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="7182" Length="23" Skip="false">
+ <Translated>Только бы их тут не было.</Translated>
+ </Line>
+ <Line StartPos="7222" Length="7" Skip="false">
+ <Translated>*Бум*</Translated>
+ </Line>
+<Line StartPos="7243" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="7260" Length="7" Skip="false">
+ <Translated>А-а-а!!!</Translated>
+ </Line>
+ <Line StartPos="7286" Length="8" Skip="false">
+ <Translated>*Писк*</Translated>
+ </Line>
+<Line StartPos="7320" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="7337" Length="16" Skip="false">
+ <Translated>Они здесь!!!</Translated>
+ </Line>
+<Line StartPos="7358" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="7375" Length="46" Skip="false">
+ <Translated>Они здесь! Точно здесь!!!</Translated>
+ </Line>
+<Line StartPos="7426" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="7444" Length="38" Skip="false">
+ <Translated>Что! Я ни чего не вижу!</Translated>
+ </Line>
+<Line StartPos="7487" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="7504" Length="37" Skip="false">
+ <Translated>Посмотри в тот угол!</Translated>
+ </Line>
+<Line StartPos="7546" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="7564" Length="34" Skip="false">
+ <Translated>Я же говорю, я ничего не вижу!</Translated>
+ </Line>
+<Line StartPos="7603" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="7620" Length="32" Skip="false">
+ <Translated>Ой! Они побежали в коридор!</Translated>
+ </Line>
+<Line StartPos="7657" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="7674" Length="38" Skip="false">
+ <Translated>АОЙ!!! МИ-ЧАН!!! Они наверху!!!</Translated>
+ </Line>
+<Line StartPos="7832" Length="3" Skip="false">
+ <Translated>Аой</Translated>
+ </Line>
+<Line StartPos="7848" Length="29" Skip="false">
+ <Translated>Это по идеи все.</Translated>
+ </Line>
+<Line StartPos="7892" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="7909" Length="22" Skip="false">
+ <Translated>Фух… Мы спасены.</Translated>
+ </Line>
+<Line StartPos="7945" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="7962" Length="85" Skip="false">
+ <Translated>Когда я и Аой-сан обыскивали первый\0этаж, мы обнаружили большую дыру\0за печью.</Translated>
+ </Line>
+<Line StartPos="8052" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="8069" Length="38" Skip="false">
+ <Translated>Думаю, мыши пролезли через неё.</Translated>
+ </Line>
+<Line StartPos="8122" Length="3" Skip="false">
+ <Translated>Аой</Translated>
+ </Line>
+<Line StartPos="8138" Length="112" Skip="false">
+ <Translated>Мы закрыли дыру, правда, это временное\0решение. Но думаю, они там больше не\0пролезут.</Translated>
+ </Line>
+<Line StartPos="8283" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="8300" Length="36" Skip="false">
+ <Translated>Я также нашла чью-то кухонную рукавичку.</Translated>
+ </Line>
+<Line StartPos="8359" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="8376" Length="74" Skip="false">
+ <Translated>Ясно. Тогда давайте поедим. Мы много\0ходили, я аж проголодалась.</Translated>
+ </Line>
+<Line StartPos="8464" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="8481" Length="9" Skip="false">
+ <Translated>Эм…</Translated>
+ </Line>
+<Line StartPos="8505" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="8522" Length="27" Skip="false">
+ <Translated>Что такое Ми-чан?</Translated>
+ </Line>
+<Line StartPos="8563" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="8580" Length="80" Skip="false">
+ <Translated>Я отвлеклась,а мыши в это время съели\0все продукты для ужина.</Translated>
+ </Line>
+<Line StartPos="8665" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="8692" Length="8" Skip="false">
+ <Translated>Что?!</Translated>
+ </Line>
+<Line StartPos="8714" Length="3" Skip="false">
+ <Translated>Аой</Translated>
+ </Line>
+<Line StartPos="8730" Length="96" Skip="false">
+ <Translated>Ну, не повезло, ничего не поделаешь.\0Тогда пойдём ужинать к Ханне-сан.</Translated>
+ </Line>
+<Line StartPos="8841" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="8858" Length="36" Skip="false">
+ <Translated>Да. Это хорошо иногда сходить\0куда-нибудь.</Translated>
+ </Line>
+<Line StartPos="8934" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="8951" Length="7" Skip="false">
+ <Translated>Ой…</Translated>
+ </Line>
+<Line StartPos="8973" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="8990" Length="29" Skip="false">
+ <Translated>У-убирайтесь от сюда! Прочь!</Translated>
+ </Line>
+<Line StartPos="9026" Length="58" Skip="false">
+ <Translated>Оставив после себя беспорядок, мыши\0убежали из дома.</Translated>
+ </Line>
+<Line StartPos="9098" Length="3" Skip="false">
+ <Translated>Аой</Translated>
+ </Line>
+<Line StartPos="9114" Length="33" Skip="false">
+ <Translated>Похоже, они все убежали…</Translated>
+ </Line>
+<Line StartPos="9162" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="9179" Length="45" Skip="false">
+ <Translated>А вы уверены, что их больше не\0осталось?</Translated>
+ </Line>
+<Line StartPos="9229" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="9256" Length="20" Skip="false">
+ <Translated>Я в этом уверен.</Translated>
+ </Line>
+<Line StartPos="9290" Length="3" Skip="false">
+ <Translated>Аой</Translated>
+ </Line>
+<Line StartPos="9306" Length="70" Skip="false">
+ <Translated>Мы обыскали кухню, и нашли за печью\0большую дыру.</Translated>
+ </Line>
+<Line StartPos="9390" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="9407" Length="84" Skip="false">
+ <Translated>Думаю, мыши пролезли через неё. Теперь\0всё в порядке, мы её заделали.</Translated>
+ </Line>
+<Line StartPos="9506" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="9523" Length="10" Skip="false">
+ <Translated>Понятно.</Translated>
+ </Line>
+<Line StartPos="9547" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="9564" Length="42" Skip="false">
+ <Translated>Но мыши съели всю еду, что была у нас на\0сегодня.</Translated>
+ </Line>
+<Line StartPos="9621" Length="4" Skip="false">
+ <Translated>Люси</Translated>
+ </Line>
+<Line StartPos="9638" Length="8" Skip="false">
+ <Translated>Что?!</Translated>
+ </Line>
+<Line StartPos="9651" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="9678" Length="29" Skip="false">
+ <Translated>Тогда мы остаёмся без ужина?</Translated>
+ </Line>
+<Line StartPos="9722" Length="3" Skip="false">
+ <Translated>Аой</Translated>
+ </Line>
+<Line StartPos="9738" Length="31" Skip="false">
+ <Translated>Это будет жестоко.</Translated>
+ </Line>
+<Line StartPos="9783" Length="4" Skip="false">
+ <Translated>Мина</Translated>
+ </Line>
+<Line StartPos="9800" Length="84" Skip="false">
+ <Translated>Извините, что так произошло… Давайте\0поужинаем у Ханны-сан.</Translated>
+ </Line>
+<Line StartPos="9889" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="9916" Length="36" Skip="false">
+ <Translated>Да. Это хорошо иногда сходить\0куда-нибудь.</Translated>
+ </Line>
+<Line StartPos="9993" Length="44" Skip="false">
+ <Translated>В этот день мы ужинали у Ханны-сан.</Translated>
+ </Line>
+<Line StartPos="10040" Length="62" Skip="false">
+ <Translated>И почему-то все заказали гамбургеры с\0сыром…</Translated>
+ </Line>
+ </Lines>
+
+</poem>
+
+
+[[Men_at_Work 2|[Назад]]]

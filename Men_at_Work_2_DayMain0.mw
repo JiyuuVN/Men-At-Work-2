@@ -1,0 +1,85 @@
+[[Men at Work 2:Прогресс_перевода|[Назад]]]
+<pre>
+<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="26">
+  <Line StartPos="774" Length="30" Skip="false">
+    <Translated>Morning\0noon\0Afternoon\0Evening</Translated>
+  </Line>
+  <Line StartPos="835" Length="8" Skip="false">
+    <Translated>main\0Top</Translated>
+  </Line>
+  <Line StartPos="1433" Length="12" Skip="false">
+    <Translated>Cafe Terrace</Translated>
+  </Line>
+  <Line StartPos="1666" Length="11" Skip="false">
+    <Translated>Weapon Shop</Translated>
+  </Line>
+  <Line StartPos="1926" Length="137" Skip="false">
+    <Translated>Academy\0BuildFirm\0WeaponShop\0ItemShop\0Church\0Residence\0Cafe\0Library\0CityHall\0PublicBath\0CastleWood\0Graveyard\0Pub\0Castle\0Sewer\0Cave\0Forest</Translated>
+  </Line>
+  <Line StartPos="2068" Length="23" Skip="false">
+    <Translated>Сейчас мне некуда пойти.</Translated>
+  </Line>
+  <Line StartPos="2100" Length="11" Skip="false">
+    <Translated>Academy\0Top</Translated>
+  </Line>
+  <Line StartPos="2128" Length="33" Skip="false">
+    <Translated>Вы вернулись в Школу.</Translated>
+  </Line>
+  <Line StartPos="2166" Length="39" Skip="false">
+    <Translated>Остаться до вечера\0Сходить куда-нибудь ещё</Translated>
+  </Line>
+  <Line StartPos="2212" Length="11" Skip="false">
+    <Translated>ToNight\0ret</Translated>
+  </Line>
+  <Line StartPos="2228" Length="39" Skip="false">
+    <Translated>Я остался в Школе до ужина.</Translated>
+  </Line>
+  <Line StartPos="2288" Length="12" Skip="false">
+    <Translated>Gen_sBLD\0Top</Translated>
+  </Line>
+  <Line StartPos="2307" Length="11" Skip="false">
+    <Translated>WP_Shop\0Top</Translated>
+  </Line>
+  <Line StartPos="2325" Length="12" Skip="false">
+    <Translated>ItemShop\0Top</Translated>
+  </Line>
+  <Line StartPos="2344" Length="10" Skip="false">
+    <Translated>Church\0Top</Translated>
+  </Line>
+  <Line StartPos="2361" Length="12" Skip="false">
+    <Translated>Residens\0Top</Translated>
+  </Line>
+  <Line StartPos="2380" Length="8" Skip="false">
+    <Translated>Cafe\0Top</Translated>
+  </Line>
+  <Line StartPos="2395" Length="11" Skip="false">
+    <Translated>Library\0Top</Translated>
+  </Line>
+  <Line StartPos="2417" Length="12" Skip="false">
+    <Translated>Pub_Bath\0Top</Translated>
+  </Line>
+  <Line StartPos="2436" Length="12" Skip="false">
+    <Translated>Wd_Castl\0Top</Translated>
+  </Line>
+  <Line StartPos="2455" Length="9" Skip="false">
+    <Translated>Grave\0Top</Translated>
+  </Line>
+  <Line StartPos="2471" Length="7" Skip="false">
+    <Translated>Pub\0Top</Translated>
+  </Line>
+  <Line StartPos="2485" Length="10" Skip="false">
+    <Translated>Castle\0Top</Translated>
+  </Line>
+  <Line StartPos="2502" Length="9" Skip="false">
+    <Translated>Sewer\0Top</Translated>
+  </Line>
+  <Line StartPos="2518" Length="8" Skip="false">
+    <Translated>Cave\0Top</Translated>
+  </Line>
+  <Line StartPos="2533" Length="10" Skip="false">
+    <Translated>Forest\0Top</Translated>
+  </Line>
+</Lines>
+</pre>
+[[Men at Work 2:Прогресс_перевода|[Назад]]]

@@ -1,0 +1,1328 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="438">
+  <Line StartPos="171" Length="11" Skip="false">
+    <Translated>draw\0Castle</Translated>
+  </Line>
+  <Line StartPos="202" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="219" Length="25" Skip="false">
+    <Translated>Какой жуткий замок...</Translated>
+  </Line>
+  <Line StartPos="278" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="297" Length="29" Skip="false">
+    <Translated>Но он кажется таким знакомым...</Translated>
+  </Line>
+  <Line StartPos="341" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="358" Length="74" Skip="false">
+    <Translated>Это место, где ты была в заточении. Уверена, ты как-то связана с ним.</Translated>
+  </Line>
+  <Line StartPos="465" Length="3" Skip="false">
+    <Translated>???</Translated>
+  </Line>
+  <Line StartPos="481" Length="25" Skip="false">
+    <Translated>Хи-хи-хи... хи-хи-хи</Translated> 
+  </Line>
+  <Line StartPos="520" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="538" Length="13" Skip="false">
+    <Translated>Кто здесь?!</Translated>
+  </Line>
+  <Line StartPos="579" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="597" Length="53" Skip="false">
+    <Translated>Добро пожаловать. Уинстон и потомок Михайловых...</Translated>
+  </Line>
+  <Line StartPos="664" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="680" Length="28" Skip="false">
+    <Translated>Вайзор, так ты появился!</Translated>
+  </Line>
+  <Line StartPos="722" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="740" Length="75" Skip="false">
+    <Translated>Ах да, ты тоже здесь, да? Пришла мстить за своего отца?</Translated>
+  </Line>
+  <Line StartPos="829" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="845" Length="72" Skip="false">
+    <Translated>Не пойми меня неправильно. Я тут не ради мести.</Translated>
+  </Line>
+  <Line StartPos="931" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="947" Length="42" Skip="false">
+    <Translated>Я пришла победить, тебя ради нашего будущего!</Translated>
+  </Line>
+  <Line StartPos="1003" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="1021" Length="79" Skip="false">
+    <Translated>Вот как. Так ты избавилась от тени своего отца. Как бессердечно с твоей стороны.</Translated>
+  </Line>
+  <Line StartPos="1114" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="1130" Length="20" Skip="false">
+    <Translated>Говори что хочешь!</Translated>
+  </Line>
+  <Line StartPos="1164" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="1182" Length="66" Skip="false">
+    <Translated>За ваше будущее говоришь? Не стоит сильно надеяться на такое будущее.</Translated>
+  </Line>
+  <Line StartPos="1253" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="1271" Length="78" Skip="false">
+    <Translated>Чем больше ты надеешься, тем больше будет отчаяние, когда его у тебя заберут.</Translated>
+  </Line>
+  <Line StartPos="1363" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="1381" Length="91" Skip="false">
+    <Translated>Но не беспокойтесь. Я убью вас, прежде чем вы что-то почувствуете.</Translated>
+  </Line>
+  <Line StartPos="1486" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1503" Length="55" Skip="false">
+    <Translated>Не говори глупостей! Стой смирно, я побью тебя прямо сейчас!</Translated>
+  </Line>
+  <Line StartPos="1572" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="1590" Length="48" Skip="false">
+    <Translated>Хаха. По крайней мере, позвольте мне насладиться...</Translated>
+  </Line>
+  <Line StartPos="1652" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="1670" Length="48" Skip="false">
+    <Translated>Я буду наверху башни. Приходите туда.</Translated>
+  </Line>
+  <Line StartPos="1749" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="1767" Length="13" Skip="false">
+    <Translated>Хахахаха...</Translated>
+  </Line>
+  <Line StartPos="1798" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1815" Length="26" Skip="false">
+    <Translated>Чёрт, он снова сбежал.</Translated>
+  </Line>
+  <Line StartPos="1856" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1873" Length="24" Skip="false">
+    <Translated>Что? Сейчас он играет в злодея?</Translated>
+  </Line>
+  <Line StartPos="1911" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="1927" Length="89" Skip="false">
+    <Translated>Хаха. Он всего лишь третьесортный монстр. Похоже, он обязательно должен устроить шоу, даже если уходит.</Translated>
+  </Line>
+  <Line StartPos="2021" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2048" Length="73" Skip="false">
+    <Translated>Противник умён. Всё выглядит так, будто он играет, но на самом деле он коварен.</Translated>
+  </Line>
+  <Line StartPos="2126" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2144" Length="48" Skip="false">
+    <Translated>Мы должны быть осторожны, чтобы не попасться на его уловку.</Translated>
+  </Line>
+  <Line StartPos="2206" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="2225" Length="9" Skip="false">
+    <Translated>Уловку?..</Translated>
+  </Line>
+  <Line StartPos="2239" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2266" Length="72" Skip="false">
+    <Translated>Думаю, он хочет чтобы мы вымотались перед боем.</Translated>
+  </Line>
+  <Line StartPos="2353" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2370" Length="45" Skip="false">
+    <Translated>Он слишком мелочный, чтобы действовать настолько масштабно...</Translated>
+  </Line>
+  <Line StartPos="2429" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2445" Length="22" Skip="false">
+    <Translated>Мы должны быть осторожны.</Translated>
+  </Line>
+  <Line StartPos="2553" Length="46" Skip="false">
+    <Translated>Вайзор наверху. Нет нужды идти вниз.</Translated>
+  </Line>
+  <Line StartPos="2707" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="2725" Length="25" Skip="false">
+    <Translated>Хех... Вы ничто.</Translated>
+  </Line>
+  <Line StartPos="2764" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="2782" Length="66" Skip="false">
+    <Translated>Как вы можете говорить, что победите меня с такой жалкой силой?</Translated>
+  </Line>
+  <Line StartPos="2853" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="2871" Length="56" Skip="false">
+    <Translated>Но теперь вы знаете... разницу между вами и мной...</Translated>
+  </Line>
+  <Line StartPos="2950" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2966" Length="37" Skip="false">
+    <Translated>Нет... и после того как мы зашли так далеко...</Translated>
+  </Line>
+  <Line StartPos="3014" Length="35" Skip="false">
+    <Translated>О... нет... я не могу сдвинуться с места...</Translated>
+  </Line>
+  <Line StartPos="3052" Length="33" Skip="false">
+    <Translated>Острые когти Вайзора приближаются к нам.</Translated>
+  </Line>
+  <Line StartPos="3088" Length="18" Skip="false">
+    <Translated>Я закрываю глаза...</Translated>
+  </Line>
+  <Line StartPos="3109" Length="26" Skip="false">
+    <Translated>Я теряю сознание...</Translated>
+  </Line>
+  <Line StartPos="3194" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3221" Length="21" Skip="false">
+    <Translated>А? Мы снаружи.</Translated>
+  </Line>
+  <Line StartPos="3290" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3307" Length="9" Skip="false">
+    <Translated>Кьяаа?!</Translated>
+  </Line>
+  <Line StartPos="3331" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3348" Length="21" Skip="false">
+    <Translated>Ч-что происходит?!</Translated>
+  </Line>
+  <Line StartPos="3383" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="3401" Length="36" Skip="false">
+    <Translated>Дверь на лестницу закрылась прямо за нами!</Translated>
+  </Line>
+  <Line StartPos="3442" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3469" Length="8" Skip="false">
+    <Translated>Что?!</Translated>
+  </Line>
+  <Line StartPos="3492" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3509" Length="26" Skip="false">
+    <Translated>Где Аой и Шерил?!</Translated>
+  </Line>
+  <Line StartPos="3549" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="3567" Length="24" Skip="false">
+    <Translated>Они всё ещё внутри!</Translated>
+  </Line>
+  <Line StartPos="3596" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3623" Length="21" Skip="false">
+    <Translated>Не может быть!.. Аой-сан!</Translated>
+  </Line>
+  <Line StartPos="3683" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3699" Length="15" Skip="false">
+    <Translated>Откройся! Эй!</Translated>
+  </Line>
+  <Line StartPos="3729" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="3748" Length="20" Skip="false">
+    <Translated>К-как это случилось?</Translated>
+  </Line>
+  <Line StartPos="3782" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3798" Length="66" Skip="false">
+    <Translated>Дверь на лестницу закрыта. Похоже, сейчас она ещё и заперта...</Translated>
+  </Line>
+  <Line StartPos="3879" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="3898" Length="11" Skip="false">
+    <Translated>Как?!..</Translated>
+  </Line>
+  <Line StartPos="3934" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3951" Length="63" Skip="false">
+    <Translated>Эй Аой! Ты меня слышишь?! Ты можешь открыть её со своей стороны?!</Translated>
+  </Line>
+  <Line StartPos="4028" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4044" Length="48" Skip="false">
+    <Translated>Я н-не могу. Я не знаю где замок...</Translated>
+  </Line>
+  <Line StartPos="4128" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="4146" Length="30" Skip="false">
+    <Translated>Хаха, а ключик-то, вот он.</Translated>
+  </Line>
+  <Line StartPos="4190" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4206" Length="27" Skip="false">
+    <Translated>Вайзор! Что тебе нужно?!</Translated>
+  </Line>
+  <Line StartPos="4247" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="4265" Length="98" Skip="false">
+    <Translated>Моя цель получить силу Михайловых. Я должен был заранее избавиться от всех неприятностей.</Translated>
+  </Line>
+  <Line StartPos="4377" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="4395" Length="76" Skip="false">
+    <Translated>Я хотел поймать только Шерил... но ещё одна добыча это тоже не помешает.</Translated>
+  </Line>
+  <Line StartPos="4485" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4501" Length="54" Skip="false">
+    <Translated>Стоять! Я не позволю тебе и пальцем коснуться Шерил-сан!</Translated>
+  </Line>
+  <Line StartPos="4569" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="4587" Length="43" Skip="false">
+    <Translated>Хаха. Что может сделать обычная девочонка в одиночку?</Translated>
+  </Line>
+  <Line StartPos="4644" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4660" Length="9" Skip="false">
+    <Translated>Кух!..</Translated>
+  </Line>
+  <Line StartPos="4683" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="4701" Length="87" Skip="false">
+    <Translated>Ах да... я зол на твоего отца так же как и ты зла на меня.</Translated>
+  </Line>
+  <Line StartPos="4802" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="4820" Length="27" Skip="false">
+    <Translated>За то что он забрал мою правую руку.</Translated>
+  </Line>
+  <Line StartPos="4861" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4877" Length="25" Skip="false">
+    <Translated>Каковы твои намерения?</Translated>
+  </Line>
+  <Line StartPos="4916" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="4934" Length="44" Skip="false">
+    <Translated>Я позволю тебе разрешить это. Ты и я...</Translated>
+  </Line>
+  <Line StartPos="5017" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="5034" Length="55" Skip="false">
+    <Translated>Чёрт! С той стороны двери становится всё хуже!</Translated>
+  </Line>
+  <Line StartPos="5123" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="5140" Length="20" Skip="false">
+    <Translated>Что ты хочешь сказать?!</Translated>
+  </Line>
+  <Line StartPos="5175" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="5192" Length="75" Skip="false">
+    <Translated>Скрытный парень появился на той стороне! Аой и Шерил в опасности!</Translated>
+  </Line>
+  <Line StartPos="5272" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5299" Length="8" Skip="false">
+    <Translated>Что?!</Translated>
+  </Line>
+  <Line StartPos="5330" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="5347" Length="32" Skip="false">
+    <Translated>Чёрт! Ну же, откройся!..</Translated>
+  </Line>
+  <Line StartPos="5393" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="5411" Length="27" Skip="false">
+    <Translated>Отойди, Люси! Я открою!</Translated>
+  </Line>
+  <Line StartPos="5453" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="5470" Length="7" Skip="false">
+    <Translated>Кит?!</Translated>
+  </Line>
+  <Line StartPos="5516" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="5534" Length="72" Skip="false">
+    <Translated>Нет нужны убегать. Я твоя месть за отца. Давай же.</Translated>
+  </Line>
+  <Line StartPos="5620" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="5636" Length="8" Skip="false">
+    <Translated>Кух...</Translated>
+  </Line>
+  <Line StartPos="5661" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5679" Length="37" Skip="false">
+    <Translated>Аой-сан! Аой-сан! Ты меня слышишь?!</Translated>
+  </Line>
+  <Line StartPos="5730" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="5746" Length="13" Skip="false">
+    <Translated>Клиф-сан?!</Translated>
+  </Line>
+  <Line StartPos="5764" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5782" Length="51" Skip="false">
+    <Translated>Мы скоро откроем дверь! Держитесь!</Translated>
+  </Line>
+  <Line StartPos="5847" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="5863" Length="9" Skip="false">
+    <Translated>Х-хорошо!</Translated>
+  </Line>
+  <Line StartPos="5886" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="5904" Length="90" Skip="false">
+    <Translated>Ха. Эту дверь не так просто открыть.\0Она использовалась для защиты во время войны.</Translated>
+  </Line>
+  <Line StartPos="6008" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="6026" Length="55" Skip="false">
+    <Translated>Мне нужно просто закончить всё побыстрее.</Translated>
+  </Line>
+  <Line StartPos="6119" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6135" Length="65" Skip="false">
+    <Translated>Шерил-сан... я задержу Вайзора.\0Пожалуйста держись от него подальше.</Translated>
+  </Line>
+  <Line StartPos="6214" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6230" Length="84" Skip="false">
+    <Translated>Позволь мне выиграть время. Мы должны верить что Клиф-сан откроет эту дверь...</Translated>
+  </Line>
+  <Line StartPos="6329" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="6348" Length="10" Skip="false">
+    <Translated>Хорошо!..</Translated>
+  </Line>
+  <Line StartPos="6386" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="6404" Length="97" Skip="false">
+    <Translated>Хаха, бесполезно. Думаете вы сможете что-нибудь сделать если к вам придёт помощь?</Translated>
+  </Line>
+  <Line StartPos="6515" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6531" Length="77" Skip="false">
+    <Translated>Разве ты разделил нас не потому, что вместе мы опасны?</Translated>
+  </Line>
+  <Line StartPos="6622" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="6640" Length="7" Skip="false">
+    <Translated>Что?</Translated>
+  </Line>
+  <Line StartPos="6661" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6677" Length="73" Skip="false">
+    <Translated>Ты использовал этот трюк потому что боишься нашей силы... Не так ли?</Translated>
+  </Line>
+  <Line StartPos="6764" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="6782" Length="32" Skip="false">
+    <Translated>Женщина... ты пытаешься меня оскорбить?</Translated>
+  </Line>
+  <Line StartPos="6853" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6870" Length="15" Skip="false">
+    <Translated>Кит, ну как?</Translated>
+  </Line>
+  <Line StartPos="6919" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="6937" Length="20" Skip="false">
+    <Translated>Ещё немного...</Translated>
+  </Line>
+  <Line StartPos="6972" Length="57" Skip="false">
+    <Translated>Китти использует свои крылья чтобы вскрыть замочную скважину.</Translated>
+  </Line>
+  <Line StartPos="7044" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="7061" Length="77" Skip="false">
+    <Translated>Это что-то. Изменить форму своих крыльев чтобы открыть замок!..</Translated>
+  </Line>
+  <Line StartPos="7153" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7170" Length="87" Skip="false">
+    <Translated>Аой провоцирует его, чтобы выиграть время. Но не знаю, сколько это ещё будет работать...</Translated>
+  </Line>
+  <Line StartPos="7262" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7289" Length="52" Skip="false">
+    <Translated>Продолжай. Китти, сейчас ты наша единственная надежда.</Translated>
+  </Line>
+  <Line StartPos="7355" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="7373" Length="24" Skip="false">
+    <Translated>Да, я постараюсь!</Translated>
+  </Line>
+  <Line StartPos="7474" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="7490" Length="53" Skip="false">
+    <Translated>Вначале вымотать нас, а потом разделить...</Translated>
+  </Line>
+  <Line StartPos="7557" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="7573" Length="83" Skip="false">
+    <Translated>Я не могу поверить, что такое ничтожество — глава одной из трёх Великих Семей!</Translated>
+  </Line>
+  <Line StartPos="7670" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="7688" Length="67" Skip="false">
+    <Translated>Ладно... я хотел немного поиграть с вами, но изменил своё решение.</Translated>
+  </Line>
+  <Line StartPos="7769" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="7787" Length="65" Skip="false">
+    <Translated>Я использую свою силу и растопчу вас всех!</Translated>
+  </Line>
+  <Line StartPos="7866" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="7882" Length="47" Skip="false">
+    <Translated>Силу?.. Будто у тебя она есть...</Translated>
+  </Line>
+  <Line StartPos="7943" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="7961" Length="8" Skip="false">
+    <Translated>Хах...</Translated>
+  </Line>
+  <Line StartPos="8009" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8025" Length="21" Skip="false">
+    <Translated>Он исчез?!..</Translated>
+  </Line>
+  <Line StartPos="8060" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="8079" Length="16" Skip="false">
+    <Translated>Г-где он?</Translated>
+  </Line>
+  <Line StartPos="8133" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="8151" Length="42" Skip="false">
+    <Translated>Вот она, настоящая сила.</Translated>
+  </Line>
+  <Line StartPos="8207" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="8226" Length="4" Skip="false">
+    <Translated>?!</Translated>
+  </Line>
+  <Line StartPos="8269" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8285" Length="26" Skip="false">
+    <Translated>Шерил-сан! Сзади!</Translated>
+  </Line>
+  <Line StartPos="8355" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8371" Length="21" Skip="false">
+    <Translated>Кьяа! Шерил-сан!</Translated>
+  </Line>
+  <Line StartPos="8397" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="8415" Length="57" Skip="false">
+    <Translated>Глупцы. Разве вы забыли, что я могу искажать пространство?</Translated>
+  </Line>
+  <Line StartPos="8477" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="8496" Length="14" Skip="false">
+    <Translated>Ах... аах...</Translated>
+  </Line>
+  <Line StartPos="8515" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="8533" Length="20" Skip="false">
+    <Translated>Хаха. Я чувствую это...</Translated>
+  </Line>
+  <Line StartPos="8558" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="8576" Length="55" Skip="false">
+    <Translated>Я чувствую текущую во мне силу Михайловых!..</Translated>
+  </Line>
+  <Line StartPos="8636" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8652" Length="29" Skip="false">
+    <Translated>Эй! Отойди от Шерил!</Translated>
+  </Line>
+  <Line StartPos="8720" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="8737" Length="26" Skip="false">
+    <Translated>Аой! Ты в порядке?!</Translated>
+  </Line>
+  <Line StartPos="8797" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8813" Length="20" Skip="false">
+    <Translated>Ш-Шерил-сан, она...</Translated>
+  </Line>
+  <Line StartPos="8859" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8886" Length="10" Skip="false">
+    <Translated>Шерил!</Translated>
+  </Line>
+  <Line StartPos="8949" Length="28" Skip="false">
+    <Translated>Шерил падает.</Translated>
+  </Line>
+  <Line StartPos="8986" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="9004" Length="53" Skip="false">
+    <Translated>Слишком поздно. Сила Михайловых теперь моя.</Translated>
+  </Line>
+  <Line StartPos="9071" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="9089" Length="61" Skip="false">
+    <Translated>Я растопчу вас, ничтожества.</Translated>
+  </Line>
+  <Line StartPos="9204" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9231" Length="24" Skip="false">
+    <Translated>Ч-что это за место?!</Translated>
+  </Line>
+  <Line StartPos="9270" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="9287" Length="17" Skip="false">
+    <Translated>Звёздное небо?!..</Translated>
+  </Line>
+  <Line StartPos="9319" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="9336" Length="37" Skip="false">
+    <Translated>Что происходит?! Мы парим!</Translated>
+  </Line>
+  <Line StartPos="9387" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="9406" Length="22" Skip="false">
+    <Translated>Успокойтесь, все!</Translated>
+  </Line>
+  <Line StartPos="9443" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="9459" Length="25" Skip="false">
+    <Translated>Шерил-сан?! Ты же...</Translated>
+  </Line>
+  <Line StartPos="9498" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="9517" Length="73" Skip="false">
+    <Translated>Сейчас я в духовной форме... так же как и до возвращения в своё тело...</Translated>
+  </Line>
+  <Line StartPos="9605" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="9621" Length="32" Skip="false">
+    <Translated>Прости. Это моя вина...</Translated>
+  </Line>
+  <Line StartPos="9667" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="9686" Length="88" Skip="false">
+    <Translated>Не время болтать!.. Это созданное им другое измерение!</Translated>
+  </Line>
+  <Line StartPos="9814" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="9832" Length="20" Skip="false">
+    <Translated>Ха-ха-ха. Именно. </Translated>
+  </Line>
+  <Line StartPos="9886" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="10004" Length="43" Skip="false">
+    <Translated>Давайте покончим с этим раз и навсегда.</Translated>
+  </Line>
+    <Line StartPos="10081" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="10099" Length="85" Skip="false">
+    <Translated>Пришло время решить, кто будет править миром — люди или монстры!</Translated>
+  </Line>
+  <Line StartPos="10260" Length="14" Skip="false">
+    <Translated>WinDra\0LoseDra</Translated>
+  </Line>
+  <Line StartPos="10288" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="10306" Length="66" Skip="false">
+    <Translated>Бесполезно. Вы не сможете убежать из этого бесконечного измерения.</Translated>
+  </Line>
+  <Line StartPos="10386" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="10404" Length="54" Skip="false">
+    <Translated>Узрите, насколько высокомерным и безрассудным был ваш выбор!</Translated>
+  </Line>
+  <Line StartPos="10528" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="10546" Length="45" Skip="false">
+    <Translated>Хахаха... Вы поняли? ЭТО моя сила!</Translated>
+  </Line>
+  <Line StartPos="10596" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="10614" Length="44" Skip="false">
+    <Translated>Вам не победить что бы вы не делали!</Translated>
+  </Line>
+  <Line StartPos="10677" Length="89" Skip="false">
+    <Translated>Битва закончилась и земля начала дрожать. Смех Вайзора исчезает вдали.</Translated>
+  </Line>
+  <Line StartPos="10769" Length="92" Skip="false">
+    <Translated>Наши тела и сознания затягиваются измерением и погружаются во тьму.</Translated>
+  </Line>
+  <Line StartPos="10864" Length="30" Skip="false">
+    <Translated>Мы никогда не проснёмся после этого...</Translated>
+  </Line>
+  <Line StartPos="10960" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="10978" Length="13" Skip="false">
+    <Translated>Неееееет!</Translated>
+  </Line>
+  <Line StartPos="11005" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="11023" Length="62" Skip="false">
+    <Translated>Не может быть... сила Михайловых не может быть так мала!..</Translated>
+  </Line>
+  <Line StartPos="11099" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="11117" Length="16" Skip="false">
+    <Translated>Где моя...</Translated>
+  </Line>
+  <Line StartPos="11147" Length="5" Skip="false">
+    <Translated>Вайзор</Translated>
+  </Line>
+  <Line StartPos="11165" Length="30" Skip="false">
+    <Translated>..сила?!.</Translated>
+  </Line>
+  <Line StartPos="11249" Length="34" Skip="false">
+    <Translated>Оставив после себя только вскрик Вайзор исчезает.</Translated>
+  </Line>
+  <Line StartPos="11297" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="11313" Length="32" Skip="false">
+    <Translated>Шерил-сан! Где её тело?</Translated>
+  </Line>
+  <Line StartPos="11360" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="11377" Length="15" Skip="false">
+    <Translated>Ох! Здесь!..</Translated>
+  </Line>
+  <Line StartPos="11399" Length="51" Skip="false">
+    <Translated>Тело Шерил парит по звёздному небу...</Translated>
+  </Line>
+  <Line StartPos="11469" Length="47" Skip="false">
+    <Translated>Вдруг земля начинает дрожать под нашими ногами.</Translated>
+  </Line>
+  <Line StartPos="11530" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="11547" Length="14" Skip="false">
+    <Translated>Землетрясение?!</Translated>
+  </Line>
+  <Line StartPos="11576" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="11594" Length="13" Skip="false">
+    <Translated>Мне страшно!</Translated>
+  </Line>
+  <Line StartPos="11621" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="11637" Length="50" Skip="false">
+    <Translated>О нет! Это измерение было создано Вайзором!..</Translated>
+  </Line>
+  <Line StartPos="11701" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="11717" Length="46" Skip="false">
+    <Translated>И оно исчезает после его смерти!</Translated>
+  </Line>
+  <Line StartPos="11778" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="11795" Length="31" Skip="false">
+    <Translated>Ч-ч-ч-ч-что нам делать?!</Translated>
+  </Line>
+  <Line StartPos="11866" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="11885" Length="12" Skip="false">
+    <Translated>Успокойтесь.</Translated>
+  </Line>
+  <Line StartPos="11911" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="11930" Length="62" Skip="false">
+    <Translated>Я позабочусь об этом. Пожалуйста, подойдите все сюда.</Translated>
+  </Line>
+  <Line StartPos="11997" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="12024" Length="10" Skip="false">
+    <Translated>Шерил?!</Translated>
+  </Line>
+  <Line StartPos="12049" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="12067" Length="10" Skip="false">
+    <Translated>Шерил!</Translated>
+  </Line>
+  <Line StartPos="12091" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="12110" Length="107" Skip="false">
+    <Translated>Я же ведьма, во мне течёт кровь Михайловых. Я верну вас в настоящий мир.</Translated>
+  </Line>
+  <Line StartPos="12232" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="12249" Length="51" Skip="false">
+    <Translated>Постой! Мы должны принести сюда и твоё тело.</Translated>
+  </Line>
+  <Line StartPos="12314" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="12333" Length="5" Skip="false">
+    <Translated>Нет!</Translated>
+  </Line>
+  <Line StartPos="12353" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="12370" Length="12" Skip="false">
+    <Translated>Шерил?..</Translated>
+  </Line>
+  <Line StartPos="12396" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="12415" Length="97" Skip="false">
+    <Translated>Я не знаю, смогу ли перенести 5 человек. Мы должны уменьшить нагрузку настолько насколько это возможно.</Translated> 
+  </Line>
+  <Line StartPos="12527" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="12543" Length="31" Skip="false">
+    <Translated>Н-но... это значит ты...</Translated>
+  </Line>
+  <Line StartPos="12608" Length="25" Skip="false">
+    <Translated>Шерил печально улыбнулась.</Translated>
+  </Line>
+  <Line StartPos="12638" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="12657" Length="18" Skip="false">
+    <Translated>Слишком поздно...</Translated>
+  </Line>
+  <Line StartPos="12682" Length="74" Skip="false">
+    <Translated>Все поворачиваются и смотрят на тело, парящее в исчезающем пространстве.</Translated>
+  </Line>
+  <Line StartPos="12767" Length="43" Skip="false">
+    <Translated>В то же мгновение дрожь усиливается.</Translated>
+  </Line>
+  <Line StartPos="12824" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="12843" Length="28" Skip="false">
+    <Translated>Быстро! У нас нет времени!</Translated>
+  </Line>
+  <Line StartPos="12876" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="12903" Length="10" Skip="false">
+    <Translated>Шерил!</Translated>
+  </Line>
+  <Line StartPos="12927" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="12946" Length="15" Skip="false">
+    <Translated>!..</Translated>
+  </Line>
+  <Line StartPos="12968" Length="46" Skip="false">
+    <Translated>Шерил рисует руну которую я прежде никогда не видел...</Translated>
+  </Line>
+  <Line StartPos="13041" Length="47" Skip="false">
+    <Translated>Слабый свет окружает нас и поднимает вверх.</Translated>
+  </Line>
+  <Line StartPos="13105" Length="75" Skip="false">
+    <Translated>В это же время земля под нашими ногами крошится и затягивает всё вниз...</Translated>
+  </Line>
+  <Line StartPos="13197" Length="37" Skip="false">
+    <Translated>Мёртвое тело Вайзора, поддельный грунт...</Translated>
+  </Line>
+  <Line StartPos="13251" Length="23" Skip="false">
+    <Translated>И... тело Шерил...</Translated>
+  </Line>
+  <Line StartPos="13303" Length="64" Skip="false">
+    <Translated>В развевающемся белым платье... тело Шерил медленно исчезает...</Translated>
+  </Line>
+  <Line StartPos="13384" Length="24" Skip="false">
+    <Translated>Мы смотрим на это...</Translated>
+  </Line>
+  <Line StartPos="13425" Length="25" Skip="false">
+    <Translated>И слёзы невозможно сдержать.</Translated>
+  </Line>
+  <Line StartPos="13467" Length="63" Skip="false">
+    <Translated>Никто не может сказать ни слова. Только плачь Китти достигает наших ушей...</Translated>
+  </Line>
+  <Line StartPos="13565" Length="11" Skip="false">
+    <Translated>draw\0Castle</Translated>
+  </Line>
+  <Line StartPos="13602" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="13621" Length="13" Skip="false">
+    <Translated>Мы здесь.</Translated>
+  </Line>
+  <Line StartPos="13649" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="13666" Length="50" Skip="false">
+    <Translated>Это не «мы здесь»! Почему ты такая весёлая?!</Translated>
+  </Line>
+  <Line StartPos="13731" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="13748" Length="26" Skip="false">
+    <Translated>Теперь ты по-настоящемуо мертва!</Translated>
+  </Line>
+  <Line StartPos="13788" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="13807" Length="28" Skip="false">
+    <Translated>Я не люблю быть мрачной.</Translated>
+  </Line>
+  <Line StartPos="13850" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="13867" Length="12" Skip="false">
+    <Translated>Н-но!..</Translated>
+  </Line>
+  <Line StartPos="13894" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="13911" Length="59" Skip="false">
+    <Translated>Почему... почему ты пожертвовала собой ради нас?!..</Translated>
+  </Line>
+  <Line StartPos="13985" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="14001" Length="33" Skip="false">
+    <Translated>Мне очень жаль... это моя вина...</Translated>
+  </Line>
+  <Line StartPos="14039" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="14055" Length="36" Skip="false">
+    <Translated>Я спровоцировала его...</Translated>
+  </Line>
+  <Line StartPos="14105" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="14124" Length="45" Skip="false">
+    <Translated>Нет... С самого начала Вайзору была нужна моя сила.</Translated>
+  </Line>
+  <Line StartPos="14183" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="14202" Length="53" Skip="false">
+    <Translated>Думаю, этим бы всё и закончилось, рано или поздно.</Translated>
+  </Line>
+  <Line StartPos="14270" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="14288" Length="66" Skip="false">
+    <Translated>Шерил... мы сможем жить дальше с тобой как призраком как и раньше?</Translated>
+  </Line>
+  <Line StartPos="14368" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="14387" Length="55" Skip="false">
+    <Translated>Мне жаль Китти-чан. Я больше не смогу жить с вами.</Translated>
+  </Line>
+  <Line StartPos="14457" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="14475" Length="30" Skip="false">
+    <Translated>Почему?! Нет! Я не хочу этого!</Translated>
+  </Line>
+  <Line StartPos="14519" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="14538" Length="36" Skip="false">
+    <Translated>Прости. Теперь я настоящий призрак...</Translated>
+  </Line>
+  <Line StartPos="14588" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="14607" Length="57" Skip="false">
+    <Translated>Не живой призрак... а призрак, который действительно мёртв...</Translated>
+  </Line>
+  <Line StartPos="14679" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="14697" Length="11" Skip="false">
+    <Translated>Шерил...</Translated>
+  </Line>
+  <Line StartPos="14713" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="14740" Length="8" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="14762" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="14781" Length="67" Skip="false">
+    <Translated>Спасибо, всем вам. Я была призраком во время нашей встречи и нашего прощанья...</Translated>
+  </Line>
+  <Line StartPos="14862" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="14881" Length="51" Skip="false">
+    <Translated>Но вы все так добры ко мне... Я так счастлива...</Translated>
+  </Line>
+  <Line StartPos="14947" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="14964" Length="54" Skip="false">
+    <Translated>Я ничего не хочу слышать, это похоже на настоящее прощание!!!</Translated>
+  </Line>
+  <Line StartPos="15032" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="15051" Length="42" Skip="false">
+    <Translated>Аой-сан... ты исполнишь моё последнее желание?</Translated>
+  </Line>
+  <Line StartPos="15108" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="15124" Length="23" Skip="false">
+    <Translated>Хорошо... Шерил-сан...</Translated>
+  </Line>
+  <Line StartPos="15161" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="15180" Length="50" Skip="false">
+    <Translated>Пожалуйста верни меня на небеса... Своей силой...</Translated>
+  </Line>
+  <Line StartPos="15245" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="15261" Length="10" Skip="false">
+    <Translated>!!!</Translated>
+  </Line>
+  <Line StartPos="15285" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="15304" Length="41" Skip="false">
+    <Translated>Это же твой долг как экзорциста, верно?</Translated>
+  </Line>
+  <Line StartPos="15372" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="15388" Length="40" Skip="false">
+    <Translated>Прости меня... я не смогла защитить тебя...</Translated>
+  </Line>
+  <Line StartPos="15433" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="15449" Length="37" Skip="false">
+    <Translated>Я ничего не смогла сделать для тебя!..</Translated>
+  </Line>
+  <Line StartPos="15491" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="15510" Length="45" Skip="false">
+    <Translated>Это неправда. Ты старалась ради меня.</Translated>
+  </Line>
+  <Line StartPos="15560" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="15579" Length="49" Skip="false">
+    <Translated>Ты искала моё тело и ты жила рядом со мной...</Translated>
+  </Line>
+  <Line StartPos="15633" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="15652" Length="49" Skip="false">
+    <Translated>Мы вместе ели, вместе принимали ванну...</Translated>
+  </Line>
+  <Line StartPos="15706" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="15725" Length="31" Skip="false">
+    <Translated>Я была очень счастлива, ведь так?</Translated>
+  </Line>
+  <Line StartPos="15761" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="15777" Length="15" Skip="false">
+    <Translated>Шерил-сан...</Translated>
+  </Line>
+  <Line StartPos="15797" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="15816" Length="65" Skip="false">
+    <Translated>Поэтому пожалуйста, отпусти меня со всеми этими счастливыми воспоминаниями.</Translated>
+  </Line>
+  <Line StartPos="15886" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="15905" Length="26" Skip="false">
+    <Translated>Это моё последнее желание...</Translated>
+  </Line>
+  <Line StartPos="15936" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="15952" Length="8" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="15969" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="15985" Length="34" Skip="false">
+    <Translated>Великие Боги небес...</Translated>
+  </Line>
+  <Line StartPos="16024" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="16040" Length="23" Skip="false">
+    <Translated>Эта печально ушедшая...</Translated>
+  </Line>
+  <Line StartPos="16068" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="16084" Length="80" Skip="false">
+    <Translated>Нет... Возьмите эту душу переполненную счастьем... пожалуйста направьте её своими руками...</Translated>
+  </Line>
+  <Line StartPos="16169" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="16188" Length="23" Skip="false">
+    <Translated>Спасибо, Аой-сан...</Translated>
+  </Line>
+  <Line StartPos="16246" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="16262" Length="14" Skip="false">
+    <Translated>Шерил-сан!</Translated>
+  </Line>
+  <Line StartPos="16281" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="16299" Length="10" Skip="false">
+    <Translated>Шерил!</Translated>
+  </Line>
+  <Line StartPos="16314" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="16331" Length="14" Skip="false">
+    <Translated>Шерил-сан!</Translated>
+  </Line>
+  <Line StartPos="16350" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="16368" Length="9" Skip="false">
+    <Translated>Шерил!</Translated>
+  </Line>
+  <Line StartPos="16413" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="16432" Length="32" Skip="false">
+    <Translated>Спасибо большое, всем вам...</Translated>
+  </Line>
+  <Line StartPos="16469" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="16486" Length="47" Skip="false">
+    <Translated>Шерил... оставайся здоровой даже там,\0хорошо?</Translated>
+  </Line>
+  <Line StartPos="16538" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="16557" Length="29" Skip="false">
+    <Translated>Да... вы тоже, все вы...</Translated>
+  </Line>
+  <Line StartPos="16632" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="16651" Length="13" Skip="false">
+    <Translated>Прощайте...</Translated>
+  </Line>
+  <Line StartPos="16671" Length="55" Skip="false">
+    <Translated>Голос Шерил затихает и снова наступает тишина...</Translated>
+  </Line>
+  <Line StartPos="16735" Length="11" Skip="false">
+    <Translated>draw\0castle</Translated>
+  </Line>
+  <Line StartPos="16768" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="16784" Length="11" Skip="false">
+    <Translated>Я...я!..</Translated>
+  </Line>
+  <Line StartPos="16802" Length="71" Skip="false">
+    <Translated>Я обнимаю Аой-сан, которая плакала всё время с момента исчезновения Шерил.</Translated>
+  </Line>
+  <Line StartPos="16878" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="16905" Length="38" Skip="false">
+    <Translated>Идём... вернёмся домой...</Translated>
+  </Line>
+  <Line StartPos="16948" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="16964" Length="11" Skip="false">
+    <Translated>Да...</Translated>
+  </Line>
+  <Line StartPos="16989" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="17006" Length="76" Skip="false">
+    <Translated>Чёрт! Сегодня похороны Шерил! Давайте устроим большую вечеринку!</Translated>
+  </Line>
+  <Line StartPos="17087" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="17104" Length="72" Skip="false">
+    <Translated>Мы будем шуметь так громко, что её замучает любопытство и она вернёмся сюда посмотреть!</Translated>
+  </Line>
+  <Line StartPos="17183" Length="43" Skip="false">
+    <Translated>Люси кричит, словно пытаясь докричаться до небес.</Translated>
+  </Line>
+  <Line StartPos="17229" Length="78" Skip="false">
+    <Translated>Люси, должно быть, ощутила самую сильную боль в своей жизни. Боль от потери семьи, которую она так любила...</Translated>
+  </Line>
+  <Line StartPos="17321" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="17339" Length="21" Skip="false">
+    <Translated>Шерил... Шерил...</Translated>
+  </Line>
+  <Line StartPos="17375" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="17392" Length="18" Skip="false">
+    <Translated>Давайте вернёмся домой...</Translated>
+  </Line>
+  <Line StartPos="17417" Length="39" Skip="false">
+    <Translated>Прошептала Мина нежно обнимая Китти.</Translated>
+  </Line>
+  <Line StartPos="17471" Length="43" Skip="false">
+    <Translated>И мы покинули замок...</Translated>
+  </Line>
+</Lines>
+
+</pre>
+
+[[Men_at_Work 2|[Назад]]]

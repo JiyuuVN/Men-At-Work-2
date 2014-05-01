@@ -1,0 +1,174 @@
+[[Men at Work 2:Прогресс_перевода|[Назад]]]
+<pre>
+
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="53">
+  <Line StartPos="183" Length="30" Skip="false">
+    <Translated>Добро пожаловать в Школу Охотников!</Translated>
+  </Line>
+<Line StartPos="224" Length="13" Skip="false">
+    <Translated>Пролог</Translated>
+  </Line>
+<Line StartPos="238" Length="13" Skip="false">
+    <Translated>Играть</Translated>
+  </Line>
+  <Line StartPos="277" Length="9" Skip="false">
+    <Translated>Pro\0start</Translated>
+  </Line>
+  <Line StartPos="330" Length="15" Skip="false">
+    <Translated>...Мой отец умер.</Translated>
+  </Line>
+  <Line StartPos="348" Length="48" Skip="false">
+    <Translated>Мне сказали, что на его караван напали\0монстры.</Translated>
+  </Line>
+  <Line StartPos="399" Length="87" Skip="false">
+    <Translated>Его звали Мэрдок Уинстон. Он был очень\0известным купцом в наших краях.</Translated>
+  </Line>
+  <Line StartPos="489" Length="94" Skip="false">
+    <Translated>Отец много работал, и я его практически\0не видел, но по возвращению, он всегда\0привозил мне необычные подарки.</Translated>
+  </Line>
+  <Line StartPos="586" Length="74" Skip="false">
+    <Translated>Тогда я тоже надеялся, что он как всегда\0вернётся, с улыбкой, держа подарок в руке...</Translated>
+  </Line>
+  <Line StartPos="663" Length="49" Skip="false">
+    <Translated>Но отец... Даже не верится...</Translated>
+  </Line>
+  <Line StartPos="715" Length="86" Skip="false">
+    <Translated>Иногда он выглядел немного пугающе и был\0строг, но всё же он был хорошим отцом.</Translated>
+  </Line>
+  <Line StartPos="828" Length="50" Skip="false">
+    <Translated>А теперь его нет... Это было тяжелое\0известие для нас...</Translated>
+  </Line>
+  <Line StartPos="881" Length="67" Skip="false">
+    <Translated>Но хуже всего то, что мы даже не можем\0горевать о его смерти.</Translated>
+  </Line>
+  <Line StartPos="951" Length="60" Skip="false">
+    <Translated>Похоже, отец занял большую сумму для\0какой-то сделки.</Translated>
+  </Line>
+  <Line StartPos="1014" Length="57" Skip="false">
+    <Translated>Но теперь его нет, и он не может вернуть\0деньги...</Translated>
+  </Line>
+  <Line StartPos="1074" Length="99" Skip="false">
+    <Translated>...В уплату долга у нас забрали землю и\0дом, которые были залогом.</Translated>
+  </Line>
+  <Line StartPos="1176" Length="69" Skip="false">
+    <Translated>Не успели мы оправиться после смерти\0отца, как остались без крыши над\0головой.</Translated>
+  </Line>
+  <Line StartPos="1248" Length="81" Skip="false">
+    <Translated>Дом, земля, даже мебель — всё забрали...</Translated>
+  </Line>
+  <Line StartPos="1332" Length="94" Skip="false">
+    <Translated>Подсчёты закончились на прошлой неделе,и нам вернули немного денег.</Translated>
+  </Line>
+  <Line StartPos="1429" Length="95" Skip="false">
+    <Translated>Их хватило только на то, чтобы поставить\0памятник на могиле отцу. Простой камень,\0на котором выгравировано его имя...</Translated>
+  </Line>
+  <Line StartPos="1529" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1546" Length="18" Skip="false">
+    <Translated>Нам надо идти...</Translated>
+  </Line>
+  <Line StartPos="1571" Length="13" Skip="false">
+    <Translated>Прошептала Мина.</Translated>
+  </Line>
+  <Line StartPos="1589" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1607" Length="10" Skip="false">
+    <Translated>Да...</Translated>
+  </Line>
+  <Line StartPos="1624" Length="20" Skip="false">
+    <Translated>Ответил я ей.</Translated>
+  </Line>
+  <Line StartPos="1651" Length="92" Skip="false">
+    <Translated>Но нам некуда податься. Нужно найти\0какую-то работу и жильё...</Translated>
+  </Line>
+  <Line StartPos="1746" Length="67" Skip="false">
+    <Translated>Не думаю, что это будет легко, но мы\0должны постараться.</Translated>
+  </Line>
+  <Line StartPos="1816" Length="54" Skip="false">
+    <Translated>Теперь нас только двое, с этого момента\0мы должны научиться жить самостоятельно.</Translated>
+  </Line>
+  <Line StartPos="1873" Length="18" Skip="false">
+    <Translated>Только я и Мина...</Translated>
+  </Line>
+  <Line StartPos="1896" Length="3" Skip="false">
+    <Translated>???</Translated>
+  </Line>
+  <Line StartPos="1912" Length="24" Skip="false">
+    <Translated>Ты Клиф Уинстон?</Translated>
+  </Line>
+  <Line StartPos="1941" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1968" Length="5" Skip="false">
+    <Translated>М?</Translated>
+  </Line>
+  <Line StartPos="2028" Length="3" Skip="false">
+    <Translated>Мужчина</Translated>
+  </Line>
+  <Line StartPos="2044" Length="114" Skip="false">
+    <Translated>Прими мои соболезнования. Извини, что\0так долго добирался сюда после\0получения известия.</Translated>
+  </Line>
+  <Line StartPos="2163" Length="3" Skip="false">
+    <Translated>Мужчина</Translated>
+  </Line>
+  <Line StartPos="2179" Length="44" Skip="false">
+    <Translated>Как-никак мы были в городе Лигурия.</Translated>
+  </Line>
+  <Line StartPos="2228" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2255" Length="45" Skip="false">
+    <Translated>Если вы пришли забрать\0долг, то немного опоздали.</Translated>
+  </Line>
+  <Line StartPos="2305" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2323" Length="44" Skip="false">
+    <Translated>У нас уже забрали всё, что\0было.</Translated>
+  </Line>
+  <Line StartPos="2372" Length="3" Skip="false">
+    <Translated>Мужчина</Translated>
+  </Line>
+  <Line StartPos="2388" Length="50" Skip="false">
+    <Translated>Я не за этим пришёл сюда. Я здесь, чтобы\0испытать тебя.</Translated>
+  </Line>
+  <Line StartPos="2443" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2470" Length="8" Skip="false">
+    <Translated>Испытать?</Translated>
+  </Line>
+  <Line StartPos="2483" Length="3" Skip="false">
+    <Translated>Мужчина</Translated>
+  </Line>
+  <Line StartPos="2499" Length="45" Skip="false">
+    <Translated>Клиф-кун... Не хочешь стать Охотником?</Translated>
+  </Line>
+  <Line StartPos="2661" Length="3" Skip="false">
+    <Translated>Top</Translated>
+  </Line>
+  <Line StartPos="2667" Length="9" Skip="false">
+    <Translated>OP_BT\0Top</Translated>
+  </Line>
+  <Line StartPos="2685" Length="3" Skip="false">
+    <Translated>Top</Translated>
+  </Line>
+  <Line StartPos="2697" Length="3" Skip="false">
+    <Translated>Top</Translated>
+  </Line>
+  <Line StartPos="2709" Length="3" Skip="false">
+    <Translated>Top</Translated>
+  </Line>
+  <Line StartPos="2895" Length="12" Skip="false">
+    <Translated>Chap_ini\0Top</Translated>
+  </Line>
+  <Line StartPos="3056" Length="9" Skip="false">
+    <Translated>Main\0test</Translated>
+  </Line>
+</Lines>
+
+</pre>
+[[Men at Work 2:Прогресс_перевода|[Назад]]]

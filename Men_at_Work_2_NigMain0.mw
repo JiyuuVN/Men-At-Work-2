@@ -1,0 +1,187 @@
+[[Men at Work 2:Прогресс_перевода|[Назад]]]
+<pre>
+<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="60">
+  <Line StartPos="844" Length="11" Skip="false">
+    <Translated>R_Cliff\0Top</Translated>
+  </Line>
+  <Line StartPos="876" Length="8" Skip="false">
+    <Translated>main\0Top</Translated>
+  </Line>
+  <Line StartPos="887" Length="10" Skip="false">
+    <Translated>Dining\0Top</Translated>
+  </Line>
+  <Line StartPos="1385" Length="10" Skip="false">
+    <Translated>Выйти наружу</Translated>
+  </Line>
+  <Line StartPos="1996" Length="103" Skip="false">
+    <Translated>R_Cliff\0R_Mena\0R_Sheryl\0R_Aoi\0R_Lucy\0R_Kitty\0R_Will\0R_Hall\0R_Dining\0Terrace\0R_Bath\0R_Kitchen\0R_Mechroom</Translated>
+  </Line>
+  <Line StartPos="2115" Length="11" Skip="false">
+    <Translated>R_Cliff\0Top</Translated>
+  </Line>
+  <Line StartPos="2142" Length="10" Skip="false">
+    <Translated>R_Mena\0Top</Translated>
+  </Line>
+  <Line StartPos="2168" Length="12" Skip="false">
+    <Translated>R_Sheryl\0Top</Translated>
+  </Line>
+  <Line StartPos="2196" Length="9" Skip="false">
+    <Translated>R_Aoi\0Top</Translated>
+  </Line>
+  <Line StartPos="2221" Length="10" Skip="false">
+    <Translated>R_Lucy\0Top</Translated>
+  </Line>
+  <Line StartPos="2247" Length="11" Skip="false">
+    <Translated>R_Kitty\0Top</Translated>
+  </Line>
+  <Line StartPos="2274" Length="10" Skip="false">
+    <Translated>R_Will\0Top</Translated>
+  </Line>
+  <Line StartPos="2300" Length="12" Skip="false">
+    <Translated>R_Dining\0Top</Translated>
+  </Line>
+  <Line StartPos="2328" Length="10" Skip="false">
+    <Translated>R_Bath\0Top</Translated>
+  </Line>
+  <Line StartPos="2393" Length="73" Skip="false">
+    <Translated>Девушки сейчас в ванной, придётся подождать, пока они не выйдут.</Translated>
+  </Line>
+  <Line StartPos="2479" Length="72" Skip="false">
+    <Translated>Девушки принимают ванну, подожду пока они не выйдут.</Translated>
+  </Line>
+  <Line StartPos="2708" Length="5" Skip="false">
+    <Translated>start</Translated>
+  </Line>
+  <Line StartPos="2778" Length="53" Skip="false">
+    <Translated>Мина, Люси и Аой-сан спустились в прихожую.</Translated>
+  </Line>
+  <Line StartPos="2836" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2863" Length="31" Skip="false">
+    <Translated>Эм... А куда вы собрались?</Translated>
+  </Line>
+  <Line StartPos="2908" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2925" Length="62" Skip="false">
+    <Translated>О... Люси-сан и Аой-сан пригласили меня с собой в баню.</Translated>
+  </Line>
+  <Line StartPos="2992" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3019" Length="8" Skip="false">
+    <Translated>Понятно.</Translated>
+  </Line>
+  <Line StartPos="3042" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3059" Length="60" Skip="false">
+    <Translated>Извини. Хотелось бы взять тебя с собой, но баня, к сожалению, исключительно женская.</Translated>
+  </Line>
+  <Line StartPos="3133" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3149" Length="48" Skip="false">
+    <Translated>Мужчины могут использовать школьную ванную.</Translated>
+  </Line>
+  <Line StartPos="3202" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3229" Length="22" Skip="false">
+    <Translated>Ясно. Ну идите.</Translated>
+  </Line>
+  <Line StartPos="3265" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3282" Length="16" Skip="false">
+    <Translated>Пока.</Translated>
+  </Line>
+  <Line StartPos="3326" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3353" Length="27" Skip="false">
+    <Translated>Так... Что я должен был сделать?</Translated>
+  </Line>
+  <Line StartPos="3457" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3484" Length="30" Skip="false">
+    <Translated>Кажется, они уже вернулись.</Translated>
+  </Line>
+  <Line StartPos="3528" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3545" Length="13" Skip="false">
+    <Translated>Мы вернулись.</Translated>
+  </Line>
+  <Line StartPos="3573" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3590" Length="21" Skip="false">
+    <Translated>Ах, как же хорошо!</Translated>
+  </Line>
+  <Line StartPos="3616" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3643" Length="15" Skip="false">
+    <Translated>С возвращением.</Translated>
+  </Line>
+  <Line StartPos="3672" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3688" Length="42" Skip="false">
+    <Translated>Мм... Ты уже помылся, Клиф-сан</Translated>
+  </Line>
+  <Line StartPos="3751" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3778" Length="44" Skip="false">
+    <Translated>А, да. Ещё днём.</Translated>
+  </Line>
+  <Line StartPos="3836" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3853" Length="32" Skip="false">
+    <Translated>Ты грязный. Сходи помойся.</Translated>
+  </Line>
+  <Line StartPos="3890" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3917" Length="13" Skip="false">
+    <Translated>Ох... Ладно.</Translated>
+  </Line>
+  <Line StartPos="3945" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3962" Length="98" Skip="false">
+    <Translated>Ух ты. Я знала что Ми-чан умеет приручать монстров, но не подозревала, что и Ку-чана приручить может.</Translated>
+  </Line>
+  <Line StartPos="4074" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="4091" Length="39" Skip="false">
+    <Translated>Ох нет... Даже не пыталась.</Translated>
+  </Line>
+  <Line StartPos="4144" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4171" Length="59" Skip="false">
+    <Translated>А... Я принял вану сразу, как вы ушли.</Translated>
+  </Line>
+  <Line StartPos="4235" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4251" Length="7" Skip="false">
+    <Translated>Понятно.</Translated>
+  </Line>
+  <Line StartPos="4273" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="4290" Length="30" Skip="false">
+    <Translated>Да. Не люблю грязнуль.</Translated>
+  </Line>
+</Lines>
+</pre>
+[[Men at Work 2:Прогресс_перевода|[Назад]]]

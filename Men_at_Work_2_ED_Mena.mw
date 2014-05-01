@@ -1,0 +1,299 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="96">
+  <Line StartPos="204" Length="39" Skip="false">
+    <Translated>Прошла неделя...</Translated>
+  </Line>
+  <Line StartPos="255" Length="66" Skip="false">
+    <Translated>Монстры, которые всех беспокоили, исчезли.</Translated>
+  </Line>
+  <Line StartPos="373" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="390" Length="45" Skip="false">
+    <Translated>Ну же, Клиф, Быстрее! Они уже скоро будут здесь!</Translated>
+  </Line>
+  <Line StartPos="440" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="458" Length="28" Skip="false">
+    <Translated>Я знаю. Ещё чуть-чуть...</Translated>
+  </Line>
+  <Line StartPos="491" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="508" Length="73" Skip="false">
+    <Translated>Ну же! Это будет неловко, если мы опоздаем на приветствие новых учеников!</Translated>
+  </Line>
+  <Line StartPos="586" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="604" Length="15" Skip="false">
+    <Translated>Я у-уже иду!</Translated>
+  </Line>
+  <Line StartPos="649" Length="3" Skip="false">
+    <Translated>???</Translated>
+  </Line>
+  <Line StartPos="665" Length="34" Skip="false">
+    <Translated>Значит, это Школа Охотников...</Translated>
+  </Line>
+  <Line StartPos="704" Length="3" Skip="false">
+    <Translated>???</Translated>
+  </Line>
+  <Line StartPos="720" Length="46" Skip="false">
+    <Translated>Место, где мои мечты сбудутся...</Translated>
+  </Line>
+  <Line StartPos="785" Length="16" Skip="false">
+    <Translated>Фух...</Translated>
+  </Line>
+  <Line StartPos="810" Length="3" Skip="false">
+    <Translated>???</Translated>
+  </Line>
+  <Line StartPos="826" Length="12" Skip="false">
+    <Translated>Позвольте!</Translated>
+  </Line>
+  <Line StartPos="847" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="864" Length="7" Skip="false">
+    <Translated>Да!</Translated>
+  </Line>
+  <Line StartPos="903" Length="10" Skip="false">
+    <Translated>Клиф&amp;Мина</Translated>
+  </Line>
+  <Line StartPos="926" Length="32" Skip="false">
+    <Translated>Добро пожаловать в Школу Охотников!</Translated>
+  </Line>
+  <Line StartPos="1165" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1182" Length="37" Skip="false">
+    <Translated>Клиф... Спасибо что выбрал меня.</Translated>
+  </Line>
+  <Line StartPos="1247" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1264" Length="68" Skip="false">
+    <Translated>Но... Если подумать, ты общался со всеми девушками.</Translated>
+  </Line>
+  <Line StartPos="1346" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1363" Length="51" Skip="false">
+    <Translated>Поскольку ты вернулся ко мне, я прошу тебя.</Translated>
+  </Line>
+  <Line StartPos="1450" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1467" Length="41" Skip="false">
+    <Translated>Ты выбирал меня много раз, но,\0ум...</Translated>
+  </Line>
+  <Line StartPos="1522" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1539" Length="54" Skip="false">
+    <Translated>Эм... Пожалуйста, будь добр и к другим девушкам в следующий раз, ладно?</Translated>
+  </Line>
+  <Line StartPos="1607" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1624" Length="28" Skip="false">
+    <Translated>Клиф, ты всем понравился.</Translated>
+  </Line>
+  <Line StartPos="1666" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1683" Length="52" Skip="false">
+    <Translated>Я буду, эм... выдержу, даже если ты немного обманешь меня.</Translated>
+  </Line>
+  <Line StartPos="1763" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1780" Length="19" Skip="false">
+    <Translated>А, ты знал это?</Translated>
+  </Line>
+  <Line StartPos="1813" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1830" Length="68" Skip="false">
+    <Translated>Люси-сан очень жизнерадостна, но похоже, у неё было трудное прошлое.</Translated>
+  </Line>
+  <Line StartPos="1912" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1929" Length="28" Skip="false">
+    <Translated>Я хочу чтобы ты спас её.</Translated>
+  </Line>
+  <Line StartPos="1993" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2010" Length="34" Skip="false">
+    <Translated>Китти-чан ты мне тоже очень нравишься.</Translated>
+  </Line>
+  <Line StartPos="2072" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2089" Length="79" Skip="false">
+    <Translated>Может Аой-сан и выглядит сильной, Но я думаю, что на самом деле, она ненавидит одиночество.</Translated>
+  </Line>
+  <Line StartPos="2182" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2199" Length="53" Skip="false">
+    <Translated>И мы должны найти тело Шерил-сан как можно быстрее.</Translated>
+  </Line>
+  <Line StartPos="2270" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2287" Length="105" Skip="false">
+    <Translated>Ну, сейчас мы вернёмся к первому дню... Твои вещи и мана останутся, так что не забудь сохраниться.</Translated>
+  </Line>
+  <Line StartPos="2406" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2423" Length="39" Skip="false">
+    <Translated>Пожалуйста, приходи ещё... Я буду ждать.</Translated>
+  </Line>
+  <Line StartPos="2526" Length="69" Skip="false">
+    <Translated>Сильные монстры внезапно начали слабеть.</Translated>
+  </Line>
+  <Line StartPos="2627" Length="53" Skip="false">
+    <Translated>Все удивились, но у нас есть догадка.</Translated>
+  </Line>
+  <Line StartPos="2692" Length="40" Skip="false">
+    <Translated>Дракул, возможно, как-то влиял на них.</Translated>
+  </Line>
+  <Line StartPos="2764" Length="47" Skip="false">
+    <Translated>Как обычно, монстры появляются ночью, но...</Translated>
+  </Line>
+  <Line StartPos="2843" Length="58" Skip="false">
+    <Translated>... в городе Филандия, вновь воцарился относительный покой.</Translated>
+  </Line>
+  <Line StartPos="2932" Length="89" Skip="false">
+    <Translated>Мы начали беспокоиться, что Школа останется не у дел, но...</Translated>
+  </Line>
+  <Line StartPos="3033" Length="90" Skip="false">
+    <Translated>Работа появлялась, даже когда монстры успокоились.</Translated>
+  </Line>
+  <Line StartPos="3135" Length="116" Skip="false">
+    <Translated>Очистка стоков, сопровождение, живопись, мойка окон, уборка общественной бани, реклама для паба, и так далее...</Translated>
+  </Line>
+  <Line StartPos="3263" Length="46" Skip="false">
+    <Translated>Иногда мы задумываемся, а правда ли мы Охотники...</Translated>
+  </Line>
+  <Line StartPos="3321" Length="95" Skip="false">
+    <Translated>Но наши навыки Охотников совсем не ржавеют, поскольку, время от времени, попадаются задания связанные с нашей работой.</Translated>
+  </Line>
+  <Line StartPos="3428" Length="72" Skip="false">
+    <Translated>Мы способны зарабатывать себе на жизнь и грех жаловаться.</Translated>
+  </Line>
+  <Line StartPos="3516" Length="69" Skip="false">
+    <Translated>Правда, когда лето заканчивается и наступает осень...</Translated>
+  </Line>
+  <Line StartPos="3621" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3638" Length="48" Skip="false">
+    <Translated>О... Сегодня у нас опять много запросов.</Translated>
+  </Line>
+  <Line StartPos="3700" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3717" Length="36" Skip="false">
+    <Translated>Аа? Письмо от Сенсея!</Translated>
+  </Line>
+  <Line StartPos="3767" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3784" Length="26" Skip="false">
+    <Translated>Хмм... Что в нём сказано?</Translated>
+  </Line>
+  <Line StartPos="3838" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3855" Length="7" Skip="false">
+    <Translated>Ох...</Translated>
+  </Line>
+  <Line StartPos="3885" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3902" Length="56" Skip="false">
+    <Translated>Ребята! В письме написано — Сенсей скоро вернётся!</Translated>
+  </Line>
+  <Line StartPos="3969" Length="47" Skip="false">
+    <Translated>Мы получили письмо от Сенсея, который сейчас в Лигурии.</Translated>
+  </Line>
+  <Line StartPos="4028" Length="70" Skip="false">
+    <Translated>Он пишет, что они вернуться как уляжется путаница.</Translated>
+  </Line>
+  <Line StartPos="4114" Length="57" Skip="false">
+    <Translated>Город Филандия уже вернулся к мирной жизни.</Translated>
+  </Line>
+  <Line StartPos="4187" Length="57" Skip="false">
+    <Translated>А да... Бенжамин-сан, у которого сгорел дом...</Translated>
+  </Line>
+  <Line StartPos="4290" Length="72" Skip="false">
+    <Translated>Он выздоровел, и уже отстроил свой особняк. Он точно крут.</Translated>
+  </Line>
+  <Line StartPos="4388" Length="100" Skip="false">
+    <Translated>Но... Я за него не волнуюсь, он и так был счастлив, что его особняк был построен быстро и дешево.</Translated>
+  </Line>
+  <Line StartPos="4500" Length="96" Skip="false">
+    <Translated>Мне жаль его слугу, у которого всё это время был кислый вид. Надеюсь, на этот раз дом не сгорит так просто.</Translated>
+  </Line>
+  <Line StartPos="4631" Length="29" Skip="false">
+    <Translated>И вот однажды утром...</Translated>
+  </Line>
+  <Line StartPos="4683" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="4700" Length="30" Skip="false">
+    <Translated>А, я вижу их! Это наши учителя!</Translated>
+  </Line>
+  <Line StartPos="4794" Length="50" Skip="false">
+    <Translated>Вилл-сенсей и Айри-сенсей возвращаются из Лигурии.</Translated>
+  </Line>
+  <Line StartPos="4856" Length="72" Skip="false">
+    <Translated>Они, кажется, удивились, заметив ещё двух учеников — Шерил и Китти, но...</Translated>
+  </Line>
+  <Line StartPos="4940" Length="74" Skip="false">
+    <Translated>По-настоящему они удивились, когда мы рассказали, что победили Дракула.</Translated>
+  </Line>
+  <Line StartPos="5068" Length="84" Skip="false">
+    <Translated>Узнав об этом, сенсей улыбнулся и поблагодарил нас за наши старания.</Translated>
+  </Line>
+  <Line StartPos="5164" Length="82" Skip="false">
+    <Translated>Это заставило меня почувствовать, что он принял меня как настоящего Охотника. Я был счастлив.</Translated>
+  </Line>
+  <Line StartPos="5280" Length="85" Skip="false">
+    <Translated>Потом я узнал, что случай, из-за которого они отправился в Лигурию, тоже был связан с Дракулом.</Translated>
+  </Line>
+  <Line StartPos="5377" Length="58" Skip="false">
+    <Translated>Получилось, что мы выполнили их задание.</Translated>
+  </Line>
+  <Line StartPos="5483" Length="52" Skip="false">
+    <Translated>С течением времени в Школе стало лучше, и...</Translated>
+  </Line>
+  <Line StartPos="5588" Length="53" Skip="false">
+    <Translated>И... с течением времени, мы всё больше и больше взрослеем как Охотники.</Translated>
+  </Line>
+  <Line StartPos="5657" Length="38" Skip="false">
+    <Translated>Заканчивается очередной день, и наступает завтра.</Translated>
+  </Line>
+  <Line StartPos="5707" Length="42" Skip="false">
+    <Translated>Завтра... Станем ли мы ещё немного старше?..</Translated>
+  </Line>
+  <Line StartPos="5761" Length="46" Skip="false">
+    <Translated>Надеюсь, я смогу стать великим Охотником, таким как Сенсей...</Translated>
+  </Line>
+  <Line StartPos="5819" Length="10" Skip="false">
+    <Translated>Когда-нибудь...</Translated>
+  </Line>
+</Lines>
+
+</pre>
+
+[[Men_at_Work 2|[Назад]]]

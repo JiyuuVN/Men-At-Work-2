@@ -1,0 +1,385 @@
+[[Men at Work 2:Прогресс_перевода|[Назад]]]
+<pre>
+<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="126">
+  <Line StartPos="82" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="99" Length="66" Skip="false">
+    <Translated>Позвольте официально поприветствовать.\0Добро пожаловать в Школу Охотников!</Translated>
+  </Line>
+  <Line StartPos="179" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="196" Length="69" Skip="false">
+    <Translated>Сейчас у нас обучаетесь вы двое, Люси\0и Аой.</Translated>
+  </Line>
+  <Line StartPos="270" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="297" Length="40" Skip="false">
+    <Translated>Мм... А чем мы должны\0здесь заниматься?</Translated>
+  </Line>
+  <Line StartPos="351" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="368" Length="58" Skip="false">
+    <Translated>В основном, вы будете тренироваться,\0чтобы стать хорошими Охотниками.</Translated>
+  </Line>
+  <Line StartPos="441" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="458" Length="48" Skip="false">
+    <Translated>Тренироваться? А что это будут за\0тренировки?</Translated>
+  </Line>
+  <Line StartPos="520" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="537" Length="58" Skip="false">
+    <Translated>Наш девиз: бой — лучшая тренировка.</Translated>
+  </Line>
+  <Line StartPos="600" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="627" Length="10" Skip="false">
+    <Translated>Бой?</Translated>
+  </Line>
+  <Line StartPos="646" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="663" Length="88" Skip="false">
+    <Translated>Ну, в общем, вы будете сражаться с\0монстрами. Это и есть ваша тренировка.</Translated>
+  </Line>
+  <Line StartPos="756" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="783" Length="7" Skip="false">
+    <Translated>Хм...</Translated>
+  </Line>
+  <Line StartPos="804" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="821" Length="56" Skip="false">
+    <Translated>Должен сказать, что Школа сейчас\0испытывает некоторые финансовые\0трудности...</Translated>
+  </Line>
+  <Line StartPos="882" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="909" Length="11" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="934" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="951" Length="88" Skip="false">
+    <Translated>Так что, зарабатывая деньги за убийство\0монстров, вы поможете Школе.</Translated>
+  </Line>
+  <Line StartPos="1044" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1071" Length="7" Skip="false">
+    <Translated>Хм...</Translated>
+  </Line>
+  <Line StartPos="1083" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1100" Length="50" Skip="false">
+    <Translated>Вам всё понятно?</Translated>
+  </Line>
+  <Line StartPos="1155" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1182" Length="67" Skip="false">
+    <Translated>Значит, нам придётся\0охотиться на монстров?</Translated>
+  </Line>
+  <Line StartPos="1263" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1280" Length="43" Skip="false">
+    <Translated>Ты всё правильно понял, Клиф-кун.</Translated>
+  </Line>
+  <Line StartPos="1328" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1355" Length="73" Skip="false">
+    <Translated>Мм... Мне кажется, что у\0школ, вроде нашей, обычно\0есть спонсоры...</Translated>
+  </Line>
+  <Line StartPos="1442" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1459" Length="91" Skip="false">
+    <Translated>Это так, но... Мы и так уже причинили\0кучу проблем человеку, помогавшему нам\0с этим зданием.</Translated>
+  </Line>
+  <Line StartPos="1555" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1572" Length="87" Skip="false">
+    <Translated>А, второй спонсор, по стечению\0обстоятельств, больше не может нам\0помогать...</Translated>
+  </Line>
+  <Line StartPos="1673" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1690" Length="39" Skip="false">
+    <Translated>Им был твой отец...</Translated>
+  </Line>
+  <Line StartPos="1734" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1761" Length="13" Skip="false">
+    <Translated>Ох...</Translated>
+  </Line>
+  <Line StartPos="1788" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1805" Length="57" Skip="false">
+    <Translated>Мы продолжим искать помощь, но...</Translated>
+  </Line>
+  <Line StartPos="1867" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1884" Length="50" Skip="false">
+    <Translated>Это не значит, что мы возьмём в\0спонсоры первого кто заплатит.</Translated>
+  </Line>
+  <Line StartPos="1948" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="1965" Length="86" Skip="false">
+    <Translated>Что если нас в счёт залога попросят об\0"особых услугах"? Охотники могут превра\0титься в личную армию этого спонсора...</Translated>
+  </Line>
+  <Line StartPos="2065" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2082" Length="54" Skip="false">
+    <Translated>Мы должны быть более аккуратны.</Translated>
+  </Line>
+  <Line StartPos="2150" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2167" Length="47" Skip="false">
+    <Translated>В этом отношении, господин Мэрдок был\0лучшим вариантом...</Translated>
+  </Line>
+  <Line StartPos="2219" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2236" Length="73" Skip="false">
+    <Translated>Он был очень обеспокоен тем фактом, что\0люди становятся жертвами нападений\0монстров.</Translated>
+  </Line>
+  <Line StartPos="2314" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2341" Length="8" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="2363" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2380" Length="98" Skip="false">
+    <Translated>В общем, вернёмся к делу. Вот по этим\0причинам мы и вынуждены зарабатывать\0деньги сами.</Translated>
+  </Line>
+  <Line StartPos="2483" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2500" Length="81" Skip="false">
+    <Translated>Если быть честным, то Школа сейчас не\0в том положении, чтобы брезговать\0работой...</Translated>
+  </Line>
+  <Line StartPos="2595" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2612" Length="56" Skip="false">
+    <Translated>Так что, мы выполняем заказы связанные\0с уничтожением различных монстров.</Translated>
+  </Line>
+  <Line StartPos="2683" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2700" Length="32" Skip="false">
+    <Translated>Это... похоже на уборщиков...</Translated>
+  </Line>
+  <Line StartPos="2746" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2763" Length="86" Skip="false">
+    <Translated>По сути, так и есть. Потому нас и\0приняли, как Охотников, в этом городе.</Translated>
+  </Line>
+  <Line StartPos="2854" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2871" Length="52" Skip="false">
+    <Translated>Мы делаем грязную работу. Во многих\0городах не особо любят таких как мы.</Translated>
+  </Line>
+  <Line StartPos="2937" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="2954" Length="90" Skip="false">
+    <Translated>Первое задача, которая стояла перед\0нами после строительства школы -\0завоевать доверие горожан.</Translated>
+  </Line>
+  <Line StartPos="3058" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3075" Length="104" Skip="false">
+    <Translated>Поначалу нам было трудно, но люди\0приняли нас. Так что, не надо\0волноваться.</Translated>
+  </Line>
+  <Line StartPos="3184" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3201" Length="54" Skip="false">
+    <Translated>Люси и Аой тоже очень помогли нам в этом\0деле.</Translated>
+  </Line>
+  <Line StartPos="3270" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3287" Length="43" Skip="false">
+    <Translated>Мы тоже постараемся. Да, Клиф?</Translated>
+  </Line>
+  <Line StartPos="3335" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3362" Length="21" Skip="false">
+    <Translated>Да, точно.</Translated>
+  </Line>
+  <Line StartPos="3397" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3414" Length="40" Skip="false">
+    <Translated>Тогда рассчитываем на вас.</Translated>
+  </Line>
+  <Line StartPos="3468" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3485" Length="40" Skip="false">
+    <Translated>Но есть ещё одна проблема...</Translated>
+  </Line>
+  <Line StartPos="3530" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3557" Length="33" Skip="false">
+    <Translated>Проблема? Какая?</Translated>
+  </Line>
+  <Line StartPos="3604" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3621" Length="33" Skip="false">
+    <Translated>На нашу школу положили глаз...</Translated>
+  </Line>
+  <Line StartPos="3659" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3686" Length="34" Skip="false">
+    <Translated>Кто? Монстры?</Translated>
+  </Line>
+  <Line StartPos="3725" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3742" Length="54" Skip="false">
+    <Translated>Нет, человек. Но он хуже любых монстров.</Translated>
+  </Line>
+  <Line StartPos="3811" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3828" Length="36" Skip="false">
+    <Translated>Но зачем ему это надо?</Translated>
+  </Line>
+  <Line StartPos="3878" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="3895" Length="53" Skip="false">
+    <Translated>Он хочет построить тут общественную купальню...</Translated>
+  </Line>
+  <Line StartPos="3953" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3980" Length="12" Skip="false">
+    <Translated>Ээ... Купальню?</Translated>
+  </Line>
+  <Line StartPos="4006" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4023" Length="35" Skip="false">
+    <Translated>Да. Здесь есть горячий источник.</Translated>
+  </Line>
+  <Line StartPos="4072" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4089" Length="41" Skip="false">
+    <Translated>Но мы не можем просто так взять и одать\0ему наш дом.</Translated>
+  </Line>
+  <Line StartPos="4144" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4161" Length="39" Skip="false">
+    <Translated>И неважно, сколько он нам заплатит.</Translated>
+  </Line>
+  <Line StartPos="4215" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4242" Length="11" Skip="false">
+    <Translated>Понимаю...</Translated>
+  </Line>
+  <Line StartPos="4260" Length="90" Skip="false">
+    <Translated>И не потому, что так сказал Вилл-сенсей.\0Я чувствую, мы не можем просто так\0отдать этот дом.</Translated>
+  </Line>
+  <Line StartPos="4353" Length="80" Skip="false">
+    <Translated>Это ради отца. Он столько сил вложил в\0эту школу...</Translated>
+  </Line>
+  <Line StartPos="4453" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4470" Length="79" Skip="false">
+    <Translated>Ну, вы ведь здесь впервые? Давайте мы\0покажем вам город.</Translated>
+  </Line>
+  <Line StartPos="4554" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4581" Length="18" Skip="false">
+    <Translated>О... Да, пожалуйста.</Translated>
+  </Line>
+  <Line StartPos="4613" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4630" Length="43" Skip="false">
+    <Translated>Отлично. Айри, можешь показать им окрестности?</Translated>
+  </Line>
+  <Line StartPos="4688" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="4704" Length="20" Skip="false">
+    <Translated>Хорошо, Учитель.</Translated>
+  </Line>
+  <Line StartPos="4738" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4755" Length="25" Skip="false">
+    <Translated>И ещё кое что.</Translated>
+  </Line>
+  <Line StartPos="4795" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="4811" Length="15" Skip="false">
+    <Translated>Что такое, Учитель?</Translated>
+  </Line>
+  <Line StartPos="4840" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4857" Length="42" Skip="false">
+    <Translated>Не могла бы ты перестать назвать меня\0Учителем?</Translated>
+  </Line>
+  <Line StartPos="4914" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="4930" Length="63" Skip="false">
+    <Translated>Ой, да ладно. Я уже столько лет тебя\0так называю.</Translated>
+  </Line>
+  <Line StartPos="5008" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="5024" Length="27" Skip="false">
+    <Translated>Ну что, пошли?</Translated>
+  </Line>
+  <Line StartPos="5056" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5083" Length="13" Skip="false">
+    <Translated>Да, Хорошо.</Translated>
+  </Line>
+</Lines>
+</pre>
+[[Men at Work 2:Прогресс_перевода|[Назад]]]

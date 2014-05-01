@@ -1,0 +1,970 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+
+?<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="239">
+  <Line StartPos="709" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="729" Length="72" Skip="false">
+    <Origin>"Hey, Cliff-boy... I haven&apos;t seen Hanna-\0san, do you know where she is?"</Origin>
+    <Translated>Эй, парень... Давненько я не видел Ханну-сан, не знаешь где она?</Translated>
+  </Line>
+  <Line StartPos="806" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="833" Length="12" Skip="false">
+    <Origin>"Huh? No..."</Origin>
+    <Translated>Аа? Нет...</Translated>
+  </Line>
+  <Line StartPos="859" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="879" Length="30" Skip="false">
+    <Origin>"...I just heard a bad rumor."</Origin>
+    <Translated>Ходят тут слухи... Нехорошие.</Translated>
+  </Line>
+  <Line StartPos="914" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="941" Length="12" Skip="false">
+    <Origin>"Bad rumor?"</Origin>
+    <Translated>Слухи?</Translated>
+  </Line>
+  <Line StartPos="967" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="987" Length="89" Skip="false">
+    <Origin>"Some guy saw her going into the forest\0of the old castle by herself, carrying a\0basket."</Origin>
+    <Translated>Один парень видел, как она одна направлялась в лес возле замка, неся с собой корзинку.</Translated>
+  </Line>
+  <Line StartPos="1090" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1110" Length="97" Skip="false">
+    <Origin>"Well, I think that guy saw someone\0else. I don&apos;t think Hanna-san would have\0any business there."</Origin>
+    <Translated>Парень, конечно, мог и обознаться. Не думаю что у Ханны-сан там могут быть какие-то дела.</Translated>
+  </Line>
+  <Line StartPos="1212" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1239" Length="19" Skip="false">
+    <Origin>"C-Could it be?.."</Origin>
+    <Translated>М-может быть..</Translated>
+  </Line>
+  <Line StartPos="1272" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1292" Length="26" Skip="false">
+    <Origin>"What&apos;s wrong, Cliff-boy?"</Origin>
+    <Translated>Что-то не так, парень?</Translated>
+  </Line>
+  <Line StartPos="1323" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1351" Length="76" Skip="false">
+    <Origin>"Hanna-san asked me the\0other day where she could\0find strawberry slimes..."</Origin>
+    <Translated>На днях Ханна-сан спрашивала у меня, где можно найти клубничных порингов...</Translated>
+  </Line>
+  <Line StartPos="1438" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1457" Length="48" Skip="false">
+    <Origin>"And I told her the forest of the old\0castle..."</Origin>
+    <Translated>И я сказал ей, что в лесу возле замка...</Translated>
+  </Line>
+  <Line StartPos="1527" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1547" Length="30" Skip="false">
+    <Origin>"What?! Then could it be...?!"</Origin>
+    <Translated>Что?! Тогда может ли быть?!..</Translated>
+  </Line>
+  <Line StartPos="1582" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1609" Length="48" Skip="false">
+    <Origin>"Hanna-san might&apos;ve really\0went to that forest!"</Origin>
+    <Translated>Ханна-сан действительно могла пойти в тот лес!</Translated>
+  </Line>
+  <Line StartPos="1662" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1682" Length="32" Skip="false">
+    <Origin>"By herself?! That&apos;s reckless!!"</Origin>
+    <Translated>Одна?! Это же безумство!</Translated>
+  </Line>
+  <Line StartPos="1719" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1746" Length="30" Skip="false">
+    <Origin>"It&apos;s really reckless of\0her!"</Origin>
+    <Translated>Действительно безрассудно с её стороны!</Translated>
+  </Line>
+  <Line StartPos="1783" Length="25" Skip="false">
+    <Origin>...I&apos;m starting to panic.</Origin>
+    <Translated>Мне становится не по себе.</Translated>
+  </Line>
+  <Line StartPos="1822" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="1842" Length="99" Skip="false">
+    <Origin>"Cliff-boy! I&apos;ve got a job for you! Go\0find Hanna-san and save her if she&apos;s in\0any kind of danger!"</Origin>
+    <Translated>Парень! У меня срочное задание для тебя! Найди Ханну-сан и спаси её, если ей угрожает опасность!</Translated>
+  </Line>
+  <Line StartPos="1946" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1973" Length="12" Skip="false">
+    <Origin>"All right!"</Origin>
+    <Translated>Хорошо!</Translated>
+  </Line>
+  <Line StartPos="1999" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="2019" Length="49" Skip="false">
+    <Origin>"Good luck! I&apos;ll give you a big reward\0for this!"</Origin>
+    <Translated>Удачи! Я назначу большое вознаграждение за эту работу!</Translated>
+  </Line>
+  <Line StartPos="2075" Length="54" Skip="false">
+    <Origin>You have accepted the request to search\0for Hanna-san.</Origin>
+    <Translated>Принят запрос на поиск и спасение Ханны-сан.</Translated>
+  </Line>
+  <Line StartPos="2157" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="2177" Length="42" Skip="false">
+    <Origin>"Well, is there anything I can help\0with?"</Origin>
+    <Translated>Ну, могу ли я чем-нибудь помочь?</Translated>
+  </Line>
+  <Line StartPos="2255" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="2275" Length="25" Skip="false">
+    <Origin>"Did you find Hanna-san?"</Origin>
+    <Translated>Ты уже нашёл Ханну-сан?</Translated>
+  </Line>
+  <Line StartPos="2314" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="2334" Length="56" Skip="false">
+    <Origin>"Please find her quickly... I&apos;m getting\0really worried."</Origin>
+    <Translated>Пожалуйста поторопись... Я за неё очень беспокоюсь.</Translated>
+  </Line>
+  <Line StartPos="2404" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="2424" Length="35" Skip="false">
+    <Origin>"So, anything I can help you with?"</Origin>
+    <Translated>Итак, чем я могу быть полезен?</Translated>
+  </Line>
+  <Line StartPos="2663" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2690" Length="36" Skip="false">
+    <Origin>"We have to go rescue Hanna-\0san..."</Origin>
+    <Translated>Мы должны спасти Ханну-сан...</Translated>
+  </Line>
+  <Line StartPos="2781" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="2797" Length="47" Skip="false">
+    <Origin>"So why did Hanna-san come to such a\0place?.."</Origin>
+    <Translated>Почему Ханна-сан отправилась одна в такое место?..</Translated>
+  </Line>
+  <Line StartPos="2849" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2876" Length="56" Skip="false">
+    <Origin>"I don&apos;t know. She was\0interested in strawberry\0slimes."</Origin>
+    <Translated>Я не знаю. Недавно она интересовалась порингами.</Translated>
+  </Line>
+  <Line StartPos="2947" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2964" Length="74" Skip="false">
+    <Origin>"It&apos;s dangerous if that&apos;s true. This\0forest&apos;s filled with nasty monsters."</Origin>
+    <Translated>Если так, то это ужасно. Этот лес просто переполнен всякими мерзкими монстрами.</Translated>
+  </Line>
+  <Line StartPos="3043" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3070" Length="74" Skip="false">
+    <Origin>"Yeah... We have to find her\0if Hanna-san really did come\0in this forest."</Origin>
+    <Translated>Угу... Мы должны найти её, если она и правда там.</Translated>
+  </Line>
+  <Line StartPos="3179" Length="33" Skip="false">
+    <Origin>This road leads back to the town.</Origin>
+    <Translated>Дорога назад в город.</Translated>
+  </Line>
+  <Line StartPos="3238" Length="8" Skip="false">
+    <Origin>Go back?</Origin>
+    <Translated>Вернуться?</Translated>
+  </Line>
+  <Line StartPos="3251" Length="6" Skip="false">
+    <Origin>Yes\0No</Origin>
+    <Translated>Да\0Нет</Translated>
+  </Line>
+  <Line StartPos="3285" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3301" Length="20" Skip="false">
+    <Origin>"Are we going back?"</Origin>
+    <Translated>Мы возвращаемся?</Translated>
+  </Line>
+  <Line StartPos="3336" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3353" Length="29" Skip="false">
+    <Origin>"B-But what about Hanna-san?"</Origin>
+    <Translated>Н-но как же Ханна-сан?</Translated>
+  </Line>
+  <Line StartPos="3387" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3414" Length="54" Skip="false">
+    <Origin>"I know... we&apos;ll come back\0as soon as we&apos;re prepared."</Origin>
+    <Translated>Я знаю... Мы вернёмся сразу, как будем готовы.</Translated>
+  </Line>
+  <Line StartPos="3738" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3765" Length="23" Skip="false">
+    <Origin>"Crap, they&apos;re strong!"</Origin>
+    <Translated>Чёрт, они сильны!</Translated>
+  </Line>
+  <Line StartPos="3802" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3818" Length="30" Skip="false">
+    <Origin>"W-We should retreat for now!"</Origin>
+    <Translated>М-мы должны отступить!</Translated>
+  </Line>
+  <Line StartPos="3885" Length="11" Skip="false">
+    <Origin>main\0SunSet</Origin>
+    <Translated>main\0SunSet</Translated>
+  </Line>
+  <Line StartPos="4291" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4318" Length="40" Skip="false">
+    <Origin>"Oh... there&apos;s something on\0the ground."</Origin>
+    <Translated>Ох... Что-то лежит на земле.</Translated>
+  </Line>
+  <Line StartPos="4372" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="4389" Length="32" Skip="false">
+    <Origin>"It&apos;s a basket. It&apos;s new too..."</Origin>
+    <Translated>Это корзинка. Она совсем новая...</Translated>
+  </Line>
+  <Line StartPos="4436" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="4453" Length="33" Skip="false">
+    <Origin>"Isn&apos;t this Hanna-san&apos;s basket?!"</Origin>
+    <Translated>Разве это не корзинка Ханны-сан?!</Translated>
+  </Line>
+  <Line StartPos="4500" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4516" Length="34" Skip="false">
+    <Origin>"I do not know, but it is likely."</Origin>
+    <Translated>Не знаю, но очень похожа.</Translated>
+  </Line>
+  <Line StartPos="4565" Length="6" Skip="false">
+    <Origin>Sheryl</Origin>
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="4584" Length="20" Skip="false">
+    <Origin>"T-That&apos;s terrible!"</Origin>
+    <Translated>Э-это ужасно!</Translated>
+  </Line>
+  <Line StartPos="4609" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4636" Length="32" Skip="false">
+    <Origin>"Let&apos;s search around this\0area."</Origin>
+    <Translated>Поищем в этой местности.</Translated>
+  </Line>
+  <Line StartPos="5496" Length="5" Skip="false">
+    <Origin>Kitty</Origin>
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="5514" Length="27" Skip="false">
+    <Origin>"Oh, look. There&apos;s a shoe."</Origin>
+    <Translated>О, смотрите. Там чья-то обувь.</Translated>   
+  </Line>
+  <Line StartPos="5556" Length="6" Skip="false">
+    <Origin>Sheryl</Origin>
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="5575" Length="19" Skip="false">
+    <Origin>"It&apos;s a high-heel."</Origin>
+    <Translated>На высоком каблуке.</Translated>
+  </Line>
+  <Line StartPos="5608" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="5625" Length="49" Skip="false">
+    <Origin>"I&apos;ve seen Hanna-san with this shoe on\0before..."</Origin>
+    <Translated>Я видела Ханну-сан в этой обуви...</Translated>
+  </Line>
+  <Line StartPos="5689" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="5706" Length="24" Skip="false">
+    <Origin>"This is getting worse!"</Origin>
+    <Translated>Становится только хуже!</Translated>
+  </Line>
+  <Line StartPos="5744" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="5760" Length="49" Skip="false">
+    <Origin>"Let&apos;s search around! She has to be\0around here!"</Origin>
+    <Translated>Поищем поблизости! Она должна быть где-то здесь!</Translated>
+  </Line>
+  <Line StartPos="5814" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5841" Length="9" Skip="false">
+    <Origin>"Y-Yeah!"</Origin>
+    <Translated>Д-да!</Translated>
+  </Line>
+  <Line StartPos="6118" Length="50" Skip="false">
+    <Origin>...A few strawberry slimes are covering\0Hanna-san.</Origin>
+    <Translated>Несколько слизней покрывает Ханну-сан.</Translated>
+  </Line>
+  <Line StartPos="6173" Length="5" Skip="false">
+    <Origin>Hanna</Origin>
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="6191" Length="14" Skip="false">
+    <Origin>"Nn... haa..."</Origin>
+    <Translated>Хн... Аах...</Translated>
+  </Line>
+  <Line StartPos="6212" Length="27" Skip="false">
+    <Origin>Hanna-san&apos;s breathing hard.</Origin>
+    <Translated>Ханна-сан прерывисто дышит.</Translated>
+  </Line>
+  <Line StartPos="6244" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6271" Length="30" Skip="false">
+    <Origin>"Hanna-san!! We&apos;ll save\0you!!"</Origin>
+    <Translated>Ханна-сан! Мы пришли вас спасти!</Translated>
+  </Line>
+  <Line StartPos="6315" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6342" Length="14" Skip="false">
+    <Origin>"H-Hanna-san!"</Origin>
+    <Translated>Х-Ханна-сан!</Translated>
+  </Line>
+  <Line StartPos="6361" Length="5" Skip="false">
+    <Origin>Hanna</Origin>
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="6379" Length="23" Skip="false">
+    <Origin>"Ohh... I feel good..."</Origin>
+    <Translated>Оох... Мне так... хорошо...</Translated>
+  </Line>
+  <Line StartPos="6409" Length="61" Skip="false">
+    <Origin>Hanna-san is on the ground with drowsy\0eyes like she&apos;s drunk.</Origin>
+    <Translated>Будто опьяневшая, Ханна-сан лежит на земле с полузакрытыми глазами.</Translated>
+  </Line>
+  <Line StartPos="6473" Length="47" Skip="false">
+    <Origin>And her body is covered with strawberry\0slimes.</Origin>
+    <Translated>Её тело покрыто порингами.</Translated>
+  </Line>
+  <Line StartPos="6525" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6552" Length="21" Skip="false">
+    <Origin>"W-What&apos;s going on?!"</Origin>
+    <Translated>Ч-что тут происходит?!</Translated>
+  </Line>
+  <Line StartPos="6578" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6594" Length="43" Skip="false">
+    <Origin>"Cliff-san! Do not watch her and save\0her!"</Origin>
+    <Translated>Клиф-сан! Прекрати пялиться и спаси её!</Translated>
+  </Line>
+  <Line StartPos="6642" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6669" Length="10" Skip="false">
+    <Origin>"O-Okay!!"</Origin>
+    <Translated>Х-хорошо!</Translated>
+  </Line>
+  <Line StartPos="6720" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="6737" Length="31" Skip="false">
+    <Origin>"Oh... I smell strawberries..."</Origin>
+    <Translated>Ох... Пахнет клубникой...</Translated>
+  </Line>
+  <Line StartPos="6783" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6800" Length="33" Skip="false">
+    <Origin>"Yeah... it feels really good..."</Origin>
+    <Translated>Да... Запах очень приятный...</Translated>
+  </Line>
+  <Line StartPos="6838" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6865" Length="27" Skip="false">
+    <Origin>"W-What&apos;s wrong, you two?!"</Origin>
+    <Translated>Да что не так с вами?!</Translated>
+  </Line>
+  <Line StartPos="6906" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6922" Length="100" Skip="false">
+    <Origin>"Watch out! That is the strawberry\0slime&apos;s tactic! It intoxicates people\0using its sweet fragrance!"</Origin>
+    <Translated>Берегись! Это свойство порингов! Они одурманивают людей этим сладким ароматом!</Translated>
+  </Line>
+  <Line StartPos="7037" Length="5" Skip="false">
+    <Origin>Kitty</Origin>
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="7055" Length="29" Skip="false">
+    <Origin>"What does intoxicated mean?"</Origin>
+    <Translated>Одурманивают, как это?</Translated>
+  </Line>
+  <Line StartPos="7098" Length="6" Skip="false">
+    <Origin>Sheryl</Origin>
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="7117" Length="36" Skip="false">
+    <Origin>"It means you&apos;ll be like Hanna-san."</Origin>
+    <Translated>Значит, ты станешь как Ханна-сан.</Translated>
+  </Line>
+  <Line StartPos="7168" Length="5" Skip="false">
+    <Origin>Kitty</Origin>
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="7186" Length="29" Skip="false">
+    <Origin>"All right, I&apos;ll be careful!"</Origin>
+    <Translated>Ладно, буду осторожна!</Translated>
+  </Line>
+  <Line StartPos="7220" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7247" Length="16" Skip="false">
+    <Origin>"I-It&apos;s coming!"</Origin>
+    <Translated>Они приближаются!</Translated>
+  </Line>
+  <Line StartPos="7435" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7453" Length="33" Skip="false">
+    <Origin>"Hanna-san!! Are you all right?!"</Origin>
+    <Translated>Ханна-сан! Вы в порядке?!</Translated>
+  </Line>
+  <Line StartPos="7491" Length="5" Skip="false">
+    <Origin>Hanna</Origin>
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="7509" Length="27" Skip="false">
+    <Origin>"Ohhh... I feel so good..."</Origin>
+    <Translated>Оох... Мне так хорошо...</Translated>
+  </Line>
+  <Line StartPos="7543" Length="48" Skip="false">
+    <Origin>...Hanna-san is on the ground like a\0dead drunk.</Origin>
+    <Translated>Ханна-сан лежит на земле, будто опьяневшая...</Translated>
+  </Line>
+  <Line StartPos="7600" Length="11" Skip="false">
+    <Origin>draw\0forest</Origin>
+    <Translated>draw\0forest</Translated>
+  </Line>
+  <Line StartPos="7629" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="7645" Length="38" Skip="false">
+    <Origin>"...I do not see any external wounds."</Origin>
+    <Translated>Не вижу никаких внешних повреждений.</Translated>
+  </Line>
+  <Line StartPos="7698" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7715" Length="45" Skip="false">
+    <Origin>"That&apos;s good. Let&apos;s go back to town for\0now."</Origin>
+    <Translated>Это хорошо. Давайте вернёмся в город.</Translated>
+  </Line>
+  <Line StartPos="7775" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7792" Length="64" Skip="false">
+    <Origin>"We don&apos;t know when other monsters will\0attack if we stay here."</Origin>
+    <Translated>Если останемся здесь, то можем быть атакованы другими монстрами.</Translated>
+  </Line>
+  <Line StartPos="7861" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7888" Length="11" Skip="false">
+    <Origin>"Y-Yeah..."</Origin>
+    <Translated>Д-да...</Translated>
+  </Line>
+  <Line StartPos="7913" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="7930" Length="25" Skip="false">
+    <Origin>"Hey! Don&apos;t look, Cliff!"</Origin>
+    <Translated>Эй! Клиф, не смотри!</Translated>
+  </Line>
+  <Line StartPos="7960" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7987" Length="13" Skip="false">
+    <Origin>"S-Sorry...!&apos;</Origin>
+    <Translated>Прости!.. </Translated>
+  </Line>
+  <Line StartPos="8014" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="8031" Length="34" Skip="false">
+    <Origin>"Geez... Here, give me your coat!"</Origin>
+    <Translated>Боже... Давай сюда свой плащ!</Translated>
+  </Line>
+  <Line StartPos="8070" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8097" Length="11" Skip="false">
+    <Origin>"O-Okay..."</Origin>
+    <Translated>Х-хорошо...</Translated>
+  </Line>
+  <Line StartPos="8115" Length="42" Skip="false">
+    <Origin>We take Hanna-san and return to the\0pub...</Origin>
+    <Translated>Мы забираем Ханну-сан и возвращаемся в паб...</Translated>
+  </Line>
+  <Line StartPos="8186" Length="8" Skip="false">
+    <Origin>Draw\0Pub</Origin>
+    <Translated>Draw\0Pub</Translated>
+  </Line>
+  <Line StartPos="8220" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="8240" Length="66" Skip="false">
+    <Origin>"I&apos;m glad you&apos;re okay. But why did you\0do such a dangerous thing?"</Origin>
+    <Translated>Я рад, что ты в порядке. Но зачем ты совершила столь опасный поступок?</Translated>
+  </Line>
+  <Line StartPos="8321" Length="5" Skip="false">
+    <Origin>Hanna</Origin>
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="8339" Length="95" Skip="false">
+    <Origin>"I&apos;m sorry... I read how to make\0strawberry slime jam in the library, so\0I wanted to try it..."</Origin>
+    <Translated>Мне очень жаль... В библиотеке я прочитала как сделать из них клубничное варенье и захотела попробовать...</Translated>
+  </Line>
+  <Line StartPos="8448" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="8465" Length="56" Skip="false">
+    <Origin>"Please don&apos;t go to the forest by\0yourself from now on."</Origin>
+    <Translated>Пожалуйста, не ходите больше в лес в одиночку.</Translated>
+  </Line>
+  <Line StartPos="8536" Length="5" Skip="false">
+    <Origin>Hanna</Origin>
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="8554" Length="61" Skip="false">
+    <Origin>"I know... I&apos;m really sorry for all the\0trouble I&apos;ve caused."</Origin>
+    <Translated>Знаю... Простите меня, я доставила вам столько неприятностей.</Translated>
+  </Line>
+  <Line StartPos="8629" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="8649" Length="29" Skip="false">
+    <Origin>"Well, I&apos;m glad you&apos;re okay."</Origin>
+    <Translated>Ну, я рад что ты в порядке.</Translated>
+  </Line>
+  <Line StartPos="8693" Length="5" Skip="false">
+    <Origin>Hanna</Origin>
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="8711" Length="55" Skip="false">
+    <Origin>"I&apos;m sorry. I seemed to have worried you\0too, Gen-san."</Origin>
+    <Translated>Прошу прощения. Ген-сан, я заставила тебя волноваться.</Translated>
+  </Line>
+  <Line StartPos="8780" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="8800" Length="36" Skip="false">
+    <Origin>"N-No, It&apos;s not your fault, really."</Origin>
+    <Translated>Н-нет, в этом совсем нет твоей вины, правда.</Translated>
+  </Line>
+  <Line StartPos="8851" Length="5" Skip="false">
+    <Origin>Hanna</Origin>
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="8869" Length="63" Skip="false">
+    <Origin>"By the way, is it true that Gen-san\0gave the job to you guys?"</Origin>
+    <Translated>Кстати, правда что это Ген-сан дал вам задание?</Translated>
+  </Line>
+  <Line StartPos="8946" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="8966" Length="15" Skip="false">
+    <Origin>"Huh? Y-Yes..."</Origin>
+    <Translated>Аа? Ну-да...</Translated>
+  </Line>
+  <Line StartPos="8996" Length="5" Skip="false">
+    <Origin>Hanna</Origin>
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="9014" Length="20" Skip="false">
+    <Origin>"I&apos;ll pay for that."</Origin>
+    <Translated>Я за всё заплачу.</Translated>
+  </Line>
+  <Line StartPos="9048" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="9068" Length="47" Skip="false">
+    <Origin>"N-No! You don&apos;t need to! I asked them\0myself!"</Origin>
+    <Translated>Н-нет! Ты не должна! Я сам попросил об этом!</Translated>
+  </Line>
+  <Line StartPos="9130" Length="5" Skip="false">
+    <Origin>Hanna</Origin>
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="9148" Length="34" Skip="false">
+    <Origin>"But I&apos;m the whole cause of it..."</Origin>
+    <Translated>Но это всё случилось из-за ме...</Translated>
+  </Line>
+  <Line StartPos="9187" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9214" Length="69" Skip="false">
+    <Origin>"U-Um, you two are always\0helping us out, so I don&apos;t\0mind the pay..."</Origin>
+    <Translated>У-ум, вы всегда помогаете нам, наверное, можно и не платить...</Translated>
+  </Line>
+  <Line StartPos="9313" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="9330" Length="10" Skip="false">
+    <Origin>"Idiot!!!"</Origin>
+    <Translated>Дурак!!!</Translated>
+  </Line>
+  <Line StartPos="9345" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9372" Length="21" Skip="false">
+    <Origin>"That hurts, Lucy..."</Origin>
+    <Translated>Люси, больно-же...</Translated>
+  </Line>
+  <Line StartPos="9407" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="9424" Length="58" Skip="false">
+    <Origin>"We&apos;re pros! Don&apos;t mix up personal\0affairs with business!"</Origin>
+    <Translated>Мы же профи! Не смешивай личные дела и работу!</Translated>
+  </Line>
+  <Line StartPos="9487" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9514" Length="12" Skip="false">
+    <Origin>"S-Sorry..."</Origin>
+    <Translated>П-прости...</Translated>
+  </Line>
+  <Line StartPos="9540" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="9560" Length="37" Skip="false">
+    <Origin>"Lucy-san is right. I&apos;ll pay for it."</Origin>
+    <Translated>Люси-сан права. Я за всё заплачу.</Translated>
+  </Line>
+  <Line StartPos="9628" Length="5" Skip="false">
+    <Origin>Hanna</Origin>
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="9646" Length="21" Skip="false">
+    <Origin>"I&apos;m really sorry..."</Origin>
+    <Translated>Мне очень жаль...</Translated>
+  </Line>
+  <Line StartPos="9681" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="9701" Length="46" Skip="false">
+    <Origin>"It&apos;s fine! I&apos;m just glad that you&apos;re\0okay..."</Origin>
+    <Translated>Всё в порядке! Я очень рад, что ты в порядке...</Translated>
+  </Line>
+  <Line StartPos="9762" Length="5" Skip="false">
+    <Origin>Hanna</Origin>
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="9780" Length="7" Skip="false">
+    <Origin>"Huh?!"</Origin>
+    <Translated>Аа?!</Translated>
+  </Line>
+  <Line StartPos="9801" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="9821" Length="23" Skip="false">
+    <Origin>"Well! Um, that was..."</Origin>
+    <Translated>Ну! Ум, это...</Translated>
+  </Line>
+  <Line StartPos="9876" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="9893" Length="27" Skip="false">
+    <Origin>"I think we should go now."</Origin>
+    <Translated>Думаю, нам пора уходить.</Translated>
+  </Line>
+  <Line StartPos="9935" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="9952" Length="45" Skip="false">
+    <Origin>"Yeah, it seems like we&apos;re unwanted for\0now."</Origin>
+    <Translated>Угу, кажется сейчас мы здесь лишние.</Translated>
+  </Line>
+  <Line StartPos="10002" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10029" Length="22" Skip="false">
+    <Origin>"Then we&apos;ll be going."</Origin>
+    <Translated>Тогда мы пойдём.</Translated>
+  </Line>
+  <Line StartPos="10083" Length="5" Skip="false">
+    <Origin>Hanna</Origin>
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="10101" Length="45" Skip="false">
+    <Origin>"Oh, thank you so much for everything\0today."</Origin>
+    <Translated>Ох, спасибо вам всем.</Translated>
+  </Line>
+  <Line StartPos="10180" Length="7" Skip="false">
+    <Origin>Gen-san</Origin>
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="10200" Length="33" Skip="false">
+    <Origin>"I owe you guys one! Come again!"</Origin>
+    <Translated>Я ваш должник! Приходите ещё!</Translated>
+  </Line>
+  <Line StartPos="10240" Length="33" Skip="false">
+    <Origin>We leave the two and head home...</Origin>
+    <Translated>Мы оставили эту парочку и вернулись домой...</Translated>
+  </Line>
+  <Line StartPos="10312" Length="53" Skip="false">
+    <Origin>On the table are sliced bread and\0different toppings.</Origin>
+    <Translated>На столе нарезанный хлеб и различные начинки.</Translated>
+  </Line>
+  <Line StartPos="10379" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="10396" Length="50" Skip="false">
+    <Origin>"All done. Put whatever you want on the\0sandwich."</Origin>
+    <Translated>Всё готово. Выбирайте что нравиться и делайте бутерброды.</Translated>
+  </Line>
+  <Line StartPos="10461" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="10478" Length="46" Skip="false">
+    <Origin>"Sandwich, huh? Whoa, some look really\0sweet."</Origin>
+    <Translated>Бутерброды? Вау, похоже, это что-то сладкое.</Translated>
+  </Line>
+  <Line StartPos="10539" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="10555" Length="45" Skip="false">
+    <Origin>"...A purple whipped cream? What is\0this?.."</Origin>
+    <Translated>Фиолетовый крем? Что это?..</Translated>
+  </Line>
+  <Line StartPos="10614" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="10631" Length="69" Skip="false">
+    <Origin>"It&apos;s prune mixed into whipped cream.\0Isn&apos;t it an interesting color?"</Origin>
+    <Translated>Чернослив вперемешку со взбитыми сливками. Разве не интересный получился цвет?</Translated>
+  </Line>
+  <Line StartPos="10715" Length="5" Skip="false">
+    <Origin>Kitty</Origin>
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="10733" Length="37" Skip="false">
+    <Origin>"It&apos;s really good! Gimme more, Mena!"</Origin>
+    <Translated>Это очень вкусно! Мина, хочу ещё!</Translated>
+  </Line>
+  <Line StartPos="10775" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10802" Length="37" Skip="false">
+    <Origin>"Then I&apos;ll take some potato\0salad..."</Origin>
+    <Translated>Тогда я выберу картофельный салат...</Translated>
+  </Line>
+  <Line StartPos="10846" Length="50" Skip="false">
+    <Origin>Everyone takes what they like and\0continue to eat.</Origin>
+    <Translated>Каждый выбрал то что ему нравиться, и мы начали есть</Translated>
+  </Line>
+  <Line StartPos="10899" Length="47" Skip="false">
+    <Origin>But one thing remains on the table\0untouched...</Origin>
+    <Translated>Но одно блюдо осталось нетронутым...</Translated>
+  </Line>
+  <Line StartPos="10960" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="10977" Length="50" Skip="false">
+    <Origin>"Huh?.. Why is nobody eating the\0strawberry jam?"</Origin>
+    <Translated>Аа?.. Почему никто не ест клубничное варенье?</Translated>
+  </Line>
+  <Line StartPos="11032" Length="5" Skip="false">
+    <Origin>Cliff</Origin>
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="11059" Length="11" Skip="false">
+    <Origin>"W-Well..."</Origin>
+    <Translated>Н-ну...</Translated>
+  </Line>
+  <Line StartPos="11085" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="11101" Length="7" Skip="false">
+    <Origin>"Um..."</Origin>
+    <Translated>Эм...</Translated>
+  </Line>
+  <Line StartPos="11123" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="11140" Length="15" Skip="false">
+    <Origin>"Well, haha..."</Origin>
+    <Translated>Ну, хаха...</Translated>
+  </Line>
+  <Line StartPos="11170" Length="5" Skip="false">
+    <Origin>Kitty</Origin>
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="11188" Length="20" Skip="false">
+    <Origin>"Mena, what&apos;s this?"</Origin>
+    <Translated>Мина, что это?</Translated>
+  </Line>
+  <Line StartPos="11222" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="11239" Length="24" Skip="false">
+    <Origin>"I-It&apos;s strawberry jam."</Origin>
+    <Translated>Э-э-э-это клубничное варенье.</Translated>
+  </Line>
+  <Line StartPos="11278" Length="4" Skip="false">
+    <Origin>Lucy</Origin>
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="11295" Length="31" Skip="false">
+    <Origin>"...Why did you stutter there?"</Origin>
+    <Translated>Почему ты заикаешься?</Translated>
+  </Line>
+  <Line StartPos="11340" Length="4" Skip="false">
+    <Origin>Mena</Origin>
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="11357" Length="23" Skip="false">
+    <Origin>"Hanna-san said it is."</Origin>
+    <Translated>Мне так сказала Ханна-сан.</Translated>
+  </Line>
+  <Line StartPos="11395" Length="3" Skip="false">
+    <Origin>Aoi</Origin>
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="11411" Length="22" Skip="false">
+    <Origin>"Isn&apos;t it suspicious?"</Origin>
+    <Translated>Разве оно не подозрительно?</Translated>
+  </Line>
+  <Line StartPos="11440" Length="46" Skip="false">
+    <Origin>And I know that Mena hasn&apos;t touched it\0either.</Origin>
+    <Translated>А ещё я знаю, что Мина тоже не притронулась к нему.</Translated>
+  </Line>
+</Lines>
+
+
+</pre>
+
+
+[[Men_at_Work 2|[Назад]]]

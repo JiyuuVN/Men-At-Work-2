@@ -1,0 +1,835 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="274">
+  <Line StartPos="932" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="959" Length="15" Skip="false">
+    <Translated>Аа? Мина?..</Translated>
+  </Line>
+  <Line StartPos="981" Length="61" Skip="false">
+    <Translated>С печальным видом, Мина собирает мусор и выставляет мусорные баки.</Translated>
+  </Line>
+  <Line StartPos="1056" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1073" Length="31" Skip="false">
+    <Translated>О, Клиф. Оно снова появилось.</Translated>
+  </Line>
+  <Line StartPos="1109" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1136" Length="11" Skip="false">
+    <Translated>Снова?..</Translated>
+  </Line>
+  <Line StartPos="1161" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1178" Length="20" Skip="false">
+    <Translated>Странное животное.</Translated>
+  </Line>
+  <Line StartPos="1203" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1231" Length="48" Skip="false">
+    <Translated>То самое, со странными голосом и мордой?</Translated>
+  </Line>
+  <Line StartPos="1284" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1312" Length="44" Skip="false">
+    <Translated>Ты же отшлёпала его и отправила куда подальше?</Translated>
+  </Line>
+  <Line StartPos="1370" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1387" Length="71" Skip="false">
+    <Translated>Не думаю, что он был один. На этот раз их было несколько.</Translated>
+  </Line>
+  <Line StartPos="1463" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1490" Length="8" Skip="false">
+    <Translated>Что?!</Translated>
+  </Line>
+  <Line StartPos="1512" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1529" Length="50" Skip="false">
+    <Translated>Мастер спрашивал, можем ли мы что-нибудь сделать.</Translated>
+  </Line>
+  <Line StartPos="1586" Length="61" Skip="false">
+    <Translated>Хм, группа, да? Нам с одним-то сложно было...</Translated>
+  </Line>
+  <Line StartPos="1652" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1679" Length="81" Skip="false">
+    <Translated>Эй. Если их уже несколько, то это значит, что у них где-то есть логово?</Translated>
+  </Line>
+  <Line StartPos="1774" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1791" Length="13" Skip="false">
+    <Translated>Ну, да.</Translated>
+  </Line>
+  <Line StartPos="1809" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1836" Length="74" Skip="false">
+    <Translated>Тогда давай нападём первыми и сделаем так, чтобы они больше не приходили сюда.</Translated>
+  </Line>
+  <Line StartPos="1924" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="1941" Length="7" Skip="false">
+    <Translated>Что?</Translated>
+  </Line>
+  <Line StartPos="1953" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1981" Length="48" Skip="false">
+    <Translated>Говорю, мы должны найти их логово.</Translated>
+  </Line>
+  <Line StartPos="2034" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2062" Length="41" Skip="false">
+    <Translated>Сможешь походить вокруг и отругать их всех.</Translated>
+  </Line>
+  <Line StartPos="2117" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2134" Length="15" Skip="false">
+    <Translated>Хммм, ну...</Translated>
+  </Line>
+  <Line StartPos="2163" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2180" Length="83" Skip="false">
+    <Translated>Мы уже знаем, где они живут. Они обитают в пещере за лесом.</Translated>
+  </Line>
+  <Line StartPos="2268" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2295" Length="34" Skip="false">
+    <Translated>Великолепно. Я всё подготовлю.</Translated>
+  </Line>
+  <Line StartPos="2343" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2360" Length="67" Skip="false">
+    <Translated>Хорошо. Пойду скажу мастеру, что мы приняли работу.</Translated>
+  </Line>
+  <Line StartPos="2432" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2459" Length="16" Skip="false">
+    <Translated>Ага, будь добра.</Translated>
+  </Line>
+  <Line StartPos="2482" Length="49" Skip="false">
+    <Translated>Принята работа - отругать странных монстров.</Translated>
+  </Line>
+  <Line StartPos="2567" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2584" Length="12" Skip="false">
+    <Translated>Ох, Клиф.</Translated>
+  </Line>
+  <Line StartPos="2610" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="2627" Length="70" Skip="false">
+    <Translated>Мастер просил передать свои наилучшие пожелания и удачи в битве с бродячими монстрами.</Translated>
+  </Line>
+  <Line StartPos="2702" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2729" Length="11" Skip="false">
+    <Translated>Хорошо.</Translated>
+  </Line>
+  <Line StartPos="2747" Length="61" Skip="false">
+    <Translated>Но хотел бы я хоть раз услышать это от него лично...</Translated>
+  </Line>
+  <Line StartPos="3158" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3175" Length="54" Skip="false">
+    <Translated>Те странные монстры живут в этой пещере?</Translated>
+  </Line>
+  <Line StartPos="3263" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="3280" Length="65" Skip="false">
+    <Translated>Да, ошибки быть не может. Я уже всё разузнала.</Translated>
+  </Line>
+  <Line StartPos="3360" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="3379" Length="31" Skip="false">
+    <Translated>Мы всё узнаем, как только зайдём.</Translated>
+  </Line>
+  <Line StartPos="3424" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="3442" Length="11" Skip="false">
+    <Translated>Зайдём.</Translated>
+  </Line>
+  <Line StartPos="3468" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3484" Length="87" Skip="false">
+    <Translated>Будьте осторожны. Может быть, у них и странные морды, но всё же это их логово.</Translated>
+  </Line>
+  <Line StartPos="3576" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3603" Length="56" Skip="false">
+    <Translated>Не думаю, что их морды как-то с этим связаны...</Translated>
+  </Line>
+  <Line StartPos="3715" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="3731" Length="75" Skip="false">
+    <Translated>Мы не смогли добиться своей цели в прошлый раз, но всё закончим в этот.</Translated>
+  </Line>
+  <Line StartPos="3821" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="3839" Length="9" Skip="false">
+    <Translated>Закончим!</Translated>
+  </Line>
+  <Line StartPos="3879" Length="24" Skip="false">
+    <Translated>Мы можем выйти отсюда.</Translated>
+  </Line>
+  <Line StartPos="3929" Length="11" Skip="false">
+    <Translated>Идти наружу?</Translated>
+  </Line>
+  <Line StartPos="3945" Length="6" Skip="false">
+    <Translated>Да\0Нет</Translated>
+  </Line>
+  <Line StartPos="3966" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3993" Length="28" Skip="false">
+    <Translated>Давайте вернёмся и перегруппируемся.</Translated>
+  </Line>
+  <Line StartPos="4036" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="4055" Length="21" Skip="false">
+    <Translated>Тогда возвращаемся.</Translated>
+  </Line>
+  <Line StartPos="4306" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="4324" Length="31" Skip="false">
+    <Translated>Ух ты! Сколько вещей!</Translated>
+  </Line>
+  <Line StartPos="4370" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="4387" Length="37" Skip="false">
+    <Translated>Кит. Всё нормально, забираем всё.</Translated>
+  </Line>
+  <Line StartPos="4438" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="4454" Length="28" Skip="false">
+    <Translated>А это не их хранилище?</Translated>
+  </Line>
+  <Line StartPos="4497" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="4514" Length="27" Skip="false">
+    <Translated>Мы не должны красть у них.</Translated>
+  </Line>
+  <Line StartPos="4555" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="4573" Length="18" Skip="false">
+    <Translated>Не должны?..</Translated>
+  </Line>
+  <Line StartPos="4606" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="4623" Length="60" Skip="false">
+    <Translated>Да какая разница? Они раскидывают наш мусор, так что мы тоже можем.</Translated>
+  </Line>
+  <Line StartPos="4688" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4715" Length="14" Skip="false">
+    <Translated>Хмм, правда?</Translated>
+  </Line>
+  <Line StartPos="6071" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="6088" Length="23" Skip="false">
+    <Translated>Здесь много места.</Translated>
+  </Line>
+  <Line StartPos="6126" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6142" Length="48" Skip="false">
+    <Translated>Наверное, это самая глубокая часть пещеры.</Translated>
+  </Line>
+  <Line StartPos="6204" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="6223" Length="20" Skip="false">
+    <Translated>Это был длинный путь.</Translated>
+  </Line>
+  <Line StartPos="6248" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6275" Length="32" Skip="false">
+    <Translated>Значит их лидер где-то здесь?</Translated>
+  </Line>
+  <Line StartPos="6322" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="6339" Length="32" Skip="false">
+    <Translated>Эй... Что это вот там?</Translated>
+  </Line>
+  <Line StartPos="6385" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="6403" Length="27" Skip="false">
+    <Translated>Ахаха, какая странная морда!</Translated>
+  </Line>
+  <Line StartPos="6435" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6462" Length="29" Skip="false">
+    <Translated>Похоже, это их место.</Translated>
+  </Line>
+  <Line StartPos="6506" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="6522" Length="17" Skip="false">
+    <Translated>Тогда идём.</Translated>
+  </Line>
+  <Line StartPos="6553" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="6570" Length="49" Skip="false">
+    <Translated>Я не прощу их, пока не отругаю всех!</Translated>
+  </Line>
+  <Line StartPos="6923" Length="8" Skip="false">
+    <Translated>win\0lose</Translated>
+  </Line>
+  <Line StartPos="6994" Length="11" Skip="false">
+    <Translated>main\0SunSet</Translated>
+  </Line>
+  <Line StartPos="7078" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7105" Length="10" Skip="false">
+    <Translated>Т-там!</Translated>
+  </Line>
+  <Line StartPos="7129" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="7146" Length="36" Skip="false">
+    <Translated>Так эта пещера и правда их логово!</Translated>
+  </Line>
+  <Line StartPos="7197" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7214" Length="37" Skip="false">
+    <Translated>Вперёд! Накажем их всех!</Translated>
+  </Line>
+  <Line StartPos="7265" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="7283" Length="14" Skip="false">
+    <Translated>Накажем всех!</Translated>
+  </Line>
+  <Line StartPos="7339" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7356" Length="50" Skip="false">
+    <Translated>Чёрт! У них странные морды, но они сильны!</Translated>
+  </Line>
+  <Line StartPos="7440" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="7458" Length="22" Skip="false">
+    <Translated>И странные голоса!</Translated>
+  </Line>
+  <Line StartPos="7485" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7512" Length="18" Skip="false">
+    <Translated>Отступаем!</Translated>
+  </Line>
+  <Line StartPos="7541" Length="9" Skip="false">
+    <Translated>draw\0cave</Translated>
+  </Line>
+  <Line StartPos="7570" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="7587" Length="47" Skip="false">
+    <Translated>Эй! Кто лазил по мусорным бакам?!</Translated>
+  </Line>
+  <Line StartPos="7641" Length="68" Skip="false">
+    <Translated>Мина выстроила их и начала бранить, как настоящий школьный учитель.</Translated>
+  </Line>
+  <Line StartPos="7724" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="7741" Length="88" Skip="false">
+    <Translated>Ми-чан, у нас не хватит времени. Мы ничего не добьёмся, если будем ругать каждого по одиночке.</Translated>
+  </Line>
+  <Line StartPos="7843" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="7860" Length="25" Skip="false">
+    <Translated>Что же нам делать?</Translated>
+  </Line>
+  <Line StartPos="7900" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="7916" Length="48" Skip="false">
+    <Translated>У такой группы должен быть лидер.</Translated>
+  </Line>
+  <Line StartPos="7979" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="7995" Length="59" Skip="false">
+    <Translated>Гораздо эффективнее будет напрямую поговорить с их лидером.</Translated>
+  </Line>
+  <Line StartPos="8068" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="8085" Length="19" Skip="false">
+    <Translated>Ох, ты права.</Translated>
+  </Line>
+  <Line StartPos="8119" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="8138" Length="43" Skip="false">
+    <Translated>Тогда, давайте пойдём дальше и поищем их лидера.</Translated>
+  </Line>
+  <Line StartPos="8195" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="8213" Length="7" Skip="false">
+    <Translated>Да!</Translated>
+  </Line>
+  <Line StartPos="8225" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8252" Length="32" Skip="false">
+    <Translated>Они все так решительны...</Translated>
+  </Line>
+  <Line StartPos="8319" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8346" Length="23" Skip="false">
+    <Translated>Лидер один из них?!</Translated>
+  </Line>
+  <Line StartPos="8383" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8399" Length="24" Skip="false">
+    <Translated>Нет, этим не хватает достоинства.</Translated>
+  </Line>
+  <Line StartPos="8437" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8453" Length="49" Skip="false">
+    <Translated>Они просто немного сильнее чем другие.</Translated>
+  </Line>
+  <Line StartPos="8517" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="8534" Length="41" Skip="false">
+    <Translated>Но мы не сможем пройти, пока не победим их!</Translated>
+  </Line>
+  <Line StartPos="8589" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="8607" Length="17" Skip="false">
+    <Translated>Тогда победим их!</Translated>
+  </Line>
+  <Line StartPos="8629" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8656" Length="38" Skip="false">
+    <Translated>А вы ребята посильнее будете...</Translated>
+  </Line>
+  <Line StartPos="8727" Length="9" Skip="false">
+    <Translated>draw\0cave</Translated>
+  </Line>
+  <Line StartPos="8756" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="8772" Length="47" Skip="false">
+    <Translated>Они были сильнее, чем более мелкие монстры.</Translated>
+  </Line>
+  <Line StartPos="8824" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8851" Length="34" Skip="false">
+    <Translated>Уверен, лидер ещё сильнее.</Translated>
+  </Line>
+  <Line StartPos="8900" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="8917" Length="32" Skip="false">
+    <Translated>Чего, Ку-чан? Ты что, боишься?</Translated>
+  </Line>
+  <Line StartPos="8954" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8981" Length="24" Skip="false">
+    <Translated>Н-нет, совсем нет.</Translated>
+  </Line>
+  <Line StartPos="9019" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="9039" Length="42" Skip="false">
+    <Translated>Пожалуйста, не забывайте лечить свои ранения.</Translated>
+  </Line>
+  <Line StartPos="9095" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="9115" Length="44" Skip="false">
+    <Translated>Чем дальше, тем труднее.</Translated>
+  </Line>
+  <Line StartPos="9174" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="9191" Length="42" Skip="false">
+    <Translated>Да. Мы не должны пренебрегать подготовкой.</Translated>
+  </Line>
+  <Line StartPos="9380" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9407" Length="25" Skip="false">
+    <Translated>К-кто они?!</Translated>
+  </Line>
+  <Line StartPos="9446" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="9462" Length="33" Skip="false">
+    <Translated>Это достоинство и благородство!..</Translated>
+  </Line>
+  <Line StartPos="9509" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="9525" Length="29" Skip="false">
+    <Translated>Они, должно быть, и есть лидеры!</Translated>
+  </Line>
+  <Line StartPos="9569" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="9587" Length="35" Skip="false">
+    <Translated>Это король и женщина король.</Translated>
+  </Line>
+  <Line StartPos="9636" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="9655" Length="23" Skip="false">
+    <Translated>Ты хотела сказать королева?</Translated>
+  </Line>
+  <Line StartPos="9693" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="9710" Length="27" Skip="false">
+    <Translated>Ми-чан, просто отругай их!</Translated>
+  </Line>
+  <Line StartPos="9800" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9827" Length="26" Skip="false">
+    <Translated>Н-но они кажутся злыми...</Translated>
+  </Line>
+  <Line StartPos="9867" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="9883" Length="102" Skip="false">
+    <Translated>Неудивительно. Мы вторглись в их владения и прошли по их территории.</Translated>
+  </Line>
+  <Line StartPos="10002" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10029" Length="19" Skip="false">
+    <Translated>О-они приближаются!</Translated>
+  </Line>
+  <Line StartPos="10090" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="10106" Length="56" Skip="false">
+    <Translated>Мы не проиграем вам! Странномордым зверям!</Translated>
+  </Line>
+  <Line StartPos="10177" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="10195" Length="43" Skip="false">
+    <Translated>Приготовься, ты, странномордый король!</Translated>
+  </Line>
+  <Line StartPos="10274" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="10292" Length="20" Skip="false">
+    <Translated>Король сильный!</Translated>
+  </Line>
+  <Line StartPos="10327" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="10344" Length="48" Skip="false">
+    <Translated>Как и ожидалось от короля! Он и правда силён!</Translated>
+  </Line>
+  <Line StartPos="10397" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10424" Length="20" Skip="false">
+    <Translated>Нам лучше перегруппироваться!</Translated>
+  </Line>
+  <Line StartPos="10459" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="10476" Length="49" Skip="false">
+    <Translated>Оставайтесь здесь! Я отругаю вас позже!</Translated>
+  </Line>
+  <Line StartPos="10556" Length="9" Skip="false">
+    <Translated>draw\0cave</Translated>
+  </Line>
+  <Line StartPos="10585" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="10602" Length="63" Skip="false">
+    <Translated>Так, король и королева! Мне нужно сказать вам кое-что!</Translated>
+  </Line>
+  <Line StartPos="10672" Length="19" Skip="false">
+    <Translated>Мина вышла вперёд.</Translated>
+  </Line>
+  <Line StartPos="10705" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="10722" Length="64" Skip="false">
+    <Translated>Не кажется ли вам, что ваш народ выходит из-под вашего контроля?!</Translated>
+  </Line>
+  <Line StartPos="10800" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="10817" Length="48" Skip="false">
+    <Translated>Она собирается учить монстров политике...</Translated>
+  </Line>
+  <Line StartPos="10899" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="10915" Length="50" Skip="false">
+    <Translated>Мина-чан сможет им всё объяснить.</Translated>
+  </Line>
+  <Line StartPos="10993" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="11010" Length="86" Skip="false">
+    <Translated>Прежде всего, разве можно рыться в мусорных баках только потому, что вы голодны?!</Translated>
+  </Line>
+  <Line StartPos="11110" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="11127" Length="82" Skip="false">
+    <Translated>Я думаю, король должен принять ответственность и учить своих подданных лучше! Разве я ошибаюсь?!</Translated>
+  </Line>
+  <Line StartPos="11220" Length="59" Skip="false">
+    <Translated>Король и королева, опустив морды, слушают Мину.</Translated>
+  </Line>
+  <Line StartPos="11318" Length="64" Skip="false">
+    <Translated>Король начал плакать, и опять-таки странным и громким голосом.</Translated>
+  </Line>
+  <Line StartPos="11396" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="11413" Length="45" Skip="false">
+    <Translated>Ого. Даже король не смеет возразить Ми-чан.</Translated>
+  </Line>
+  <Line StartPos="11463" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="11490" Length="71" Skip="false">
+    <Translated>Они не будут рыться в мусоре, если король будет вести себя подобающе.</Translated>
+  </Line>
+  <Line StartPos="11595" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="11614" Length="50" Skip="false">
+    <Translated>Мина-чан будет признательна больше чем кто-либо.</Translated>
+  </Line>
+  <Line StartPos="11700" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="11717" Length="40" Skip="false">
+    <Translated>Спасибо за ожидание. Теперь можно идти домой.</Translated>
+  </Line>
+  <Line StartPos="11772" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="11790" Length="21" Skip="false">
+    <Translated>Ты закончила, Мина?</Translated>
+  </Line>
+  <Line StartPos="11825" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="11842" Length="80" Skip="false">
+    <Translated>Да. Король заплакал и извинился передо мной, теперь он сам со всем разберётся.</Translated>
+  </Line>
+  <Line StartPos="11936" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="11953" Length="51" Skip="false">
+    <Translated>И он сказал, что мы можем позвать их, если нам нужна будет помощь.</Translated>
+  </Line>
+  <Line StartPos="12011" Length="41" Skip="false">
+    <Translated>Разве Мина знает язык монстров?..</Translated>
+  </Line>
+  <Line StartPos="12099" Length="32" Skip="false">
+    <Translated>Мина просто приручает монстров! </Translated>
+  </Line>
+  <Line StartPos="12144" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="12160" Length="23" Skip="false">
+    <Translated>Ну, тогда возвращаемся.</Translated>
+  </Line>
+  <Line StartPos="12202" Length="11" Skip="false">
+    <Translated>main\0SunSet</Translated>
+  </Line>
+  <Line StartPos="12216" Length="11" Skip="false">
+    <Translated>draw\0Forest</Translated>
+  </Line>
+  <Line StartPos="12246" Length="46" Skip="false">
+    <Translated>К тому времени, как мы вышли из пещеры, солнце уже клонилось к закату.</Translated>
+  </Line>
+  <Line StartPos="12306" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="12323" Length="86" Skip="false">
+    <Translated>О нет, уже так поздно. Я должна всё рассказать Мастеру!</Translated>
+  </Line>
+  <Line StartPos="12418" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="12445" Length="12" Skip="false">
+    <Translated>Эй, Мина!</Translated>
+  </Line>
+  <Line StartPos="12464" Length="24" Skip="false">
+    <Translated>Мина убежала в город.</Translated>
+  </Line>
+  <Line StartPos="12502" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="12518" Length="25" Skip="false">
+    <Translated>Мина-чан очень ответственная.</Translated>
+  </Line>
+  <Line StartPos="12558" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="12575" Length="47" Skip="false">
+    <Translated>Давайте вернёмся в Школу. Я устала...</Translated>
+  </Line>
+  <Line StartPos="12636" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="12655" Length="51" Skip="false">
+    <Translated>Да. Давайте вернёмся в город, пока не появились новые монстры.</Translated>
+  </Line>
+  <Line StartPos="12721" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="12739" Length="10" Skip="false">
+    <Translated>Вернёмся домой!</Translated>
+  </Line>
+  <Line StartPos="12756" Length="61" Skip="false">
+    <Translated>Мы вернулись в Школу до захода солнца.</Translated>
+  </Line>
+  <Line StartPos="12855" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="12872" Length="14" Skip="false">
+    <Translated>Клиф...</Translated>
+  </Line>
+  <Line StartPos="12900" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="12917" Length="48" Skip="false">
+    <Translated>Я получила это от Мастера. Он просил передать свою благодарность.</Translated>
+  </Line>
+  <Line StartPos="12986" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="13013" Length="43" Skip="false">
+    <Translated>Хорошо. Можешь потом сказать ему спасибо?</Translated>
+  </Line>
+  <Line StartPos="13070" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="13087" Length="89" Skip="false">
+    <Translated>Да, я уже сказала ему. Я также сказала, что он снова может обращаться к нам, если что-то подобное случиться вновь.</Translated>
+  </Line>
+  <Line StartPos="13191" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="13208" Length="69" Skip="false">
+    <Translated>Но, как я и ожидала, у лидера странных животных тоже была странная морда.</Translated>
+  </Line>
+  <Line StartPos="13292" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="13308" Length="33" Skip="false">
+    <Translated>И странный голос.</Translated>
+  </Line>
+  <Line StartPos="13355" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="13373" Length="32" Skip="false">
+    <Translated>И плакал он тоже очень странно.</Translated>
+  </Line>
+  <Line StartPos="13420" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="13439" Length="67" Skip="false">
+    <Translated>Но Мина-чан просто удивительна. Она смогла приручить даже короля монстров.</Translated>
+  </Line>
+  <Line StartPos="13520" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="13537" Length="19" Skip="false">
+    <Translated>Н-но это было...</Translated>
+  </Line>
+  <Line StartPos="13571" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="13588" Length="74" Skip="false">
+    <Translated>Знаю, знаю. Это был важный бой за чистоту твоего рабочего места.</Translated>
+  </Line>
+  <Line StartPos="13677" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="13693" Length="36" Skip="false">
+    <Translated>Значит, для Мины-чан это была священная война.</Translated>
+  </Line>
+  <Line StartPos="13743" Length="4" Skip="false">
+    <Translated>Мина</Translated>
+  </Line>
+  <Line StartPos="13760" Length="31" Skip="false">
+    <Translated>Блин, не смейтесь надо мной.</Translated>
+  </Line>
+  <Line StartPos="13798" Length="41" Skip="false">
+    <Translated>Так прошёл ещё один мирный день...</Translated>
+  </Line>
+</Lines>
+
+
+</pre>
+
+[[Men_at_Work 2|[Назад]]]

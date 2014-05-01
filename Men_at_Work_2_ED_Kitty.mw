@@ -1,0 +1,585 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="190">
+  <Line StartPos="144" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="171" Length="9" Skip="false">
+    <Translated>Аа?..</Translated>
+  </Line>
+  <Line StartPos="187" Length="32" Skip="false">
+    <Translated>Когда я очнулся... я был в своей кровати.</Translated>
+  </Line>
+  <Line StartPos="222" Length="24" Skip="false">
+    <Translated>Я всё ещё чувствую слабость...</Translated>
+  </Line>
+  <Line StartPos="266" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="283" Length="39" Skip="false">
+    <Translated>О, Ку-чан. Ты наконец-то проснулся.</Translated>
+  </Line>
+  <Line StartPos="327" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="354" Length="29" Skip="false">
+    <Translated>А... Люси, доброе утро...</Translated>
+  </Line>
+  <Line StartPos="406" Length="14" Skip="false">
+    <Translated>Он проснулся?!</Translated>
+  </Line>
+  <Line StartPos="433" Length="72" Skip="false">
+    <Translated>Я слышу знакомый голос откуда то сверху и сразу после этого звук хлопающих крыльев.</Translated>
+  </Line>
+  <Line StartPos="545" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="563" Length="22" Skip="false">
+    <Translated>Клиф! Я так рада!</Translated>
+  </Line>
+  <Line StartPos="590" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="617" Length="11" Skip="false">
+    <Translated>К-Китти?!</Translated>
+  </Line>
+  <Line StartPos="637" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="664" Length="28" Skip="false">
+    <Translated>Слава богам, ты жива...</Translated>
+  </Line>
+  <Line StartPos="697" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="724" Length="16" Skip="false">
+    <Translated>Я рад...</Translated>
+  </Line>
+  <Line StartPos="755" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="772" Length="38" Skip="false">
+    <Translated>Боже... только не нужно слёз.</Translated>
+  </Line>
+  <Line StartPos="815" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="842" Length="13" Skip="false">
+    <Translated>Но как?..</Translated>
+  </Line>
+  <Line StartPos="883" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="901" Length="33" Skip="false">
+    <Translated>Прости... я виновата...</Translated>
+  </Line>
+  <Line StartPos="939" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="966" Length="9" Skip="false">
+    <Translated>Аа?..</Translated>
+  </Line>
+  <Line StartPos="989" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="1007" Length="57" Skip="false">
+    <Translated>Когда ты поцеловал меня... я взяла слишком много твоей силы...</Translated>
+  </Line>
+  <Line StartPos="1069" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1096" Length="17" Skip="false">
+    <Translated>Т-тогда...!</Translated>
+  </Line>
+  <Line StartPos="1120" Length="44" Skip="false">
+    <Translated>Так вот причина моей слабости...</Translated>
+  </Line>
+  <Line StartPos="1179" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1196" Length="41" Skip="false">
+    <Translated>В любом случае, вы оба должны отдохнуть.</Translated>
+  </Line>
+  <Line StartPos="1252" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1269" Length="35" Skip="false">
+    <Translated>Китти, тебе тоже не стоит двигаться...</Translated>
+  </Line>
+  <Line StartPos="1319" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1336" Length="56" Skip="false">
+    <Translated>И, Ку-чан, ты проспал три дня.</Translated> 
+  </Line>
+  <Line StartPos="1397" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1424" Length="12" Skip="false">
+    <Translated>Три дня?..</Translated>
+  </Line>
+  <Line StartPos="1443" Length="24" Skip="false">
+    <Translated>Не удивительно, что я так голоден.</Translated>
+  </Line>
+  <Line StartPos="1482" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1499" Length="113" Skip="false">
+    <Translated>Ну, скоро Мина-чан принесёт что-нибудь для твоего желудка, так что можешь поспать.</Translated>
+  </Line>
+  <Line StartPos="1617" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1644" Length="23" Skip="false">
+    <Translated>Да... спасибо, Люси.</Translated>
+  </Line>
+  <Line StartPos="1682" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1699" Length="51" Skip="false">
+    <Translated>Не волнуйся об этом. Позже ещё зайду.</Translated>
+  </Line>
+  <Line StartPos="1787" Length="23" Skip="false">
+    <Translated>Люси вышла из комнаты...</Translated>
+  </Line>
+  <Line StartPos="1824" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="1842" Length="26" Skip="false">
+    <Translated>Клиф... прости меня...</Translated>
+  </Line>
+  <Line StartPos="1873" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1900" Length="45" Skip="false">
+    <Translated>Не волнуйся об этом. С нами всё будет хорошо.</Translated>
+  </Line>
+  <Line StartPos="1950" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1977" Length="55" Skip="false">
+    <Translated>И... я счастлив, что с тобой всё в порядке.</Translated>
+  </Line>
+  <Line StartPos="2046" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="2064" Length="19" Skip="false">
+    <Translated>...Клиф, спасибо.</Translated>
+  </Line>
+  <Line StartPos="2101" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="2119" Length="17" Skip="false">
+    <Translated>Это... Клиф...</Translated>
+  </Line>
+  <Line StartPos="2141" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2168" Length="7" Skip="false">
+    <Translated>Что?</Translated>
+  </Line>
+  <Line StartPos="2189" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="2207" Length="23" Skip="false">
+    <Translated>Могу я поспать с тобой?</Translated>
+  </Line>
+  <Line StartPos="2235" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2262" Length="43" Skip="false">
+    <Translated>Хорошо, но мы ничего не будем делать, идёт?</Translated>
+  </Line>
+  <Line StartPos="2319" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="2337" Length="7" Skip="false">
+    <Translated>Идёт.</Translated>
+  </Line>
+  <Line StartPos="2399" Length="67" Skip="false">
+    <Translated>Мы победили Дракул, и монстры постепенно успокоились.</Translated>
+  </Line>
+  <Line StartPos="2480" Length="16" Skip="false">
+    <Translated>ED_Mena\0Same_mes</Translated>
+  </Line>
+  <Line StartPos="2532" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2559" Length="27" Skip="false">
+    <Translated>Ночь довольно прохладная.</Translated>
+  </Line>
+  <Line StartPos="2600" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="2618" Length="14" Skip="false">
+    <Translated>А... Клиф.</Translated>
+  </Line>
+  <Line StartPos="2637" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2664" Length="26" Skip="false">
+    <Translated>О... ты тоже здесь?</Translated>
+  </Line>
+  <Line StartPos="2695" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2722" Length="22" Skip="false">
+    <Translated>Что ты здесь делаешь?</Translated>
+  </Line>
+  <Line StartPos="2758" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="2776" Length="29" Skip="false">
+    <Translated>Просто смотрю.</Translated>
+  </Line>
+  <Line StartPos="2812" Length="72" Skip="false">
+    <Translated>Когда я смотрю на город, я вижу как вечерние огоньки мерцают, словно драгоценные камни.</Translated>
+  </Line>
+  <Line StartPos="2889" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2916" Length="19" Skip="false">
+    <Translated>Красиво...</Translated>
+  </Line>
+  <Line StartPos="2949" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="2967" Length="31" Skip="false">
+    <Translated>Да... действительно...</Translated>
+  </Line>
+  <Line StartPos="3003" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3030" Length="36" Skip="false">
+    <Translated>Китти... тебе лучше?</Translated>
+  </Line>
+  <Line StartPos="3080" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="3098" Length="44" Skip="false">
+    <Translated>Да. Я пью молоко каждый день.</Translated>
+  </Line>
+  <Line StartPos="3156" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="3174" Length="42" Skip="false">
+    <Translated>Ты тоже дал мне много своей энергии.</Translated>
+  </Line>
+  <Line StartPos="3221" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3248" Length="17" Skip="false">
+    <Translated>Хаха. Я рад.</Translated>
+  </Line>
+  <Line StartPos="3279" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="3297" Length="30" Skip="false">
+    <Translated>Но, в последнее время я странно себя чувствую.</Translated>
+  </Line>
+  <Line StartPos="3332" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3359" Length="10" Skip="false">
+    <Translated>Странно?</Translated>
+  </Line>
+  <Line StartPos="3383" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="3401" Length="68" Skip="false">
+    <Translated>Раньше... мне хватало секса с тобой и тех сил, что ты давал мне.</Translated>
+  </Line>
+  <Line StartPos="3483" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="3501" Length="55" Skip="false">
+    <Translated>Но теперь, моё сердце заполнено, как и мой живот.</Translated>
+  </Line>
+  <Line StartPos="3570" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="3588" Length="57" Skip="false">
+    <Translated>Мне нравится, мне так тепло и хорошо, когда ты так делаешь.</Translated>
+  </Line>
+  <Line StartPos="3650" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3677" Length="9" Skip="false">
+    <Translated>Хаха...</Translated>
+  </Line>
+  <Line StartPos="3700" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="3718" Length="20" Skip="false">
+    <Translated>Клиф, я люблю тебя.</Translated>
+  </Line>
+  <Line StartPos="3752" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="3770" Length="26" Skip="false">
+    <Translated>И я хочу жить с тобой.</Translated>
+  </Line>
+  <Line StartPos="3810" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="3828" Length="12" Skip="false">
+    <Translated>Всегда...</Translated>
+  </Line>
+  <Line StartPos="3845" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3872" Length="10" Skip="false">
+    <Translated>Китти...</Translated>
+  </Line>
+  <Line StartPos="3889" Length="84" Skip="false">
+    <Translated>Слушая Китти, я вспоминаю утренний разговор с Учителем Виллом.</Translated>
+  </Line>
+  <Line StartPos="4013" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4030" Length="43" Skip="false">
+    <Translated>Я рад, что ты просишь у меня совета о любви.</Translated>
+  </Line>
+  <Line StartPos="4087" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4104" Length="70" Skip="false">
+    <Translated>Значит, ты любишь эту девушку Суккуба? Это будет проблематично.</Translated>
+  </Line>
+  <Line StartPos="4188" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4205" Length="100" Skip="false">
+    <Translated>Но никто не сможет остановить тебя, если ты действительно её любишь. Проблема в том, что вы оба чувствуете друг к другу.</Translated>
+  </Line>
+  <Line StartPos="4310" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4327" Length="49" Skip="false">
+    <Translated>Не думаю, что любить суккуба это плохо.</Translated>
+  </Line>
+  <Line StartPos="4381" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4398" Length="80" Skip="false">
+    <Translated>Независимо от того, суккуб или нет, важно то, что ты чувствуешь.</Translated>
+  </Line>
+  <Line StartPos="4483" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4500" Length="94" Skip="false">
+    <Translated>Мне её жаль, если твои чувства к ней изменяться из-за чьего-то мнения.</Translated>
+  </Line>
+  <Line StartPos="4608" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4625" Length="51" Skip="false">
+    <Translated>...ну, я не беспокоюсь за твою физическую силу.</Translated>
+  </Line>
+  <Line StartPos="4694" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4711" Length="87" Skip="false">
+    <Translated>Я тоже привязался к тем-же специям прежде. Ну, не так рано как ты, но...</Translated>
+  </Line>
+  <Line StartPos="4803" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4820" Length="82" Skip="false">
+    <Translated>Суккубы более свободны и безудержны, чем мы. Они не ограничены чем-либо.</Translated>
+  </Line>
+  <Line StartPos="4907" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="4924" Length="46" Skip="false">
+    <Translated>Думаю, мне тоже понравилась эта её сторона.</Translated>
+  </Line>
+  <Line StartPos="4984" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="5001" Length="70" Skip="false">
+    <Translated>Если бы не было Айри, возможно, я бы приударил за ней.</Translated>
+  </Line>
+  <Line StartPos="5085" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="5102" Length="69" Skip="false">
+    <Translated>Когда мы смотрим в их глаза – нам открывается совершенно другой мир...</Translated>
+  </Line>
+  <Line StartPos="5176" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="5193" Length="36" Skip="false">
+    <Translated>Этот мир очень привлекателен.</Translated>
+  </Line>
+  <Line StartPos="5234" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="5251" Length="34" Skip="false">
+    <Translated>Поэтому, ты должен позволить ей показать его тебе.</Translated>
+  </Line>
+  <Line StartPos="5290" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="5307" Length="49" Skip="false">
+    <Translated>Другой мир, который не видно человеческим глазом...</Translated>
+  </Line>
+  <Line StartPos="5361" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="5378" Length="32" Skip="false">
+    <Translated>Другой образ мышления...</Translated>
+  </Line>
+  <Line StartPos="5424" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="5441" Length="50" Skip="false">
+    <Translated>Уверен, это станет большим преимуществом в твоей жизни.</Translated>
+  </Line>
+  <Line StartPos="5530" Length="78" Skip="false">
+    <Translated>Я уже готов. Мои чувства не изменяться, независимо от того кто и что скажет мне.</Translated>
+  </Line>
+  <Line StartPos="5620" Length="52" Skip="false">
+    <Translated>Потому что я люблю её, а она любит меня.</Translated>
+  </Line>
+  <Line StartPos="5686" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5713" Length="28" Skip="false">
+    <Translated>Китти... я тоже тебя люблю...</Translated>
+  </Line>
+  <Line StartPos="5769" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="5787" Length="18" Skip="false">
+    <Translated>Спасибо, Клиф...</Translated>
+  </Line>
+  <Line StartPos="5839" Length="53" Skip="false">
+    <Translated>Наши лица совсем рядом, и мы закрываем глаза.</Translated>
+  </Line>
+  <Line StartPos="5904" Length="36" Skip="false">
+    <Translated>Наши лица приблизились и наши губы соприкоснулись...</Translated>
+  </Line>
+  <Line StartPos="5952" Length="67" Skip="false">
+    <Translated>Я обнимаю её маленькое тело и клянусь всей своей решимостью.</Translated>
+  </Line>
+  <Line StartPos="6035" Length="28" Skip="false">
+    <Translated>Я буду жить с Китти...</Translated>
+  </Line>
+  <Line StartPos="6075" Length="44" Skip="false">
+    <Translated>Я приму мир, который она покажет мне...</Translated>
+  </Line>
+  <Line StartPos="6131" Length="21" Skip="false">
+    <Translated>С Китти навсегда...</Translated>
+  </Line>
+  <Line StartPos="6168" Length="21" Skip="false">
+    <Translated>До конца своей жизни...</Translated>
+  </Line>
+  <Line StartPos="6210" Length="17" Skip="false">
+    <Translated>ED_Mena\0StaffRoll</Translated>
+  </Line>
+  <Line StartPos="6323" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="6341" Length="30" Skip="false">
+    <Translated>Клиф! Спасибо за старания!</Translated>
+  </Line>
+  <Line StartPos="6399" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="6417" Length="44" Skip="false">
+    <Translated>Ох... ты уже сделал это со всеми.</Translated>
+  </Line>
+  <Line StartPos="6475" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="6493" Length="42" Skip="false">
+    <Translated>Но я снова хочу заняться с тобой сексом...</Translated>
+  </Line>
+  <Line StartPos="6549" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="6567" Length="32" Skip="false">
+    <Translated>Потому что я люблю тебя больше всех...</Translated>
+  </Line>
+  <Line StartPos="6635" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="6653" Length="29" Skip="false">
+    <Translated>Хехе. Ты снова пришёл ко мне.</Translated>
+  </Line>
+  <Line StartPos="6710" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="6728" Length="46" Skip="false">
+    <Translated>Ты так много занимался со мной сексом, что я полна...</Translated>
+  </Line>
+  <Line StartPos="6788" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="6806" Length="45" Skip="false">
+    <Translated>Но я хочу, чтобы ты сделал это и с Аой и Шерил...</Translated>
+  </Line>
+  <Line StartPos="6865" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="6883" Length="44" Skip="false">
+    <Translated>Я люблю всех, включая Мину и Люси...</Translated>
+  </Line>
+  <Line StartPos="6941" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="6959" Length="34" Skip="false">
+    <Translated>Но тебя я люблю больше, вот!</Translated>
+  </Line>
+  <Line StartPos="7015" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="7033" Length="42" Skip="false">
+    <Translated>Но я хочу, чтобы ты выбрал и Шерил тоже...</Translated>
+  </Line>
+  <Line StartPos="7089" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="7107" Length="50" Skip="false">
+    <Translated>Я люблю всех, включая Мину, Аой и Люси...</Translated>
+  </Line>
+  <Line StartPos="7171" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="7189" Length="34" Skip="false">
+    <Translated>Но тебя я люблю больше, вот!</Translated>
+  </Line>
+  <Line StartPos="7241" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="7259" Length="38" Skip="false">
+    <Translated>А теперь вернёмся к первому дню.</Translated>
+  </Line>
+  <Line StartPos="7311" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="7329" Length="56" Skip="false">
+    <Translated>Ум... у тебя много вещей, лучше будет сохраниться.</Translated>
+  </Line>
+  <Line StartPos="7399" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="7417" Length="45" Skip="false">
+    <Translated>Это настолько сложно, что мне трудно понять, но...</Translated>
+  </Line>
+  <Line StartPos="7476" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="7494" Length="30" Skip="false">
+    <Translated>Клиф, давай снова займёмся сексом.</Translated>
+  </Line>
+</Lines>
+
+
+</pre>
+
+[[Men_at_Work 2|[Назад]]]

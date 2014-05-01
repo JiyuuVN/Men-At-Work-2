@@ -1,0 +1,1865 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="617">
+  <Line StartPos="923" Length="8" Skip="false">
+    <Translated>Complete</Translated>
+  </Line>
+  <Line StartPos="1023" Length="7" Skip="false">
+    <Translated>Opening</Translated>
+  </Line>
+  <Line StartPos="1088" Length="7" Skip="false">
+    <Translated>Opening</Translated>
+  </Line>
+  <Line StartPos="1229" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1256" Length="18" Skip="false">
+    <Translated>О... посетитель?</Translated>
+  </Line>
+  <Line StartPos="1288" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="1309" Length="37" Skip="false">
+    <Translated>О, здравствуй. Как дела?</Translated>
+  </Line>
+  <Line StartPos="1351" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="1372" Length="46" Skip="false">
+    <Translated>Я принёс хорошие новости.</Translated>
+  </Line>
+  <Line StartPos="1423" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1450" Length="34" Skip="false">
+    <Translated>Правда? Большое спасибо.</Translated>
+  </Line>
+  <Line StartPos="1498" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="1519" Length="32" Skip="false">
+    <Translated>Кто ты чёрт побери такой?..</Translated>
+  </Line>
+  <Line StartPos="1556" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1583" Length="41" Skip="false">
+    <Translated>Ну... Я новый ученик Школы.</Translated>
+  </Line>
+  <Line StartPos="1638" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="1659" Length="60" Skip="false">
+    <Translated>О. Извини. Могу ли я поговориь с Учителем Виллом?</Translated>
+  </Line>
+  <Line StartPos="1724" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1751" Length="26" Skip="false">
+    <Translated>О хорошо, пожалуйста подо-...</Translated>
+  </Line>
+  <Line StartPos="1804" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1821" Length="14" Skip="false">
+    <Translated>Идиот!</Translated>
+  </Line>
+  <Line StartPos="1840" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="1867" Length="40" Skip="false">
+    <Translated>Ой... Что ты творишь, Люси?..</Translated>
+  </Line>
+  <Line StartPos="1912" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="1929" Length="94" Skip="false">
+    <Translated>Такой у меня характер. У меня было плохое предчувствие и я вернулась... Но что ты делаешь?!</Translated>
+  </Line>
+  <Line StartPos="2028" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2055" Length="34" Skip="false">
+    <Translated>Я просто общался с гостем.</Translated>
+  </Line>
+  <Line StartPos="2094" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2111" Length="72" Skip="false">
+    <Translated>Гостем? С ним? Не тупи! Зачем ты его приглашаешь?!</Translated>
+  </Line>
+  <Line StartPos="2197" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="2218" Length="25" Skip="false">
+    <Translated>Как ужасно.</Translated>
+  </Line>
+  <Line StartPos="2248" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2275" Length="62" Skip="false">
+    <Translated>Похоже, он принёс хорошие новости...</Translated>
+  </Line>
+  <Line StartPos="2352" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2369" Length="115" Skip="false">
+    <Translated>Не воспринимай его всерьёз! Я уверена, он всё ещё хочет выкупить нашу Школу за каких-то несколько сотен тысяч Зел.</Translated>
+  </Line>
+  <Line StartPos="2498" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="2519" Length="108" Skip="false">
+    <Translated>Нет, нет, нет. Совсем другая сумма. Стоимость земли уже превышает миллион Зел!</Translated>
+  </Line>
+  <Line StartPos="2632" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="2659" Length="22" Skip="false">
+    <Translated>Вау, невероятно.</Translated>
+  </Line>
+  <Line StartPos="2696" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2713" Length="41" Skip="false">
+    <Translated>Не отвечай ему! Это бессмысленно!</Translated>
+  </Line>
+  <Line StartPos="2768" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="2789" Length="104" Skip="false">
+    <Translated>Пришло время превратить это место в зону отдыха. Иначе ему придёт конец...</Translated>
+  </Line>
+  <Line StartPos="2898" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="2915" Length="69" Skip="false">
+    <Translated>Не смеши! Мы низачто не отдадим тебе Школу!</Translated>
+  </Line>
+  <Line StartPos="2989" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="3010" Length="55" Skip="false">
+    <Translated>Пожалуйста не злитесь и обдумайте предложение...</Translated>
+  </Line>
+  <Line StartPos="3070" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3087" Length="88" Skip="false">
+    <Translated>Я всё равно не соглашусь, сколько бы не обдумывала! Убирайся от сюда!</Translated>
+  </Line>
+  <Line StartPos="3189" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="3210" Length="31" Skip="false">
+    <Translated>Хорошо... Я ещё вернусь.</Translated>
+  </Line>
+  <Line StartPos="3246" Length="6" Skip="false">
+    <Translated>S_NULL</Translated>
+  </Line>
+  <Line StartPos="3278" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3295" Length="69" Skip="false">
+    <Translated>Не вздумай возвращаться! Ку-чан! Принеси мне немного соли, чтобы очистить это место.</Translated>
+  </Line>
+  <Line StartPos="3369" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3396" Length="10" Skip="false">
+    <Translated>Э...</Translated>
+  </Line>
+  <Line StartPos="3420" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3437" Length="72" Skip="false">
+    <Translated>Ты понял, Ку-чан?! Никогда не подпускай его близко к Школе!</Translated>
+  </Line>
+  <Line StartPos="3523" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="3540" Length="10" Skip="false">
+    <Translated>Усёк?!</Translated>
+  </Line>
+  <Line StartPos="3555" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3582" Length="11" Skip="false">
+    <Translated>Х-хорошо...</Translated>
+  </Line>
+  <Line StartPos="3617" Length="46" Skip="false">
+    <Translated>После этого, Люси полетела обратно на работу.</Translated>
+  </Line>
+  <Line StartPos="3679" Length="47" Skip="false">
+    <Translated>После этого, Люси вернулась в Школу.</Translated>
+  </Line>
+  <Line StartPos="3756" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="3777" Length="27" Skip="false">
+    <Translated>Здравствуй. Вот мы и снова встретились.</Translated>
+  </Line>
+  <Line StartPos="3809" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3836" Length="12" Skip="false">
+    <Translated>Здравствуйте.</Translated>
+  </Line>
+  <Line StartPos="3862" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="3883" Length="40" Skip="false">
+    <Translated>Ну... У меня есть кое-какие новости.</Translated>
+  </Line>
+  <Line StartPos="3928" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="3955" Length="28" Skip="false">
+    <Translated>Что за новости?</Translated>
+  </Line>
+  <Line StartPos="3997" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="4018" Length="94" Skip="false">
+    <Translated>Это расчёты доходов и убытков, если мы построим тут купальни. Видишь?</Translated>
+  </Line>
+  <Line StartPos="4117" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4144" Length="64" Skip="false">
+    <Translated>Эм... Извините. Я не совсем понимаю, о чём вы говорите.</Translated>
+  </Line>
+  <Line StartPos="4222" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="4243" Length="79" Skip="false">
+    <Translated>Ну... Здесь показано, сколько мы сможем заработать, если построить здесь купальни.</Translated>
+  </Line>
+  <Line StartPos="4327" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4354" Length="12" Skip="false">
+    <Translated>О, понятно.</Translated>
+  </Line>
+  <Line StartPos="4380" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="4401" Length="110" Skip="false">
+    <Translated>Даже если грубо прикинуть, мы получим доход в 1.5 миллиона. Нельзя упускать такой шанс!</Translated>
+  </Line>
+  <Line StartPos="4516" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4543" Length="42" Skip="false">
+    <Translated>А почему вы всё это мне говорите?</Translated>
+  </Line>
+  <Line StartPos="4599" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="4620" Length="40" Skip="false">
+    <Translated>Потому что ты из Школы.</Translated>
+  </Line>
+  <Line StartPos="4665" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4692" Length="8" Skip="false">
+    <Translated>О...</Translated>
+  </Line>
+  <Line StartPos="4714" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="4735" Length="63" Skip="false">
+    <Translated>Нам нужна земля для постройки купален! Теперь ты понял?!</Translated>
+  </Line>
+  <Line StartPos="4803" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4830" Length="19" Skip="false">
+    <Translated>Н-ну... Тогда...</Translated>
+  </Line>
+  <Line StartPos="4863" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="4884" Length="7" Skip="false">
+    <Translated>Тогда?</Translated>
+  </Line>
+  <Line StartPos="4896" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="4923" Length="52" Skip="false">
+    <Translated>...думаю вам стоит забыть об этом.</Translated>
+  </Line>
+  <Line StartPos="4989" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="5010" Length="31" Skip="false">
+    <Translated>Т-ты! Насмехаешься надо мной?!</Translated>
+  </Line>
+  <Line StartPos="5046" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5073" Length="7" Skip="false">
+    <Translated>О-о!</Translated>
+  </Line>
+  <Line StartPos="5091" Length="54" Skip="false">
+    <Translated>Бенжамин-сан преследует меня.</Translated>
+  </Line>
+  <Line StartPos="5175" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="5196" Length="11" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="5212" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5239" Length="11" Skip="false">
+    <Translated>Ой... Здравствуйте.</Translated>
+  </Line>
+  <Line StartPos="5255" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="5276" Length="50" Skip="false">
+    <Translated>Наглец. Иди приведи Директора Школы.</Translated>
+  </Line>
+  <Line StartPos="5331" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5358" Length="40" Skip="false">
+    <Translated>Эм... Вилл-сенсей отсутствует.</Translated>
+  </Line>
+  <Line StartPos="5403" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="5424" Length="46" Skip="false">
+    <Translated>Плевать. Подожду пока не вернётся.</Translated>
+  </Line>
+  <Line StartPos="5475" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5502" Length="7" Skip="false">
+    <Translated>О...</Translated>
+  </Line>
+  <Line StartPos="5523" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="5540" Length="35" Skip="false">
+    <Translated>Я буду волноваться, если ты так поступишь.</Translated>
+  </Line>
+  <Line StartPos="5590" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="5611" Length="54" Skip="false">
+    <Translated>О, здравствуйте Вилл. Я вас ждал.</Translated>
+  </Line>
+  <Line StartPos="5679" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="5696" Length="59" Skip="false">
+    <Translated>Тогда я ухожу. Позаботься об остальном, Клиф-кун.</Translated>
+  </Line>
+  <Line StartPos="5770" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="5791" Length="47" Skip="false">
+    <Translated>Постойте! У меня к вам важное дело...</Translated>
+  </Line>
+  <Line StartPos="5852" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="5869" Length="91" Skip="false">
+    <Translated>Если это о продаже Школы, то всё это я поручаю Клифу.</Translated>
+  </Line>
+  <Line StartPos="5965" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="5992" Length="10" Skip="false">
+    <Translated>Ч-что?!</Translated>
+  </Line>
+  <Line StartPos="6017" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="6038" Length="10" Skip="false">
+    <Translated>Ч-что?!</Translated>
+  </Line>
+  <Line StartPos="6062" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="6079" Length="61" Skip="false">
+    <Translated>Так что, если Клиф-кун даст согласие, я приму ваше предложение.</Translated>
+  </Line>
+  <Line StartPos="6155" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="6177" Length="34" Skip="false">
+    <Translated>Я запомню ваши слова!</Translated>
+  </Line>
+  <Line StartPos="6250" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="6272" Length="82" Skip="false">
+    <Translated>Ну, Клиф-сенсей. Пожалуйста! Вам нужно только сказать, что согласны отдать землю.</Translated>
+  </Line>
+  <Line StartPos="6359" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6386" Length="7" Skip="false">
+    <Translated>Н-нет!</Translated>
+  </Line>
+  <Line StartPos="6398" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="6420" Length="9" Skip="false">
+    <Translated>Пожалуйста!</Translated>
+  </Line>
+  <Line StartPos="6434" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6461" Length="5" Skip="false">
+    <Translated>Нет!</Translated>
+  </Line>
+  <Line StartPos="6471" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="6493" Length="10" Skip="false">
+    <Translated>Ну же!</Translated>
+  </Line>
+  <Line StartPos="6508" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6535" Length="10" Skip="false">
+    <Translated>Не могу!</Translated>
+  </Line>
+  <Line StartPos="6550" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="6571" Length="15" Skip="false">
+    <Translated>Клиф-сенсей!</Translated>
+  </Line>
+  <Line StartPos="6599" Length="12" Skip="false">
+    <Translated>draw\0Terrace</Translated>
+  </Line>
+  <Line StartPos="6622" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="6644" Length="23" Skip="false">
+    <Translated>Пожалуйста!</Translated>
+  </Line>
+  <Line StartPos="6672" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6690" Length="11" Skip="false">
+    <Translated>Отказываюсь!</Translated>
+  </Line>
+  <Line StartPos="6706" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="6728" Length="9" Skip="false">
+    <Translated>Пожалуйста!</Translated>
+  </Line>
+  <Line StartPos="6751" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="6767" Length="24" Skip="false">
+    <Translated>Это подло, Сенсей...</Translated>
+  </Line>
+  <Line StartPos="6821" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="6848" Length="23" Skip="false">
+    <Translated>О?! Бенжамин-сан?!</Translated>
+  </Line>
+  <Line StartPos="6885" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="6906" Length="73" Skip="false">
+    <Translated>Я нашёл вас, Клиф! Пожалуйста, скажите что отдаёте зем...</Translated>
+  </Line>
+  <Line StartPos="6984" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7011" Length="10" Skip="false">
+    <Translated>Не буду!</Translated>
+  </Line>
+  <Line StartPos="7035" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="7056" Length="52" Skip="false">
+    <Translated>Ох, погодите! Я серьёзно, пожалуйста подождите!</Translated>
+  </Line>
+  <Line StartPos="7119" Length="32" Skip="false">
+    <Translated>Мне удалось сбежать от Бенжамин-сана.</Translated>
+  </Line>
+  <Line StartPos="7371" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="7387" Length="12" Skip="false">
+    <Translated>Клиф-кун.</Translated>
+  </Line>
+  <Line StartPos="7404" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7431" Length="19" Skip="false">
+    <Translated>О... Айри-сенсей.</Translated>
+  </Line>
+  <Line StartPos="7464" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="7480" Length="51" Skip="false">
+    <Translated>ты так стараешься. Нашёл уже работу?</Translated>
+  </Line>
+  <Line StartPos="7536" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7563" Length="15" Skip="false">
+    <Translated>Эм... Ну...</Translated>
+  </Line>
+  <Line StartPos="7592" Length="3" Skip="false">
+    <Translated>Айри</Translated>
+  </Line>
+  <Line StartPos="7608" Length="44" Skip="false">
+    <Translated>Пожалуйста постарайся. Мы расчитываем на тебя.</Translated>
+  </Line>
+  <Line StartPos="7657" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7685" Length="28" Skip="false">
+    <Translated>Да, конечно. Я постараюсь.</Translated>
+  </Line>
+  <Line StartPos="7718" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7737" Length="42" Skip="false">
+    <Translated>Интересно, чем они обычно занимаются...</Translated>
+  </Line>
+  <Line StartPos="7809" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="7826" Length="62" Skip="false">
+    <Translated>Клиф-кун, похоже, ты тут уже прижился.</Translated>
+  </Line>
+  <Line StartPos="7893" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="7920" Length="45" Skip="false">
+    <Translated>О... Вилл-сенсей. Вы куда-то уходите?</Translated>
+  </Line>
+  <Line StartPos="7979" Length="4" Skip="false">
+    <Translated>Вилл</Translated>
+  </Line>
+  <Line StartPos="7996" Length="66" Skip="false">
+    <Translated>Я иду на собрание Гильдии Охотников. Вернусь к обеду.</Translated>
+  </Line>
+  <Line StartPos="8067" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8094" Length="27" Skip="false">
+    <Translated>Понятно... Желаю удачи.</Translated>
+  </Line>
+  <Line StartPos="8151" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="8171" Length="17" Skip="false">
+    <Translated>Эй, парень.</Translated>
+  </Line>
+  <Line StartPos="8193" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8220" Length="23" Skip="false">
+    <Translated>Ген-сан. Здравствуйте.</Translated>
+  </Line>
+  <Line StartPos="8248" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8275" Length="24" Skip="false">
+    <Translated>Вам что-нибуль нужно?</Translated>
+  </Line>
+  <Line StartPos="8304" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="8325" Length="40" Skip="false">
+    <Translated>Ну, я по поводу здания Школы.</Translated>
+  </Line>
+  <Line StartPos="8370" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8397" Length="9" Skip="false">
+    <Translated>Хорошо...</Translated>
+  </Line>
+  <Line StartPos="8420" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="8441" Length="72" Skip="false">
+    <Translated>Убогость этого дома разжигает во мне дух плотника.</Translated>
+  </Line>
+  <Line StartPos="8518" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8545" Length="5" Skip="false">
+    <Translated>О...</Translated>
+  </Line>
+  <Line StartPos="8564" Length="7" Skip="false">
+    <Translated>Ген-сан</Translated>
+  </Line>
+  <Line StartPos="8584" Length="69" Skip="false">
+    <Translated>Так что, дай мне работу как можно скорее, я всё починю, вложив в это душу.</Translated>
+  </Line>
+  <Line StartPos="8658" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8685" Length="40" Skip="false">
+    <Translated>Ох... Хорошо. Спасибо за визит.</Translated>
+  </Line>
+  <Line StartPos="8755" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8782" Length="22" Skip="false">
+    <Translated>Ханна-сан?..</Translated>
+  </Line>
+  <Line StartPos="8818" Length="5" Skip="false">
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="8836" Length="54" Skip="false">
+    <Translated>Клиф-кун... Вилл-сенсей здесь?</Translated>
+  </Line>
+  <Line StartPos="8895" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="8922" Length="50" Skip="false">
+    <Translated>Эм... Думаю, он уже ушёл.</Translated>
+  </Line>
+  <Line StartPos="8986" Length="5" Skip="false">
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="9004" Length="70" Skip="false">
+    <Translated>Ничего не поделаешь... Тогда можешь передать ему это?</Translated>
+  </Line>
+  <Line StartPos="9081" Length="30" Skip="false">
+    <Translated>Ханна-сан даёт мне конверт.</Translated>
+  </Line>
+  <Line StartPos="9116" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9143" Length="11" Skip="false">
+    <Translated>Хорошо.</Translated>
+  </Line>
+  <Line StartPos="9168" Length="5" Skip="false">
+    <Translated>Ханна</Translated>
+  </Line>
+  <Line StartPos="9186" Length="27" Skip="false">
+    <Translated>Я рассчитываю на тебя, пока.</Translated>
+  </Line>
+  <Line StartPos="9222" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9249" Length="30" Skip="false">
+    <Translated>Интересно, а что в нём?</Translated>
+  </Line>
+  <Line StartPos="9284" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9311" Length="41" Skip="false">
+    <Translated>Там счёт за выпивку...</Translated>
+  </Line>
+  <Line StartPos="9426" Length="55" Skip="false">
+    <Translated>Когда я вернулся, увидел странного гостя у Школы.</Translated>
+  </Line>
+  <Line StartPos="9519" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="9540" Length="26" Skip="false">
+    <Translated>Здравствуй, давно не виделись.</Translated>
+  </Line>
+  <Line StartPos="9571" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9598" Length="15" Skip="false">
+    <Translated>Эм... Ну...</Translated>
+  </Line>
+  <Line StartPos="9618" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9645" Length="18" Skip="false">
+    <Translated>Что такое Бенджи-сан?</Translated>
+  </Line>
+  <Line StartPos="9677" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="9698" Length="16" Skip="false">
+    <Translated>Бенжамин!</Translated>
+  </Line>
+  <Line StartPos="9729" Length="3" Skip="false">
+    <Translated>???</Translated>
+  </Line>
+  <Line StartPos="9745" Length="9" Skip="false">
+    <Translated>Ха-ха!</Translated>
+  </Line>
+  <Line StartPos="9768" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="9789" Length="23" Skip="false">
+    <Translated>Слуга, хватит смеяться!</Translated>
+  </Line>
+  <Line StartPos="9827" Length="7" Skip="false">
+    <Translated>Слуга</Translated>
+  </Line>
+  <Line StartPos="9847" Length="29" Skip="false">
+    <Translated>Извините, Бенжамин-сама!</Translated>
+  </Line>
+  <Line StartPos="9900" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="9921" Length="38" Skip="false">
+    <Translated>Короче... Вилл-сенсей сейчас здесь?</Translated>
+  </Line>
+  <Line StartPos="9964" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="9991" Length="16" Skip="false">
+    <Translated>Его нет.</Translated>
+  </Line>
+  <Line StartPos="10021" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="10042" Length="69" Skip="false">
+    <Translated>Не надо мне врать. В это время он должен быть у себя.</Translated>
+  </Line>
+  <Line StartPos="10116" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="10137" Length="80" Skip="false">
+    <Translated>Вообще, откуда ты знаешь что его нет, если сам только что пришёл?</Translated>
+  </Line>
+  <Line StartPos="10231" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="10253" Length="37" Skip="false">
+    <Translated>Ха... Отличное утверждение.</Translated>
+  </Line>
+  <Line StartPos="10295" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10322" Length="43" Skip="false">
+    <Translated>На днях учитель уехал в Лигурию.</Translated>
+  </Line>
+  <Line StartPos="10370" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="10392" Length="11" Skip="false">
+    <Translated>...</Translated>
+  </Line>
+  <Line StartPos="10417" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="10438" Length="13" Skip="false">
+    <Translated>Простите?!</Translated>
+  </Line>
+  <Line StartPos="10456" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10483" Length="63" Skip="false">
+    <Translated>Так что, некоторое время я буду заместителем директора Школы.</Translated>
+  </Line>
+  <Line StartPos="10551" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="10572" Length="57" Skip="false">
+    <Translated>Ребёнок... В смысле, ты ещё так молод...</Translated>
+  </Line>
+  <Line StartPos="10634" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10661" Length="9" Skip="false">
+    <Translated>Да...</Translated>
+  </Line>
+  <Line StartPos="10684" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="10705" Length="77" Skip="false">
+    <Translated>Понятно. Тогда я могу обратиться к тебе по поводу продажи земли, верно?</Translated>
+  </Line>
+  <Line StartPos="10787" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10814" Length="65" Skip="false">
+    <Translated>Эм... Я вас предупреждаю, оставьте эту затею.</Translated>
+  </Line>
+  <Line StartPos="10893" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="10914" Length="31" Skip="false">
+    <Translated>Предупреждаешь меня? О чём ты?</Translated>
+  </Line>
+  <Line StartPos="10950" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="10977" Length="27" Skip="false">
+    <Translated>Это место населено призраками.</Translated>
+  </Line>
+  <Line StartPos="11018" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="11039" Length="46" Skip="false">
+    <Translated>Меня не проведёшь детскими страшилками.</Translated>
+  </Line>
+  <Line StartPos="11090" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="11117" Length="48" Skip="false">
+    <Translated>Это правда! Вам лучше сдаться!</Translated>
+  </Line>
+  <Line StartPos="11179" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="11200" Length="14" Skip="false">
+    <Translated>Погоди!</Translated>
+  </Line>
+  <Line StartPos="11228" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="11249" Length="41" Skip="false">
+    <Translated>Чёрт... Он ушёл. Вот мелкий засранец.</Translated>
+  </Line>
+  <Line StartPos="11295" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="11316" Length="50" Skip="false">
+    <Translated>Призраки? Даже ребёнок в это не поверит.</Translated>
+  </Line>
+  <Line StartPos="11371" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="11392" Length="18" Skip="false">
+    <Translated>Призраки, хм?</Translated>
+  </Line>
+  <Line StartPos="11424" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="11445" Length="15" Skip="false">
+    <Translated>Эй, слуга.</Translated>
+  </Line>
+  <Line StartPos="11475" Length="7" Skip="false">
+    <Translated>Слуга</Translated>
+  </Line>
+  <Line StartPos="11495" Length="16" Skip="false">
+    <Translated>Да?</Translated>
+  </Line>
+  <Line StartPos="11516" Length="8" Skip="false">
+    <Translated>Бенжамин</Translated>
+  </Line>
+  <Line StartPos="11537" Length="34" Skip="false">
+    <Translated>Думаешь, сможем использовать это в своих целях?</Translated>
+  </Line>
+  <Line StartPos="11586" Length="7" Skip="false">
+    <Translated>Слуга</Translated>
+  </Line>
+  <Line StartPos="11606" Length="39" Skip="false">
+    <Translated>Ох...Бенжамин-сама, неужели опять?</Translated>
+  </Line>
+  <Line StartPos="11669" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="11685" Length="19" Skip="false">
+    <Translated>С возвращением.</Translated>
+  </Line>
+  <Line StartPos="11709" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="11736" Length="40" Skip="false">
+    <Translated>Я дома... о, ты разбрызгиваешь воду.</Translated>
+  </Line>
+  <Line StartPos="11783" Length="86" Skip="false">
+    <Translated>Аой-сан разбрызгивает воду, используя ножной насос и шланг, подсоединённый к колодцу. </Translated>
+  </Line>
+  <Line StartPos="11874" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="11901" Length="45" Skip="false">
+    <Translated>Похоже, это не легко. Хочешь я этим займусь?</Translated>
+  </Line>
+  <Line StartPos="11960" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="11976" Length="53" Skip="false">
+    <Translated>Нет... Всё нормально. Это часть тренировки.</Translated>
+  </Line>
+  <Line StartPos="12036" Length="48" Skip="false">
+    <Translated>Значит, даже что-то такое может быть тренировкой?</Translated>
+  </Line>
+  <Line StartPos="12098" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="12114" Length="22" Skip="false">
+    <Translated>Так я укрепляю ноги.</Translated>
+  </Line>
+  <Line StartPos="12141" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="12168" Length="8" Skip="false">
+    <Translated>Понятно.</Translated>
+  </Line>
+  <Line StartPos="12183" Length="63" Skip="false">
+    <Translated>Думаю, тут она и без меня справится.</Translated>
+  </Line>
+  <Line StartPos="12310" Length="11" Skip="false">
+    <Translated>R_Lucy\0Lake</Translated>
+  </Line>
+  <Line StartPos="12433" Length="37" Skip="false">
+    <Translated>Я встретил Китти около входа в Школу.</Translated>
+  </Line>
+  <Line StartPos="12484" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="12502" Length="8" Skip="false">
+    <Translated>Клиф.</Translated>
+  </Line>
+  <Line StartPos="12515" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="12542" Length="12" Skip="false">
+    <Translated>О, Китти.</Translated>
+  </Line>
+  <Line StartPos="12559" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="12586" Length="35" Skip="false">
+    <Translated>Не стоит тебя так расхаживать.</Translated>
+  </Line>
+  <Line StartPos="12635" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="12653" Length="6" Skip="false">
+    <Translated>Не стоит?</Translated>
+  </Line>
+  <Line StartPos="12664" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="12691" Length="79" Skip="false">
+    <Translated>Да... Это выдаёт в тебе монстра.</Translated>
+  </Line>
+  <Line StartPos="12784" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="12802" Length="32" Skip="false">
+    <Translated>Хорошо, тогда я одену это.</Translated>
+  </Line>
+  <Line StartPos="12867" Length="49" Skip="false">
+    <Translated>Китти на секунду исчезла.</Translated>
+  </Line>
+  <Line StartPos="12948" Length="57" Skip="false">
+    <Translated>И в следующее мгновение передо мной появилась девочка.</Translated>
+  </Line>
+  <Line StartPos="13019" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="13037" Length="15" Skip="false">
+    <Translated>Всё хорошо?</Translated>
+  </Line>
+  <Line StartPos="13057" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="13084" Length="64" Skip="false">
+    <Translated>Ух-ты, ты даже так можешь? Так намного лучше.</Translated>
+  </Line>
+  <Line StartPos="13162" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="13180" Length="7" Skip="false">
+    <Translated>Хе-хе.</Translated>
+  </Line>
+  <Line StartPos="13194" Length="18" Skip="false">
+    <Translated>Китти выглядит довольной.</Translated>
+  </Line>
+  <Line StartPos="13257" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="13284" Length="30" Skip="false">
+    <Translated>Интересно, что делает Китти.</Translated>
+  </Line>
+  <Line StartPos="13321" Length="47" Skip="false">
+    <Translated>Мне любопытно, поэтому я возвращаюсь в Школу.</Translated>
+  </Line>
+  <Line StartPos="13381" Length="10" Skip="false">
+    <Translated>Draw\0Kitty</Translated>
+  </Line>
+  <Line StartPos="13402" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="13429" Length="27" Skip="false">
+    <Translated>Эй Китти... Ты... Ой.</Translated>
+  </Line>
+  <Line StartPos="13498" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="13516" Length="8" Skip="false">
+    <Translated>Ссс...</Translated>
+  </Line>
+  <Line StartPos="13529" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="13556" Length="27" Skip="false">
+    <Translated>Она спит.</Translated>
+  </Line>
+  <Line StartPos="13590" Length="79" Skip="false">
+    <Translated>Она так мило держит подушку. Интересно, это Мина ей дала?</Translated>
+  </Line>
+  <Line StartPos="13674" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="13701" Length="40" Skip="false">
+    <Translated>Боже... Ты же простудишься.</Translated>
+  </Line>
+  <Line StartPos="13748" Length="43" Skip="false">
+    <Translated>Я накрыл её одеялом и вышел.</Translated>
+  </Line>
+  <Line StartPos="13827" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="13845" Length="29" Skip="false">
+    <Translated>Клиф. Приходил странный человек.</Translated>
+  </Line>
+  <Line StartPos="13879" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="13906" Length="12" Skip="false">
+    <Translated>Странный человек?</Translated>
+  </Line>
+  <Line StartPos="13932" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="13950" Length="72" Skip="false">
+    <Translated>Да... Сияющий человек с усами и с морщинами вокруг глаз.</Translated>
+  </Line>
+  <Line StartPos="14029" Length="24" Skip="false">
+    <Translated>Ох... Бенжамин-сан.</Translated>
+  </Line>
+  <Line StartPos="14067" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="14085" Length="51" Skip="false">
+    <Translated>Они ушли, когда я им сказала что никого нет.</Translated>
+  </Line>
+  <Line StartPos="14141" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="14168" Length="44" Skip="false">
+    <Translated>Ясно. Спасибо что присмотрела за Школой.</Translated>
+  </Line>
+  <Line StartPos="14226" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="14244" Length="7" Skip="false">
+    <Translated>Хе-хе.</Translated>
+  </Line>
+  <Line StartPos="14287" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="14305" Length="38" Skip="false">
+    <Translated>Кстати Клиф. Они сегодня ещё вернутся.</Translated>
+  </Line>
+  <Line StartPos="14348" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="14375" Length="32" Skip="false">
+    <Translated>Правда? Что они сказали?</Translated>
+  </Line>
+  <Line StartPos="14421" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="14439" Length="47" Skip="false">
+    <Translated>Ничего... Просто что снова придут.</Translated>
+  </Line>
+  <Line StartPos="14491" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="14518" Length="16" Skip="false">
+    <Translated>Понятно. Спасибо.</Translated>
+  </Line>
+  <Line StartPos="14548" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="14566" Length="7" Skip="false">
+    <Translated>Хе-хе.</Translated>
+  </Line>
+  <Line StartPos="14580" Length="45" Skip="false">
+    <Translated>Она наверное очень рада, что может быть полезной.</Translated>
+  </Line>
+  <Line StartPos="14652" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="14679" Length="12" Skip="false">
+    <Translated>Китти.</Translated>
+  </Line>
+  <Line StartPos="14735" Length="57" Skip="false">
+    <Translated>Китти свесив ноги, сидит на перилах балкона.</Translated>
+  </Line>
+  <Line StartPos="14797" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="14824" Length="40" Skip="false">
+    <Translated>Эй, Китти. Аккуратней, можешь упасть.</Translated>
+  </Line>
+  <Line StartPos="14869" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="14887" Length="23" Skip="false">
+    <Translated>Всё нормально. Я умею летать.</Translated>
+  </Line>
+  <Line StartPos="14917" Length="12" Skip="false">
+    <Translated>А... Ну да.</Translated>
+  </Line>
+  <Line StartPos="14934" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="14961" Length="26" Skip="false">
+    <Translated>Что ты там делаешь?</Translated>
+  </Line>
+  <Line StartPos="14992" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="15010" Length="46" Skip="false">
+    <Translated>Я любуюсь закатом. Очень красиво.</Translated>
+  </Line>
+  <Line StartPos="15061" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="15088" Length="19" Skip="false">
+    <Translated>Да, ты права.</Translated>
+  </Line>
+  <Line StartPos="15114" Length="52" Skip="false">
+    <Translated>Мне тоже нравится любоваться закатом...</Translated>
+  </Line>
+  <Line StartPos="15171" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="15189" Length="77" Skip="false">
+    <Translated>Я была заперта очень долго... Поэтому, не видела ничего подобного.</Translated>
+  </Line>
+  <Line StartPos="15271" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="15298" Length="7" Skip="false">
+    <Translated>Ох...</Translated>
+  </Line>
+  <Line StartPos="15312" Length="74" Skip="false">
+    <Translated>Да... Думаю даже такие простые вещи, как закат, в новинку для Китти.</Translated>
+  </Line>
+  <Line StartPos="15391" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="15409" Length="41" Skip="false">
+    <Translated>Клиф, не хочешь посмотреть на закат вместе со мной?</Translated>
+  </Line>
+  <Line StartPos="15455" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="15482" Length="7" Skip="false">
+    <Translated>Хочу.</Translated>
+  </Line>
+  <Line StartPos="15496" Length="21" Skip="false">
+    <Translated>Я забрался к ней.</Translated>
+  </Line>
+  <Line StartPos="15536" Length="42" Skip="false">
+    <Translated>Сидя на перилах балкона, мы любуемся закатом.</Translated>
+  </Line>
+  <Line StartPos="15585" Length="41" Skip="false">
+    <Translated>Я немного боялся упасть.</Translated>
+  </Line>
+  <Line StartPos="15683" Length="14" Skip="false">
+    <Translated>R_Aoi \Aoi _sick</Translated>
+  </Line>
+  <Line StartPos="15735" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="15751" Length="32" Skip="false">
+    <Translated>О, Клиф-сан... С возвращением.</Translated>
+  </Line>
+  <Line StartPos="15788" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="15815" Length="38" Skip="false">
+    <Translated>Снова разбрызгиваешь воду?</Translated>
+  </Line>
+  <Line StartPos="15867" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="15883" Length="45" Skip="false">
+    <Translated>Да... Здесь очень пыльно.</Translated>
+  </Line>
+  <Line StartPos="15935" Length="69" Skip="false">
+    <Translated>Аой-сан распыляет воду нажимая на педаль, у её ноги.</Translated>
+  </Line>
+  <Line StartPos="16019" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="16036" Length="47" Skip="false">
+    <Translated>Я дома... О ты распыляешь воду?</Translated>
+  </Line>
+  <Line StartPos="16097" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="16113" Length="29" Skip="false">
+    <Translated>С возвращением, Люси-сан.</Translated>
+  </Line>
+  <Line StartPos="16157" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="16174" Length="61" Skip="false">
+    <Translated>Но... Разве не скучно использовать такую маленький насос?</Translated>
+  </Line>
+  <Line StartPos="16240" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="16267" Length="17" Skip="false">
+    <Translated>И я так думаю.</Translated>
+  </Line>
+  <Line StartPos="16298" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="16314" Length="36" Skip="false">
+    <Translated>Нет, так я могу тренировать ноги.</Translated>
+  </Line>
+  <Line StartPos="16357" Length="27" Skip="false">
+    <Translated>Аой-сан очень трудолюбивая.</Translated>
+  </Line>
+  <Line StartPos="16399" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="16416" Length="89" Skip="false">
+    <Translated>Ку-чан. Вроде в магазине Ген-сана я видела что-то под названием «Духовный насос».</Translated>
+  </Line>
+  <Line StartPos="16510" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="16537" Length="20" Skip="false">
+    <Translated>Духовный... насос?</Translated>
+  </Line>
+  <Line StartPos="16572" Length="4" Skip="false">
+    <Translated>Люси</Translated>
+  </Line>
+  <Line StartPos="16589" Length="58" Skip="false">
+    <Translated>Думаю, качать воду, используя его, будет на много легче.</Translated>
+  </Line>
+  <Line StartPos="16652" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="16679" Length="29" Skip="false">
+    <Translated>О... Бывают даже такие вещи?</Translated>
+  </Line>
+  <Line StartPos="16715" Length="42" Skip="false">
+    <Translated>Завтра надо сходить к нему и разузнать поподробней.</Translated>
+  </Line>
+  <Line StartPos="16837" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="16853" Length="26" Skip="false">
+    <Translated>С возвращением, Клиф-сан.</Translated>
+  </Line>
+  <Line StartPos="16884" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="16911" Length="36" Skip="false">
+    <Translated>Спасибо за труд, Аой-сан.</Translated>
+  </Line>
+  <Line StartPos="16961" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="16977" Length="13" Skip="false">
+    <Translated>Нет проблем.</Translated>
+  </Line>
+  <Line StartPos="17010" Length="75" Skip="false">
+    <Translated>Когда я вернулся домой, Аой-сан выносила шланг.</Translated>
+  </Line>
+  <Line StartPos="17090" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="17117" Length="38" Skip="false">
+    <Translated>О, ты собираешься поливать?</Translated>
+  </Line>
+  <Line StartPos="17169" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="17185" Length="46" Skip="false">
+    <Translated>Да... Я слышала ты купил новый насос?</Translated>
+  </Line>
+  <Line StartPos="17236" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="17263" Length="62" Skip="false">
+    <Translated>Да, просто легонько нажимай его, и он прокачает воду.</Translated>
+  </Line>
+  <Line StartPos="17339" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="17355" Length="23" Skip="false">
+    <Translated>Понятно... Попробую.</Translated>
+  </Line>
+  <Line StartPos="17385" Length="39" Skip="false">
+    <Translated>Аой-сан наступила на него со всей силы.</Translated>
+  </Line>
+  <Line StartPos="17438" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="17454" Length="7" Skip="false">
+    <Translated>Кья!!!</Translated>
+  </Line>
+  <Line StartPos="17491" Length="58" Skip="false">
+    <Translated>Вода хлынула из шланга и обрызгала меня и Аой-сан...</Translated>
+  </Line>
+  <Line StartPos="17554" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="17570" Length="27" Skip="false">
+    <Translated>Извини, Клиф-сан...</Translated>
+  </Line>
+  <Line StartPos="17602" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="17629" Length="33" Skip="false">
+    <Translated>Аой-сан, ты слишком сильно нажала.</Translated>
+  </Line>
+  <Line StartPos="17667" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="17683" Length="49" Skip="false">
+    <Translated>Да... Я нажала по привычке со всей силы.</Translated>
+  </Line>
+  <Line StartPos="17739" Length="37" Skip="false">
+    <Translated>Аой-сан промокшая на сквозь сидит на земле.</Translated>
+  </Line>
+  <Line StartPos="17779" Length="48" Skip="false">
+    <Translated>Через мокрую одежду стало всё видно.</Translated>
+  </Line>
+  <Line StartPos="17832" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="17859" Length="36" Skip="false">
+    <Translated>«Аой-сан не носит бюстгальтер?»</Translated>
+  </Line>
+  <Line StartPos="17949" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="17965" Length="38" Skip="false">
+    <Translated>Извини... Я пойду переоденусь.</Translated>
+  </Line>
+  <Line StartPos="18008" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="18035" Length="59" Skip="false">
+    <Translated>Д-да... Ты можешь простыть.</Translated>
+  </Line>
+  <Line StartPos="18108" Length="3" Skip="false">
+    <Translated>Аой</Translated>
+  </Line>
+  <Line StartPos="18124" Length="41" Skip="false">
+    <Translated>Думаю, тебе тоже стоит переодеться.</Translated>
+  </Line>
+  <Line StartPos="18170" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="18197" Length="25" Skip="false">
+    <Translated>Д-да... Я так и сделаю.</Translated>
+  </Line>
+  <Line StartPos="18237" Length="28" Skip="false">
+    <Translated>Аой-сан зашла в Школу.</Translated>
+  </Line>
+  <Line StartPos="18274" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="18301" Length="32" Skip="false">
+    <Translated>Моё сердце всё ещё бешено колотиться.</Translated>
+  </Line>
+  <Line StartPos="18447" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="18465" Length="26" Skip="false">
+    <Translated>С возвращением, Клиф.</Translated>
+  </Line>
+  <Line StartPos="18498" Length="32" Skip="false">
+    <Translated>Китти спрыгнула с балкона.</Translated>
+  </Line>
+  <Line StartPos="18535" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="18562" Length="22" Skip="false">
+    <Translated>К-китти! Твои крылья!</Translated>
+  </Line>
+  <Line StartPos="18598" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="18616" Length="11" Skip="false">
+    <Translated>Опа.</Translated>
+  </Line>
+  <Line StartPos="18675" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="18693" Length="8" Skip="false">
+    <Translated>Вот.</Translated>
+  </Line>
+  <Line StartPos="18706" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="18733" Length="57" Skip="false">
+    <Translated>Фух... Не показывай свои крылья на людях, хорошо?</Translated>
+  </Line>
+  <Line StartPos="18804" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="18822" Length="12" Skip="false">
+    <Translated>Хорошо.</Translated>
+  </Line>
+  <Line StartPos="18855" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="18873" Length="8" Skip="false">
+    <Translated>Клиф!</Translated>
+  </Line>
+  <Line StartPos="18888" Length="34" Skip="false">
+    <Translated>Откуда-то меня зовёт Китти.</Translated>
+  </Line>
+  <Line StartPos="18931" Length="12" Skip="false">
+    <Translated>draw\0Terrace</Translated>
+  </Line>
+  <Line StartPos="18965" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="18983" Length="6" Skip="false">
+    <Translated>Эй!</Translated>
+  </Line>
+  <Line StartPos="18994" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="19021" Length="38" Skip="false">
+    <Translated>Китти, что ты там делаешь?</Translated>
+  </Line>
+  <Line StartPos="19073" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="19091" Length="18" Skip="false">
+    <Translated>Развешиваю бельё!</Translated>
+  </Line>
+  <Line StartPos="19114" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="19141" Length="45" Skip="false">
+    <Translated>Ты помогаешь? Отлично. Хорошая работа.</Translated>
+  </Line>
+  <Line StartPos="19200" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="19218" Length="9" Skip="false">
+    <Translated>Спасибо.</Translated>
+  </Line>
+  <Line StartPos="19234" Length="44" Skip="false">
+    <Translated>Китти старается, чтобы найти своё место здесь.</Translated>
+  </Line>
+  <Line StartPos="19308" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="19326" Length="34" Skip="false">
+    <Translated>Странно... Не могу найти.</Translated>
+  </Line>
+  <Line StartPos="19365" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="19392" Length="30" Skip="false">
+    <Translated>Китти... Что ты делаешь?</Translated>
+  </Line>
+  <Line StartPos="19436" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="19454" Length="35" Skip="false">
+    <Translated>О, Клиф... Я уронила бельё.</Translated>
+  </Line>
+  <Line StartPos="19494" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="19521" Length="23" Skip="false">
+    <Translated>Не можешь его найти?</Translated>
+  </Line>
+  <Line StartPos="19558" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="19576" Length="7" Skip="false">
+    <Translated>Не могу.</Translated>
+  </Line>
+  <Line StartPos="19588" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="19615" Length="34" Skip="false">
+    <Translated>Я тебе помогу.</Translated>
+  </Line>
+  <Line StartPos="19663" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="19681" Length="17" Skip="false">
+    <Translated>Правда? Спасибо.</Translated>
+  </Line>
+  <Line StartPos="19709" Length="32" Skip="false">
+    <Translated>Я стал искать вместе с ней.</Translated>
+  </Line>
+  <Line StartPos="19746" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="19773" Length="19" Skip="false">
+    <Translated>Эм... Это оно?</Translated>
+  </Line>
+  <Line StartPos="19799" Length="54" Skip="false">
+    <Translated>Найти его было не сложно. Оно висело высоко на ветке.</Translated>
+  </Line>
+  <Line StartPos="19856" Length="46" Skip="false">
+    <Translated>Думаю, для Китти его тяжело увидеть с того места.</Translated>
+  </Line>
+  <Line StartPos="19907" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="19934" Length="18" Skip="false">
+    <Translated>Вот...</Translated>
+  </Line>
+  <Line StartPos="19959" Length="56" Skip="false">
+    <Translated>Это чьё то нижнее бельё. Мины? Аой-сан?</Translated>
+  </Line>
+  <Line StartPos="20032" Length="24" Skip="false">
+    <Translated> Может быть Шерил?..</Translated>
+  </Line>
+  <Line StartPos="20070" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="20088" Length="29" Skip="false">
+    <Translated>Клиф. Ты нашёл?</Translated>
+  </Line>
+  <Line StartPos="20122" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="20149" Length="19" Skip="false">
+    <Translated>Да. Это?</Translated>
+  </Line>
+  <Line StartPos="20182" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="20200" Length="15" Skip="false">
+    <Translated>Ага. Спасибо!</Translated>
+  </Line>
+  <Line StartPos="20226" Length="18" Skip="false">
+    <Translated>Китти побежала вовнутрь.</Translated>
+  </Line>
+  <Line StartPos="20249" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="20276" Length="35" Skip="false">
+    <Translated>Женское бельё такое миниатюрное...</Translated>
+  </Line>
+  <Line StartPos="20341" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="20359" Length="10" Skip="false">
+    <Translated>Клиф...</Translated>
+  </Line>
+  <Line StartPos="20374" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="20401" Length="25" Skip="false">
+    <Translated>Ч-что случилось Китти?</Translated>
+  </Line>
+  <Line StartPos="20433" Length="23" Skip="false">
+    <Translated>Китти вся перепачкана грязью.</Translated>
+  </Line>
+  <Line StartPos="20470" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="20488" Length="48" Skip="false">
+    <Translated>Ветер сдул бельё, когда я его вешала...</Translated>
+  </Line>
+  <Line StartPos="20541" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="20559" Length="37" Skip="false">
+    <Translated>Я упала, когда побежала за ним.</Translated>
+  </Line>
+  <Line StartPos="20603" Length="97" Skip="false">
+    <Translated>Думаю она упала с балкона, когда бежала за бельём.</Translated>
+  </Line>
+  <Line StartPos="20705" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="20732" Length="20" Skip="false">
+    <Translated>Ты в порядке?</Translated>
+  </Line>
+  <Line StartPos="20766" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="20784" Length="19" Skip="false">
+    <Translated>Да... Всё нормально.</Translated>
+  </Line>
+  <Line StartPos="20808" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="20835" Length="33" Skip="false">
+    <Translated>Но странно, почему ты упала.</Translated>
+  </Line>
+  <Line StartPos="20882" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="20900" Length="8" Skip="false">
+    <Translated>Странно?</Translated>
+  </Line>
+  <Line StartPos="20913" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="20940" Length="23" Skip="false">
+    <Translated>Ты же умеешь летать?</Translated>
+  </Line>
+  <Line StartPos="20977" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="20995" Length="44" Skip="false">
+    <Translated>Но... Мне же нельзя пользоваться крыльями...</Translated>
+  </Line>
+  <Line StartPos="21044" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="21071" Length="14" Skip="false">
+    <Translated>Понятно.</Translated>
+  </Line>
+  <Line StartPos="21092" Length="29" Skip="false">
+    <Translated>Я рад что с ней всё порядке.</Translated>
+  </Line>
+  <Line StartPos="21140" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="21167" Length="60" Skip="false">
+    <Translated>В любом случае, тебе надо принять ванную и отмыться.</Translated>
+  </Line>
+  <Line StartPos="21241" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="21259" Length="25" Skip="false">
+    <Translated>Да, я так и сделаю.</Translated>
+  </Line>
+  <Line StartPos="21298" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="21317" Length="27" Skip="false">
+    <Translated>Кстати! Можешь присоединиться!</Translated>
+  </Line>
+  <Line StartPos="21349" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="21376" Length="7" Skip="false">
+    <Translated>Что?!</Translated>
+  </Line>
+  <Line StartPos="21397" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="21416" Length="20" Skip="false">
+    <Translated>Пошли! Давай!</Translated>
+  </Line>
+  <Line StartPos="21441" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="21468" Length="29" Skip="false">
+    <Translated>Х-хорошо. Не тяне меня.</Translated>
+  </Line>
+  <Line StartPos="21544" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="21563" Length="35" Skip="false">
+    <Translated>Ванная с Клифом! Ванная с Клифом!</Translated>
+  </Line>
+  <Line StartPos="21603" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="21630" Length="57" Skip="false">
+    <Translated>Сейчас, сейчас... Не балуйся тут. Иди сюда, я помою тебя.</Translated>
+  </Line>
+  <Line StartPos="21701" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="21720" Length="12" Skip="false">
+    <Translated>Хорошо.</Translated>
+  </Line>
+  <Line StartPos="21737" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="21764" Length="58" Skip="false">
+    <Translated>«Боже... Думаю быть такой невинной, тоже проблема...»</Translated>
+  </Line>
+  <Line StartPos="21852" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="21870" Length="14" Skip="false">
+    <Translated>О... Клиф.</Translated>
+  </Line>
+  <Line StartPos="21891" Length="44" Skip="false">
+    <Translated>Хоть Китти и сонная, но выглядит готовой.</Translated>
+  </Line>
+  <Line StartPos="21940" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="21958" Length="20" Skip="false">
+    <Translated>Я всегда готова.</Translated>
+  </Line>
+  <Line StartPos="21983" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="22010" Length="17" Skip="false">
+    <Translated>Да... Я знаю.</Translated>
+  </Line>
+  <Line StartPos="22038" Length="24" Skip="false">
+    <Translated>Я вернулся в Школу.</Translated>
+  </Line>
+  <Line StartPos="22067" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="22086" Length="16" Skip="false">
+    <Translated>О, Клиф-сан.</Translated>
+  </Line>
+  <Line StartPos="22107" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="22134" Length="28" Skip="false">
+    <Translated>Это голос Шерил .</Translated>
+  </Line>
+  <Line StartPos="22199" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="22218" Length="15" Skip="false">
+    <Translated>Добро пожаловаь домой.</Translated>
+  </Line>
+  <Line StartPos="22240" Length="35" Skip="false">
+    <Translated>Она зовёт меня с балкона.</Translated>
+  </Line>
+  <Line StartPos="22280" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="22307" Length="25" Skip="false">
+    <Translated>Шерил, я дома.</Translated>
+  </Line>
+  <Line StartPos="22337" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="22356" Length="28" Skip="false">
+    <Translated>Я сейчас спущусь.</Translated>
+  </Line>
+  <Line StartPos="22389" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="22416" Length="7" Skip="false">
+    <Translated>Что?!</Translated>
+  </Line>
+  <Line StartPos="22434" Length="6" Skip="false">
+    <Translated>S_null</Translated>
+  </Line>
+  <Line StartPos="22443" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="22462" Length="12" Skip="false">
+    <Translated>Я иду.</Translated>
+  </Line>
+  <Line StartPos="22479" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="22506" Length="9" Skip="false">
+    <Translated>Э-эй!</Translated>
+  </Line>
+  <Line StartPos="22553" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="22572" Length="12" Skip="false">
+    <Translated>О... Ох?</Translated>
+  </Line>
+  <Line StartPos="22589" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="22607" Length="37" Skip="false">
+    <Translated>Ой... Не будь такой опрометчивой, Шерил.</Translated>
+  </Line>
+  <Line StartPos="22649" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="22668" Length="57" Skip="false">
+    <Translated>Извини... Это привычка со времён когда я была призраком...</Translated>
+  </Line>
+  <Line StartPos="22730" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="22748" Length="64" Skip="false">
+    <Translated>Это опасная привычка, избавляйся от неё поскорее...</Translated>
+  </Line>
+  <Line StartPos="22817" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="22836" Length="22" Skip="false">
+    <Translated>Да... Я постараюсь...</Translated>
+  </Line>
+  <Line StartPos="22865" Length="71" Skip="false">
+    <Translated>Шерил лежит на мне. Она тяжолая, но мягкая... И пахнет приятно... И...</Translated>
+  </Line>
+  <Line StartPos="22941" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="22960" Length="15" Skip="false">
+    <Translated>Кстати...</Translated>
+  </Line>
+  <Line StartPos="22980" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="22999" Length="11" Skip="false">
+    <Translated>Да?..</Translated>
+  </Line>
+  <Line StartPos="23015" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="23034" Length="37" Skip="false">
+    <Translated>Не могла бы ты слезть с меня...</Translated>
+  </Line>
+  <Line StartPos="23076" Length="6" Skip="false">
+    <Translated>Шерил</Translated>
+  </Line>
+  <Line StartPos="23095" Length="29" Skip="false">
+    <Translated>Ой, прости. Я не заметила.</Translated>
+  </Line>
+  <Line StartPos="23131" Length="68" Skip="false">
+    <Translated>Было близко... мне было бы совсем не весело, если бы она полежала на мне ещё.</Translated>
+  </Line>
+  <Line StartPos="23229" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="23247" Length="16" Skip="false">
+    <Translated>О... Клиф...</Translated>
+  </Line>
+  <Line StartPos="23268" Length="5" Skip="false">
+    <Translated>Клиф</Translated>
+  </Line>
+  <Line StartPos="23295" Length="28" Skip="false">
+    <Translated>Китти, выглядишь сонной.</Translated>
+  </Line>
+  <Line StartPos="23337" Length="5" Skip="false">
+    <Translated>Китти</Translated>
+  </Line>
+  <Line StartPos="23355" Length="39" Skip="false">
+    <Translated>Да... Я собираюсь вздремнуть.</Translated>
+  </Line>
+  <Line StartPos="23405" Length="23" Skip="false">
+    <Translated>Китти вернулась назад.</Translated>
+  </Line>
+  <Line StartPos="23439" Length="24" Skip="false">
+    <Translated>Я вернулся в Школу.</Translated>
+  </Line>
+  <Line StartPos="23470" Length="28" Skip="false">
+    <Translated>Похоже, все ушли...</Translated>
+  </Line>
+  <Line StartPos="23507" Length="12" Skip="false">
+    <Translated>Draw\0Academy</Translated>
+  </Line>
+</Lines>
+
+
+
+</pre>
+
+
+[[Men_at_Work 2|[Назад]]]

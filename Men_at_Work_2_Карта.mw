@@ -1,0 +1,15 @@
+<imagemap>
+Image:Town2.jpg|Город
+
+circle 139 41 10 [[Men_at_Work 2:Forest|Глубокий Лес]]
+circle 263 233 10 [[Men_at_Work 2:Cafe|Кафе]]
+circle 321 289 10 [[Men_at_Work 2:WP_Shop|Оружейник]]
+circle 205 337 10 [[Men_at_Work 2:ItemShop|Магазин]]
+circle 102 402 10 [[Men_at_Work 2:Church|Церковь]]
+circle 68 220 10 [[Men_at_Work 2:Pub|Паб]]
+circle 160 160 10 [[Men_at_Work 2:Library|Библиотека]]
+circle 284 146 10 [[Men_at_Work 2:Gen_sBLD|Плотник]]
+circle 362 226 10 [[Men_at_Work 2:Academy|Вход в Академию]]
+
+desc top-right
+</imagemap>

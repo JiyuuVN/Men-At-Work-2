@@ -1,0 +1,73 @@
+[[Men_at_Work 2|[Назад]]]
+
+<pre>
+
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Lines Count="17">
+<Line StartPos="211" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="238" Length="21" Skip="false">
+ <Translated>Хм? Здесь никого?</Translated>
+ </Line>
+<Line StartPos="264" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="291" Length="32" Skip="false">
+ <Translated>Ой, я и забыл, что нанял его.</Translated>
+ </Line>
+<Line StartPos="389" Length="7" Skip="false">
+ <Translated>Ген-сан</Translated>
+ </Line>
+<Line StartPos="410" Length="44" Skip="false">
+ <Translated>Итак, есть что-то, с чем я могу тебе помочь?</Translated>
+ </Line>
+<Line StartPos="488" Length="8" Skip="false">
+ <Translated>Baby_Gen</Translated>
+ </Line>
+<Line StartPos="733" Length="7" Skip="false">
+ <Translated>Opening</Translated>
+ </Line>
+<Line StartPos="803" Length="7" Skip="false">
+ <Translated>Ген-сан</Translated>
+ </Line>
+<Line StartPos="824" Length="46" Skip="false">
+ <Translated>Добро пожаловать! Чем могу быть полезен?</Translated>
+ </Line>
+ <Line StartPos="881" Length="54" Skip="false">
+ <Translated>Выберите работу, которую хотите заказать.</Translated>
+ </Line>
+ <Line StartPos="944" Length="7" Skip="false">
+ <Translated>Нет, спасибо</Translated>
+ </Line>
+ <Line StartPos="954" Length="6" Skip="false">
+ <Translated>Просмотреть</Translated>
+ </Line>
+<Line StartPos="972" Length="7" Skip="false">
+ <Translated>Ген-сан</Translated>
+ </Line>
+<Line StartPos="992" Length="32" Skip="false">
+ <Translated>Спасибо, я загляну к вам позже.</Translated>
+ </Line>
+<Line StartPos="1033" Length="5" Skip="false">
+ <Translated>Клиф</Translated>
+ </Line>
+<Line StartPos="1060" Length="40" Skip="false">
+ <Translated>Хм... Сейчас мне ничего не надо.</Translated>
+ </Line>
+<Line StartPos="1114" Length="7" Skip="false">
+ <Translated>Ген-сан</Translated>
+ </Line>
+<Line StartPos="1134" Length="64" Skip="false">
+ <Translated>Хорошо. Заходи, когда тебе понадобится что-то починить.</Translated>
+ </Line>
+<Line StartPos="1207" Length="14" Skip="false">
+ <Translated>draw\0BuildFirm</Translated>
+ </Line>
+ </Lines>
+
+</pre>
+
+
+[[Men_at_Work 2|[Назад]]]

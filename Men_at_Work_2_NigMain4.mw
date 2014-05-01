@@ -1,0 +1,88 @@
+[[Men at Work 2:Прогресс_перевода|[Назад]]]
+<pre>
+<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="27">
+  <Line StartPos="996" Length="46" Skip="false">
+    <Translated>Day_Mena\0Day_Sheryl\0Day_Aoi\0Day_Lucy\0Day_Kitty</Translated>
+  </Line>
+  <Line StartPos="1069" Length="12" Skip="false">
+    <Translated>Last_Me\0Load</Translated>
+  </Line>
+  <Line StartPos="1099" Length="13" Skip="false">
+    <Translated>Last_Aoi\0Load</Translated>
+  </Line>
+  <Line StartPos="1130" Length="12" Skip="false">
+    <Translated>Last_Lu\0Load</Translated>
+  </Line>
+  <Line StartPos="1160" Length="12" Skip="false">
+    <Translated>Last_Ki\0Load</Translated>
+  </Line>
+  <Line StartPos="1190" Length="12" Skip="false">
+    <Translated>Last_Sh\0Load</Translated>
+  </Line>
+  <Line StartPos="1388" Length="11" Skip="false">
+    <Translated>R_Cliff\0Top</Translated>
+  </Line>
+  <Line StartPos="1416" Length="51" Skip="false">
+    <Translated>LAST_Mena\0LAST_Sheryl\0LAST_Aoi\0LAST_Lucy\0LAST_Kitty</Translated>
+  </Line>
+  <Line StartPos="1668" Length="12" Skip="false">
+    <Translated>Day_Mena\0Top</Translated>
+  </Line>
+  <Line StartPos="1862" Length="11" Skip="false">
+    <Translated>Day_aoi\0Top</Translated>
+  </Line>
+  <Line StartPos="1898" Length="8" Skip="false">
+    <Translated>main\0Top</Translated>
+  </Line>
+  <Line StartPos="1909" Length="10" Skip="false">
+    <Translated>Dining\0Top</Translated>
+  </Line>
+  <Line StartPos="2361" Length="10" Skip="false">
+    <Translated>Выйти наружу</Translated>
+  </Line>
+  <Line StartPos="3255" Length="103" Skip="false">
+    <Translated>R_Cliff\0R_Mena\0R_Sheryl\0R_Aoi\0R_Lucy\0R_Kitty\0R_Will\0R_Hall\0R_Dining\0Terrace\0R_Bath\0R_Kitchen\0R_Mechroom</Translated>
+  </Line>
+  <Line StartPos="3374" Length="11" Skip="false">
+    <Translated>R_Cliff\0Top</Translated>
+  </Line>
+  <Line StartPos="3401" Length="10" Skip="false">
+    <Translated>R_Mena\0Top</Translated>
+  </Line>
+  <Line StartPos="3427" Length="12" Skip="false">
+    <Translated>R_Sheryl\0Top</Translated>
+  </Line>
+  <Line StartPos="3455" Length="9" Skip="false">
+    <Translated>R_Aoi\0Top</Translated>
+  </Line>
+  <Line StartPos="3516" Length="15" Skip="false">
+    <Translated>R_Lucy\0BreakMes</Translated>
+  </Line>
+  <Line StartPos="3547" Length="10" Skip="false">
+    <Translated>R_Lucy\0Top</Translated>
+  </Line>
+  <Line StartPos="3573" Length="11" Skip="false">
+    <Translated>R_Kitty\0Top</Translated>
+  </Line>
+  <Line StartPos="3600" Length="10" Skip="false">
+    <Translated>R_Will\0Top</Translated>
+  </Line>
+  <Line StartPos="3626" Length="12" Skip="false">
+    <Translated>R_Dining\0Top</Translated>
+  </Line>
+  <Line StartPos="3654" Length="10" Skip="false">
+    <Translated>R_Bath\0Top</Translated>
+  </Line>
+  <Line StartPos="3722" Length="73" Skip="false">
+    <Translated>Девушки сейчас в ванной, придётся подождать, пока они не выйдут.</Translated>
+  </Line>
+  <Line StartPos="3808" Length="72" Skip="false">
+    <Translated>Девушки принимают ванну, подожду пока они не выйдут.</Translated>
+  </Line>
+  <Line StartPos="4061" Length="5" Skip="false">
+    <Translated>start</Translated>
+  </Line>
+</Lines>
+</pre>
+[[Men at Work 2:Прогресс_перевода|[Назад]]]

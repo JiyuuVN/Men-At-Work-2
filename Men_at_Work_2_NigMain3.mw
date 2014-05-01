@@ -1,0 +1,73 @@
+[[Men at Work 2:Прогресс_перевода|[Назад]]]
+<pre>
+<?xml version="1.0" encoding="UTF-8"?>
+<Lines Count="22">
+  <Line StartPos="929" Length="11" Skip="false">
+    <Translated>R_Cliff\0Top</Translated>
+  </Line>
+  <Line StartPos="960" Length="12" Skip="false">
+    <Translated>Chap_ini\0Top</Translated>
+  </Line>
+  <Line StartPos="1025" Length="8" Skip="false">
+    <Translated>Prologue</Translated>
+  </Line>
+  <Line StartPos="1089" Length="2" Skip="false">
+    <Translated>PS</Translated>
+  </Line>
+  <Line StartPos="1216" Length="8" Skip="false">
+    <Translated>main\0Top</Translated>
+  </Line>
+  <Line StartPos="1275" Length="10" Skip="false">
+    <Translated>Dining\0Top</Translated>
+  </Line>
+  <Line StartPos="1792" Length="10" Skip="false">
+    <Translated>Выйти наружу</Translated>
+  </Line>
+  <Line StartPos="2690" Length="103" Skip="false">
+    <Translated>R_Cliff\0R_Mena\0R_Sheryl\0R_Aoi\0R_Lucy\0R_Kitty\0R_Will\0R_Hall\0R_Dining\0Terrace\0R_Bath\0R_Kitchen\0R_Mechroom</Translated>
+  </Line>
+  <Line StartPos="2809" Length="11" Skip="false">
+    <Translated>R_Cliff\0Top</Translated>
+  </Line>
+  <Line StartPos="2836" Length="10" Skip="false">
+    <Translated>R_Mena\0Top</Translated>
+  </Line>
+  <Line StartPos="2862" Length="12" Skip="false">
+    <Translated>R_Sheryl\0Top</Translated>
+  </Line>
+  <Line StartPos="2918" Length="48" Skip="false">
+    <Translated>Аой-сан больна. Пусть отдохнёт этой ночью.</Translated>
+  </Line>
+  <Line StartPos="2996" Length="9" Skip="false">
+    <Translated>R_Aoi\0Top</Translated>
+  </Line>
+  <Line StartPos="3057" Length="15" Skip="false">
+    <Translated>R_Lucy\0BreakMes</Translated>
+  </Line>
+  <Line StartPos="3088" Length="10" Skip="false">
+    <Translated>R_Lucy\0Top</Translated>
+  </Line>
+  <Line StartPos="3114" Length="11" Skip="false">
+    <Translated>R_Kitty\0Top</Translated>
+  </Line>
+  <Line StartPos="3141" Length="10" Skip="false">
+    <Translated>R_Will\0Top</Translated>
+  </Line>
+  <Line StartPos="3167" Length="12" Skip="false">
+    <Translated>R_Dining\0Top</Translated>
+  </Line>
+  <Line StartPos="3195" Length="10" Skip="false">
+    <Translated>R_Bath\0Top</Translated>
+  </Line>
+  <Line StartPos="3263" Length="73" Skip="false">
+    <Translated>Девушки сейчас в ванной, придётся подождать, пока они не выйдут.</Translated>
+  </Line>
+  <Line StartPos="3349" Length="72" Skip="false">
+    <Translated>Девушки принимают ванну, подожду пока они не выйдут.</Translated>
+  </Line>
+  <Line StartPos="3584" Length="5" Skip="false">
+    <Translated>start</Translated>
+  </Line>
+</Lines>
+</pre>
+[[Men at Work 2:Прогресс_перевода|[Назад]]]
